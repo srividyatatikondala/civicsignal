@@ -1,0 +1,432 @@
+{
+  "civicsignal_fixture": {
+    "engine": "google",
+    "q": "NEET UG 2026 exam date",
+    "params": {
+      "gl": "in",
+      "hl": "en",
+      "num": 10
+    },
+    "kind": "captured",
+    "captured_at": "2026-10-01T04:13:12.784875+00:00",
+    "note": "exam schedule; possibly clean"
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6abdddd53d34dd0de19f47e7",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/eW8WEfSmNuO88ySX4sH5ZG8mFUII0zmFWbeDuEDO8Zs/6abdddd53d34dd0de19f47e7.json",
+      "markdown_endpoint": "https://serpapi.com/searches/eW8WEfSmNuO88ySX4sH5ZG8mFUII0zmFWbeDuEDO8Zs/6abdddd53d34dd0de19f47e7.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/eW8WEfSmNuO88ySX4sH5ZG8mFUII0zmFWbeDuEDO8Zs/6abdddd53d34dd0de19f47e7.json_with_pixel_position",
+      "created_at": "2026-10-01 04:13:09 UTC",
+      "processed_at": "2026-10-01 04:13:09 UTC",
+      "google_url": "https://www.google.com/search?q=NEET+UG+2026+exam+date&oq=NEET+UG+2026+exam+date&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/eW8WEfSmNuO88ySX4sH5ZG8mFUII0zmFWbeDuEDO8Zs/6abdddd53d34dd0de19f47e7.html",
+      "total_time_taken": 0.41
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "NEET UG 2026 exam date",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "NEET UG 2026 exam date",
+      "total_results": 10,
+      "time_taken_displayed": 0.26,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+      {
+        "question": "Is NEET 2 times in 2026?",
+        "type": "ai_overview",
+        "page_token": "laebXXicHdBdboIwAADg7DI-SsGfRROziFIcWhT6o_RlgXaAtkA3iShvu8tOtdNs2RG-7-tbn2v183Qq29Zc55bVdd2waJpCvw9FU1np9VELS6RaZ6lQ8-nz1H7JxcK7du6q6dyIGsPWMcAKfsQbiCJl7wX0bAn1jYHZCvlwhO0gFeuyRf79gHsxQTDeYugqzNxDeLzf5MbsMlhSsSnB8bIccyJz6l1HaaWNOIWEsqKLwH0berNtAhDIgNG84o3wSi0Vd6gT9aSaTbkOStyzgFLzYE5g4r4YUzXZJkSStI7XGXRzpCYkqUMgzwDDHip00aWk91dc853s2T6zl7Yk3A8hhP45cONN-NgfefznQEyHbbpGD-SwA_NVJ05iRNQkkdprEzVzB7m4LUaD_7HFW161c_PZFL8EKniK",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=laebXXicHdBdboIwAADg7DI-SsGfRROziFIcWhT6o_RlgXaAtkA3iShvu8tOtdNs2RG-7-tbn2v183Qq29Zc55bVdd2waJpCvw9FU1np9VELS6RaZ6lQ8-nz1H7JxcK7du6q6dyIGsPWMcAKfsQbiCJl7wX0bAn1jYHZCvlwhO0gFeuyRf79gHsxQTDeYugqzNxDeLzf5MbsMlhSsSnB8bIccyJz6l1HaaWNOIWEsqKLwH0berNtAhDIgNG84o3wSi0Vd6gT9aSaTbkOStyzgFLzYE5g4r4YUzXZJkSStI7XGXRzpCYkqUMgzwDDHip00aWk91dc853s2T6zl7Yk3A8hhP45cONN-NgfefznQEyHbbpGD-SwA_NVJ05iRNQkkdprEzVzB7m4LUaD_7HFW161c_PZFL8EKniK",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dubEhablpVVlRkYWJuRlZTWE5IYWxoa2F6ZENUbUZyUnpKdFNtRTJRM1p1WlU1amRGOU1hM3BJYW1GWWF6VklaemhoYTFkNFpUZ3lNMDkwVDAxWE5XcEZjM1JHTjFsS01XNXNUbkpyVmxaYVdWb3pSVFV6U1ZSaWR4SVhNV1F5T1dGMVRFaEtka3QzTlU1dlVEVjFOa1kwVVVVYUlrRkVjM0k1WmxJMFJWVTNaM2gxTWpaSmRGZzNPR1paVWxkUExVSTFXRTl2V25jIiwiZmN2IjoiMyIsImVpIjoiMWQyOWF1TEhKdkt3NU5vUDV1NkY0UUUiLCJxYyI6IkNoWnVaV1YwSUhWbklESXdNallnWlhoaGJTQmtZWFJsRUFCOURPaHBQdyIsInF1ZXN0aW9uIjoiSXMgTkVFVCAyIHRpbWVzIGluIDIwMjY/IiwibGsiOiJHaGRwY3lCdVpXVjBJRElnZEdsdFpYTWdhVzRnTWpBeU5nIiwiYnMiOiJjM1hNc1FyQ01CU0ZZVnd6dWFsWnZGVW5VWkNBcmwyc0lvS1Qwc2toTk5jbTBLYVEzRklmWDQwS29uWS1fX25Za3ZWM0hnNUpjZ1FCWkVyMFlDeUloVmpGWXNCN3hvTkZwTy1ON2RrNDFaTGd2cE5HOEpsR1ZSY0lsOHE5c0NCTS1LaHB5NTd1QXp1emVhclJnaklxWkFFNGJjTUlEblBqeVVreWxRVlAwbEVzWm56YXZBLUJxZk8yR0JYYnNHajlUOGFyTENHVE5zTWlGaEVmX21nZlFZR3EyN2tCIiwiaWQiOiJmY18xZDI5YXVMSEp2S3c1Tm9QNXU2RjRRRV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dubEhablpVVlRkYWJuRlZTWE5IYWxoa2F6ZENUbUZyUnpKdFNtRTJRM1p1WlU1amRGOU1hM3BJYW1GWWF6VklaemhoYTFkNFpUZ3lNMDkwVDAxWE5XcEZjM1JHTjFsS01XNXNUbkpyVmxaYVdWb3pSVFV6U1ZSaWR4SVhNV1F5T1dGMVRFaEtka3QzTlU1dlVEVjFOa1kwVVVVYUlrRkVjM0k1WmxJMFJWVTNaM2gxTWpaSmRGZzNPR1paVWxkUExVSTFXRTl2V25jIiwiZmN2IjoiMyIsImVpIjoiMWQyOWF1TEhKdkt3NU5vUDV1NkY0UUUiLCJxYyI6IkNoWnVaV1YwSUhWbklESXdNallnWlhoaGJTQmtZWFJsRUFCOURPaHBQdyIsInF1ZXN0aW9uIjoiSXMgTkVFVCAyIHRpbWVzIGluIDIwMjY%2FIiwibGsiOiJHaGRwY3lCdVpXVjBJRElnZEdsdFpYTWdhVzRnTWpBeU5nIiwiYnMiOiJjM1hNc1FyQ01CU0ZZVnd6dWFsWnZGVW5VWkNBcmwyc0lvS1Qwc2toTk5jbTBLYVEzRklmWDQwS29uWS1fX25Za3ZWM0hnNUpjZ1FCWkVyMFlDeUloVmpGWXNCN3hvTkZwTy1ON2RrNDFaTGd2cE5HOEpsR1ZSY0lsOHE5c0NCTS1LaHB5NTd1QXp1emVhclJnaklxWkFFNGJjTUlEblBqeVVreWxRVlAwbEVzWm56YXZBLUJxZk8yR0JYYnNHajlUOGFyTENHVE5zTWlGaEVmX21nZlFZR3EyN2tCIiwiaWQiOiJmY18xZDI5YXVMSEp2S3c1Tm9QNXU2RjRRRV81In0%3D"
+      },
+      {
+        "question": "What is the schedule for NEET 2026?",
+        "type": "ai_overview",
+        "page_token": "GIT0AHicHdBLUsIwAIDh8TIuIU0AhRnGMdoQqg02Ielj45RUHm2ahocUuvMunsrT6Pivv9X_9W12tvq5OW9PJ3ec9Ptt2_Y2TbMxHz3d1P38eLW6r3NjVrmuJqO7kfew1lP_c46f9nMcSefUMwci4UeBCpdTv4ussQlgMwbVWwK2DStxtaI40F2IRPc4zGDbZrNLmEoyklYPCsRIVrvrMtHen48WhAwEUVBIbnNoWGgalNdjkFFDlXVELXHDZm5QQJJmJadFTF401TCnuBL1JZClClZd0YYe8bUk6zh2ZxEDwDslVcWAlE6IjtlVzHmYBEjOAJSdwYUNDopiJDxn_a2-ZM_zYZqoUPgOCqS9ZT2OWCIhL_lfzS6SvNOlqSW8BylyuCi3VQTG-484GDLK_WWVeos4WLyqsRdFt2t9nqLb_5_T93V9mrhDs_kFJ3CA0A",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GIT0AHicHdBLUsIwAIDh8TIuIU0AhRnGMdoQqg02Ielj45RUHm2ahocUuvMunsrT6Pivv9X_9W12tvq5OW9PJ3ec9Ptt2_Y2TbMxHz3d1P38eLW6r3NjVrmuJqO7kfew1lP_c46f9nMcSefUMwci4UeBCpdTv4ussQlgMwbVWwK2DStxtaI40F2IRPc4zGDbZrNLmEoyklYPCsRIVrvrMtHen48WhAwEUVBIbnNoWGgalNdjkFFDlXVELXHDZm5QQJJmJadFTF401TCnuBL1JZClClZd0YYe8bUk6zh2ZxEDwDslVcWAlE6IjtlVzHmYBEjOAJSdwYUNDopiJDxn_a2-ZM_zYZqoUPgOCqS9ZT2OWCIhL_lfzS6SvNOlqSW8BylyuCi3VQTG-484GDLK_WWVeos4WLyqsRdFt2t9nqLb_5_T93V9mrhDs_kFJ3CA0A",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dubEhablpVVlRkYWJuRlZTWE5IYWxoa2F6ZENUbUZyUnpKdFNtRTJRM1p1WlU1amRGOU1hM3BJYW1GWWF6VklaemhoYTFkNFpUZ3lNMDkwVDAxWE5XcEZjM1JHTjFsS01XNXNUbkpyVmxaYVdWb3pSVFV6U1ZSaWR4SVhNV1F5T1dGMVRFaEtka3QzTlU1dlVEVjFOa1kwVVVVYUlrRkVjM0k1WmxJMFJWVTNaM2gxTWpaSmRGZzNPR1paVWxkUExVSTFXRTl2V25jIiwiZmN2IjoiMyIsImVpIjoiMWQyOWF1TEhKdkt3NU5vUDV1NkY0UUUiLCJxYyI6IkNoWnVaV1YwSUhWbklESXdNallnWlhoaGJTQmtZWFJsRUFCOURPaHBQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc2NoZWR1bGUgZm9yIE5FRVQgMjAyNj8iLCJsayI6IkdpSjNhR0YwSUdseklIUm9aU0J6WTJobFpIVnNaU0JtYjNJZ2JtVmxkQ0F5TURJMiIsImJzIjoiYzNYTXNRckNNQlNGWVZ3enVhbFp2RlVuVVpDQXJsMnNJb0tUMHNraE5OY20wS2FRM0ZJZlg0MEtvblktX19uWWt2VjNIZzVKY2dRQlpFcjBZQ3lJaFZqRllzQjd4b05GcE8tTjdkazQxWkxndnBORzhKbEdWUmNJbDhxOXNDQk0tS2hweTU3dUF6dXplYXJSZ2pJcVpBRTRiY01JRG5QanlVa3lsUVZQMGxFc1puemF2QS1CcWZPMkdCWGJzR2o5VDhhckxDR1ROc01pRmhFZl9tZ2ZRWUdxMjdrQiIsImlkIjoiZmNfMWQyOWF1TEhKdkt3NU5vUDV1NkY0UUVfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dubEhablpVVlRkYWJuRlZTWE5IYWxoa2F6ZENUbUZyUnpKdFNtRTJRM1p1WlU1amRGOU1hM3BJYW1GWWF6VklaemhoYTFkNFpUZ3lNMDkwVDAxWE5XcEZjM1JHTjFsS01XNXNUbkpyVmxaYVdWb3pSVFV6U1ZSaWR4SVhNV1F5T1dGMVRFaEtka3QzTlU1dlVEVjFOa1kwVVVVYUlrRkVjM0k1WmxJMFJWVTNaM2gxTWpaSmRGZzNPR1paVWxkUExVSTFXRTl2V25jIiwiZmN2IjoiMyIsImVpIjoiMWQyOWF1TEhKdkt3NU5vUDV1NkY0UUUiLCJxYyI6IkNoWnVaV1YwSUhWbklESXdNallnWlhoaGJTQmtZWFJsRUFCOURPaHBQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc2NoZWR1bGUgZm9yIE5FRVQgMjAyNj8iLCJsayI6IkdpSjNhR0YwSUdseklIUm9aU0J6WTJobFpIVnNaU0JtYjNJZ2JtVmxkQ0F5TURJMiIsImJzIjoiYzNYTXNRckNNQlNGWVZ3enVhbFp2RlVuVVpDQXJsMnNJb0tUMHNraE5OY20wS2FRM0ZJZlg0MEtvblktX19uWWt2VjNIZzVKY2dRQlpFcjBZQ3lJaFZqRllzQjd4b05GcE8tTjdkazQxWkxndnBORzhKbEdWUmNJbDhxOXNDQk0tS2hweTU3dUF6dXplYXJSZ2pJcVpBRTRiY01JRG5QanlVa3lsUVZQMGxFc1puemF2QS1CcWZPMkdCWGJzR2o5VDhhckxDR1ROc01pRmhFZl9tZ2ZRWUdxMjdrQiIsImlkIjoiZmNfMWQyOWF1TEhKdkt3NU5vUDV1NkY0UUVfNSJ9"
+      },
+      {
+        "question": "When did the NEET UG 2026 registration start?",
+        "type": "ai_overview",
+        "page_token": "IT88W3icHZDRToMwAEXjz_jooIiGJYsJUja7tYTSFuiLgeKYUArZ5kDe_AW_wa_ya1y8jyfn4eR-_eh30_7efB_O5-G0XCzGcbyr-77Wb3eq7xbF6dOohSq0LgvVLh8eH-ynvVrBi_Kfj8qP-TCIgFoMVoA54VqE_iEDNFJQYwyQZrYU6QbeF1pS3KKJb7BFAA3YuvooLO3nwN4yQNwq9QCZUVQ07RTP1CdGJFfnpUqRIzqpq6C2kgyNuUHbwsiobMlOhcISsHVkkLu5lqeyzZ3KkG02o0xB71o0AjajGM-052nolNB2SVBdpDUcd3woYu5BailHzMInoRe9rfVmlxJD4HmUnZowFBk2h8-8I0g0dEzNAJKWHOFBTTJ4cfNM4ARemaNs1nkxyTigDb2uf485nVWjO26gTSEeGReacJeVTT3FaXUqNekTW26jgBge3-7VZeXc_n-9et135-Vw7Os_N3mLYQ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IT88W3icHZDRToMwAEXjz_jooIiGJYsJUja7tYTSFuiLgeKYUArZ5kDe_AW_wa_ya1y8jyfn4eR-_eh30_7efB_O5-G0XCzGcbyr-77Wb3eq7xbF6dOohSq0LgvVLh8eH-ynvVrBi_Kfj8qP-TCIgFoMVoA54VqE_iEDNFJQYwyQZrYU6QbeF1pS3KKJb7BFAA3YuvooLO3nwN4yQNwq9QCZUVQ07RTP1CdGJFfnpUqRIzqpq6C2kgyNuUHbwsiobMlOhcISsHVkkLu5lqeyzZ3KkG02o0xB71o0AjajGM-052nolNB2SVBdpDUcd3woYu5BailHzMInoRe9rfVmlxJD4HmUnZowFBk2h8-8I0g0dEzNAJKWHOFBTTJ4cfNM4ARemaNs1nkxyTigDb2uf485nVWjO26gTSEeGReacJeVTT3FaXUqNekTW26jgBge3-7VZeXc_n-9et135-Vw7Os_N3mLYQ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dubEhablpVVlRkYWJuRlZTWE5IYWxoa2F6ZENUbUZyUnpKdFNtRTJRM1p1WlU1amRGOU1hM3BJYW1GWWF6VklaemhoYTFkNFpUZ3lNMDkwVDAxWE5XcEZjM1JHTjFsS01XNXNUbkpyVmxaYVdWb3pSVFV6U1ZSaWR4SVhNV1F5T1dGMVRFaEtka3QzTlU1dlVEVjFOa1kwVVVVYUlrRkVjM0k1WmxJMFJWVTNaM2gxTWpaSmRGZzNPR1paVWxkUExVSTFXRTl2V25jIiwiZmN2IjoiMyIsImVpIjoiMWQyOWF1TEhKdkt3NU5vUDV1NkY0UUUiLCJxYyI6IkNoWnVaV1YwSUhWbklESXdNallnWlhoaGJTQmtZWFJsRUFCOURPaHBQdyIsInF1ZXN0aW9uIjoiV2hlbiBkaWQgdGhlIE5FRVQgVUcgMjAyNiByZWdpc3RyYXRpb24gc3RhcnQ/IiwibGsiOiJHaXAzYUdWdUlHUnBaQ0J1WldWMElIVm5JREl3TWpZZ2NtVm5hWE4wY21GMGFXOXVJSE4wWVhKMFpXUSIsImJzIjoiYzNYTXNRckNNQlNGWVZ3enVhbFp2RlVuVVpDQXJsMnNJb0tUMHNraE5OY20wS2FRM0ZJZlg0MEtvblktX19uWWt2VjNIZzVKY2dRQlpFcjBZQ3lJaFZqRllzQjd4b05GcE8tTjdkazQxWkxndnBORzhKbEdWUmNJbDhxOXNDQk0tS2hweTU3dUF6dXplYXJSZ2pJcVpBRTRiY01JRG5QanlVa3lsUVZQMGxFc1puemF2QS1CcWZPMkdCWGJzR2o5VDhhckxDR1ROc01pRmhFZl9tZ2ZRWUdxMjdrQiIsImlkIjoiZmNfMWQyOWF1TEhKdkt3NU5vUDV1NkY0UUVfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dubEhablpVVlRkYWJuRlZTWE5IYWxoa2F6ZENUbUZyUnpKdFNtRTJRM1p1WlU1amRGOU1hM3BJYW1GWWF6VklaemhoYTFkNFpUZ3lNMDkwVDAxWE5XcEZjM1JHTjFsS01XNXNUbkpyVmxaYVdWb3pSVFV6U1ZSaWR4SVhNV1F5T1dGMVRFaEtka3QzTlU1dlVEVjFOa1kwVVVVYUlrRkVjM0k1WmxJMFJWVTNaM2gxTWpaSmRGZzNPR1paVWxkUExVSTFXRTl2V25jIiwiZmN2IjoiMyIsImVpIjoiMWQyOWF1TEhKdkt3NU5vUDV1NkY0UUUiLCJxYyI6IkNoWnVaV1YwSUhWbklESXdNallnWlhoaGJTQmtZWFJsRUFCOURPaHBQdyIsInF1ZXN0aW9uIjoiV2hlbiBkaWQgdGhlIE5FRVQgVUcgMjAyNiByZWdpc3RyYXRpb24gc3RhcnQ%2FIiwibGsiOiJHaXAzYUdWdUlHUnBaQ0J1WldWMElIVm5JREl3TWpZZ2NtVm5hWE4wY21GMGFXOXVJSE4wWVhKMFpXUSIsImJzIjoiYzNYTXNRckNNQlNGWVZ3enVhbFp2RlVuVVpDQXJsMnNJb0tUMHNraE5OY20wS2FRM0ZJZlg0MEtvblktX19uWWt2VjNIZzVKY2dRQlpFcjBZQ3lJaFZqRllzQjd4b05GcE8tTjdkazQxWkxndnBORzhKbEdWUmNJbDhxOXNDQk0tS2hweTU3dUF6dXplYXJSZ2pJcVpBRTRiY01JRG5QanlVa3lsUVZQMGxFc1puemF2QS1CcWZPMkdCWGJzR2o5VDhhckxDR1ROc01pRmhFZl9tZ2ZRWUdxMjdrQiIsImlkIjoiZmNfMWQyOWF1TEhKdkt3NU5vUDV1NkY0UUVfNSJ9"
+      },
+      {
+        "question": "Did the NEET UG 2026 exam cancel?",
+        "type": "ai_overview",
+        "page_token": "VSeju3icHdDbboIwAIDh7GW8FCrOZSZmGZOCRuqg0EJvllLkMIp0QORwt3fZU-1pZvYE_5f_-0eW1-r3ISr6XnVbTRuGYZk3TS4vS9HUGu-mq9AElzLhotpunjbgJRM7qxvMt2YwvVApsvd1bPhnT7dWYp-vAsJ4oJMe1ar3ZlImUNWJk74Hq2I6U6JzfQQUmhOtik0yQ9OHcOI1aXn4fIgAaqjDWkLSmVRNzytr5jStiYQ6DtXat0eT7tMYzfDoOukXpvJEaJ-JiGDX6oBbPyJMfIwqUImQBTxgJZ5AFwNyi_Wiu0S-DCfQCulhOMPK_ZRFGo4HfGWne_GcgFeQBsxGEEK7PJq-g-5mFiLprT2gPOrEY2SQntTHhtvqhuwcnOnBEBYzF5m47YzF_7HdR1b3W9U2-R9y0npF",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VSeju3icHdDbboIwAIDh7GW8FCrOZSZmGZOCRuqg0EJvllLkMIp0QORwt3fZU-1pZvYE_5f_-0eW1-r3ISr6XnVbTRuGYZk3TS4vS9HUGu-mq9AElzLhotpunjbgJRM7qxvMt2YwvVApsvd1bPhnT7dWYp-vAsJ4oJMe1ar3ZlImUNWJk74Hq2I6U6JzfQQUmhOtik0yQ9OHcOI1aXn4fIgAaqjDWkLSmVRNzytr5jStiYQ6DtXat0eT7tMYzfDoOukXpvJEaJ-JiGDX6oBbPyJMfIwqUImQBTxgJZ5AFwNyi_Wiu0S-DCfQCulhOMPK_ZRFGo4HfGWne_GcgFeQBsxGEEK7PJq-g-5mFiLprT2gPOrEY2SQntTHhtvqhuwcnOnBEBYzF5m47YzF_7HdR1b3W9U2-R9y0npF",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dubEhablpVVlRkYWJuRlZTWE5IYWxoa2F6ZENUbUZyUnpKdFNtRTJRM1p1WlU1amRGOU1hM3BJYW1GWWF6VklaemhoYTFkNFpUZ3lNMDkwVDAxWE5XcEZjM1JHTjFsS01XNXNUbkpyVmxaYVdWb3pSVFV6U1ZSaWR4SVhNV1F5T1dGMVRFaEtka3QzTlU1dlVEVjFOa1kwVVVVYUlrRkVjM0k1WmxJMFJWVTNaM2gxTWpaSmRGZzNPR1paVWxkUExVSTFXRTl2V25jIiwiZmN2IjoiMyIsImVpIjoiMWQyOWF1TEhKdkt3NU5vUDV1NkY0UUUiLCJxYyI6IkNoWnVaV1YwSUhWbklESXdNallnWlhoaGJTQmtZWFJsRUFCOURPaHBQdyIsInF1ZXN0aW9uIjoiRGlkIHRoZSBORUVUIFVHIDIwMjYgZXhhbSBjYW5jZWw/IiwibGsiOiJHaDlrYVdRZ2JtVmxkQ0IxWnlBeU1ESTJJR1Y0WVcwZ1kyRnVZMlZzYkdWayIsImJzIjoiYzNYTXNRckNNQlNGWVZ3enVhbFp2RlVuVVpDQXJsMnNJb0tUMHNraE5OY20wS2FRM0ZJZlg0MEtvblktX19uWWt2VjNIZzVKY2dRQlpFcjBZQ3lJaFZqRllzQjd4b05GcE8tTjdkazQxWkxndnBORzhKbEdWUmNJbDhxOXNDQk0tS2hweTU3dUF6dXplYXJSZ2pJcVpBRTRiY01JRG5QanlVa3lsUVZQMGxFc1puemF2QS1CcWZPMkdCWGJzR2o5VDhhckxDR1ROc01pRmhFZl9tZ2ZRWUdxMjdrQiIsImlkIjoiZmNfMWQyOWF1TEhKdkt3NU5vUDV1NkY0UUVfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1dubEhablpVVlRkYWJuRlZTWE5IYWxoa2F6ZENUbUZyUnpKdFNtRTJRM1p1WlU1amRGOU1hM3BJYW1GWWF6VklaemhoYTFkNFpUZ3lNMDkwVDAxWE5XcEZjM1JHTjFsS01XNXNUbkpyVmxaYVdWb3pSVFV6U1ZSaWR4SVhNV1F5T1dGMVRFaEtka3QzTlU1dlVEVjFOa1kwVVVVYUlrRkVjM0k1WmxJMFJWVTNaM2gxTWpaSmRGZzNPR1paVWxkUExVSTFXRTl2V25jIiwiZmN2IjoiMyIsImVpIjoiMWQyOWF1TEhKdkt3NU5vUDV1NkY0UUUiLCJxYyI6IkNoWnVaV1YwSUhWbklESXdNallnWlhoaGJTQmtZWFJsRUFCOURPaHBQdyIsInF1ZXN0aW9uIjoiRGlkIHRoZSBORUVUIFVHIDIwMjYgZXhhbSBjYW5jZWw%2FIiwibGsiOiJHaDlrYVdRZ2JtVmxkQ0IxWnlBeU1ESTJJR1Y0WVcwZ1kyRnVZMlZzYkdWayIsImJzIjoiYzNYTXNRckNNQlNGWVZ3enVhbFp2RlVuVVpDQXJsMnNJb0tUMHNraE5OY20wS2FRM0ZJZlg0MEtvblktX19uWWt2VjNIZzVKY2dRQlpFcjBZQ3lJaFZqRllzQjd4b05GcE8tTjdkazQxWkxndnBORzhKbEdWUmNJbDhxOXNDQk0tS2hweTU3dUF6dXplYXJSZ2pJcVpBRTRiY01JRG5QanlVa3lsUVZQMGxFc1puemF2QS1CcWZPMkdCWGJzR2o5VDhhckxDR1ROc01pRmhFZl9tZ2ZRWUdxMjdrQiIsImlkIjoiZmNfMWQyOWF1TEhKdkt3NU5vUDV1NkY0UUVfNSJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "MIA9mniczZbblqI4FIYfYJ5juKlSQErFWovVK0DUqKUFpaPWDYuTwQNSGhXpu36FeYZ5qn6aDgcVa6Squy9mTS44hJ2dvZP95efbP6v5evn9j7-93e6NPLJsGIZlHAR45ZbtwGdNEq1tdhasyNb2vngryV0zeCXN10x0kATGJhLHuHOJdyoNc99rdw7dsNoPnqv7WvNBg0wyXDIsk7gL6v24IKzB0svyT0GlL2VSdtdGSy43SruhWEezaA3LFa4ilAes6VMb8F82GQOgAQV04hdYYKQUf7p2lvpYxgOyhgA-f8paGF8wnRWi1Du-7Y12w2SYgrTUsRouvrZnyQgttel8FMuVX5I5DZN05Nix9jM5ndJIAjn7lD-1vd2pXRZymvtaGAl6un4PaAQieELAyzre7csLyK19HGQrfawC-eEZKG0l9lDcoAbaT_hFwwVZXFoXo2GYTf6kjmkcrINp8XKstaU3np3bnp08bElc08qwwQVNvYS2x8hVnzeRa5FeSbH_Uia2e1w3Q9a2qN0qMB3XMTyD-5K88xW-yjWEunif8GSTM1AkDxTqy1O91mwNI1zulWX-hJKSzyO_yHHv6Naqy1mxF21w60afolwtqpz6xdSFiuJ6ydVhV9XS-j_tvhrGzz2cW-7T1HEXvIHSlRFIUUq2NTYNzgWQ30AMgaxfxuaKRr1VfMv3HUjFIEsEoiT-NItkrndL5QEdgVMU_1ouBJCu0W9daiiHejr34BKEgrGWOri02JWigPgUwFeJoex6QYmagTm9awplBIKlgpcy3YPkHMkYhhkzQRx5PndYcMgp1EiefsJDQev-hA0CJ2beIZBHB272c6s-XPiW4An16XhSsqv2Cym1dBnfRiXwrV8TH_t_xtNZmtLTv5AnLn74jCd6QR9JUxrfRZpSnhRcyFMz4SmRJjknTeotaXrHkwzQIs8TSacukKZf5Un-gKezjN3g6azH1zxpRTxl0pTnyRO1K2m64uksTSeefkeazN-UpgQvN71d69R-gYv1qh-NDNmi_3khctWZIapWeyJAoTmdfK5XM3_36JvO6t6YO49ypbOLnHuDdgSPrsNspD6Ew7tR647CV7tzj6Z_55g7l_FX20DizGqTn-mv2hwILd49NnSj1SELf7rQoDcabg7icrHTBsQZOPqk0h4E9Wm0WlNsgk3v2H-1Ni9VPFLCxWhZH8PjvrWFXRmNzP5XuyO2593Jw-YguP3ZGLglvwc79SlRqn60Gul7dVDvDN-QY_jiuBQcDxEwX72oCUgSGJHenEqNr71so67I-Ftbojv6gEFfA2MMbKBMaaFgMDIDeg-B1qoBDcoVugMMsU3DJQdJ5LgZX7fqIl9xRFMwGR_vojepwTFkvZX4H7yERIA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MIA9mniczZbblqI4FIYfYJ5juKlSQErFWovVK0DUqKUFpaPWDYuTwQNSGhXpu36FeYZ5qn6aDgcVa6Squy9mTS44hJ2dvZP95efbP6v5evn9j7-93e6NPLJsGIZlHAR45ZbtwGdNEq1tdhasyNb2vngryV0zeCXN10x0kATGJhLHuHOJdyoNc99rdw7dsNoPnqv7WvNBg0wyXDIsk7gL6v24IKzB0svyT0GlL2VSdtdGSy43SruhWEezaA3LFa4ilAes6VMb8F82GQOgAQV04hdYYKQUf7p2lvpYxgOyhgA-f8paGF8wnRWi1Du-7Y12w2SYgrTUsRouvrZnyQgttel8FMuVX5I5DZN05Nix9jM5ndJIAjn7lD-1vd2pXRZymvtaGAl6un4PaAQieELAyzre7csLyK19HGQrfawC-eEZKG0l9lDcoAbaT_hFwwVZXFoXo2GYTf6kjmkcrINp8XKstaU3np3bnp08bElc08qwwQVNvYS2x8hVnzeRa5FeSbH_Uia2e1w3Q9a2qN0qMB3XMTyD-5K88xW-yjWEunif8GSTM1AkDxTqy1O91mwNI1zulWX-hJKSzyO_yHHv6Naqy1mxF21w60afolwtqpz6xdSFiuJ6ydVhV9XS-j_tvhrGzz2cW-7T1HEXvIHSlRFIUUq2NTYNzgWQ30AMgaxfxuaKRr1VfMv3HUjFIEsEoiT-NItkrndL5QEdgVMU_1ouBJCu0W9daiiHejr34BKEgrGWOri02JWigPgUwFeJoex6QYmagTm9awplBIKlgpcy3YPkHMkYhhkzQRx5PndYcMgp1EiefsJDQev-hA0CJ2beIZBHB272c6s-XPiW4An16XhSsqv2Cym1dBnfRiXwrV8TH_t_xtNZmtLTv5AnLn74jCd6QR9JUxrfRZpSnhRcyFMz4SmRJjknTeotaXrHkwzQIs8TSacukKZf5Un-gKezjN3g6azH1zxpRTxl0pTnyRO1K2m64uksTSeefkeazN-UpgQvN71d69R-gYv1qh-NDNmi_3khctWZIapWeyJAoTmdfK5XM3_36JvO6t6YO49ypbOLnHuDdgSPrsNspD6Ew7tR647CV7tzj6Z_55g7l_FX20DizGqTn-mv2hwILd49NnSj1SELf7rQoDcabg7icrHTBsQZOPqk0h4E9Wm0WlNsgk3v2H-1Ni9VPFLCxWhZH8PjvrWFXRmNzP5XuyO2593Jw-YguP3ZGLglvwc79SlRqn60Gul7dVDvDN-QY_jiuBQcDxEwX72oCUgSGJHenEqNr71so67I-Ftbojv6gEFfA2MMbKBMaaFgMDIDeg-B1qoBDcoVugMMsU3DJQdJ5LgZX7fqIl9xRFMwGR_vojepwTFkvZX4H7yERIA"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Meritlist-2 for CUET-UG Programmes 2026",
+        "link": "https://admissions.tiss.ac.in/view/5/admissions/ba-ma-admissions/meritlist-2-for-cuet-ug-programmes-2026/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEB6zswFfq9xPjWblvhpIWKXJ_VbF_QaPikBZ7CmKa5WqCq30N2vzogCQYitQCY9wc4sFoaRuVSrWiGDgeRqljTBLAJO_iR71sjpviAceMtEzpltHeCvqMT9btEM_zw_M6wqn7448Fz-zJ8hzfdcH2j72T1tAwslCaM4EjBLD6NlrsDMV_5hHktHWBqIc4ATOtjxrI9SDrjxFDlP464qU-lkUISYQ&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQFnoECDAQAQ&uoh=1",
+        "displayed_link": "https://admissions.tiss.ac.in › view › ba-ma-admissions",
+        "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABwAgCdASoQABAAAsBMJbACdAYp52w8xMfKYXF4AP74Q9ecdyDIzL8n6y4ZzaRfVyYSYlfV1DyNNaO_J-T0K9WHSQZ1-K1FqHy1p9eJA7_WiKJ02J6eJo0sXRXETImPyaGDUa_tbIq3f5E0HATkE1MF3Qj-zZjy7Wn_sURbtX2m5ssTW-wAAA.webp",
+        "snippet": "Contact CUET (UG) - 2026; Fees Structure; Notifications. For any application-related queries, contact: 022-25525252TISS CARE. Meritlist-2 for CUET-UG Programmes ...",
+        "snippet_highlighted_words": [
+          "UG",
+          "2026",
+          "UG"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Contact CUET (UG) - 2026; Fees Structure; Notifications. For any application-related queries, contact: 022-25525252TISS CARE. Meritlist-2 for CUET-UG Programmes ...",
+            "source_info_link": "https://admissions.tiss.ac.in/view/5/admissions/ba-ma-admissions/meritlist-2-for-cuet-ug-programmes-2026/",
+            "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAABwAgCdASoQABAAAsBMJbACdAYp52w8xMfKYXF4AP74Q9ecdyDIzL8n6y4ZzaRfVyYSYlfV1DyNNaO_J-T0K9WHSQZ1-K1FqHy1p9eJA7_WiKJ02J6eJo0sXRXETImPyaGDUa_tbIq3f5E0HATkE1MF3Qj-zZjy7Wn_sURbtX2m5ssTW-wAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZmcTl4UGpXYmx2aHBJV0tYSl9WYkZfUWFQaWtCWjdDbUthNVdxQ3EzME4ydnpvZ0NRWWl0UUNZOXdjNHNGb2FSdVZTcldpR0RnZVJxbGpUQkxBSk9faVI3MXNqcHZpQWNlTXRFenBsdEhlQ3ZxTVQ5YnRFTV96d19NNndxbjc0NDhGei16SjhoemZkY0gyajcyVDF0QXdzbENhTTRFakJMRDZObHJzRE1WXzVoSGt0SFdCcUljNEFUT3RqeHJJOVNEcmp4RkRsUDQ2NHFVLWxrVUlTWVESBBoCCAAaxwQSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAowQIABAAGAAgACoeCgRuZWV0FSC3e0AaBm5lZXR1ZxoJaXY7cDtuZWV0MuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZmcTl4UGpXYmx2aHBJV0tYSl9WYkZfUWFQaWtCWjdDbUthNVdxQ3EzME4ydnpvZ0NRWWl0UUNZOXdjNHNGb2FSdVZTcldpR0RnZVJxbGpUQkxBSk9faVI3MXNqcHZpQWNlTXRFenBsdEhlQ3ZxTVQ5YnRFTV96d19NNndxbjc0NDhGei16SjhoemZkY0gyajcyVDF0QXdzbENhTTRFakJMRDZObHJzRE1WXzVoSGt0SFdCcUljNEFUT3RqeHJJOVNEcmp4RkRsUDQ2NHFVLWxrVUlTWVE6SU1lcml0bGlzdC0yIGZvciBDVUVULTxiPlVHPC9iPiBQcm9ncmFtbWVzIDxiPjIwMjY8L2I-IC0gQWRtaXNzaW9ucyB8IFRJU1NCvgFDb250YWN0IENVRVQgKDxiPlVHPC9iPikgLSA8Yj4yMDI2PC9iPjsgRmVlcyBTdHJ1Y3R1cmU7IE5vdGlmaWNhdGlvbnMuIEZvciBhbnkgYXBwbGljYXRpb24tcmVsYXRlZCBxdWVyaWVzLCBjb250YWN0OiAwMjItMjU1MjUyNTJUSVNTIENBUkUuIE1lcml0bGlzdC0yIGZvciBDVUVULTxiPlVHPC9iPiBQcm9ncmFtbWVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZmcTl4UGpXYmx2aHBJV0tYSl9WYkZfUWFQaWtCWjdDbUthNVdxQ3EzME4ydnpvZ0NRWWl0UUNZOXdjNHNGb2FSdVZTcldpR0RnZVJxbGpUQkxBSk9faVI3MXNqcHZpQWNlTXRFenBsdEhlQ3ZxTVQ5YnRFTV96d19NNndxbjc0NDhGei16SjhoemZkY0gyajcyVDF0QXdzbENhTTRFakJMRDZObHJzRE1WXzVoSGt0SFdCcUljNEFUT3RqeHJJOVNEcmp4RkRsUDQ2NHFVLWxrVUlTWVESBBoCCAAaxwQSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAowQIABAAGAAgACoeCgRuZWV0FSC3e0AaBm5lZXR1ZxoJaXY7cDtuZWV0MuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZmcTl4UGpXYmx2aHBJV0tYSl9WYkZfUWFQaWtCWjdDbUthNVdxQ3EzME4ydnpvZ0NRWWl0UUNZOXdjNHNGb2FSdVZTcldpR0RnZVJxbGpUQkxBSk9faVI3MXNqcHZpQWNlTXRFenBsdEhlQ3ZxTVQ5YnRFTV96d19NNndxbjc0NDhGei16SjhoemZkY0gyajcyVDF0QXdzbENhTTRFakJMRDZObHJzRE1WXzVoSGt0SFdCcUljNEFUT3RqeHJJOVNEcmp4RkRsUDQ2NHFVLWxrVUlTWVE6SU1lcml0bGlzdC0yIGZvciBDVUVULTxiPlVHPC9iPiBQcm9ncmFtbWVzIDxiPjIwMjY8L2I-IC0gQWRtaXNzaW9ucyB8IFRJU1NCvgFDb250YWN0IENVRVQgKDxiPlVHPC9iPikgLSA8Yj4yMDI2PC9iPjsgRmVlcyBTdHJ1Y3R1cmU7IE5vdGlmaWNhdGlvbnMuIEZvciBhbnkgYXBwbGljYXRpb24tcmVsYXRlZCBxdWVyaWVzLCBjb250YWN0OiAwMjItMjU1MjUyNTJUSVNTIENBUkUuIE1lcml0bGlzdC0yIGZvciBDVUVULTxiPlVHPC9iPiBQcm9ncmFtbWVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "TISS",
+        "read_more_link": "https://admissions.tiss.ac.in/view/5/admissions/ba-ma-admissions/meritlist-2-for-cuet-ug-programmes-2026/#:~:text=Contact%20CUET%20(UG)%20%2D%202026,Meritlist%2D2%20for%20CUET%2DUG%20Programmes%202026"
+      },
+      {
+        "position": 2,
+        "title": "PROVISIONAL LIST OF NEET-UG-2026 CANDIDATES ...",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/provisional_list_of_neet-ug-2026_candidates_who_appeared_from_the_state_of_assam.pdf",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES9QEB6zswFei5BNL56gU-e1KEI5qo336ImNfhHAaBu26z9IEfcuWL8AW8313T0stX1BNCObc3XxGjPiR-2Lo5kh8ugOgKNVT8mkvRwJEYdouveLtZAy3ASTsu1GYCJk1n_mPoLkYy-8VJAR6CmxI0N7Ez391m5JcqfSbYQT3AZ-XWgRZbC6gDhBFFJmL_adTBFvELydyc815T5g-os-wBlsirFYZ6gqhO7-pPePDhSEYpNSkeSbzOH9KGWZhLhZkVcCDUA2baXPq7lwCibqy7j148jY6HilemE0wUdRlkXy82WA6o5gKJdOXPIAfroTz5b1kf-06vlA&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQFnoECC4QAQ&uoh=1",
+        "displayed_link": "https://dme.assam.gov.in › departments › latest › p...",
+        "snippet": "PROVISIONAL LIST OF NEET-UG-2026 CANDIDATES WHO APPEARED FROM THE STATE OF ASSAM Page 1 ROLL NO NAME OF THE CANDIDATE SEX CATEGORY",
+        "snippet_highlighted_words": [
+          "NEET",
+          "UG",
+          "2026"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "pages": 617
+            },
+            "extensions": [
+              "617 pages"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "PROVISIONAL LIST OF NEET-UG-2026 CANDIDATES WHO APPEARED FROM THE STATE OF ASSAM Page 1 ROLL NO NAME OF THE CANDIDATE SEX CATEGORY",
+            "source_info_link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/provisional_list_of_neet-ug-2026_candidates_who_appeared_from_the_state_of_assam.pdf"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtgCL2dvdG8_dXJsPUNBRVM5UUVCNnpzd0ZlaTVCTkw1NmdVLWUxS0VJNXFvMzM2SW1OZmhIQWFCdTI2ejlJRWZjdVdMOEFXODMxM1Qwc3RYMUJOQ09iYzNYeEdqUGlSLTJMbzVraDh1Z09nS05WVDhta3ZSd0pFWWRvdXZlTHRaQXkzQVNUc3UxR1lDSmsxbl9tUG9Ma1l5LThWSkFSNkNteEkwTjdFejM5MW01SmNxZlNiWVFUM0FaLVhXZ1JaYkM2Z0RoQkZGSm1MX2FkVEJGdkVMeWR5YzgxNVQ1Zy1vcy13QmxzaXJGWVo2Z3FoTzctcFBlUERoU0VZcE5Ta2VTYnpPSDlLR1daaExoWmtWY0NEVUEyYmFYUHE3bHdDaWJxeTdqMTQ4alk2SGlsZW1FMHdVZFJsa1h5ODJXQTZvNWdLSmRPWFBJQWZyb1R6NWIxa2YtMDZ2bEESBBoCCAAaigUSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDkBAgAEAAYACAAKh4KBG5lZXQV__oZQBoGbmVldHVnGglpdjtwO25lZXQy2AIvZ290bz91cmw9Q0FFUzlRRUI2enN3RmVpNUJOTDU2Z1UtZTFLRUk1cW8zMzZJbU5maEhBYUJ1MjZ6OUlFZmN1V0w4QVc4MzEzVDBzdFgxQk5DT2JjM1h4R2pQaVItMkxvNWtoOHVnT2dLTlZUOG1rdlJ3SkVZZG91dmVMdFpBeTNBU1RzdTFHWUNKazFuX21Qb0xrWXktOFZKQVI2Q214STBON0V6MzkxbTVKY3FmU2JZUVQzQVotWFdnUlpiQzZnRGhCRkZKbUxfYWRUQkZ2RUx5ZHljODE1VDVnLW9zLXdCbHNpckZZWjZncWhPNy1wUGVQRGhTRVlwTlNrZVNiek9IOUtHV1poTGhaa1ZjQ0RVQTJiYVhQcTdsd0NpYnF5N2oxNDhqWTZIaWxlbUUwd1VkUmxrWHk4MldBNm81Z0tKZE9YUElBZnJvVHo1YjFrZi0wNnZsQTpFUFJPVklTSU9OQUwgTElTVCBPRiA8Yj5ORUVUPC9iPi08Yj5VRzwvYj4tPGI-MjAyNjwvYj4gLi4uIC0gRE1FIEFzc2FtQpcBUFJPVklTSU9OQUwgTElTVCBPRiA8Yj5ORUVUPC9iPi08Yj5VRzwvYj4tPGI-MjAyNjwvYj4gQ0FORElEQVRFUyBXSE8gQVBQRUFSRUQgRlJPTSBUSEUgU1RBVEUgT0YgQVNTQU0gUGFnZSAxIFJPTEwgTk8gTkFNRSBPRiBUSEUgQ0FORElEQVRFIFNFWCBDQVRFR09SWSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtgCL2dvdG8_dXJsPUNBRVM5UUVCNnpzd0ZlaTVCTkw1NmdVLWUxS0VJNXFvMzM2SW1OZmhIQWFCdTI2ejlJRWZjdVdMOEFXODMxM1Qwc3RYMUJOQ09iYzNYeEdqUGlSLTJMbzVraDh1Z09nS05WVDhta3ZSd0pFWWRvdXZlTHRaQXkzQVNUc3UxR1lDSmsxbl9tUG9Ma1l5LThWSkFSNkNteEkwTjdFejM5MW01SmNxZlNiWVFUM0FaLVhXZ1JaYkM2Z0RoQkZGSm1MX2FkVEJGdkVMeWR5YzgxNVQ1Zy1vcy13QmxzaXJGWVo2Z3FoTzctcFBlUERoU0VZcE5Ta2VTYnpPSDlLR1daaExoWmtWY0NEVUEyYmFYUHE3bHdDaWJxeTdqMTQ4alk2SGlsZW1FMHdVZFJsa1h5ODJXQTZvNWdLSmRPWFBJQWZyb1R6NWIxa2YtMDZ2bEESBBoCCAAaigUSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDkBAgAEAAYACAAKh4KBG5lZXQV__oZQBoGbmVldHVnGglpdjtwO25lZXQy2AIvZ290bz91cmw9Q0FFUzlRRUI2enN3RmVpNUJOTDU2Z1UtZTFLRUk1cW8zMzZJbU5maEhBYUJ1MjZ6OUlFZmN1V0w4QVc4MzEzVDBzdFgxQk5DT2JjM1h4R2pQaVItMkxvNWtoOHVnT2dLTlZUOG1rdlJ3SkVZZG91dmVMdFpBeTNBU1RzdTFHWUNKazFuX21Qb0xrWXktOFZKQVI2Q214STBON0V6MzkxbTVKY3FmU2JZUVQzQVotWFdnUlpiQzZnRGhCRkZKbUxfYWRUQkZ2RUx5ZHljODE1VDVnLW9zLXdCbHNpckZZWjZncWhPNy1wUGVQRGhTRVlwTlNrZVNiek9IOUtHV1poTGhaa1ZjQ0RVQTJiYVhQcTdsd0NpYnF5N2oxNDhqWTZIaWxlbUUwd1VkUmxrWHk4MldBNm81Z0tKZE9YUElBZnJvVHo1YjFrZi0wNnZsQTpFUFJPVklTSU9OQUwgTElTVCBPRiA8Yj5ORUVUPC9iPi08Yj5VRzwvYj4tPGI-MjAyNjwvYj4gLi4uIC0gRE1FIEFzc2FtQpcBUFJPVklTSU9OQUwgTElTVCBPRiA8Yj5ORUVUPC9iPi08Yj5VRzwvYj4tPGI-MjAyNjwvYj4gQ0FORElEQVRFUyBXSE8gQVBQRUFSRUQgRlJPTSBUSEUgU1RBVEUgT0YgQVNTQU0gUGFnZSAxIFJPTEwgTk8gTkFNRSBPRiBUSEUgQ0FORElEQVRFIFNFWCBDQVRFR09SWSICEAFIAFgAaAA",
+        "source": "DME Assam"
+      },
+      {
+        "position": 3,
+        "title": "Revised UG Counselling 2026 Information Bulletin dated ...",
+        "link": "https://mcc.nic.in/document/revised-ug-counselling-2026-information-bulletin-dated-20-08-2026/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFdEBACyXbNgrXtpw_8eWgD1WSLfMRqRVxS1WJOlJhZz_ks63cs_-eBXUJUU7RZfvuMWoa4DvzKDsuBV9RmhS6wgDJPGmHaion-j4aSrK78pBkaQWW_NQJV2sGp7uNCaDw-SA3yQZz-ClJAqU3nM3HntdMRlNqmA33wwOlp294ZfdxNWIx8UAHOwP4voqwgXw3i77naU&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQFnoECD8QAQ&uoh=1",
+        "displayed_link": "https://mcc.nic.in › document › revised-ug-counselling-2...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png",
+        "date": "20 Aug 2026",
+        "snippet": "Revised UG Counselling 2026 Information Bulletin dated 20.08.2026 | Medical Counselling Committee (MCC) NEET UG Counselling 2026. Information ...",
+        "snippet_highlighted_words": [
+          "Revised UG Counselling 2026 Information Bulletin dated 20.08.2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Revised UG Counselling 2026 Information Bulletin dated 20.08.2026 | Medical Counselling Committee (MCC) NEET UG Counselling 2026. Information ...",
+            "source_info_link": "https://mcc.nic.in/document/revised-ug-counselling-2026-information-bulletin-dated-20-08-2026/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZkRUJBQ3lYYk5nclh0cHdfOGVXZ0QxV1NMZk1ScVJWeFMxV0pPbEpoWnpfa3M2M2NzXy1lQlhVSlVVN1JaZnZ1TVdvYTREdnpLRHN1QlY5Um1oUzZ3Z0RKUEdtSGFpb24tajRhU3JLNzhwQmthUVdXX05RSlYyc0dwN3VOQ2FEdy1TQTN5UVp6LUNsSkFxVTNuTTNIbnRkTVJsTnFtQTMzd3dPbHAyOTRaZmR4TldJeDhVQUhPd1A0dm9xd2dYdzNpNzduYVUSBBoCCAAamAQSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDyAwgAEAAYACAAKh4KBG5lZXQV7gSmQBoGbmVldHVnGglpdjtwO25lZXQy3QEvZ290bz91cmw9Q0FFU21RRUI2enN3RmRFQkFDeVhiTmdyWHRwd184ZVdnRDFXU0xmTVJxUlZ4UzFXSk9sSmhael9rczYzY3NfLWVCWFVKVVU3UlpmdnVNV29hNER2ektEc3VCVjlSbWhTNndnREpQR21IYWlvbi1qNGFTcks3OHBCa2FRV1dfTlFKVjJzR3A3dU5DYUR3LVNBM3lRWnotQ2xKQXFVM25NM0hudGRNUmxOcW1BMzN3d09scDI5NFpmZHhOV0l4OFVBSE93UDR2b3F3Z1h3M2k3N25hVTpIUmV2aXNlZCA8Yj5VRzwvYj4gQ291bnNlbGxpbmcgPGI-MjAyNjwvYj4gSW5mb3JtYXRpb24gQnVsbGV0aW4gZGF0ZWQgLi4uQp0BPGI-UmV2aXNlZCBVRyBDb3Vuc2VsbGluZyAyMDI2IEluZm9ybWF0aW9uIEJ1bGxldGluIGRhdGVkIDIwLjA4LjIwMjY8L2I-IHwgTWVkaWNhbCBDb3Vuc2VsbGluZyBDb21taXR0ZWUgKE1DQykgTkVFVCBVRyBDb3Vuc2VsbGluZyAyMDI2LiBJbmZvcm1hdGlvbiZuYnNwOy4uLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZkRUJBQ3lYYk5nclh0cHdfOGVXZ0QxV1NMZk1ScVJWeFMxV0pPbEpoWnpfa3M2M2NzXy1lQlhVSlVVN1JaZnZ1TVdvYTREdnpLRHN1QlY5Um1oUzZ3Z0RKUEdtSGFpb24tajRhU3JLNzhwQmthUVdXX05RSlYyc0dwN3VOQ2FEdy1TQTN5UVp6LUNsSkFxVTNuTTNIbnRkTVJsTnFtQTMzd3dPbHAyOTRaZmR4TldJeDhVQUhPd1A0dm9xd2dYdzNpNzduYVUSBBoCCAAamAQSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDyAwgAEAAYACAAKh4KBG5lZXQV7gSmQBoGbmVldHVnGglpdjtwO25lZXQy3QEvZ290bz91cmw9Q0FFU21RRUI2enN3RmRFQkFDeVhiTmdyWHRwd184ZVdnRDFXU0xmTVJxUlZ4UzFXSk9sSmhael9rczYzY3NfLWVCWFVKVVU3UlpmdnVNV29hNER2ektEc3VCVjlSbWhTNndnREpQR21IYWlvbi1qNGFTcks3OHBCa2FRV1dfTlFKVjJzR3A3dU5DYUR3LVNBM3lRWnotQ2xKQXFVM25NM0hudGRNUmxOcW1BMzN3d09scDI5NFpmZHhOV0l4OFVBSE93UDR2b3F3Z1h3M2k3N25hVTpIUmV2aXNlZCA8Yj5VRzwvYj4gQ291bnNlbGxpbmcgPGI-MjAyNjwvYj4gSW5mb3JtYXRpb24gQnVsbGV0aW4gZGF0ZWQgLi4uQp0BPGI-UmV2aXNlZCBVRyBDb3Vuc2VsbGluZyAyMDI2IEluZm9ybWF0aW9uIEJ1bGxldGluIGRhdGVkIDIwLjA4LjIwMjY8L2I-IHwgTWVkaWNhbCBDb3Vuc2VsbGluZyBDb21taXR0ZWUgKE1DQykgTkVFVCBVRyBDb3Vuc2VsbGluZyAyMDI2LiBJbmZvcm1hdGlvbiZuYnNwOy4uLiICEAFIAFgAaAA",
+        "source": "Medical Counselling Committee (MCC)"
+      },
+      {
+        "position": 4,
+        "title": "UG Admissions",
+        "link": "https://admission.uod.ac.in/?UG-Admissions",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVlVKl-Q_J8A5hAE0c7xQY9HKYKznm5DuGFJ8nGq9bFJ1GfBu079VWdhTRF3Cm-Q7IeetpfPpKVGbKaXcxQIYPCymMA5jGIZrCXHrrQ2mNVEEWjtYbvsciNdmUHmCT43Qn&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQFnoECEIQAQ&uoh=1",
+        "displayed_link": "https://admission.uod.ac.in › UG-Admissions",
+        "favicon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAACwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0zNEK-6DwG2T57GyfF-CAAlVPbc92DgVlJJuNx_XNUi7F9m95vLlZyQ_AAAP72EQhkCWm2cPkgCTQZ4ZpM1sq_TSE8kJSrP8tlNX69wqrsj7-1jZIvrHHEhZ3bKo2LL4EnJK1BcLTGSN2jmvIyNmSmYuiUE7nxnCusS4BstjicPj1CQIo1hKRRIk_S_0Yvka0aU10xwLMtg2wok8RwLzXyQVN-VBvbTRefydAvQgr9m8BHqjyiu0Xt6FzcV-r0VDhvw9w76AdONv4HM5zfPMFRQbqzt-hzV689TLVoVPbJr4IYPniEBf6jkHWoLEbUI2IRz38gY9jl6UfFIJWudm3vMxS_CoaujHKlYrVQP5-lwBu9pp3TDpkyPX9aB0tYouq0l9-gdqbVqTD6G_nxN7z3WNYvufIGQJgqeybDKOSt3PXd-IQA.webp",
+        "snippet": "02-08-2026) | One Year PG Admission starts. Last date of admissions for Academic Session. Admission Schedule for UG CSAS. Helplines: +91 8065068768",
+        "snippet_highlighted_words": [
+          "2026",
+          "date",
+          "UG"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "02-08-2026) | One Year PG Admission starts. Last date of admissions for Academic Session. Admission Schedule for UG CSAS. Helplines: +91 8065068768",
+            "source_info_link": "https://admission.uod.ac.in/?UG-Admissions",
+            "icon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAACwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0zNEK-6DwG2T57GyfF-CAAlVPbc92DgVlJJuNx_XNUi7F9m95vLlZyQ_AAAP72EQhkCWm2cPkgCTQZ4ZpM1sq_TSE8kJSrP8tlNX69wqrsj7-1jZIvrHHEhZ3bKo2LL4EnJK1BcLTGSN2jmvIyNmSmYuiUE7nxnCusS4BstjicPj1CQIo1hKRRIk_S_0Yvka0aU10xwLMtg2wok8RwLzXyQVN-VBvbTRefydAvQgr9m8BHqjyiu0Xt6FzcV-r0VDhvw9w76AdONv4HM5zfPMFRQbqzt-hzV689TLVoVPbJr4IYPniEBf6jkHWoLEbUI2IRz38gY9jl6UfFIJWudm3vMxS_CoaujHKlYrVQP5-lwBu9pp3TDpkyPX9aB0tYouq0l9-gdqbVqTD6G_nxN7z3WNYvufIGQJgqeybDKOSt3PXd-IQA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmxWS2wtUV9KOEE1aEFFMGM3eFFZOUhLWUt6bm01RHVHRko4bkdxOWJGSjFHZkJ1MDc5VldkaFRSRjNDbS1RN0llZXRwZlBwS1ZHYkthWGN4UUlZUEN5bU1BNWpHSVpyQ1hIcnJRMm1OVkVFV2p0WWJ2c2NpTmRtVUhtQ1Q0M1FuEgQaAggAGqgDEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAggMIABAAGAAgACoeCgRuZWV0Ff4qx0AaBm5lZXR1ZxoJaXY7cDtuZWV0MpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmxWS2wtUV9KOEE1aEFFMGM3eFFZOUhLWUt6bm01RHVHRko4bkdxOWJGSjFHZkJ1MDc5VldkaFRSRjNDbS1RN0llZXRwZlBwS1ZHYkthWGN4UUlZUEN5bU1BNWpHSVpyQ1hIcnJRMm1OVkVFV2p0WWJ2c2NpTmRtVUhtQ1Q0M1FuOhQ8Yj5VRzwvYj4gQWRtaXNzaW9uc0KoATAyLTA4LTxiPjIwMjY8L2I-KSB8IE9uZSBZZWFyIFBHIEFkbWlzc2lvbiBzdGFydHMuIExhc3QgPGI-ZGF0ZTwvYj4gb2YgYWRtaXNzaW9ucyBmb3IgQWNhZGVtaWMgU2Vzc2lvbi4gQWRtaXNzaW9uIFNjaGVkdWxlIGZvciA8Yj5VRzwvYj4gQ1NBUy4gSGVscGxpbmVzOiArOTEgODA2NTA2ODc2OCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmxWS2wtUV9KOEE1aEFFMGM3eFFZOUhLWUt6bm01RHVHRko4bkdxOWJGSjFHZkJ1MDc5VldkaFRSRjNDbS1RN0llZXRwZlBwS1ZHYkthWGN4UUlZUEN5bU1BNWpHSVpyQ1hIcnJRMm1OVkVFV2p0WWJ2c2NpTmRtVUhtQ1Q0M1FuEgQaAggAGqgDEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAggMIABAAGAAgACoeCgRuZWV0Ff4qx0AaBm5lZXR1ZxoJaXY7cDtuZWV0MpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmxWS2wtUV9KOEE1aEFFMGM3eFFZOUhLWUt6bm01RHVHRko4bkdxOWJGSjFHZkJ1MDc5VldkaFRSRjNDbS1RN0llZXRwZlBwS1ZHYkthWGN4UUlZUEN5bU1BNWpHSVpyQ1hIcnJRMm1OVkVFV2p0WWJ2c2NpTmRtVUhtQ1Q0M1FuOhQ8Yj5VRzwvYj4gQWRtaXNzaW9uc0KoATAyLTA4LTxiPjIwMjY8L2I-KSB8IE9uZSBZZWFyIFBHIEFkbWlzc2lvbiBzdGFydHMuIExhc3QgPGI-ZGF0ZTwvYj4gb2YgYWRtaXNzaW9ucyBmb3IgQWNhZGVtaWMgU2Vzc2lvbi4gQWRtaXNzaW9uIFNjaGVkdWxlIGZvciA8Yj5VRzwvYj4gQ1NBUy4gSGVscGxpbmVzOiArOTEgODA2NTA2ODc2OCICEAFIAFgAaAA",
+        "source": "Delhi University"
+      },
+      {
+        "position": 5,
+        "title": "CG State NEET-UG (MBBS & BDS)-2026 Allotment List Round-1",
+        "link": "https://cgdme.admissions.nic.in/document/cg-state-neet-ug-mbbs-bds-2026-allotment-list-round-1/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFZ--owZ4PQFgTVhaWXOgvRNuQKWexOYLRpYYA8Vl4XmOGC6BTWKJdGGxQ9ttNyP9wfcoDCx7ey6ESkPGWf7PelIA1BmPsjCBDlrtKkQJYGKD0xe_IN1ZCiPStK65qOinOPklV6syg7erF8YftszStUQcshy-D3RyXGTeDb3yMnAtdGWt0dr_Zt-4HhTtH6-mFtrjFE03&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQFnoECEsQAQ&uoh=1",
+        "displayed_link": "https://cgdme.admissions.nic.in › document › cg-state-ne...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png",
+        "snippet": "Admission Services for Session 2026. NEET-UG (MBBS & BDS)-2026 Allotment List. Last Updated: Sep 28, 2026 Secure, Scalable and Sugamya",
+        "snippet_highlighted_words": [
+          "NEET-UG (MBBS & BDS)-2026 Allotment List"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Admission Services for Session 2026. NEET-UG (MBBS & BDS)-2026 Allotment List. Last Updated: Sep 28, 2026 Secure, Scalable and Sugamya",
+            "source_info_link": "https://cgdme.admissions.nic.in/document/cg-state-neet-ug-mbbs-bds-2026-allotment-list-round-1/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZaLS1vd1o0UFFGZ1RWaGFXWE9ndlJOdVFLV2V4T1lMUnBZWUE4Vmw0WG1PR0M2QlRXS0pkR0d4UTl0dE55UDl3ZmNvREN4N2V5NkVTa1BHV2Y3UGVsSUExQm1Qc2pDQkRscnRLa1FKWUdLRDB4ZV9JTjFaQ2lQU3RLNjVxT2luT1BrbFY2c3lnN2VyRjhZZnRzelN0VVFjc2h5LUQzUnlYR1RlRGIzeU1uQXRkR1d0MGRyX1p0LTRIaFR0SDYtbUZ0cmpGRTAzEgQaAggAGpUEEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPEDCAAQABgAIAAqHgoEbmVldBUkyotAGgZuZWV0dWcaCWl2O3A7bmVldDLeAS9nb3RvP3VybD1DQUVTbWdFQjZ6c3dGWi0tb3daNFBRRmdUVmhhV1hPZ3ZSTnVRS1dleE9ZTFJwWVlBOFZsNFhtT0dDNkJUV0tKZEdHeFE5dHROeVA5d2Zjb0RDeDdleTZFU2tQR1dmN1BlbElBMUJtUHNqQ0JEbHJ0S2tRSllHS0QweGVfSU4xWkNpUFN0SzY1cU9pbk9Qa2xWNnN5ZzdlckY4WWZ0c3pTdFVRY3NoeS1EM1J5WEdUZURiM3lNbkF0ZEdXdDBkcl9adC00SGhUdEg2LW1GdHJqRkUwMzpSQ0cgU3RhdGUgPGI-TkVFVDwvYj4tPGI-VUc8L2I-IChNQkJTICZhbXA7IEJEUyktPGI-MjAyNjwvYj4gQWxsb3RtZW50IExpc3QgUm91bmQtMUKRAUFkbWlzc2lvbiBTZXJ2aWNlcyBmb3IgU2Vzc2lvbiAyMDI2LiA8Yj5ORUVULVVHIChNQkJTICZhbXA7IEJEUyktMjAyNiBBbGxvdG1lbnQgTGlzdDwvYj4uIExhc3QgVXBkYXRlZDogU2VwIDI4LCAyMDI2IFNlY3VyZSwgU2NhbGFibGUgYW5kIFN1Z2FteWEiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZaLS1vd1o0UFFGZ1RWaGFXWE9ndlJOdVFLV2V4T1lMUnBZWUE4Vmw0WG1PR0M2QlRXS0pkR0d4UTl0dE55UDl3ZmNvREN4N2V5NkVTa1BHV2Y3UGVsSUExQm1Qc2pDQkRscnRLa1FKWUdLRDB4ZV9JTjFaQ2lQU3RLNjVxT2luT1BrbFY2c3lnN2VyRjhZZnRzelN0VVFjc2h5LUQzUnlYR1RlRGIzeU1uQXRkR1d0MGRyX1p0LTRIaFR0SDYtbUZ0cmpGRTAzEgQaAggAGpUEEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPEDCAAQABgAIAAqHgoEbmVldBUkyotAGgZuZWV0dWcaCWl2O3A7bmVldDLeAS9nb3RvP3VybD1DQUVTbWdFQjZ6c3dGWi0tb3daNFBRRmdUVmhhV1hPZ3ZSTnVRS1dleE9ZTFJwWVlBOFZsNFhtT0dDNkJUV0tKZEdHeFE5dHROeVA5d2Zjb0RDeDdleTZFU2tQR1dmN1BlbElBMUJtUHNqQ0JEbHJ0S2tRSllHS0QweGVfSU4xWkNpUFN0SzY1cU9pbk9Qa2xWNnN5ZzdlckY4WWZ0c3pTdFVRY3NoeS1EM1J5WEdUZURiM3lNbkF0ZEdXdDBkcl9adC00SGhUdEg2LW1GdHJqRkUwMzpSQ0cgU3RhdGUgPGI-TkVFVDwvYj4tPGI-VUc8L2I-IChNQkJTICZhbXA7IEJEUyktPGI-MjAyNjwvYj4gQWxsb3RtZW50IExpc3QgUm91bmQtMUKRAUFkbWlzc2lvbiBTZXJ2aWNlcyBmb3IgU2Vzc2lvbiAyMDI2LiA8Yj5ORUVULVVHIChNQkJTICZhbXA7IEJEUyktMjAyNiBBbGxvdG1lbnQgTGlzdDwvYj4uIExhc3QgVXBkYXRlZDogU2VwIDI4LCAyMDI2IFNlY3VyZSwgU2NhbGFibGUgYW5kIFN1Z2FteWEiAhABSABYAGgA",
+        "source": "Directorate of Medical Education Chhattisgarh"
+      },
+      {
+        "position": 6,
+        "title": "UG MOP-UP Round Tentative Vacant Seat Status - 2026",
+        "link": "https://admission.bhu.ac.in/en/notice/ug-mopup-round-tentative-vacant-seat-status-2026/j05572i59cq9jo1xcefakksi",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgEB6zswFR-qAdXkay2UuVrutE_t4w72yGIMlO96yY7UIQ01PDOUv3F8Bl3vajWY1Tfy1RMfi21QBfHSWhIELtGNah8oH1znNeKFbuqAczelg9Df3l6G58b5e-A7k9gJj3VaUKZVVjMqoKodp0eahj6FO8QXPEGL9OqZDErA_835Hx45QBglbpGBhVxzlIEEBQXi7bmZ7nGoKZxnlrTuUt64rVn2467C4Qwrfw&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQFnoECFQQAQ&uoh=1",
+        "displayed_link": "https://admission.bhu.ac.in › notice › ug-mopup-round-t...",
+        "favicon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAADQBQCdASoWACAAPtE-tFooIigoFAEAGglqALEfZyypyxDV-Jbyx_0Lt_03ZWIybhJv7hxvXHUAAP79LPc98EOnlw6bYBkMutNl4UIMhJ75es_D8wAePDA_kjfDYQ7eDA_F2iFyWSHZSFpFsGbzYi1_N6v8pPO4rb2hcOYOoIzfvmWPp_rqUzyxolt9pGAwxbksLsjrmLYm3PuQD2S6VSRr4KmqH27g614ctb3D39No_TewK-RlHnTRIf78mfrAS2WpaF8RKHwrS_H_vQhaSIEXdQjSSfFObcu5GMF97dp0VfEAAAA.webp",
+        "snippet": "UG Physical Reporting and Document verification on Sept. 03 & 05, 2026. Published: 12 September 2026 Archival Date: 31 December. Uttar Pradesh, India – 221005 ...",
+        "snippet_highlighted_words": [
+          "UG",
+          "2026",
+          "2026",
+          "Date"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "UG Physical Reporting and Document verification on Sept. 03 & 05, 2026. Published: 12 September 2026 Archival Date: 31 December. Uttar Pradesh, India – 221005 ...",
+            "source_info_link": "https://admission.bhu.ac.in/en/notice/ug-mopup-round-tentative-vacant-seat-status-2026/j05572i59cq9jo1xcefakksi",
+            "icon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAADQBQCdASoWACAAPtE-tFooIigoFAEAGglqALEfZyypyxDV-Jbyx_0Lt_03ZWIybhJv7hxvXHUAAP79LPc98EOnlw6bYBkMutNl4UIMhJ75es_D8wAePDA_kjfDYQ7eDA_F2iFyWSHZSFpFsGbzYi1_N6v8pPO4rb2hcOYOoIzfvmWPp_rqUzyxolt9pGAwxbksLsjrmLYm3PuQD2S6VSRr4KmqH27g614ctb3D39No_TewK-RlHnTRIf78mfrAS2WpaF8RKHwrS_H_vQhaSIEXdQjSSfFObcu5GMF97dp0VfEAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZSLXFBZFhrYXkyVXVWcnV0RV90NHc3MnlHSU1sTzk2eVk3VUlRMDFQRE9VdjNGOEJsM3ZhaldZMVRmeTFSTWZpMjFRQmZIU1doSUVMdEdOYWg4b0gxem5OZUtGYnVxQWN6ZWxnOURmM2w2RzU4YjVlLUE3azlnSmozVmFVS1pWVmpNcW9Lb2RwMGVhaGo2Rk84UVhQRUdMOU9xWkRFckFfODM1SHg0NVFCZ2xicEdCaFZ4emxJRUVCUVhpN2JtWjduR29LWnhubHJUdVV0NjRyVm4yNDY3QzRRd3JmdxIEGgIIABrSBBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCuBAgAEAAYACAAKh4KBG5lZXQVrx6uQBoGbmVldHVnGglpdjtwO25lZXQy9AEvZ290bz91cmw9Q0FFU3FnRUI2enN3RlItcUFkWGtheTJVdVZydXRFX3Q0dzcyeUdJTWxPOTZ5WTdVSVEwMVBET1V2M0Y4QmwzdmFqV1kxVGZ5MVJNZmkyMVFCZkhTV2hJRUx0R05haDhvSDF6bk5lS0ZidXFBY3plbGc5RGYzbDZHNThiNWUtQTdrOWdKajNWYVVLWlZWak1xb0tvZHAwZWFoajZGTzhRWFBFR0w5T3FaREVyQV84MzVIeDQ1UUJnbGJwR0JoVnh6bElFRUJRWGk3Ym1aN25Hb0taeG5sclR1VXQ2NHJWbjI0NjdDNFF3cmZ3OkE8Yj5VRzwvYj4gTU9QLVVQIFJvdW5kIFRlbnRhdGl2ZSBWYWNhbnQgU2VhdCBTdGF0dXMgLSA8Yj4yMDI2PC9iPkLJATxiPlVHPC9iPiBQaHlzaWNhbCBSZXBvcnRpbmcgYW5kIERvY3VtZW50IHZlcmlmaWNhdGlvbiBvbiBTZXB0LiAwMyAmYW1wOyAwNSwgPGI-MjAyNjwvYj4uIFB1Ymxpc2hlZDogMTIgU2VwdGVtYmVyIDxiPjIwMjY8L2I-IEFyY2hpdmFsIDxiPkRhdGU8L2I-OiAzMSBEZWNlbWJlci4gVXR0YXIgUHJhZGVzaCwgSW5kaWEg4oCTIDIyMTAwNSZuYnNwOy4uLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZSLXFBZFhrYXkyVXVWcnV0RV90NHc3MnlHSU1sTzk2eVk3VUlRMDFQRE9VdjNGOEJsM3ZhaldZMVRmeTFSTWZpMjFRQmZIU1doSUVMdEdOYWg4b0gxem5OZUtGYnVxQWN6ZWxnOURmM2w2RzU4YjVlLUE3azlnSmozVmFVS1pWVmpNcW9Lb2RwMGVhaGo2Rk84UVhQRUdMOU9xWkRFckFfODM1SHg0NVFCZ2xicEdCaFZ4emxJRUVCUVhpN2JtWjduR29LWnhubHJUdVV0NjRyVm4yNDY3QzRRd3JmdxIEGgIIABrSBBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCuBAgAEAAYACAAKh4KBG5lZXQVrx6uQBoGbmVldHVnGglpdjtwO25lZXQy9AEvZ290bz91cmw9Q0FFU3FnRUI2enN3RlItcUFkWGtheTJVdVZydXRFX3Q0dzcyeUdJTWxPOTZ5WTdVSVEwMVBET1V2M0Y4QmwzdmFqV1kxVGZ5MVJNZmkyMVFCZkhTV2hJRUx0R05haDhvSDF6bk5lS0ZidXFBY3plbGc5RGYzbDZHNThiNWUtQTdrOWdKajNWYVVLWlZWak1xb0tvZHAwZWFoajZGTzhRWFBFR0w5T3FaREVyQV84MzVIeDQ1UUJnbGJwR0JoVnh6bElFRUJRWGk3Ym1aN25Hb0taeG5sclR1VXQ2NHJWbjI0NjdDNFF3cmZ3OkE8Yj5VRzwvYj4gTU9QLVVQIFJvdW5kIFRlbnRhdGl2ZSBWYWNhbnQgU2VhdCBTdGF0dXMgLSA8Yj4yMDI2PC9iPkLJATxiPlVHPC9iPiBQaHlzaWNhbCBSZXBvcnRpbmcgYW5kIERvY3VtZW50IHZlcmlmaWNhdGlvbiBvbiBTZXB0LiAwMyAmYW1wOyAwNSwgPGI-MjAyNjwvYj4uIFB1Ymxpc2hlZDogMTIgU2VwdGVtYmVyIDxiPjIwMjY8L2I-IEFyY2hpdmFsIDxiPkRhdGU8L2I-OiAzMSBEZWNlbWJlci4gVXR0YXIgUHJhZGVzaCwgSW5kaWEg4oCTIDIyMTAwNSZuYnNwOy4uLiICEAFIAFgAaAA",
+        "source": "BHU Admission Portal"
+      },
+      {
+        "position": 7,
+        "title": "Syllabus - MP Higher Education",
+        "link": "https://highereducation.mp.gov.in/?page=E6xLRH%2F5NqUr1GVNP3%2BI4A%3D%3D&leftid=JUL9t1LHqftaDqryEIQFtg%3D%3D",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFT1jTQVsG0V-lTbNVClOk2n7Zmn-FZXcL3GzEhbMz4N0QyB8v7gYyjOSGvyNhWiKBvunTHFoBLmvgfSV2OyM9dKv0pphs4h1xjbSko2esHP381oybK3kEZsDigQFYqgwsv2EWo718DwUpmdyc51a1cSLnbKhI_rjTG5jBV5yj8GWDnoFM9UjT1M4-yVUvBDWm58PNp9vtNkYanNhiDEwf3jnhA&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQFnoECD0QAQ&uoh=1",
+        "displayed_link": "https://highereducation.mp.gov.in › ...",
+        "favicon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAADQBACdASogACAAPtEwtFooIigoGAEAGgljAMoAIWrH29ghvD7oOZtt1bSDoHsP8ADyp_Uu70cJWpqbVCbtvc8jxz5J2RhoOFpfNc6nTfbvCPcZpDfoQLswn5N8_98i__xbg0KxyP7f_tHB-QAP7Ia4PHp_6WG2Sqr6TduGVRVdc8uEBlgfjRN6q6qODDFi6YeY7_EfIx6-VQTXXWCLwUKR4PWofBcePeOFLnUPvcU4bM7ordUp7XuO3P6tsd9HPoEdR1i4uxI4kRkSt4GX7c3pEmiaohWkAAA.webp",
+        "about_this_result": {
+          "source": {
+            "source_info_link": "https://highereducation.mp.gov.in/?page=E6xLRH%2F5NqUr1GVNP3%2BI4A%3D%3D&leftid=JUL9t1LHqftaDqryEIQFtg%3D%3D",
+            "icon": "https://serpapi.com/images/i/UklGRuQAAABXRUJQVlA4INgAAADQBACdASogACAAPtEwtFooIigoGAEAGgljAMoAIWrH29ghvD7oOZtt1bSDoHsP8ADyp_Uu70cJWpqbVCbtvc8jxz5J2RhoOFpfNc6nTfbvCPcZpDfoQLswn5N8_98i__xbg0KxyP7f_tHB-QAP7Ia4PHp_6WG2Sqr6TduGVRVdc8uEBlgfjRN6q6qODDFi6YeY7_EfIx6-VQTXXWCLwUKR4PWofBcePeOFLnUPvcU4bM7ordUp7XuO3P6tsd9HPoEdR1i4uxI4kRkSt4GX7c3pEmiaohWkAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZUMWpUUVZzRzBWLWxUYk5WQ2xPazJuN1ptbi1GWlhjTDNHekVoYk16NE4wUXlCOHY3Z1l5ak9TR3Z5TmhXaUtCdnVuVEhGb0JMbXZnZlNWMk95TTlkS3YwcHBoczRoMXhqYlNrbzJlc0hQMzgxb3liSzNrRVpzRGlnUUZZcWd3c3YyRVdvNzE4RHdVcG1keWM1MWExY1NMbmJLaElfcmpURzVqQlY1eWo4R1dEbm9GTTlValQxTTQteVZVdkJEV201OFBOcDl2dE5rWWFuTmhpREV3ZjNqbmhBEgQaAggAGuECEgIIARoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAuwIIABAAGAAgACoeCgRuZWV0FQAAAAAaBm5lZXR1ZxoJaXY7cDtuZWV0MvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZUMWpUUVZzRzBWLWxUYk5WQ2xPazJuN1ptbi1GWlhjTDNHekVoYk16NE4wUXlCOHY3Z1l5ak9TR3Z5TmhXaUtCdnVuVEhGb0JMbXZnZlNWMk95TTlkS3YwcHBoczRoMXhqYlNrbzJlc0hQMzgxb3liSzNrRVpzRGlnUUZZcWd3c3YyRVdvNzE4RHdVcG1keWM1MWExY1NMbmJLaElfcmpURzVqQlY1eWo4R1dEbm9GTTlValQxTTQteVZVdkJEV201OFBOcDl2dE5rWWFuTmhpREV3ZjNqbmhBOh5TeWxsYWJ1cyAtIE1QIEhpZ2hlciBFZHVjYXRpb24iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZUMWpUUVZzRzBWLWxUYk5WQ2xPazJuN1ptbi1GWlhjTDNHekVoYk16NE4wUXlCOHY3Z1l5ak9TR3Z5TmhXaUtCdnVuVEhGb0JMbXZnZlNWMk95TTlkS3YwcHBoczRoMXhqYlNrbzJlc0hQMzgxb3liSzNrRVpzRGlnUUZZcWd3c3YyRVdvNzE4RHdVcG1keWM1MWExY1NMbmJLaElfcmpURzVqQlY1eWo4R1dEbm9GTTlValQxTTQteVZVdkJEV201OFBOcDl2dE5rWWFuTmhpREV3ZjNqbmhBEgQaAggAGuECEgIIARoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAuwIIABAAGAAgACoeCgRuZWV0FQAAAAAaBm5lZXR1ZxoJaXY7cDtuZWV0MvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZUMWpUUVZzRzBWLWxUYk5WQ2xPazJuN1ptbi1GWlhjTDNHekVoYk16NE4wUXlCOHY3Z1l5ak9TR3Z5TmhXaUtCdnVuVEhGb0JMbXZnZlNWMk95TTlkS3YwcHBoczRoMXhqYlNrbzJlc0hQMzgxb3liSzNrRVpzRGlnUUZZcWd3c3YyRVdvNzE4RHdVcG1keWM1MWExY1NMbmJLaElfcmpURzVqQlY1eWo4R1dEbm9GTTlValQxTTQteVZVdkJEV201OFBOcDl2dE5rWWFuTmhpREV3ZjNqbmhBOh5TeWxsYWJ1cyAtIE1QIEhpZ2hlciBFZHVjYXRpb24iAhABSABYAGgA",
+        "source": "MP Higher Education"
+      },
+      {
+        "position": 8,
+        "title": "UG Admissions",
+        "link": "https://hte.rajasthan.gov.in/10853",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAV_BT9KahNQ7lAx9NOclTF2t1Mak29gMH97D1K4o0FRQwUz8OqT2OfpNwwtPXYpzy0H-d1_G4S3pxrdsbBEKQd235txjIuWitIfxdZJ9NYXaTJuBdYwsV40g&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQFnoECEgQAQ&uoh=1",
+        "displayed_link": "https://hte.rajasthan.gov.in › ...",
+        "favicon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAAAQCACdASogACAAPtE-tFooIigoFAEAGglsALElQN3RJlCr24G4A3jneUkaBtOqchpin2cbY2igZegPbshD6TulVUOt5maDJaQAAP79LFT9KK5QOJ37enBe6s-cPIXFFnijb1rVsGo0MoZT_dfop9E2zX0sNSqXYeJOH1ZfiVn_c3ediP2oB1ufAm1yq0HBCwzHYnVeYgf25SDW9OPALMJRXXqbRDvy7QzwuRJl-T7taxZG9DH48FjPWcEovUsg2PvaFWHwKlDZo8318FzPNQzrubH6ygXfhd5qfPLMmYtRp1WtMo3AbTPq1NuEAHgSLSmU2-tgf2JGmceI0LFavDy85QNSx1rw7_vlT1jl6TxibdORFx_Tzcd8PEm8inhjCBk0KDNrGvdnW2P5FXM8MLCB6j7JLOujqWE_T7ljymzFoccsoyiitSIWsq4XtxYH4ITkwAAA.webp",
+        "snippet": "UG ADMISSION 2026-27 CORE SUBJECT and ABILITY ENHANCEMENT COURSES. Maths SEM I 2026-27 Core, AEC Courses. UG ADMISSION LIST SESSION",
+        "snippet_highlighted_words": [
+          "UG",
+          "2026",
+          "2026",
+          "UG"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "UG ADMISSION 2026-27 CORE SUBJECT and ABILITY ENHANCEMENT COURSES. Maths SEM I 2026-27 Core, AEC Courses. UG ADMISSION LIST SESSION",
+            "source_info_link": "https://hte.rajasthan.gov.in/10853",
+            "icon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAAAQCACdASogACAAPtE-tFooIigoFAEAGglsALElQN3RJlCr24G4A3jneUkaBtOqchpin2cbY2igZegPbshD6TulVUOt5maDJaQAAP79LFT9KK5QOJ37enBe6s-cPIXFFnijb1rVsGo0MoZT_dfop9E2zX0sNSqXYeJOH1ZfiVn_c3ediP2oB1ufAm1yq0HBCwzHYnVeYgf25SDW9OPALMJRXXqbRDvy7QzwuRJl-T7taxZG9DH48FjPWcEovUsg2PvaFWHwKlDZo8318FzPNQzrubH6ygXfhd5qfPLMmYtRp1WtMo3AbTPq1NuEAHgSLSmU2-tgf2JGmceI0LFavDy85QNSx1rw7_vlT1jl6TxibdORFx_Tzcd8PEm8inhjCBk0KDNrGvdnW2P5FXM8MLCB6j7JLOujqWE_T7ljymzFoccsoyiitSIWsq4XtxYH4ITkwAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVl9CVDlLYWhOUTdsQXg5Tk9jbFRGMnQxTWFrMjlnTUg5N0QxSzRvMEZSUXdVejhPcVQyT2ZwTnd3dFBYWXB6eTBILWQxX0c0UzNweHJkc2JCRUtRZDIzNXR4akl1V2l0SWZ4ZFpKOU5ZWGFUSnVCZFl3c1Y0MGcSBBoCCAAapQMSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkD_AggAEAAYACAAKh4KBG5lZXQVULOYQBoGbmVldHVnGglpdjtwO25lZXQyjAEvZ290bz91cmw9Q0FFU1hRSHJPekFWX0JUOUthaE5RN2xBeDlOT2NsVEYydDFNYWsyOWdNSDk3RDFLNG8wRlJRd1V6OE9xVDJPZnBOd3d0UFhZcHp5MEgtZDFfRzRTM3B4cmRzYkJFS1FkMjM1dHhqSXVXaXRJZnhkWko5TllYYVRKdUJkWXdzVjQwZzokPGI-VUc8L2I-IEFkbWlzc2lvbnMgLSBIVEUgUmFqYXN0aGFuQp8BPGI-VUc8L2I-IEFETUlTU0lPTiA8Yj4yMDI2PC9iPi0yNyBDT1JFIFNVQkpFQ1QgYW5kIEFCSUxJVFkgRU5IQU5DRU1FTlQgQ09VUlNFUy4gTWF0aHMgU0VNIEkgPGI-MjAyNjwvYj4tMjcgQ29yZSwgQUVDIENvdXJzZXMuIDxiPlVHPC9iPiBBRE1JU1NJT04gTElTVCBTRVNTSU9OIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVl9CVDlLYWhOUTdsQXg5Tk9jbFRGMnQxTWFrMjlnTUg5N0QxSzRvMEZSUXdVejhPcVQyT2ZwTnd3dFBYWXB6eTBILWQxX0c0UzNweHJkc2JCRUtRZDIzNXR4akl1V2l0SWZ4ZFpKOU5ZWGFUSnVCZFl3c1Y0MGcSBBoCCAAapQMSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkD_AggAEAAYACAAKh4KBG5lZXQVULOYQBoGbmVldHVnGglpdjtwO25lZXQyjAEvZ290bz91cmw9Q0FFU1hRSHJPekFWX0JUOUthaE5RN2xBeDlOT2NsVEYydDFNYWsyOWdNSDk3RDFLNG8wRlJRd1V6OE9xVDJPZnBOd3d0UFhZcHp5MEgtZDFfRzRTM3B4cmRzYkJFS1FkMjM1dHhqSXVXaXRJZnhkWko5TllYYVRKdUJkWXdzVjQwZzokPGI-VUc8L2I-IEFkbWlzc2lvbnMgLSBIVEUgUmFqYXN0aGFuQp8BPGI-VUc8L2I-IEFETUlTU0lPTiA8Yj4yMDI2PC9iPi0yNyBDT1JFIFNVQkpFQ1QgYW5kIEFCSUxJVFkgRU5IQU5DRU1FTlQgQ09VUlNFUy4gTWF0aHMgU0VNIEkgPGI-MjAyNjwvYj4tMjcgQ29yZSwgQUVDIENvdXJzZXMuIDxiPlVHPC9iPiBBRE1JU1NJT04gTElTVCBTRVNTSU9OIgIQAUgAWABoAA",
+        "source": "HTE Rajasthan"
+      }
+    ],
+    "top_stories": [
+      {
+        "title": "NEET UG Counselling 2026 LIVE: MCC round 3 seat allotment out, list of NRI candidates out",
+        "link": "https://news.careers360.com/mcc-neet-ug-round-3-seat-allotment-2026-live-counselling-result-link-mcc-nic-in-mbbs-bds-aiq-cutoff-admission-updates",
+        "source": "Careers360",
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACTElEQVQ4jW2STUhUYRSGn3PvjMM4LoyIiiQzjKD8GcmiTSbkH0WUhpo6GhGhZbkTWrRsYUQh5YQVmhAqo7WKCEkJ20gKMga1EDV0k5KbFMqcufe0GJ10Zt7ld97nnJdzPiFG9fUPPNZ6cimKF-QIqg6EoAjvegPNEwC-imd7LReh_v7GZdkK11T5zwt0AbtiG4PM2rY2mAY3FHwIPRbhh-Zmua7Kfx3oAzz70nZQXJKNy-VkcfEXAIq-NZEfKtzbQLyC-cGxOVnhOUBl9QkulOcjAuGwzZW6TgAMZLel1pIh0ZkYGp42QEXQNoDSsmwuVkRggKngfNSsUGQYpgPRGhHaVGjqHWz5Jr7LTwpt2_iYkuKivaMetzuJtbUQnf4RJsbnYhcRArmv6LhAgaj50mHbUgZw7PhB3O4kAHq6PyWCAZygd6ObF2vRAGMnQEbG_8VPBRcSwXFS4YAh6DqAbdvRgsfjSghcvVZAb-Am3rz0SABVNYB5gJmZpajxTNHRONibl05RSRYAWdlpkQTId0NEhwE-j82y_HMVgLKzOVRcyic1NTkKNLcUA5HTDr3_spHAHBKA2ir_GHAy17uf1jvnENn2Qbep-8UoI8NfAUb7BpoLDQA1pREITQUXaH80xMrKnzhwdXWNzqcjm_BftewmgOio2mp_HUoX4HI6TU6dPkzmoT04HAbByXkmxucIhSyA34rd0D9w-822BgC-Sn-mLdIBWpoovsCAoY7WV4ONC1ve4uWrfpxrq1mukCOIDfakJbwOBG5Nx3r_ATHi1CpnCDzdAAAAAElFTkSuQmCC.png",
+        "date": "4 hours ago",
+        "thumbnail": "https://serpapi.com/searches/6abdddd53d34dd0de19f47e7/images/HFp32DA5pYyqdrpR9YDjVnoQXRSR7pKhe9to6HNm27k.jpeg"
+      },
+      {
+        "title": "NEET UG Round 3 Seat Allotment Result 2026 (OUT) Live; Get MCC NEET 3rd Round Result @mcc.nic.in",
+        "link": "https://www.shiksha.com/news/medicine-health-sciences-neet-ug-round-3-seat-allotment-result-2026-live-updates-blogId-243127",
+        "source": "Shiksha.com",
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAQlBMVEVHcEwFgY0EgY0AfYoFgY0FgY0FgY0FgY0FgY0FgY3___9gp67d7vEAdoOq09cIipXC3-Lq9vfm2bpii26Klmf4xXnhQz_dAAAACnRSTlMAy___KsbKEHhl4sU5OwAAAIVJREFUGJVNj9kWgCAIRA01FfeW___VWOwUT3IdBsYYrpBiTMG8FXYAawH8Qg6ob40IOPmXHnEwYQ3pqXLODLwKwJIHu7AkcZ8vay-RJBMZ4H2eN1Z6RgEd8TgQuwAZGViKrklqWkuZo6qp8Szpc_IA7OswqK29Aj0d9C63wm0abvvl_eI_h-kE2laK3h4AAAAASUVORK5CYII.png",
+        "date": "1 hour ago",
+        "thumbnail": "https://serpapi.com/searches/6abdddd53d34dd0de19f47e7/images/k1DO4TiDkKMjhOSD5d8PrgIXIjXbCXMx4eiiPKh9T40.jpeg",
+        "live": true
+      },
+      {
+        "title": "Karnataka NEET UG 2026 Round 3 Seat Allotment Result Published",
+        "link": "https://medadmit.in/updates/karnataka-neet-ug-2026-round-3-seat-allotment-result",
+        "source": "medadmit.in",
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAY1BMVEXhHUj____hHEjhF0XhGkb4ztbmS2vjJFLgADzeACboV3ThIEvgAz7fADngEkL-8_b51dzzuMHsgpbwnKvfADT2wMvyrbjfADDhAETshpf74ujreo3qbIXvlKTzsr3ui573x9Bbs4rqAAAAjElEQVQYlV2P7RaDIAiGgRRNTas13dpH3f9Vzjrp1vgBvM8BzgugZKjBEkG2zRc0rQTzozMxYClX7w5AFjbtxktXyJ40IvupMuHGcI1TkEmIPEBe3fp4nx8Bn1Z5Aj1gXiDs4ys3g94mFPk0o-mUUm6_IQToNybYmmqIl2LFHsQVyWfrDOv5uRX-3_8AlzYE88-uB2sAAAAASUVORK5CYII.png",
+        "date": "1 day ago",
+        "thumbnail": "https://serpapi.com/searches/6abdddd53d34dd0de19f47e7/images/zGB8Q5fgGJwa23BIN3lslGu19KYbk7HuWGgPNdh_nn0.jpeg"
+      },
+      {
+        "title": "MCC NEET Counselling 2026 Round 3 Seat Allotment Result OUT Today: PDF Link at mcc.nic.in",
+        "link": "https://medicine.careers360.com/articles/mcc-neet-counselling-2026-round-3-seat-allotment-result",
+        "source": "Careers360",
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACTElEQVQ4jW2STUhUYRSGn3PvjMM4LoyIiiQzjKD8GcmiTSbkH0WUhpo6GhGhZbkTWrRsYUQh5YQVmhAqo7WKCEkJ20gKMga1EDV0k5KbFMqcufe0GJ10Zt7ld97nnJdzPiFG9fUPPNZ6cimKF-QIqg6EoAjvegPNEwC-imd7LReh_v7GZdkK11T5zwt0AbtiG4PM2rY2mAY3FHwIPRbhh-Zmua7Kfx3oAzz70nZQXJKNy-VkcfEXAIq-NZEfKtzbQLyC-cGxOVnhOUBl9QkulOcjAuGwzZW6TgAMZLel1pIh0ZkYGp42QEXQNoDSsmwuVkRggKngfNSsUGQYpgPRGhHaVGjqHWz5Jr7LTwpt2_iYkuKivaMetzuJtbUQnf4RJsbnYhcRArmv6LhAgaj50mHbUgZw7PhB3O4kAHq6PyWCAZygd6ObF2vRAGMnQEbG_8VPBRcSwXFS4YAh6DqAbdvRgsfjSghcvVZAb-Am3rz0SABVNYB5gJmZpajxTNHRONibl05RSRYAWdlpkQTId0NEhwE-j82y_HMVgLKzOVRcyic1NTkKNLcUA5HTDr3_spHAHBKA2ir_GHAy17uf1jvnENn2Qbep-8UoI8NfAUb7BpoLDQA1pREITQUXaH80xMrKnzhwdXWNzqcjm_BftewmgOio2mp_HUoX4HI6TU6dPkzmoT04HAbByXkmxucIhSyA34rd0D9w-822BgC-Sn-mLdIBWpoovsCAoY7WV4ONC1ve4uWrfpxrq1mukCOIDfakJbwOBG5Nx3r_ATHi1CpnCDzdAAAAAElFTkSuQmCC.png",
+        "date": "2 hours ago",
+        "thumbnail": "https://serpapi.com/searches/6abdddd53d34dd0de19f47e7/images/dowIrbNifTtId8eO03i17YxyYiUyqqAx173Nqn9_Ciw.jpeg"
+      },
+      {
+        "title": "NEET UG Round 3 Seat Allotment 2026: Check Your Result Today",
+        "link": "https://medadmit.in/updates/neet-ug-round-3-seat-allotment-result-2026-mcc",
+        "source": "medadmit.in",
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAY1BMVEXhHUj____hHEjhF0XhGkb4ztbmS2vjJFLgADzeACboV3ThIEvgAz7fADngEkL-8_b51dzzuMHsgpbwnKvfADT2wMvyrbjfADDhAETshpf74ujreo3qbIXvlKTzsr3ui573x9Bbs4rqAAAAjElEQVQYlV2P7RaDIAiGgRRNTas13dpH3f9Vzjrp1vgBvM8BzgugZKjBEkG2zRc0rQTzozMxYClX7w5AFjbtxktXyJ40IvupMuHGcI1TkEmIPEBe3fp4nx8Bn1Z5Aj1gXiDs4ys3g94mFPk0o-mUUm6_IQToNybYmmqIl2LFHsQVyWfrDOv5uRX-3_8AlzYE88-uB2sAAAAASUVORK5CYII.png",
+        "date": "19 hours ago",
+        "thumbnail": "https://serpapi.com/searches/6abdddd53d34dd0de19f47e7/images/83ZQjhIKxu6dizuIwQUziEeObUgC0X-o0Aw7B6hjRYw.jpeg"
+      }
+    ],
+    "top_stories_link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnsma_zhIe-cNrsvw9XqwCMt4gXIaw:1790827989638&q=NEET+UG+2026+exam+date&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQt8YBKAJ6BAgoEAU",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=NEET+UG+2026+exam+date&tbm=nws",
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Tiss Merit List 2026",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnsma_zhIe-cNrsvw9XqwCMt4gXIaw:1790827989638&q=Tiss+Merit+List+2026&sa=X&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQ1QJ6BAg8EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Tiss+Merit+List+2026"
+      },
+      {
+        "block_position": 1,
+        "query": "NEET UG 2026 result",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnsma_zhIe-cNrsvw9XqwCMt4gXIaw:1790827989638&q=NEET+UG+2026+result&sa=X&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQ1QJ6BAhHEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=NEET+UG+2026+result"
+      },
+      {
+        "block_position": 1,
+        "query": "NEET 2026 rank list with marks",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnsma_zhIe-cNrsvw9XqwCMt4gXIaw:1790827989638&q=NEET+2026+rank+list+with+marks&sa=X&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQ1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=NEET+2026+rank+list+with+marks"
+      },
+      {
+        "block_position": 1,
+        "query": "TISS UG admission 2026",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnsma_zhIe-cNrsvw9XqwCMt4gXIaw:1790827989638&q=TISS+UG+admission+2026&sa=X&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQ1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=TISS+UG+admission+2026"
+      },
+      {
+        "block_position": 1,
+        "query": "NEET UG 2026 Assam merit list",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnsma_zhIe-cNrsvw9XqwCMt4gXIaw:1790827989638&q=NEET+UG+2026+Assam+merit+list&sa=X&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQ1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=NEET+UG+2026+Assam+merit+list"
+      },
+      {
+        "block_position": 1,
+        "query": "NEET 2026 merit list",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnsma_zhIe-cNrsvw9XqwCMt4gXIaw:1790827989638&q=NEET+2026+merit+list&sa=X&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQ1QJ6BAhBEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=NEET+2026+merit+list"
+      },
+      {
+        "block_position": 1,
+        "query": "Mcc neet ug counselling 2026 round 3",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnsma_zhIe-cNrsvw9XqwCMt4gXIaw:1790827989638&q=Mcc+neet+ug+counselling+2026+round+3&sa=X&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQ1QJ6BAhAEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Mcc+neet+ug+counselling+2026+round+3"
+      },
+      {
+        "block_position": 1,
+        "query": "Tiss Merit List UG",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnsma_zhIe-cNrsvw9XqwCMt4gXIaw:1790827989638&q=Tiss+Merit+List+UG&sa=X&ved=2ahUKEwiihrSR-peXAxVyGFkFHWZ3IRwQ1QJ6BAg-EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Tiss+Merit+List+UG"
+      }
+    ],
+    "dmca_messages": {
+      "title": "Notices about Filtered Results",
+      "messages": [
+        {
+          "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 10 already displayed.If you like, you can repeat the search with the omitted results included.",
+          "highlighted_words": [
+            {
+              "link": "https://www.google.com/search?q=NEET+UG+2026+exam+date&sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnsma_zhIe-cNrsvw9XqwCMt4gXIaw:1790827989638&filter=0",
+              "text": "repeat the search with the omitted results included"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

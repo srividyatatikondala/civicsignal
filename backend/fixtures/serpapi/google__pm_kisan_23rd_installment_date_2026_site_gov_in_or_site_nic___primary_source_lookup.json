@@ -1,0 +1,339 @@
+{
+  "civicsignal_fixture": {
+    "engine": "google",
+    "q": "PM Kisan 23rd installment date 2026 (site:gov.in OR site:nic.in)",
+    "params": {
+      "gl": "in",
+      "hl": "en",
+      "num": 10
+    },
+    "kind": "captured",
+    "captured_at": "2026-10-05T03:51:54.048862+00:00",
+    "note": "Follow-up (primary_source_lookup) for: PM Kisan next installment date 2026. Because: Sources disagree on the expected date for installment 23: 2026-06-20 vs 2026-07-01/2026-07-31 — none of these values is stated by an official source in the results. | No official page that addresses the topic among 8 retrieved sources."
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac31ed740802740ac0fb004",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/MilYSD8Yya-LS1RzaEdDvLflrF9e-LJJaPWYK63G-q0/6ac31ed740802740ac0fb004.json",
+      "markdown_endpoint": "https://serpapi.com/searches/MilYSD8Yya-LS1RzaEdDvLflrF9e-LJJaPWYK63G-q0/6ac31ed740802740ac0fb004.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/MilYSD8Yya-LS1RzaEdDvLflrF9e-LJJaPWYK63G-q0/6ac31ed740802740ac0fb004.json_with_pixel_position",
+      "created_at": "2026-10-05 03:51:51 UTC",
+      "processed_at": "2026-10-05 03:51:51 UTC",
+      "google_url": "https://www.google.com/search?q=PM+Kisan+23rd+installment+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&oq=PM+Kisan+23rd+installment+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/MilYSD8Yya-LS1RzaEdDvLflrF9e-LJJaPWYK63G-q0/6ac31ed740802740ac0fb004.html",
+      "total_time_taken": 0.34
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "PM Kisan 23rd installment date 2026 (site:gov.in OR site:nic.in)",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "PM Kisan 23rd installment date 2026 (site:gov.in OR site:nic.in)",
+      "total_results": 40500000,
+      "time_taken_displayed": 0.19,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "PM-Kisan Samman Nidhi",
+        "link": "https://pmkisan.gov.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAVpjbLEJnU5xLcRY-OrJ3MkqDJQTNzVbNxF7LTVnI6rVWIXpEkZdkLiWA54cc2_U_0UqHl3osHCtsJxiJTxf_f-uFhjmVlD5Z2hLXUVNw&ved=2ahUKEwja1N_q_KGXAxWpF1kFHSwBKtgQFnoECA8QAQ&uoh=1",
+        "displayed_link": "https://pmkisan.gov.in",
+        "favicon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAADwCACdASogACAAPtEutFooIagoGAEAGglpABFT4uFYDLA4pO8GMQ5ndQD9XOsB6Ff7MjtT8OJfMFi8fOjKrmxQ_HerjRA2C9O2_yZHsnLIAAD-9hKZhRdKLXgpo54Ja7P4v6HqYs6bZOOxGeJY0qcgBjLLwPH4lk8zqAoB-GinfEsInpp7tjo6mjhz3qP-x8tgAGlUBON3U58dH2xu6h0xwSEryFDOLt_6-AVAeGpebWy9Kd62va5fU1u4N-PPsIV4n56On0CotVO657EXCexdcuEvJ3VMWc_e4G9dzqPgWot2-jHJz-z33IMH_fY4o_L_8NYb8NrJXfr1O_XNDYx0Qhj8xQSJ2QmQeedty1uawSJTbd5GFvdhro6i69Obj9_ktbnR4S9MF8cJsoXjuo_IhSS2VYRFdyK7rlYbkZyFClnh99l__BXoueURCc-ZF4Xf9l0jd1sOm8KwUkS1rWefceNDy5h1F5Z0AvdueSafGmjRk1rIK3wNnbOsBWCq1_z08-SXR15ximg30i3rAvlYqSNCak8gXacxm2oeTyelbZMtAAA.webp",
+        "snippet": "The Hon'ble Prime Minister has released the 23rd installment of the PM-Kisan on 20th June 2026 from Tarakeswar, Hooghly , West Bengal. eKYC is MANDATORY for ...",
+        "snippet_highlighted_words": [
+          "20th June 2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The Hon'ble Prime Minister has released the 23rd installment of the PM-Kisan on 20th June 2026 from Tarakeswar, Hooghly , West Bengal. eKYC is MANDATORY for ...",
+            "source_info_link": "https://pmkisan.gov.in/",
+            "icon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAADwCACdASogACAAPtEutFooIagoGAEAGglpABFT4uFYDLA4pO8GMQ5ndQD9XOsB6Ff7MjtT8OJfMFi8fOjKrmxQ_HerjRA2C9O2_yZHsnLIAAD-9hKZhRdKLXgpo54Ja7P4v6HqYs6bZOOxGeJY0qcgBjLLwPH4lk8zqAoB-GinfEsInpp7tjo6mjhz3qP-x8tgAGlUBON3U58dH2xu6h0xwSEryFDOLt_6-AVAeGpebWy9Kd62va5fU1u4N-PPsIV4n56On0CotVO657EXCexdcuEvJ3VMWc_e4G9dzqPgWot2-jHJz-z33IMH_fY4o_L_8NYb8NrJXfr1O_XNDYx0Qhj8xQSJ2QmQeedty1uawSJTbd5GFvdhro6i69Obj9_ktbnR4S9MF8cJsoXjuo_IhSS2VYRFdyK7rlYbkZyFClnh99l__BXoueURCc-ZF4Xf9l0jd1sOm8KwUkS1rWefceNDy5h1F5Z0AvdueSafGmjRk1rIK3wNnbOsBWCq1_z08-SXR15ximg30i3rAvlYqSNCak8gXacxm2oeTyelbZMtAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cn0vZ290bz91cmw9Q0FFU1VnSHJPekFWcGpiTEVKblU1eExjUlktT3JKM01rcURKUVROelZiTnhGN0xUVm5JNnJWV0lYcEVrWmRrTGlXQTU0Y2MyX1VfMFVxSGwzb3NIQ3RzSnhpSlR4Zl9mLXVGaGptVmxENVoyaExYVVZOdxIEGgIIABq7AxICCAEaACIAKgAyBggBEgJpbjoAQgQIARAASgBaEggBEg5wbWtpc2FuLmdvdi5pbnIAegCCQIMDCAAQABgAIAAqIgoCcG0VZWYZQRoOcHJpbWUgbWluaXN0ZXIaB3Bta2lzYW4yfS9nb3RvP3VybD1DQUVTVWdIck96QVZwamJMRUpuVTV4TGNSWS1PckozTWtxREpRVE56VmJOeEY3TFRWbkk2clZXSVhwRWtaZGtMaVdBNTRjYzJfVV8wVXFIbDNvc0hDdHNKeGlKVHhmX2YtdUZoam1WbEQ1WjJoTFhVVk53OiM8Yj5QTTwvYj4tPGI-S2lzYW48L2I-IFNhbW1hbiBOaWRoaUKwAVRoZSBIb24mIzM5O2JsZSBQcmltZSBNaW5pc3RlciBoYXMgcmVsZWFzZWQgdGhlIDIzcmQgaW5zdGFsbG1lbnQgb2YgdGhlIFBNLUtpc2FuIG9uIDxiPjIwdGggSnVuZSAyMDI2PC9iPiBmcm9tIFRhcmFrZXN3YXIsIEhvb2dobHkgLCBXZXN0IEJlbmdhbC4gZUtZQyBpcyBNQU5EQVRPUlkgZm9yJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cn0vZ290bz91cmw9Q0FFU1VnSHJPekFWcGpiTEVKblU1eExjUlktT3JKM01rcURKUVROelZiTnhGN0xUVm5JNnJWV0lYcEVrWmRrTGlXQTU0Y2MyX1VfMFVxSGwzb3NIQ3RzSnhpSlR4Zl9mLXVGaGptVmxENVoyaExYVVZOdxIEGgIIABq7AxICCAEaACIAKgAyBggBEgJpbjoAQgQIARAASgBaEggBEg5wbWtpc2FuLmdvdi5pbnIAegCCQIMDCAAQABgAIAAqIgoCcG0VZWYZQRoOcHJpbWUgbWluaXN0ZXIaB3Bta2lzYW4yfS9nb3RvP3VybD1DQUVTVWdIck96QVZwamJMRUpuVTV4TGNSWS1PckozTWtxREpRVE56VmJOeEY3TFRWbkk2clZXSVhwRWtaZGtMaVdBNTRjYzJfVV8wVXFIbDNvc0hDdHNKeGlKVHhmX2YtdUZoam1WbEQ1WjJoTFhVVk53OiM8Yj5QTTwvYj4tPGI-S2lzYW48L2I-IFNhbW1hbiBOaWRoaUKwAVRoZSBIb24mIzM5O2JsZSBQcmltZSBNaW5pc3RlciBoYXMgcmVsZWFzZWQgdGhlIDIzcmQgaW5zdGFsbG1lbnQgb2YgdGhlIFBNLUtpc2FuIG9uIDxiPjIwdGggSnVuZSAyMDI2PC9iPiBmcm9tIFRhcmFrZXN3YXIsIEhvb2dobHkgLCBXZXN0IEJlbmdhbC4gZUtZQyBpcyBNQU5EQVRPUlkgZm9yJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "PM Kisan",
+        "read_more_link": "https://pmkisan.gov.in/#:~:text=The%20Hon'ble%20Prime%20Minister%20has,MANDATORY%20for%20PMKISAN%20Registered%20Farmers."
+      },
+      {
+        "position": 2,
+        "title": "pm-kisan",
+        "link": "https://kisansuvidha.gov.in/pm-kisan?back=1",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVYZ2BODLInQe05mAe47o1DcEJ9qpJWPBkn0iUFFqmORCLowtX5s1-wPSz6ZvyN7nJaRnmUUwREYtswjRLdSmOj6czTpSZTPoO1h8X6oO_Sd-RZsvA-4wOrXwdutsb_SQyew&ved=2ahUKEwja1N_q_KGXAxWpF1kFHSwBKtgQFnoECBEQAQ&uoh=1",
+        "displayed_link": "https://kisansuvidha.gov.in › pm-kisan",
+        "snippet": "The period of 1st installment under the scheme is from 01.12.2018 to 31.03.2019, that of 2nd installment from 01.04.2019 to 31 07 .2019,3'd installment from 01 ...",
+        "snippet_highlighted_words": [
+          "installment",
+          "installment",
+          "installment"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The period of 1st installment under the scheme is from 01.12.2018 to 31.03.2019, that of 2nd installment from 01.04.2019 to 31 07 .2019,3'd installment from 01 ...",
+            "source_info_link": "https://kisansuvidha.gov.in/pm-kisan?back=1"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVllaMkJPRExJblFlMDVtQWU0N28xRGNFSjlxcEpXUEJrbjBpVUZGcW1PUkNMb3d0WDVzMS13UFN6Nlp2eU43bkphUm5tVVV3UkVZdHN3alJMZFNtT2o2Y3pUcFNaVFBvTzFoOFg2b09fU2QtUlpzdkEtNHdPclh3ZHV0c2JfU1F5ZXcSBBoCCAAayQMSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCjAwgAEAAYACAAKiIKAnBtFRb-sEAaDnByaW1lIG1pbmlzdGVyGgdwbWtpc2FuMpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVllaMkJPRExJblFlMDVtQWU0N28xRGNFSjlxcEpXUEJrbjBpVUZGcW1PUkNMb3d0WDVzMS13UFN6Nlp2eU43bkphUm5tVVV3UkVZdHN3alJMZFNtT2o2Y3pUcFNaVFBvTzFoOFg2b09fU2QtUlpzdkEtNHdPclh3ZHV0c2JfU1F5ZXc6FjxiPnBtPC9iPi08Yj5raXNhbjwvYj5CwQFUaGUgcGVyaW9kIG9mIDFzdCA8Yj5pbnN0YWxsbWVudDwvYj4gdW5kZXIgdGhlIHNjaGVtZSBpcyBmcm9tIDAxLjEyLjIwMTggdG8gMzEuMDMuMjAxOSwgdGhhdCBvZiAybmQgPGI-aW5zdGFsbG1lbnQ8L2I-IGZyb20gMDEuMDQuMjAxOSB0byAzMSAwNyAuMjAxOSwzJiMzOTtkIDxiPmluc3RhbGxtZW50PC9iPiBmcm9tIDAxJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVllaMkJPRExJblFlMDVtQWU0N28xRGNFSjlxcEpXUEJrbjBpVUZGcW1PUkNMb3d0WDVzMS13UFN6Nlp2eU43bkphUm5tVVV3UkVZdHN3alJMZFNtT2o2Y3pUcFNaVFBvTzFoOFg2b09fU2QtUlpzdkEtNHdPclh3ZHV0c2JfU1F5ZXcSBBoCCAAayQMSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCjAwgAEAAYACAAKiIKAnBtFRb-sEAaDnByaW1lIG1pbmlzdGVyGgdwbWtpc2FuMpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVllaMkJPRExJblFlMDVtQWU0N28xRGNFSjlxcEpXUEJrbjBpVUZGcW1PUkNMb3d0WDVzMS13UFN6Nlp2eU43bkphUm5tVVV3UkVZdHN3alJMZFNtT2o2Y3pUcFNaVFBvTzFoOFg2b09fU2QtUlpzdkEtNHdPclh3ZHV0c2JfU1F5ZXc6FjxiPnBtPC9iPi08Yj5raXNhbjwvYj5CwQFUaGUgcGVyaW9kIG9mIDFzdCA8Yj5pbnN0YWxsbWVudDwvYj4gdW5kZXIgdGhlIHNjaGVtZSBpcyBmcm9tIDAxLjEyLjIwMTggdG8gMzEuMDMuMjAxOSwgdGhhdCBvZiAybmQgPGI-aW5zdGFsbG1lbnQ8L2I-IGZyb20gMDEuMDQuMjAxOSB0byAzMSAwNyAuMjAxOSwzJiMzOTtkIDxiPmluc3RhbGxtZW50PC9iPiBmcm9tIDAxJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "Kisan Suvidha",
+        "read_more_link": "https://kisansuvidha.gov.in/pm-kisan?back=1#:~:text=English"
+      },
+      {
+        "position": 3,
+        "title": "KISAN ELECTRONICS",
+        "link": "https://kisane.com/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAVoE2cm6aVCzoRjS67c1cBf3AyICKMIeYqTFLUFKY28os00kz148xKD3pMZwUd_Z_KGObsFjfd9w31zkmSiGi_viRREut1HZEGrg&ved=2ahUKEwja1N_q_KGXAxWpF1kFHSwBKtgQFnoECBUQAQ&uoh=1",
+        "displayed_link": "https://kisane.com",
+        "snippet": "Kisan Banknote Counter Management System. Business Area. Bank. Kisan Electronics provides a total solution ranged from the counter which is a comprehensive ...",
+        "snippet_highlighted_words": [
+          "Kisan",
+          "Kisan"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Kisan Banknote Counter Management System. Business Area. Bank. Kisan Electronics provides a total solution ranged from the counter which is a comprehensive ...",
+            "source_info_link": "https://kisane.com/"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWb0UyY202YVZDem9SalM2N2MxY0JmM0F5SUNLTUllWXFURkxVRktZMjhvczAwa3oxNDh4S0QzcE1ad1VkX1pfS0dPYnNGamZkOXczMXprbVNpR2lfdmlSUkV1dDFIWkVHcmcSBBoCCAAamwMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD1AggAEAAYACAAKiIKAnBtFXeclEAaDnByaW1lIG1pbmlzdGVyGgdwbWtpc2FuMngvZ290bz91cmw9Q0FFU1RnSHJPekFWb0UyY202YVZDem9SalM2N2MxY0JmM0F5SUNLTUllWXFURkxVRktZMjhvczAwa3oxNDh4S0QzcE1ad1VkX1pfS0dPYnNGamZkOXczMXprbVNpR2lfdmlSUkV1dDFIWkVHcmc6GDxiPktJU0FOPC9iPiBFTEVDVFJPTklDU0KyATxiPktpc2FuPC9iPiBCYW5rbm90ZSBDb3VudGVyIE1hbmFnZW1lbnQgU3lzdGVtLiBCdXNpbmVzcyBBcmVhLiBCYW5rLiA8Yj5LaXNhbjwvYj4gRWxlY3Ryb25pY3MgcHJvdmlkZXMgYSB0b3RhbCBzb2x1dGlvbiByYW5nZWQgZnJvbSB0aGUgY291bnRlciB3aGljaCBpcyBhIGNvbXByZWhlbnNpdmUmbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWb0UyY202YVZDem9SalM2N2MxY0JmM0F5SUNLTUllWXFURkxVRktZMjhvczAwa3oxNDh4S0QzcE1ad1VkX1pfS0dPYnNGamZkOXczMXprbVNpR2lfdmlSUkV1dDFIWkVHcmcSBBoCCAAamwMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD1AggAEAAYACAAKiIKAnBtFXeclEAaDnByaW1lIG1pbmlzdGVyGgdwbWtpc2FuMngvZ290bz91cmw9Q0FFU1RnSHJPekFWb0UyY202YVZDem9SalM2N2MxY0JmM0F5SUNLTUllWXFURkxVRktZMjhvczAwa3oxNDh4S0QzcE1ad1VkX1pfS0dPYnNGamZkOXczMXprbVNpR2lfdmlSUkV1dDFIWkVHcmc6GDxiPktJU0FOPC9iPiBFTEVDVFJPTklDU0KyATxiPktpc2FuPC9iPiBCYW5rbm90ZSBDb3VudGVyIE1hbmFnZW1lbnQgU3lzdGVtLiBCdXNpbmVzcyBBcmVhLiBCYW5rLiA8Yj5LaXNhbjwvYj4gRWxlY3Ryb25pY3MgcHJvdmlkZXMgYSB0b3RhbCBzb2x1dGlvbiByYW5nZWQgZnJvbSB0aGUgY291bnRlciB3aGljaCBpcyBhIGNvbXByZWhlbnNpdmUmbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "KISAN ELECTRONICS",
+        "read_more_link": "https://kisane.com/#:~:text=Business%20Area,counter%20which%20is%20a%20comprehensive"
+      },
+      {
+        "position": 4,
+        "title": "PM Kisan Samman Nidhi | District Lakhimpur Kheri | India",
+        "link": "https://kheri.nic.in/pm-kisan-samman-nidhi/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAV27SS5SPGDQGr305HEQxeG14y5p2S13-XsQKyWJxOmadSPh70zSIAnyHZ4myHjHJmmV9UIG_uGqsKjGp0KJEona_OYBkXRQwatQZdnoBKv-FkxVCyIierjd1zQ60NWi4jaA&ved=2ahUKEwja1N_q_KGXAxWpF1kFHSwBKtgQFnoECBQQAQ&uoh=1",
+        "displayed_link": "https://kheri.nic.in › pm-kisan-samman-nidhi",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png",
+        "snippet": "PM Kisan Samman Nidhi. SNO. BLOCK, Click to View. 1, Lakhimpur, Download. 2 ... Last Updated: Sep 26, 2026. Secure, Scalable and Sugamya Website as a Service ...",
+        "snippet_highlighted_words": [
+          "PM Kisan Samman Nidhi"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "PM Kisan Samman Nidhi. SNO. BLOCK, Click to View. 1, Lakhimpur, Download. 2 ... Last Updated: Sep 26, 2026. Secure, Scalable and Sugamya Website as a Service ...",
+            "source_info_link": "https://kheri.nic.in/pm-kisan-samman-nidhi/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjI3U1M1U1BHRFFHcjMwNUhFUXhlRzE0eTVwMlMxMy1Yc1FLeVdKeE9tYWRTUGg3MHpTSUFueUhaNG15SGpISm1tVjlVSUdfdUdxc0tqR3AwS0pFb25hX09ZQmtYUlF3YXRRWmRub0JLdi1Ga3hWQ3lJaWVyamQxelE2ME5XaTRqYUESBBoCCAAa3AMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAuAMIABAAGAAgACoiCgJwbRXyeYRAGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbjKYAS9nb3RvP3VybD1DQUVTWmdIck96QVYyN1NTNVNQR0RRR3IzMDVIRVF4ZUcxNHk1cDJTMTMtWHNRS3lXSnhPbWFkU1BoNzB6U0lBbnlIWjRteUhqSEptbVY5VUlHX3VHcXNLakdwMEtKRW9uYV9PWUJrWFJRd2F0UVpkbm9CS3YtRmt4VkN5SWllcmpkMXpRNjBOV2k0amFBOj88Yj5QTSBLaXNhbjwvYj4gU2FtbWFuIE5pZGhpIHwgRGlzdHJpY3QgTGFraGltcHVyIEtoZXJpIHwgSW5kaWFCrQE8Yj5QTSBLaXNhbiBTYW1tYW4gTmlkaGk8L2I-LiBTTk8uIEJMT0NLLCBDbGljayB0byBWaWV3LiAxLCBMYWtoaW1wdXIsIERvd25sb2FkLiAyIC4uLiBMYXN0IFVwZGF0ZWQ6IFNlcCAyNiwgMjAyNi4gU2VjdXJlLCBTY2FsYWJsZSBhbmQgU3VnYW15YSBXZWJzaXRlIGFzIGEgU2VydmljZSZuYnNwOy4uLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjI3U1M1U1BHRFFHcjMwNUhFUXhlRzE0eTVwMlMxMy1Yc1FLeVdKeE9tYWRTUGg3MHpTSUFueUhaNG15SGpISm1tVjlVSUdfdUdxc0tqR3AwS0pFb25hX09ZQmtYUlF3YXRRWmRub0JLdi1Ga3hWQ3lJaWVyamQxelE2ME5XaTRqYUESBBoCCAAa3AMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAuAMIABAAGAAgACoiCgJwbRXyeYRAGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbjKYAS9nb3RvP3VybD1DQUVTWmdIck96QVYyN1NTNVNQR0RRR3IzMDVIRVF4ZUcxNHk1cDJTMTMtWHNRS3lXSnhPbWFkU1BoNzB6U0lBbnlIWjRteUhqSEptbVY5VUlHX3VHcXNLakdwMEtKRW9uYV9PWUJrWFJRd2F0UVpkbm9CS3YtRmt4VkN5SWllcmpkMXpRNjBOV2k0amFBOj88Yj5QTSBLaXNhbjwvYj4gU2FtbWFuIE5pZGhpIHwgRGlzdHJpY3QgTGFraGltcHVyIEtoZXJpIHwgSW5kaWFCrQE8Yj5QTSBLaXNhbiBTYW1tYW4gTmlkaGk8L2I-LiBTTk8uIEJMT0NLLCBDbGljayB0byBWaWV3LiAxLCBMYWtoaW1wdXIsIERvd25sb2FkLiAyIC4uLiBMYXN0IFVwZGF0ZWQ6IFNlcCAyNiwgMjAyNi4gU2VjdXJlLCBTY2FsYWJsZSBhbmQgU3VnYW15YSBXZWJzaXRlIGFzIGEgU2VydmljZSZuYnNwOy4uLiICEAFIAFgAaAA",
+        "source": "Kheri",
+        "read_more_link": "https://kheri.nic.in/pm-kisan-samman-nidhi/#:~:text=PM%20Kisan%20Samman%20Nidhi,2&text=Last%20Updated%3A%20Sep%2026%2C%202026"
+      },
+      {
+        "position": 5,
+        "title": "Kisan Sarathi – Apps on Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.kisansarthi.farmer&hl=en_SG",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.kisansarthi.farmer%26hl%3Den_SG&ved=2ahUKEwja1N_q_KGXAxWpF1kFHSwBKtgQFnoECBAQAQ",
+        "displayed_link": "https://play.google.com › store › apps › details › id=com...",
+        "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp",
+        "snippet": "The app connects farmers with agricultural experts, enabling them to receive region-specific, multimedia advisories on agriculture, horticulture, animal ...",
+        "about_this_result": {
+          "source": {
+            "description": "The app connects farmers with agricultural experts, enabling them to receive region-specific, multimedia advisories on agriculture, horticulture, animal ...",
+            "source_info_link": "https://play.google.com/store/apps/details?id=com.kisansarthi.farmer&hl=en_SG",
+            "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ck1odHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmtpc2Fuc2FydGhpLmZhcm1lciZobD1lbl9TRxIEGgIIABrxAhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDNAggAEAAYACAAKiIKAnBtFUpaXEAaDnByaW1lIG1pbmlzdGVyGgdwbWtpc2FuMk1odHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmtpc2Fuc2FydGhpLmZhcm1lciZobD1lbl9TRzosPGI-S2lzYW48L2I-IFNhcmF0aGkg4oCTIEFwcHMgb24gR29vZ2xlIFBsYXlCoQFUaGUgYXBwIGNvbm5lY3RzIGZhcm1lcnMgd2l0aCBhZ3JpY3VsdHVyYWwgZXhwZXJ0cywgZW5hYmxpbmcgdGhlbSB0byByZWNlaXZlIHJlZ2lvbi1zcGVjaWZpYywgbXVsdGltZWRpYSBhZHZpc29yaWVzIG9uIGFncmljdWx0dXJlLCBob3J0aWN1bHR1cmUsIGFuaW1hbCZuYnNwOy4uLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ck1odHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmtpc2Fuc2FydGhpLmZhcm1lciZobD1lbl9TRxIEGgIIABrxAhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDNAggAEAAYACAAKiIKAnBtFUpaXEAaDnByaW1lIG1pbmlzdGVyGgdwbWtpc2FuMk1odHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmtpc2Fuc2FydGhpLmZhcm1lciZobD1lbl9TRzosPGI-S2lzYW48L2I-IFNhcmF0aGkg4oCTIEFwcHMgb24gR29vZ2xlIFBsYXlCoQFUaGUgYXBwIGNvbm5lY3RzIGZhcm1lcnMgd2l0aCBhZ3JpY3VsdHVyYWwgZXhwZXJ0cywgZW5hYmxpbmcgdGhlbSB0byByZWNlaXZlIHJlZ2lvbi1zcGVjaWZpYywgbXVsdGltZWRpYSBhZHZpc29yaWVzIG9uIGFncmljdWx0dXJlLCBob3J0aWN1bHR1cmUsIGFuaW1hbCZuYnNwOy4uLiICEAFIAFgAaAA",
+        "source": "Google Play",
+        "read_more_link": "https://play.google.com/store/apps/details?id=com.kisansarthi.farmer&hl=en_SG#:~:text=Updated%20on"
+      },
+      {
+        "position": 6,
+        "title": "प्रधानमंत्री किसान सम्मान निधि (PM-KISAN) योजना के तहत पात्र ...",
+        "link": "https://www.instagram.com/reel/DdWNrfFyXDW/",
+        "displayed_link": "15.4K+ likes · 2 weeks ago",
+        "thumbnail": "https://serpapi.com/searches/6ac31ed740802740ac0fb004/images/8UtsHmTCI-rAabkJDI88JakpAfWCUh93g1xN9YRTi0U.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+        "snippet": "अक्टूबर 2026 के आसपास ₹2,000 की किस्त आने की उम्मीद है। इससे पहले घर बैठे अपना नाम ...",
+        "duration": "1:04",
+        "about_this_result": {
+          "source": {
+            "description": "अक्टूबर 2026 के आसपास ₹2,000 की किस्त आने की उम्मीद है। इससे पहले घर बैठे अपना नाम ...",
+            "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmtOd242TkduVVdFWHhlQk9uckQ3VnM0WHJteTMyNkpRU3dkM1ljYS1FcVRISnJ4UmZNbVB0WDIxZVRqQVNxWFRFdzFGRWFlcGxHcUFCYVJIVUxMa2I1cmZVVTVzVEFyajBLUmt4bGI3ZnoyNFd2RzREcVU5SEdNVUJ0bVdKcWE5b1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmtOd242TkduVVdFWHhlQk9uckQ3VnM0WHJteTMyNkpRU3dkM1ljYS1FcVRISnJ4UmZNbVB0WDIxZVRqQVNxWFRFdzFGRWFlcGxHcUFCYVJIVUxMa2I1cmZVVTVzVEFyajBLUmt4bGI3ZnoyNFd2RzREcVU5SEdNVUJ0bVdKcWE5b1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "source": "Instagram · agrigoi"
+      },
+      {
+        "position": 7,
+        "title": "Kisan Sarathi",
+        "link": "https://kisansarathi.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVHMl6DvBinSmswI9jKdLWuQXKfJ7Lnh0YdKbJMw4lG0yvhe_naHMs20_qkm-f_YQVWpmxNNrkdDpCBwwaIdImsPon07W9GsgZIaYgDZg-&ved=2ahUKEwja1N_q_KGXAxWpF1kFHSwBKtgQFnoECA4QAQ&uoh=1",
+        "displayed_link": "https://kisansarathi.in",
+        "favicon": "https://serpapi.com/images/i/UklGRlgBAABXRUJQVlA4IEwBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsALUIwBwBYKe4Qf2BjHTufk1GmjTz0uXESeI_3PgAfwAA_vYTRMLTDmDlD7LRj_5Es3Sustlpq6ygLQ2d6k7VGauaGuW3CY1Vw87rMuf0On5b2ZOkVJhmTvUS_1j1tB44c0wN7ymcJGdyoUfKKROBHYtiUN8sCjOKUpOHtdb-4hezl324eimWwM8CI8CvdT7jInff_t8GB5Cjx8KAu_noA7x9gh75_1igkGmS817ti93W0_kHa5h9EDX_hcKAZJPOQGdvBwkq5b2bmMSZ7WLaIHr50ttZ-lvUOITsYvUmcXs7_CPt6_b60sapu1eZbDR5-kSUVtAU0gsvt1nhIO82LEDwNigc9FiSm5is5b3vaxvO8uYhGs_Qx2VyxLW34gnzSEjED-kWZAVg5wn9SL0JyngAAA.webp",
+        "snippet": "This system provides options to farmers to subscribe to the various services. Farmers will then receive individual needs-based information for only those ...",
+        "about_this_result": {
+          "source": {
+            "description": "This system provides options to farmers to subscribe to the various services. Farmers will then receive individual needs-based information for only those ...",
+            "source_info_link": "https://kisansarathi.in/",
+            "icon": "https://serpapi.com/images/i/UklGRlgBAABXRUJQVlA4IEwBAAAQBgCdASocABwAPtE-tFooIigoFAEAGglsALUIwBwBYKe4Qf2BjHTufk1GmjTz0uXESeI_3PgAfwAA_vYTRMLTDmDlD7LRj_5Es3Sustlpq6ygLQ2d6k7VGauaGuW3CY1Vw87rMuf0On5b2ZOkVJhmTvUS_1j1tB44c0wN7ymcJGdyoUfKKROBHYtiUN8sCjOKUpOHtdb-4hezl324eimWwM8CI8CvdT7jInff_t8GB5Cjx8KAu_noA7x9gh75_1igkGmS817ti93W0_kHa5h9EDX_hcKAZJPOQGdvBwkq5b2bmMSZ7WLaIHr50ttZ-lvUOITsYvUmcXs7_CPt6_b60sapu1eZbDR5-kSUVtAU0gsvt1nhIO82LEDwNigc9FiSm5is5b3vaxvO8uYhGs_Qx2VyxLW34gnzSEjED-kWZAVg5wn9SL0JyngAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cn4vZ290bz91cmw9Q0FFU1V3SHJPekFWSE1sNkR2QmluU21zd0k5aktkTFd1UVhLZko3TG5oMFlkS2JKTXc0bEcweXZoZV9uYUhNczIwX3FrbS1mX1lRVldwbXhOTnJrZERwQ0J3d2FJZEltc1BvbjA3VzlHc2daSWFZZ0RaZy0SBBoCCAAajQMSAggBGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDnAggAEAAYACAAKiIKAnBtFZoumkAaDnByaW1lIG1pbmlzdGVyGgdwbWtpc2FuMn4vZ290bz91cmw9Q0FFU1V3SHJPekFWSE1sNkR2QmluU21zd0k5aktkTFd1UVhLZko3TG5oMFlkS2JKTXc0bEcweXZoZV9uYUhNczIwX3FrbS1mX1lRVldwbXhOTnJrZERwQ0J3d2FJZEltc1BvbjA3VzlHc2daSWFZZ0RaZy06FDxiPktpc2FuPC9iPiBTYXJhdGhpQqIBVGhpcyBzeXN0ZW0gcHJvdmlkZXMgb3B0aW9ucyB0byBmYXJtZXJzIHRvIHN1YnNjcmliZSB0byB0aGUgdmFyaW91cyBzZXJ2aWNlcy4gRmFybWVycyB3aWxsIHRoZW4gcmVjZWl2ZSBpbmRpdmlkdWFsIG5lZWRzLWJhc2VkIGluZm9ybWF0aW9uIGZvciBvbmx5IHRob3NlJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cn4vZ290bz91cmw9Q0FFU1V3SHJPekFWSE1sNkR2QmluU21zd0k5aktkTFd1UVhLZko3TG5oMFlkS2JKTXc0bEcweXZoZV9uYUhNczIwX3FrbS1mX1lRVldwbXhOTnJrZERwQ0J3d2FJZEltc1BvbjA3VzlHc2daSWFZZ0RaZy0SBBoCCAAajQMSAggBGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDnAggAEAAYACAAKiIKAnBtFZoumkAaDnByaW1lIG1pbmlzdGVyGgdwbWtpc2FuMn4vZ290bz91cmw9Q0FFU1V3SHJPekFWSE1sNkR2QmluU21zd0k5aktkTFd1UVhLZko3TG5oMFlkS2JKTXc0bEcweXZoZV9uYUhNczIwX3FrbS1mX1lRVldwbXhOTnJrZERwQ0J3d2FJZEltc1BvbjA3VzlHc2daSWFZZ0RaZy06FDxiPktpc2FuPC9iPiBTYXJhdGhpQqIBVGhpcyBzeXN0ZW0gcHJvdmlkZXMgb3B0aW9ucyB0byBmYXJtZXJzIHRvIHN1YnNjcmliZSB0byB0aGUgdmFyaW91cyBzZXJ2aWNlcy4gRmFybWVycyB3aWxsIHRoZW4gcmVjZWl2ZSBpbmRpdmlkdWFsIG5lZWRzLWJhc2VkIGluZm9ybWF0aW9uIGZvciBvbmx5IHRob3NlJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "Kisan Sarathi",
+        "read_more_link": "https://kisansarathi.in/#:~:text=This%20system%20provides%20options%20to,to%20which%20they%20have%20subscribed."
+      },
+      {
+        "position": 8,
+        "title": "PM-KISAN latest update: ₹18640 crore transferred directly to ...",
+        "link": "https://www.youtube.com/watch?v=ydNQKFTzjbs&vl=en-IN",
+        "displayed_link": "25.6K+ views · 6 months ago",
+        "thumbnail": "https://serpapi.com/searches/6ac31ed740802740ac0fb004/images/8UtsHmTCI-rAabkJDI88JcR_YJVWklxLVmHOZ7s7NuM.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "snippet": "PM Kisan Nidhi Yojana 22nd Installment : आपके खाते में नहीं आया 2000 रुपया...तो फटाफट करें ये काम !",
+        "duration": "2:40",
+        "about_this_result": {
+          "source": {
+            "description": "PM Kisan Nidhi Yojana 22nd Installment : आपके खाते में नहीं आया 2000 रुपया...तो फटाफट करें ये काम !",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVmo2UnVaTHFUU1czVGdGUFdUWjhIM3F4OVBNcm5PbnlQT2JfaFl5ZDg0NHp4R2RjR2pMeFVXYTQtaEl1akx3emk3MVQtZmhDNy1ORlVqQlhZZ1VsdWV2YVk1WnF4U1llZVFFLXF1NDZOZlZYZUZMUGF0cXdsU1VvRWZjQk84R25DaGRaY3Z1OVVuaUJNOWcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVmo2UnVaTHFUU1czVGdGUFdUWjhIM3F4OVBNcm5PbnlQT2JfaFl5ZDg0NHp4R2RjR2pMeFVXYTQtaEl1akx3emk3MVQtZmhDNy1ORlVqQlhZZ1VsdWV2YVk1WnF4U1llZVFFLXF1NDZOZlZYZUZMUGF0cXdsU1VvRWZjQk84R25DaGRaY3Z1OVVuaUJNOWcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "source": "YouTube · Narendra Modi"
+      },
+      {
+        "position": 9,
+        "title": "Kapas Kisan – Apps on Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.cotcorp.kapaskisan&hl=en_GB",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.cotcorp.kapaskisan%26hl%3Den_GB&ved=2ahUKEwja1N_q_KGXAxWpF1kFHSwBKtgQFnoECA0QAQ",
+        "displayed_link": "https://play.google.com › store › apps › details › id=com...",
+        "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp",
+        "snippet": "Kapas Kisan is a digital platform aimed at streamlining cotton procurement and farmer engagement. It helps connect farmers, markets, and CCI with greater ...",
+        "snippet_highlighted_words": [
+          "Kisan"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Kapas Kisan is a digital platform aimed at streamlining cotton procurement and farmer engagement. It helps connect farmers, markets, and CCI with greater ...",
+            "source_info_link": "https://play.google.com/store/apps/details?id=com.cotcorp.kapaskisan&hl=en_GB",
+            "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ck1odHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmNvdGNvcnAua2FwYXNraXNhbiZobD1lbl9HQhIEGgIIABr5AhICCAAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNMCCAAQABgAIAAqIgoCcG0V1IVlQBoOcHJpbWUgbWluaXN0ZXIaB3Bta2lzYW4yTWh0dHBzOi8vcGxheS5nb29nbGUuY29tL3N0b3JlL2FwcHMvZGV0YWlscz9pZD1jb20uY290Y29ycC5rYXBhc2tpc2FuJmhsPWVuX0dCOipLYXBhcyA8Yj5LaXNhbjwvYj4g4oCTIEFwcHMgb24gR29vZ2xlIFBsYXlCqQFLYXBhcyA8Yj5LaXNhbjwvYj4gaXMgYSBkaWdpdGFsIHBsYXRmb3JtIGFpbWVkIGF0IHN0cmVhbWxpbmluZyBjb3R0b24gcHJvY3VyZW1lbnQgYW5kIGZhcm1lciBlbmdhZ2VtZW50LiBJdCBoZWxwcyBjb25uZWN0IGZhcm1lcnMsIG1hcmtldHMsIGFuZCBDQ0kgd2l0aCBncmVhdGVyJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ck1odHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLmNvdGNvcnAua2FwYXNraXNhbiZobD1lbl9HQhIEGgIIABr5AhICCAAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNMCCAAQABgAIAAqIgoCcG0V1IVlQBoOcHJpbWUgbWluaXN0ZXIaB3Bta2lzYW4yTWh0dHBzOi8vcGxheS5nb29nbGUuY29tL3N0b3JlL2FwcHMvZGV0YWlscz9pZD1jb20uY290Y29ycC5rYXBhc2tpc2FuJmhsPWVuX0dCOipLYXBhcyA8Yj5LaXNhbjwvYj4g4oCTIEFwcHMgb24gR29vZ2xlIFBsYXlCqQFLYXBhcyA8Yj5LaXNhbjwvYj4gaXMgYSBkaWdpdGFsIHBsYXRmb3JtIGFpbWVkIGF0IHN0cmVhbWxpbmluZyBjb3R0b24gcHJvY3VyZW1lbnQgYW5kIGZhcm1lciBlbmdhZ2VtZW50LiBJdCBoZWxwcyBjb25uZWN0IGZhcm1lcnMsIG1hcmtldHMsIGFuZCBDQ0kgd2l0aCBncmVhdGVyJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "Google Play",
+        "read_more_link": "https://play.google.com/store/apps/details?id=com.cotcorp.kapaskisan&hl=en_GB#:~:text=Kapas%20Kisan%20is%20a%20digital,with%20greater%20transparency%20and%20efficiency."
+      },
+      {
+        "position": 10,
+        "title": "Bhagaban Kisan | Official Website of ...",
+        "link": "https://www.jnu.ac.in/content/bhagabankisan",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVTjYnED8YgocHOVsUuzB5I0n2LV8CQ-LugaWNCqSaZXl3Ds6SrLcbFSUmRiUX0qfT842yzlOwfFsyWOVe__L1jH5MCi4dNmwLz4ptKBJOYAaQXJAH1luXIWUpolVCBGqJ0A&ved=2ahUKEwja1N_q_KGXAxWpF1kFHSwBKtgQFnoECBMQAQ&uoh=1",
+        "displayed_link": "https://www.jnu.ac.in › content › bhagabankisan",
+        "snippet": "... 23 ... Page Last Updated Date: 21-02-2024, 12:04 PM. Website Policy | Security Policy | Disclaimer | SiteMap | Contact Us | Feedback. Copyright © 2026 ...",
+        "snippet_highlighted_words": [
+          "23",
+          "Date",
+          "PM",
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "... 23 ... Page Last Updated Date: 21-02-2024, 12:04 PM. Website Policy | Security Policy | Disclaimer | SiteMap | Contact Us | Feedback. Copyright © 2026 ...",
+            "source_info_link": "https://www.jnu.ac.in/content/bhagabankisan"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlRqWW5FRDhZZ29jSE9Wc1V1ekI1STBuMkxWOENRLUx1Z2FXTkNxU2FaWGwzRHM2U3JMY2JGU1VtUmlVWDBxZlQ4NDJ5emxPd2ZGc3lXT1ZlX19MMWpINU1DaTRkTm13THo0cHRLQkpPWUFhUVhKQUgxbHVYSVdVcG9sVkNCR3FKMEESBBoCCAAa4wMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAvwMIABAAGAAgACoiCgJwbRVw5JxAGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbjKYAS9nb3RvP3VybD1DQUVTWmdIck96QVZUalluRUQ4WWdvY0hPVnNVdXpCNUkwbjJMVjhDUS1MdWdhV05DcVNhWlhsM0RzNlNyTGNiRlNVbVJpVVgwcWZUODQyeXpsT3dmRnN5V09WZV9fTDFqSDVNQ2k0ZE5td0x6NHB0S0JKT1lBYVFYSkFIMWx1WElXVXBvbFZDQkdxSjBBOjNCaGFnYWJhbiA8Yj5LaXNhbjwvYj4gLSBKYXdhaGFybGFsIE5laHJ1IFVuaXZlcnNpdHlCwAEuLi4gPGI-MjM8L2I-IC4uLiBQYWdlIExhc3QgVXBkYXRlZCA8Yj5EYXRlPC9iPjogMjEtMDItMjAyNCwgMTI6MDQgPGI-UE08L2I-LiBXZWJzaXRlIFBvbGljeSB8IFNlY3VyaXR5IFBvbGljeSB8IERpc2NsYWltZXIgfCBTaXRlTWFwIHwgQ29udGFjdCBVcyB8IEZlZWRiYWNrLiBDb3B5cmlnaHQgwqkgPGI-MjAyNjwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlRqWW5FRDhZZ29jSE9Wc1V1ekI1STBuMkxWOENRLUx1Z2FXTkNxU2FaWGwzRHM2U3JMY2JGU1VtUmlVWDBxZlQ4NDJ5emxPd2ZGc3lXT1ZlX19MMWpINU1DaTRkTm13THo0cHRLQkpPWUFhUVhKQUgxbHVYSVdVcG9sVkNCR3FKMEESBBoCCAAa4wMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAvwMIABAAGAAgACoiCgJwbRVw5JxAGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbjKYAS9nb3RvP3VybD1DQUVTWmdIck96QVZUalluRUQ4WWdvY0hPVnNVdXpCNUkwbjJMVjhDUS1MdWdhV05DcVNhWlhsM0RzNlNyTGNiRlNVbVJpVVgwcWZUODQyeXpsT3dmRnN5V09WZV9fTDFqSDVNQ2k0ZE5td0x6NHB0S0JKT1lBYVFYSkFIMWx1WElXVXBvbFZDQkdxSjBBOjNCaGFnYWJhbiA8Yj5LaXNhbjwvYj4gLSBKYXdhaGFybGFsIE5laHJ1IFVuaXZlcnNpdHlCwAEuLi4gPGI-MjM8L2I-IC4uLiBQYWdlIExhc3QgVXBkYXRlZCA8Yj5EYXRlPC9iPjogMjEtMDItMjAyNCwgMTI6MDQgPGI-UE08L2I-LiBXZWJzaXRlIFBvbGljeSB8IFNlY3VyaXR5IFBvbGljeSB8IERpc2NsYWltZXIgfCBTaXRlTWFwIHwgQ29udGFjdCBVcyB8IEZlZWRiYWNrLiBDb3B5cmlnaHQgwqkgPGI-MjAyNjwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "Jawaharlal Nehru University",
+        "read_more_link": "https://www.jnu.ac.in/content/bhagabankisan#:~:text=23%2C%20Elsevier%2C%202020.&text=Page%20Last%20Updated%20Date%3A%2021%2D02%2D2024%2C,Nehru%20University%2C%20New%20Delhi%2C%20India"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Pm kisan 23rd installment date 2026 list",
+        "link": "https://www.google.com/search?sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnuWSaOe7a2eN161uV1YtgyqPtI7GQ:1791172311254&q=Pm+kisan+23rd+installment+date+2026+list&sa=X&ved=2ahUKEwja1N_q_KGXAxWpF1kFHSwBKtgQ1QJ6BAg9EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Pm+kisan+23rd+installment+date+2026+list"
+      },
+      {
+        "block_position": 1,
+        "query": "Pm kisan 23rd installment date 2026 aadhar card",
+        "link": "https://www.google.com/search?sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnuWSaOe7a2eN161uV1YtgyqPtI7GQ:1791172311254&q=Pm+kisan+23rd+installment+date+2026+aadhar+card&sa=X&ved=2ahUKEwja1N_q_KGXAxWpF1kFHSwBKtgQ1QJ6BAg8EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Pm+kisan+23rd+installment+date+2026+aadhar+card"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=PM+Kisan+23rd+installment+date+2026+(site:gov.in+OR+site:nic.in)&sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnuWSaOe7a2eN161uV1YtgyqPtI7GQ:1791172311254&ei=1x7DapqND6mv5NoPrIKowQ0&start=10&sa=N&sstk=AS6-VmIXtfX9oOhYECIcCK580Io-b_y9QekBcetLWMUeOMk21Qzp1RPioKkALDRXgwlU0QEjhMP45zkooRqvig7eNatpNPuQCPEhnA&ved=2ahUKEwja1N_q_KGXAxWpF1kFHSwBKtgQ8NMDegQIORAI",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=PM+Kisan+23rd+installment+date+2026+(site:gov.in+OR+site:nic.in)&sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnuWSaOe7a2eN161uV1YtgyqPtI7GQ:1791172311254&ei=1x7DapqND6mv5NoPrIKowQ0&start=10&sa=N&sstk=AS6-VmIXtfX9oOhYECIcCK580Io-b_y9QekBcetLWMUeOMk21Qzp1RPioKkALDRXgwlU0QEjhMP45zkooRqvig7eNatpNPuQCPEhnA&ved=2ahUKEwja1N_q_KGXAxWpF1kFHSwBKtgQ8tMDegQIORAE",
+        "3": "https://www.google.com/search?q=PM+Kisan+23rd+installment+date+2026+(site:gov.in+OR+site:nic.in)&sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnuWSaOe7a2eN161uV1YtgyqPtI7GQ:1791172311254&ei=1x7DapqND6mv5NoPrIKowQ0&start=20&sa=N&sstk=AS6-VmIXtfX9oOhYECIcCK580Io-b_y9QekBcetLWMUeOMk21Qzp1RPioKkALDRXgwlU0QEjhMP45zkooRqvig7eNatpNPuQCPEhnA&ved=2ahUKEwja1N_q_KGXAxWpF1kFHSwBKtgQ8tMDegQIORAG"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PM+Kisan+23rd+installment+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PM+Kisan+23rd+installment+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PM+Kisan+23rd+installment+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PM+Kisan+23rd+installment+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=20"
+      }
+    }
+  }
+}

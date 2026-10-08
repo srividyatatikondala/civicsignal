@@ -1,0 +1,69 @@
+{
+  "civicsignal_fixture": {
+    "engine": "google",
+    "q": "Aadhaar free update last date 2026",
+    "params": {
+      "gl": "in",
+      "hl": "en"
+    },
+    "kind": "reconstructed",
+    "captured_at": "2026-09-29T00:00:00+00:00",
+    "note": "Rebuilt from the processed report aadhaar.json (live SerpApi run on 2026-09-29), NOT a raw response. 7 of the 8 original results are recoverable. Positions are known only for the 2 flagged results; others are null. Snippets for unflagged results are the detector's context windows, not full snippets. Titles are empty unless recorded elsewhere. Replace with a captured fixture when SERPAPI_API_KEY is available."
+  },
+  "response": {
+    "search_metadata": {
+      "id": null,
+      "status": "Success"
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Aadhaar free update last date 2026",
+      "gl": "in",
+      "hl": "en"
+    },
+    "organic_results": [
+      {
+        "position": 3,
+        "title": "",
+        "link": "https://www.youtube.com/shorts/nzgTSu7pNTw",
+        "snippet": "జూన్ 14 లోపు ఉచితంగా ఆధార్ అప్‌డేట్ చేసుకోండి! | UIDAI free Aadhaar update deadline to June 14 2026. జూన్ 14 లోపు ఉచితంగా ఆధార్ అప్‌డేట్ చేసుకోండి! | UIDAI free ..."
+      },
+      {
+        "position": 5,
+        "title": "Aadhaar Card Document Update FREE Last Date June 14, 2026",
+        "link": "https://www.youtube.com/watch?v=wtnafTFIJzI",
+        "snippet": "✓ Aadhaar Card Document Update FREE Last Date June 14, 2026 | Aadhaar Update Online Process 2026. @SchemeProcess. Auto-dubbed. 7 likes318 ..."
+      },
+      {
+        "position": null,
+        "title": "",
+        "link": "https://humainone.in/aadhaar/aadhaar-update-fees/",
+        "snippet": "es 5–7 and 15–17, and free for all children aged 5–17 until 30 September 2026. Is online Aadhaar ... Aadhaar update fees in 2026"
+      },
+      {
+        "position": null,
+        "title": "",
+        "link": "https://www.loansjagat.com/news/epfo-services-resume-aadhaar-email-updates-turn-free-passport-fees-rise-from-july-1-2026",
+        "snippet": "update their email address for using their phone app until December 31, 2026. The ... EPFO Services Resume, Aadhaar Email Updates Turn ."
+      },
+      {
+        "position": null,
+        "title": "",
+        "link": "https://zeenews.india.com/personal-finance/update-aadhaar-card-for-free-check-online-process-list-of-documents-3050018.html",
+        "snippet": "aar card holders can now update their details for free till 14 June 2027. Aadaar details can be updated through the myAadhaar portal"
+      },
+      {
+        "position": null,
+        "title": "",
+        "link": "https://www.etnownews.com/news/aadhaar-update-free-aadhaar-card-update-facility-extended-for-a-year-details-here-article-151949291",
+        "snippet": "ne update of Aadhaar Card has been extended for a year till June 14, 2026. The free service can ... Free Aadhaar Card Update Facility"
+      },
+      {
+        "position": null,
+        "title": "",
+        "link": "https://www.techlusive.in/how-to/aadhaar-update-2026-update-your-10-year-old-aadhaar-online-for-free-before-the-14-june-deadline-1657654/",
+        "snippet": "UIDAI is Offering Free Aadhaar Update Till 14 June 2026. UIDAI is allowing users to update their Aadhaar card witho"
+      }
+    ]
+  }
+}

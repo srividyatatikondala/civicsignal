@@ -1,0 +1,424 @@
+{
+  "civicsignal_fixture": {
+    "engine": "google",
+    "q": "Aadhaar free update last date 2026 (site:gov.in OR site:nic.in)",
+    "params": {
+      "gl": "in",
+      "hl": "en",
+      "num": 10
+    },
+    "kind": "captured",
+    "captured_at": "2026-10-05T03:51:28.250947+00:00",
+    "note": "Follow-up (primary_source_lookup) for: Aadhaar free update last date 2026. Because: No official page that addresses the topic among 9 retrieved sources."
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac31ebdde1f336cfc507a75",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/Re0RM853e9rJpx4b9Qk9WQYhas0vmCbzguCBHQWktdw/6ac31ebdde1f336cfc507a75.json",
+      "markdown_endpoint": "https://serpapi.com/searches/Re0RM853e9rJpx4b9Qk9WQYhas0vmCbzguCBHQWktdw/6ac31ebdde1f336cfc507a75.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/Re0RM853e9rJpx4b9Qk9WQYhas0vmCbzguCBHQWktdw/6ac31ebdde1f336cfc507a75.json_with_pixel_position",
+      "created_at": "2026-10-05 03:51:25 UTC",
+      "processed_at": "2026-10-05 03:51:25 UTC",
+      "google_url": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&oq=Aadhaar+free+update+last+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/Re0RM853e9rJpx4b9Qk9WQYhas0vmCbzguCBHQWktdw/6ac31ebdde1f336cfc507a75.html",
+      "total_time_taken": 0.49
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Aadhaar free update last date 2026 (site:gov.in OR site:nic.in)",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Aadhaar free update last date 2026 (site:gov.in OR site:nic.in)",
+      "total_results": 7290000,
+      "time_taken_displayed": 0.24,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "भारत सरकार",
+        "link": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286070",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVnplgCmcM9ORx71Tugtvv8TLxnvtfb2Ts7_Y-ri1zpDjLeL4Ebv3UVtCFwS1jGcvqW5hlf4pjrB6ymvK61zraq5am0R25jPWLJIQjm2T5Vy2hZKFwae5mSdtGFgSfc3PnP7lhMP6T5SnnGXnOuUAWGa4&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQFnoECBUQAQ&uoh=1",
+        "displayed_link": "https://www.pib.gov.in › PressRelea...",
+        "favicon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAAAQCgCdASogACAAPtEutFooIagoGAEAGglsALO5jbpblT2BdomILaOyccAcnnhBlT1wHGB9O9aLMr55lQf9YxNgbLnjK860Uk98Px1dG-8v-1r4_TYv5PwNwAD-88y_s5ORsZ60bmEUDge5Fbbr17t-DSeg3CHNnWGEI55VLraKXKRBWfiF3J20uPgUvVrZllgvfBIdXy4TOT8-albyLvukdJIWNkx07PpbFegtrlDlMpgoE3ULsKrxJgUdmuHysxKeBx-4noovrZ_he1l7Rgc72wMaM4Ccabwqb_8QAueHgWXBNuXdKZQtHnFR73fzejj1o-A9O19mmswnv8Sh2ZwZt4wf9u2_-e2Qs-EtSQG4PGn3xfK-G_0iuRKne1aptFT8FtP0sP_s_p6_2t3zJaPstNMffq9V1FTMVUiYcd76XrN_jF804CdiTemfXiXYP39ZlVerTYd2t3EqnlfiNCPZ95Y5PzykMmowFzqdCTMkbdUiNd8zXdfDQMxMi8buQDYiwAtolG8TTd0HU-UJFTmgxKEninUWGZ-s7n8mQXy-MuX9TTac7r1HaFeUuafCRktTRJ4wv9j4mCHCDkNt4QCFlWYKOtJdbIL2rxNcWczxcjrND7NUCArw-9ALUU8W8AA.webp",
+        "date": "26 Aug 2026",
+        "snippet": "This feature, which was priced at Rs 75 earlier, has been made Free of charge till 31st Dec 2026 on the Aadhaar App. The app has also ...",
+        "snippet_highlighted_words": [
+          "Free of charge till 31st Dec 2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "This feature, which was priced at Rs 75 earlier, has been made Free of charge till 31st Dec 2026 on the Aadhaar App. The app has also ...",
+            "source_info_link": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286070",
+            "icon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAAAQCgCdASogACAAPtEutFooIagoGAEAGglsALO5jbpblT2BdomILaOyccAcnnhBlT1wHGB9O9aLMr55lQf9YxNgbLnjK860Uk98Px1dG-8v-1r4_TYv5PwNwAD-88y_s5ORsZ60bmEUDge5Fbbr17t-DSeg3CHNnWGEI55VLraKXKRBWfiF3J20uPgUvVrZllgvfBIdXy4TOT8-albyLvukdJIWNkx07PpbFegtrlDlMpgoE3ULsKrxJgUdmuHysxKeBx-4noovrZ_he1l7Rgc72wMaM4Ccabwqb_8QAueHgWXBNuXdKZQtHnFR73fzejj1o-A9O19mmswnv8Sh2ZwZt4wf9u2_-e2Qs-EtSQG4PGn3xfK-G_0iuRKne1aptFT8FtP0sP_s_p6_2t3zJaPstNMffq9V1FTMVUiYcd76XrN_jF804CdiTemfXiXYP39ZlVerTYd2t3EqnlfiNCPZ95Y5PzykMmowFzqdCTMkbdUiNd8zXdfDQMxMi8buQDYiwAtolG8TTd0HU-UJFTmgxKEninUWGZ-s7n8mQXy-MuX9TTac7r1HaFeUuafCRktTRJ4wv9j4mCHCDkNt4QCFlWYKOtJdbIL2rxNcWczxcjrND7NUCArw-9ALUU8W8AA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVm5wbGdDbWNNOU9SeDcxVHVndHZ2OFRMeG52dGZiMlRzN19ZLXJpMXpwRGpMZUw0RWJ2M1VWdENGd1MxakdjdnFXNWhsZjRwanJCNnltdks2MXpyYXE1YW0wUjI1alBXTEpJUWptMlQ1VnkyaFpLRndhZTVtU2R0R0ZnU2ZjM1BuUDdsaE1QNlQ1U25uR1huT3VVQVdHYTQSBBoCCAAasgUSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAjgUIABAAGAAgACorCgdhYWRoYWFyFeqD0z8aBmFhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhcioiCgRmcmVlFak6hz4aCXVwZ3JhZGluZxoKZnJlZXVwZGF0ZSotCgZ1cGRhdGUV-LlYPxoHdXBkYXRlcxoJdXBncmFkaW5nGgpmcmVldXBkYXRlKkkKBGxhc3QVAAAAABoHY2xvc2luZxoDZHVlGgNlbmQaBWZpbmFsGgZsYXRlc3QaBnJlY2VudBoIbGFzdGRhdGUaCGRlYWRsaW5lKhwKBGRhdGUVbk42PhoFZGF0ZXMaCGxhc3RkYXRlKhYKBDIwMjYVgQ8WPxoJaXY7bjsyMDI2Mq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVm5wbGdDbWNNOU9SeDcxVHVndHZ2OFRMeG52dGZiMlRzN19ZLXJpMXpwRGpMZUw0RWJ2M1VWdENGd1MxakdjdnFXNWhsZjRwanJCNnltdks2MXpyYXE1YW0wUjI1alBXTEpJUWptMlQ1VnkyaFpLRndhZTVtU2R0R0ZnU2ZjM1BuUDdsaE1QNlQ1U25uR1huT3VVQVdHYTQ6O-CkquCkpOCljeCksCDgpLjgpYLgpJrgpKjgpL4g4KSV4KS-4KSw4KWN4KSv4KS-4KSy4KSvIC0gUElCQpUBVGhpcyBmZWF0dXJlLCB3aGljaCB3YXMgcHJpY2VkIGF0IFJzIDc1IGVhcmxpZXIsIGhhcyBiZWVuIG1hZGUgPGI-RnJlZSBvZiBjaGFyZ2UgdGlsbCAzMXN0IERlYyAyMDI2PC9iPiBvbiB0aGUgQWFkaGFhciBBcHAuIFRoZSBhcHAgaGFzIGFsc28mbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVm5wbGdDbWNNOU9SeDcxVHVndHZ2OFRMeG52dGZiMlRzN19ZLXJpMXpwRGpMZUw0RWJ2M1VWdENGd1MxakdjdnFXNWhsZjRwanJCNnltdks2MXpyYXE1YW0wUjI1alBXTEpJUWptMlQ1VnkyaFpLRndhZTVtU2R0R0ZnU2ZjM1BuUDdsaE1QNlQ1U25uR1huT3VVQVdHYTQSBBoCCAAasgUSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJAjgUIABAAGAAgACorCgdhYWRoYWFyFeqD0z8aBmFhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhcioiCgRmcmVlFak6hz4aCXVwZ3JhZGluZxoKZnJlZXVwZGF0ZSotCgZ1cGRhdGUV-LlYPxoHdXBkYXRlcxoJdXBncmFkaW5nGgpmcmVldXBkYXRlKkkKBGxhc3QVAAAAABoHY2xvc2luZxoDZHVlGgNlbmQaBWZpbmFsGgZsYXRlc3QaBnJlY2VudBoIbGFzdGRhdGUaCGRlYWRsaW5lKhwKBGRhdGUVbk42PhoFZGF0ZXMaCGxhc3RkYXRlKhYKBDIwMjYVgQ8WPxoJaXY7bjsyMDI2Mq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVm5wbGdDbWNNOU9SeDcxVHVndHZ2OFRMeG52dGZiMlRzN19ZLXJpMXpwRGpMZUw0RWJ2M1VWdENGd1MxakdjdnFXNWhsZjRwanJCNnltdks2MXpyYXE1YW0wUjI1alBXTEpJUWptMlQ1VnkyaFpLRndhZTVtU2R0R0ZnU2ZjM1BuUDdsaE1QNlQ1U25uR1huT3VVQVdHYTQ6O-CkquCkpOCljeCksCDgpLjgpYLgpJrgpKjgpL4g4KSV4KS-4KSw4KWN4KSv4KS-4KSy4KSvIC0gUElCQpUBVGhpcyBmZWF0dXJlLCB3aGljaCB3YXMgcHJpY2VkIGF0IFJzIDc1IGVhcmxpZXIsIGhhcyBiZWVuIG1hZGUgPGI-RnJlZSBvZiBjaGFyZ2UgdGlsbCAzMXN0IERlYyAyMDI2PC9iPiBvbiB0aGUgQWFkaGFhciBBcHAuIFRoZSBhcHAgaGFzIGFsc28mbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "PIB",
+        "read_more_link": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286070#:~:text=This%20feature%2C%20which%20was%20priced,its%20privacy%20and%20security%20features."
+      },
+      {
+        "position": 2,
+        "title": "Aadhaar App Crosses 40 Million Downloads, Driving ...",
+        "link": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286070&reg=1&lang=1",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFWuQklWynDS_xtr1mapsr-JDVzJw84S47KFwdBzGO8Zp32icyG4aJYDO-WQU6jWlyUuDa1ZJ7iFRtVWgcZmSgCaz5dXwGWR_PgBbs7K51wz9x7nEB8OmmRovnscpAOChXM4zZb8V7tiDpta7oNcgtsWLIFE7GTYtJH10qxGyEw&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQFnoECA0QAQ&uoh=1",
+        "displayed_link": "https://www.pib.gov.in › PressReleaseDetail",
+        "favicon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAAAQCgCdASogACAAPtEutFooIagoGAEAGglsALO5jbpblT2BdomILaOyccAcnnhBlT1wHGB9O9aLMr55lQf9YxNgbLnjK860Uk98Px1dG-8v-1r4_TYv5PwNwAD-88y_s5ORsZ60bmEUDge5Fbbr17t-DSeg3CHNnWGEI55VLraKXKRBWfiF3J20uPgUvVrZllgvfBIdXy4TOT8-albyLvukdJIWNkx07PpbFegtrlDlMpgoE3ULsKrxJgUdmuHysxKeBx-4noovrZ_he1l7Rgc72wMaM4Ccabwqb_8QAueHgWXBNuXdKZQtHnFR73fzejj1o-A9O19mmswnv8Sh2ZwZt4wf9u2_-e2Qs-EtSQG4PGn3xfK-G_0iuRKne1aptFT8FtP0sP_s_p6_2t3zJaPstNMffq9V1FTMVUiYcd76XrN_jF804CdiTemfXiXYP39ZlVerTYd2t3EqnlfiNCPZ95Y5PzykMmowFzqdCTMkbdUiNd8zXdfDQMxMi8buQDYiwAtolG8TTd0HU-UJFTmgxKEninUWGZ-s7n8mQXy-MuX9TTac7r1HaFeUuafCRktTRJ4wv9j4mCHCDkNt4QCFlWYKOtJdbIL2rxNcWczxcjrND7NUCArw-9ALUU8W8AA.webp",
+        "date": "18 Jul 2026",
+        "snippet": "This feature, which was priced at Rs 75 earlier, has been made Free of charge till 31st Dec 2026 on the Aadhaar App. The app has also ...",
+        "snippet_highlighted_words": [
+          "Free of charge till 31st Dec 2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "This feature, which was priced at Rs 75 earlier, has been made Free of charge till 31st Dec 2026 on the Aadhaar App. The app has also ...",
+            "source_info_link": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286070&reg=1&lang=1",
+            "icon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAAAQCgCdASogACAAPtEutFooIagoGAEAGglsALO5jbpblT2BdomILaOyccAcnnhBlT1wHGB9O9aLMr55lQf9YxNgbLnjK860Uk98Px1dG-8v-1r4_TYv5PwNwAD-88y_s5ORsZ60bmEUDge5Fbbr17t-DSeg3CHNnWGEI55VLraKXKRBWfiF3J20uPgUvVrZllgvfBIdXy4TOT8-albyLvukdJIWNkx07PpbFegtrlDlMpgoE3ULsKrxJgUdmuHysxKeBx-4noovrZ_he1l7Rgc72wMaM4Ccabwqb_8QAueHgWXBNuXdKZQtHnFR73fzejj1o-A9O19mmswnv8Sh2ZwZt4wf9u2_-e2Qs-EtSQG4PGn3xfK-G_0iuRKne1aptFT8FtP0sP_s_p6_2t3zJaPstNMffq9V1FTMVUiYcd76XrN_jF804CdiTemfXiXYP39ZlVerTYd2t3EqnlfiNCPZ95Y5PzykMmowFzqdCTMkbdUiNd8zXdfDQMxMi8buQDYiwAtolG8TTd0HU-UJFTmgxKEninUWGZ-s7n8mQXy-MuX9TTac7r1HaFeUuafCRktTRJ4wv9j4mCHCDkNt4QCFlWYKOtJdbIL2rxNcWczxcjrND7NUCArw-9ALUU8W8AA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZXdVFrbFd5bkRTX3h0cjFtYXBzci1KRFZ6Snc4NFM0N0tGd2RCekdPOFpwMzJpY3lHNGFKWURPLVdRVTZqV2x5VXVEYTFaSjdpRlJ0VldnY1ptU2dDYXo1ZFh3R1dSX1BnQmJzN0s1MXd6OXg3bkVCOE9tbVJvdm5zY3BBT0NoWE00elpiOFY3dGlEcHRhN29OY2d0c1dMSUZFN0dUWXRKSDEwcXhHeUV3EgQaAggAGrEFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQI0FCAAQABgAIAAqKwoHYWFkaGFhchX99t4_GgZhYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIqIgoEZnJlZRUulow-Ggl1cGdyYWRpbmcaCmZyZWV1cGRhdGUqLQoGdXBkYXRlFQLbZD8aB3VwZGF0ZXMaCXVwZ3JhZGluZxoKZnJlZXVwZGF0ZSpJCgRsYXN0FWwo3jwaB2Nsb3NpbmcaA2R1ZRoDZW5kGgVmaW5hbBoGbGF0ZXN0GgZyZWNlbnQaCGxhc3RkYXRlGghkZWFkbGluZSocCgRkYXRlFd1seT4aBWRhdGVzGghsYXN0ZGF0ZSoWCgQyMDI2FXvUyj4aCWl2O247MjAyNjLAAS9nb3RvP3VybD1DQUVTZ3dFQjZ6c3dGV3VRa2xXeW5EU194dHIxbWFwc3ItSkRWekp3ODRTNDdLRndkQnpHTzhacDMyaWN5RzRhSllETy1XUVU2aldseVV1RGExWko3aUZSdFZXZ2NabVNnQ2F6NWRYd0dXUl9QZ0JiczdLNTF3ejl4N25FQjhPbW1Sb3Zuc2NwQU9DaFhNNHpaYjhWN3RpRHB0YTdvTmNndHNXTElGRTdHVFl0SkgxMHF4R3lFdzonUHJlc3MgUmVsZWFzZTogUHJlc3MgSW5mb3JtYXRpb24gQnVyZWF1QpUBVGhpcyBmZWF0dXJlLCB3aGljaCB3YXMgcHJpY2VkIGF0IFJzIDc1IGVhcmxpZXIsIGhhcyBiZWVuIG1hZGUgPGI-RnJlZSBvZiBjaGFyZ2UgdGlsbCAzMXN0IERlYyAyMDI2PC9iPiBvbiB0aGUgQWFkaGFhciBBcHAuIFRoZSBhcHAgaGFzIGFsc28mbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZXdVFrbFd5bkRTX3h0cjFtYXBzci1KRFZ6Snc4NFM0N0tGd2RCekdPOFpwMzJpY3lHNGFKWURPLVdRVTZqV2x5VXVEYTFaSjdpRlJ0VldnY1ptU2dDYXo1ZFh3R1dSX1BnQmJzN0s1MXd6OXg3bkVCOE9tbVJvdm5zY3BBT0NoWE00elpiOFY3dGlEcHRhN29OY2d0c1dMSUZFN0dUWXRKSDEwcXhHeUV3EgQaAggAGrEFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQI0FCAAQABgAIAAqKwoHYWFkaGFhchX99t4_GgZhYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIqIgoEZnJlZRUulow-Ggl1cGdyYWRpbmcaCmZyZWV1cGRhdGUqLQoGdXBkYXRlFQLbZD8aB3VwZGF0ZXMaCXVwZ3JhZGluZxoKZnJlZXVwZGF0ZSpJCgRsYXN0FWwo3jwaB2Nsb3NpbmcaA2R1ZRoDZW5kGgVmaW5hbBoGbGF0ZXN0GgZyZWNlbnQaCGxhc3RkYXRlGghkZWFkbGluZSocCgRkYXRlFd1seT4aBWRhdGVzGghsYXN0ZGF0ZSoWCgQyMDI2FXvUyj4aCWl2O247MjAyNjLAAS9nb3RvP3VybD1DQUVTZ3dFQjZ6c3dGV3VRa2xXeW5EU194dHIxbWFwc3ItSkRWekp3ODRTNDdLRndkQnpHTzhacDMyaWN5RzRhSllETy1XUVU2aldseVV1RGExWko3aUZSdFZXZ2NabVNnQ2F6NWRYd0dXUl9QZ0JiczdLNTF3ejl4N25FQjhPbW1Sb3Zuc2NwQU9DaFhNNHpaYjhWN3RpRHB0YTdvTmNndHNXTElGRTdHVFl0SkgxMHF4R3lFdzonUHJlc3MgUmVsZWFzZTogUHJlc3MgSW5mb3JtYXRpb24gQnVyZWF1QpUBVGhpcyBmZWF0dXJlLCB3aGljaCB3YXMgcHJpY2VkIGF0IFJzIDc1IGVhcmxpZXIsIGhhcyBiZWVuIG1hZGUgPGI-RnJlZSBvZiBjaGFyZ2UgdGlsbCAzMXN0IERlYyAyMDI2PC9iPiBvbiB0aGUgQWFkaGFhciBBcHAuIFRoZSBhcHAgaGFzIGFsc28mbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "PIB",
+        "read_more_link": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2286070&reg=1&lang=1#:~:text=This%20feature%2C%20which%20was%20priced,its%20privacy%20and%20security%20features."
+      },
+      {
+        "position": 3,
+        "title": "Aadhar Card Online Kaise Apply - Apps on Google Play",
+        "link": "https://indiapostgdsonline.cept.gov.in/latest-aadhar-card-online-kaise-apply-0",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFc0-ek7AbF2ZNkHB3-3fFvsWQmmMucu2ZFMpP4znFpIU2MNDIn6ZqDkhE0wb3nJzGqxGJMQq3LVtibvmcE7iDnRo9F1d00RV7cX76Byj50rScyXsgJaPoi6ioyVfl_pTDKzAoy2nfcgmr039nPCQHGrq7_mP5Vmjzronkcw_67XyP5iNmQ&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQFnoECBEQAQ&uoh=1",
+        "displayed_link": "https://indiapostgdsonline.cept.gov.in › latest-aadhar-ca...",
+        "favicon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACQBACdASocAA8APtEutFooIagoGAEAGglsAJ0dgI0AHn7O6-91RENx_FsmLBAA_vYT3G8ZBZHh8FgvHVY73V9RNscyVvF-J-APrrihpwapHqbnsvmouJEBY9HWfznA3ruUtOb5yeElnZIC1Mm4c_zNqvjcAKSelpJPrwtAy32xuhGGXLRe7P3T-Cujm6ma549vV7mXBTmM23dmjPw9u1v86axisoBAo-GO52krYP-tCWf6m8GhT0TogAA.webp",
+        "snippet": "Aadhar Card Online Kaise Apply. arrow_forward. Update date. Sep 27, 2026. communication. Data security. arrow_forward. Security begins with understanding ...",
+        "snippet_highlighted_words": [
+          "Sep 27, 2026"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 3.3,
+              "reviews": 4639
+            },
+            "extensions": [
+              "3.3(4,639)",
+              "Free",
+              "Android",
+              "Game"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Aadhar Card Online Kaise Apply. arrow_forward. Update date. Sep 27, 2026. communication. Data security. arrow_forward. Security begins with understanding ...",
+            "source_info_link": "https://indiapostgdsonline.cept.gov.in/latest-aadhar-card-online-kaise-apply-0",
+            "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACQBACdASocAA8APtEutFooIagoGAEAGglsAJ0dgI0AHn7O6-91RENx_FsmLBAA_vYT3G8ZBZHh8FgvHVY73V9RNscyVvF-J-APrrihpwapHqbnsvmouJEBY9HWfznA3ruUtOb5yeElnZIC1Mm4c_zNqvjcAKSelpJPrwtAy32xuhGGXLRe7P3T-Cujm6ma549vV7mXBTmM23dmjPw9u1v86axisoBAo-GO52krYP-tCWf6m8GhT0TogAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZjMC1lazdBYkYyWk5rSEIzLTNmRnZzV1FtbU11Y3UyWkZNcFA0em5GcElVMk1OREluNlpxRGtoRTB3YjNuSnpHcXhHSk1RcTNMVnRpYnZtY0U3aURuUm85RjFkMDBSVjdjWDc2QnlqNTByU2N5WHNnSmFQb2k2aW95VmZsX3BUREt6QW95Mm5mY2dtcjAzOW5QQ1FIR3JxN19tUDVWbWp6cm9ua2N3XzY3WHlQNWlObVESBBoCCAAa4QUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAvQUIABAAGAAgACorCgdhYWRoYWFyFUL0JD4aBmFhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhcioiCgRmcmVlFQ0Ngz4aCXVwZ3JhZGluZxoKZnJlZXVwZGF0ZSotCgZ1cGRhdGUV4I6jPxoHdXBkYXRlcxoJdXBncmFkaW5nGgpmcmVldXBkYXRlKkkKBGxhc3QVAAAAABoHY2xvc2luZxoDZHVlGgNlbmQaBWZpbmFsGgZsYXRlc3QaBnJlY2VudBoIbGFzdGRhdGUaCGRlYWRsaW5lKhwKBGRhdGUVaTDuPhoFZGF0ZXMaCGxhc3RkYXRlKhYKBDIwMjYVfmX2PxoJaXY7bjsyMDI2MsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZjMC1lazdBYkYyWk5rSEIzLTNmRnZzV1FtbU11Y3UyWkZNcFA0em5GcElVMk1OREluNlpxRGtoRTB3YjNuSnpHcXhHSk1RcTNMVnRpYnZtY0U3aURuUm85RjFkMDBSVjdjWDc2QnlqNTByU2N5WHNnSmFQb2k2aW95VmZsX3BUREt6QW95Mm5mY2dtcjAzOW5QQ1FIR3JxN19tUDVWbWp6cm9ua2N3XzY3WHlQNWlObVE6OzxiPkFhZGhhciBDYXJkPC9iPiBPbmxpbmUgS2Fpc2UgQXBwbHkgLSBBcHBzIG9uIEdvb2dsZSBQbGF5QqkBQWFkaGFyIENhcmQgT25saW5lIEthaXNlIEFwcGx5LiBhcnJvd19mb3J3YXJkLiBVcGRhdGUgZGF0ZS4gPGI-U2VwIDI3LCAyMDI2PC9iPi4gY29tbXVuaWNhdGlvbi4gRGF0YSBzZWN1cml0eS4gYXJyb3dfZm9yd2FyZC4gU2VjdXJpdHkgYmVnaW5zIHdpdGggdW5kZXJzdGFuZGluZyZuYnNwOy4uLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZjMC1lazdBYkYyWk5rSEIzLTNmRnZzV1FtbU11Y3UyWkZNcFA0em5GcElVMk1OREluNlpxRGtoRTB3YjNuSnpHcXhHSk1RcTNMVnRpYnZtY0U3aURuUm85RjFkMDBSVjdjWDc2QnlqNTByU2N5WHNnSmFQb2k2aW95VmZsX3BUREt6QW95Mm5mY2dtcjAzOW5QQ1FIR3JxN19tUDVWbWp6cm9ua2N3XzY3WHlQNWlObVESBBoCCAAa4QUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAvQUIABAAGAAgACorCgdhYWRoYWFyFUL0JD4aBmFhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhcioiCgRmcmVlFQ0Ngz4aCXVwZ3JhZGluZxoKZnJlZXVwZGF0ZSotCgZ1cGRhdGUV4I6jPxoHdXBkYXRlcxoJdXBncmFkaW5nGgpmcmVldXBkYXRlKkkKBGxhc3QVAAAAABoHY2xvc2luZxoDZHVlGgNlbmQaBWZpbmFsGgZsYXRlc3QaBnJlY2VudBoIbGFzdGRhdGUaCGRlYWRsaW5lKhwKBGRhdGUVaTDuPhoFZGF0ZXMaCGxhc3RkYXRlKhYKBDIwMjYVfmX2PxoJaXY7bjsyMDI2MsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZjMC1lazdBYkYyWk5rSEIzLTNmRnZzV1FtbU11Y3UyWkZNcFA0em5GcElVMk1OREluNlpxRGtoRTB3YjNuSnpHcXhHSk1RcTNMVnRpYnZtY0U3aURuUm85RjFkMDBSVjdjWDc2QnlqNTByU2N5WHNnSmFQb2k2aW95VmZsX3BUREt6QW95Mm5mY2dtcjAzOW5QQ1FIR3JxN19tUDVWbWp6cm9ua2N3XzY3WHlQNWlObVE6OzxiPkFhZGhhciBDYXJkPC9iPiBPbmxpbmUgS2Fpc2UgQXBwbHkgLSBBcHBzIG9uIEdvb2dsZSBQbGF5QqkBQWFkaGFyIENhcmQgT25saW5lIEthaXNlIEFwcGx5LiBhcnJvd19mb3J3YXJkLiBVcGRhdGUgZGF0ZS4gPGI-U2VwIDI3LCAyMDI2PC9iPi4gY29tbXVuaWNhdGlvbi4gRGF0YSBzZWN1cml0eS4gYXJyb3dfZm9yd2FyZC4gU2VjdXJpdHkgYmVnaW5zIHdpdGggdW5kZXJzdGFuZGluZyZuYnNwOy4uLiICEAFIAFgAaAA",
+        "source": "cept.gov.in",
+        "read_more_link": "https://indiapostgdsonline.cept.gov.in/latest-aadhar-card-online-kaise-apply-0#:~:text=Aadhar%20Card%20Online%20Kaise%20Apply,developers%20collect%20and%20share%20data."
+      },
+      {
+        "position": 4,
+        "title": "Aadhar Card With Online Gaming - Apps on Google Play",
+        "link": "https://epanchayat.bihar.gov.in/latest-aadhar-card-with-online-gaming",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFWYeqUTE18BBnL3A0apl0CrWhi17Hrr8O112Oy3vVliZXPntwOjZxCxB96jIXJhK0OhdryZbCAwF4U6P0C8MX3_K0Dm8gOMvSPKyA9517URHzQllMvViepPxPhNY36R7EgiPz0Q5a8ZISvBb_GPAMdkhwIU0HC5hb3harg&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQFnoECBYQAQ&uoh=1",
+        "displayed_link": "https://epanchayat.bihar.gov.in › latest-aadhar-card-with-...",
+        "snippet": "When Aadhar Card With Online Gaming Gets Blocked or Rejected. Update date. Sep 23, 2026. communication. Data security. arrow_forward.",
+        "snippet_highlighted_words": [
+          "Sep 23, 2026"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.5,
+              "reviews": 627676
+            },
+            "extensions": [
+              "4.5(6,27,676)",
+              "Free",
+              "Android",
+              "Game"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "When Aadhar Card With Online Gaming Gets Blocked or Rejected. Update date. Sep 23, 2026. communication. Data security. arrow_forward.",
+            "source_info_link": "https://epanchayat.bihar.gov.in/latest-aadhar-card-with-online-gaming"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZXWWVxVVRFMThCQm5MM0EwYXBsMENyV2hpMTdIcnI4TzExMk95M3ZWbGlaWFBudHdPalp4Q3hCOTZqSVhKaEswT2hkcnlaYkNBd0Y0VTZQMEM4TVgzX0swRG04Z09NdlNQS3lBOTUxN1VSSHpRbGxNdlZpZXBQeFBoTlkzNlI3RWdpUHowUTVhOFpJU3ZCYl9HUEFNZGtod0lVMEhDNWhiM2hhcmcSBBoCCAAauAUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAlAUIABAAGAAgACorCgdhYWRoYWFyFYaMJkAaBmFhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhcioiCgRmcmVlFY86jT4aCXVwZ3JhZGluZxoKZnJlZXVwZGF0ZSotCgZ1cGRhdGUVmcfYPhoHdXBkYXRlcxoJdXBncmFkaW5nGgpmcmVldXBkYXRlKkkKBGxhc3QVAAAAABoHY2xvc2luZxoDZHVlGgNlbmQaBWZpbmFsGgZsYXRlc3QaBnJlY2VudBoIbGFzdGRhdGUaCGRlYWRsaW5lKhwKBGRhdGUVArNIPxoFZGF0ZXMaCGxhc3RkYXRlKhYKBDIwMjYVaGWePxoJaXY7bjsyMDI2MrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZXWWVxVVRFMThCQm5MM0EwYXBsMENyV2hpMTdIcnI4TzExMk95M3ZWbGlaWFBudHdPalp4Q3hCOTZqSVhKaEswT2hkcnlaYkNBd0Y0VTZQMEM4TVgzX0swRG04Z09NdlNQS3lBOTUxN1VSSHpRbGxNdlZpZXBQeFBoTlkzNlI3RWdpUHowUTVhOFpJU3ZCYl9HUEFNZGtod0lVMEhDNWhiM2hhcmc6OzxiPkFhZGhhciBDYXJkPC9iPiBXaXRoIE9ubGluZSBHYW1pbmcgLSBBcHBzIG9uIEdvb2dsZSBQbGF5QowBV2hlbiBBYWRoYXIgQ2FyZCBXaXRoIE9ubGluZSBHYW1pbmcgR2V0cyBCbG9ja2VkIG9yIFJlamVjdGVkLiBVcGRhdGUgZGF0ZS4gPGI-U2VwIDIzLCAyMDI2PC9iPi4gY29tbXVuaWNhdGlvbi4gRGF0YSBzZWN1cml0eS4gYXJyb3dfZm9yd2FyZC4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZXWWVxVVRFMThCQm5MM0EwYXBsMENyV2hpMTdIcnI4TzExMk95M3ZWbGlaWFBudHdPalp4Q3hCOTZqSVhKaEswT2hkcnlaYkNBd0Y0VTZQMEM4TVgzX0swRG04Z09NdlNQS3lBOTUxN1VSSHpRbGxNdlZpZXBQeFBoTlkzNlI3RWdpUHowUTVhOFpJU3ZCYl9HUEFNZGtod0lVMEhDNWhiM2hhcmcSBBoCCAAauAUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAlAUIABAAGAAgACorCgdhYWRoYWFyFYaMJkAaBmFhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhcioiCgRmcmVlFY86jT4aCXVwZ3JhZGluZxoKZnJlZXVwZGF0ZSotCgZ1cGRhdGUVmcfYPhoHdXBkYXRlcxoJdXBncmFkaW5nGgpmcmVldXBkYXRlKkkKBGxhc3QVAAAAABoHY2xvc2luZxoDZHVlGgNlbmQaBWZpbmFsGgZsYXRlc3QaBnJlY2VudBoIbGFzdGRhdGUaCGRlYWRsaW5lKhwKBGRhdGUVArNIPxoFZGF0ZXMaCGxhc3RkYXRlKhYKBDIwMjYVaGWePxoJaXY7bjsyMDI2MrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZXWWVxVVRFMThCQm5MM0EwYXBsMENyV2hpMTdIcnI4TzExMk95M3ZWbGlaWFBudHdPalp4Q3hCOTZqSVhKaEswT2hkcnlaYkNBd0Y0VTZQMEM4TVgzX0swRG04Z09NdlNQS3lBOTUxN1VSSHpRbGxNdlZpZXBQeFBoTlkzNlI3RWdpUHowUTVhOFpJU3ZCYl9HUEFNZGtod0lVMEhDNWhiM2hhcmc6OzxiPkFhZGhhciBDYXJkPC9iPiBXaXRoIE9ubGluZSBHYW1pbmcgLSBBcHBzIG9uIEdvb2dsZSBQbGF5QowBV2hlbiBBYWRoYXIgQ2FyZCBXaXRoIE9ubGluZSBHYW1pbmcgR2V0cyBCbG9ja2VkIG9yIFJlamVjdGVkLiBVcGRhdGUgZGF0ZS4gPGI-U2VwIDIzLCAyMDI2PC9iPi4gY29tbXVuaWNhdGlvbi4gRGF0YSBzZWN1cml0eS4gYXJyb3dfZm9yd2FyZC4iAhABSABYAGgA",
+        "source": "ePanchayat | Govt. of Bihar",
+        "read_more_link": "https://epanchayat.bihar.gov.in/latest-aadhar-card-with-online-gaming#:~:text=When%20Aadhar%20Card%20With%20Online,arrow_forward"
+      },
+      {
+        "position": 5,
+        "title": "UIDAI Documents - Unique Identification Authority of ...",
+        "link": "https://old.uidai.gov.in/gu/documents",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVo-gjgpPAWfpEEKcRNmmin-GPjCqp06Ua-LGdf4zieDpVc-0xmef8HcHB965Jb_bfdSDTnJEE1uQAcEwWu2Gp3QiSJ7StRLJbsEFjDmtsKLzJm8plulwJGx5UQg&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQFnoECA8QAQ&uoh=1",
+        "displayed_link": "https://old.uidai.gov.in › Home › Documents",
+        "favicon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAADQBgCdASogABcAPtEutFooIagoGAEAGglsAJ0zGlgGFVaYBvKJEYC_2FGuN6VrsSEzi_bBBmJdXwGije09vYAA_vYJ0ecsngmxGF_eqz_z8dH6R5RyXausMNl-og5smXJ911Nn-m_yd739Dlcd5XOk1vVh3NBUgWNjkx4eczJd_LFp1mXce71orRAjizj-382EBF4I35UlFJ3lHAInEnuptfngIM-6Pl01DSEI4em7-n4CDNZjo9i3QIt6WSTb3N_rtw0qmEAn-pNFWEx2E7HGSMGN_xfE1eFASHt7VH89gHOzuD1tI9v_ypBpU_9UungOetOaZ0HH_kxy3tx3frtREJskjiwB-hw57ZULSAfeIGw5Tvo-jqZr4jJZJq2RAcT8DuWDSnxAhp67ppTbFbRGILfNcyPgog1-doQcmR04xtZIAAA.webp",
+        "snippet": "Update Aadhaar · Check Aadhaar Status · Order PVC Card · Generate VID · Retrieve ... Kindly ignore the errors if any. Last reviewed and updated on: May 12, 2026.",
+        "snippet_highlighted_words": [
+          "May 12, 2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Update Aadhaar · Check Aadhaar Status · Order PVC Card · Generate VID · Retrieve ... Kindly ignore the errors if any. Last reviewed and updated on: May 12, 2026.",
+            "source_info_link": "https://old.uidai.gov.in/gu/documents",
+            "icon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAADQBgCdASogABcAPtEutFooIagoGAEAGglsAJ0zGlgGFVaYBvKJEYC_2FGuN6VrsSEzi_bBBmJdXwGije09vYAA_vYJ0ecsngmxGF_eqz_z8dH6R5RyXausMNl-og5smXJ911Nn-m_yd739Dlcd5XOk1vVh3NBUgWNjkx4eczJd_LFp1mXce71orRAjizj-382EBF4I35UlFJ3lHAInEnuptfngIM-6Pl01DSEI4em7-n4CDNZjo9i3QIt6WSTb3N_rtw0qmEAn-pNFWEx2E7HGSMGN_xfE1eFASHt7VH89gHOzuD1tI9v_ypBpU_9UungOetOaZ0HH_kxy3tx3frtREJskjiwB-hw57ZULSAfeIGw5Tvo-jqZr4jJZJq2RAcT8DuWDSnxAhp67ppTbFbRGILfNcyPgog1-doQcmR04xtZIAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVm8tZ2pncFBBV2ZwRUVLY1JObW1pbi1HUGpDcXAwNlVhLUxHZGY0emllRHBWYy0weG1lZjhIY0hCOTY1SmJfYmZkU0RUbkpFRTF1UUFjRXdXdTJHcDNRaVNKN1N0UkxKYnNFRmpEbXRzS0x6Sm04cGx1bHdKR3g1VVFnEgQaAggAGsoFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQKYFCAAQABgAIAAqKwoHYWFkaGFhchXkrspAGgZhYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIqIgoEZnJlZRUHzyA-Ggl1cGdyYWRpbmcaCmZyZWV1cGRhdGUqLQoGdXBkYXRlFZAgOD8aB3VwZGF0ZXMaCXVwZ3JhZGluZxoKZnJlZXVwZGF0ZSpJCgRsYXN0FRkc3D4aB2Nsb3NpbmcaA2R1ZRoDZW5kGgVmaW5hbBoGbGF0ZXN0GgZyZWNlbnQaCGxhc3RkYXRlGghkZWFkbGluZSocCgRkYXRlFR5MoT4aBWRhdGVzGghsYXN0ZGF0ZSoWCgQyMDI2FSm3yD8aCWl2O247MjAyNjKQAS9nb3RvP3VybD1DQUVTWUFIck96QVZvLWdqZ3BQQVdmcEVFS2NSTm1taW4tR1BqQ3FwMDZVYS1MR2RmNHppZURwVmMtMHhtZWY4SGNIQjk2NUpiX2JmZFNEVG5KRUUxdVFBY0V3V3UyR3AzUWlTSjdTdFJMSmJzRUZqRG10c0tMekptOHBsdWx3Skd4NVVRZzpBPGI-VUlEQUk8L2I-IERvY3VtZW50cyAtIFVuaXF1ZSBJZGVudGlmaWNhdGlvbiBBdXRob3JpdHkgb2YgSW5kaWFCxAFVcGRhdGUgQWFkaGFhciAmbWlkZG90OyBDaGVjayBBYWRoYWFyIFN0YXR1cyAmbWlkZG90OyBPcmRlciBQVkMgQ2FyZCAmbWlkZG90OyBHZW5lcmF0ZSBWSUQgJm1pZGRvdDsgUmV0cmlldmUgLi4uIEtpbmRseSBpZ25vcmUgdGhlIGVycm9ycyBpZiBhbnkuIExhc3QgcmV2aWV3ZWQgYW5kIHVwZGF0ZWQgb246IDxiPk1heSAxMiwgMjAyNjwvYj4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVm8tZ2pncFBBV2ZwRUVLY1JObW1pbi1HUGpDcXAwNlVhLUxHZGY0emllRHBWYy0weG1lZjhIY0hCOTY1SmJfYmZkU0RUbkpFRTF1UUFjRXdXdTJHcDNRaVNKN1N0UkxKYnNFRmpEbXRzS0x6Sm04cGx1bHdKR3g1VVFnEgQaAggAGsoFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQKYFCAAQABgAIAAqKwoHYWFkaGFhchXkrspAGgZhYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIqIgoEZnJlZRUHzyA-Ggl1cGdyYWRpbmcaCmZyZWV1cGRhdGUqLQoGdXBkYXRlFZAgOD8aB3VwZGF0ZXMaCXVwZ3JhZGluZxoKZnJlZXVwZGF0ZSpJCgRsYXN0FRkc3D4aB2Nsb3NpbmcaA2R1ZRoDZW5kGgVmaW5hbBoGbGF0ZXN0GgZyZWNlbnQaCGxhc3RkYXRlGghkZWFkbGluZSocCgRkYXRlFR5MoT4aBWRhdGVzGghsYXN0ZGF0ZSoWCgQyMDI2FSm3yD8aCWl2O247MjAyNjKQAS9nb3RvP3VybD1DQUVTWUFIck96QVZvLWdqZ3BQQVdmcEVFS2NSTm1taW4tR1BqQ3FwMDZVYS1MR2RmNHppZURwVmMtMHhtZWY4SGNIQjk2NUpiX2JmZFNEVG5KRUUxdVFBY0V3V3UyR3AzUWlTSjdTdFJMSmJzRUZqRG10c0tMekptOHBsdWx3Skd4NVVRZzpBPGI-VUlEQUk8L2I-IERvY3VtZW50cyAtIFVuaXF1ZSBJZGVudGlmaWNhdGlvbiBBdXRob3JpdHkgb2YgSW5kaWFCxAFVcGRhdGUgQWFkaGFhciAmbWlkZG90OyBDaGVjayBBYWRoYWFyIFN0YXR1cyAmbWlkZG90OyBPcmRlciBQVkMgQ2FyZCAmbWlkZG90OyBHZW5lcmF0ZSBWSUQgJm1pZGRvdDsgUmV0cmlldmUgLi4uIEtpbmRseSBpZ25vcmUgdGhlIGVycm9ycyBpZiBhbnkuIExhc3QgcmV2aWV3ZWQgYW5kIHVwZGF0ZWQgb246IDxiPk1heSAxMiwgMjAyNjwvYj4uIgIQAUgAWABoAA",
+        "source": "Unique Identification Authority of India",
+        "read_more_link": "https://old.uidai.gov.in/gu/documents#:~:text=Update%20Aadhaar,Retrieve%20Lost%20UID&text=Kindly%20ignore%20the%20errors%20if,updated%20on%3A%20May%2012%2C%202026"
+      },
+      {
+        "position": 6,
+        "title": "Amendments to RFP for Toll Free Number-1",
+        "link": "https://www.uidai.gov.in/as/about-uidai-as/work-with-uidai-as/tenders-as-article/347-information,-education-and-communication-iec/information,-education-and-communication-iec/6119-amendments-to-rfp-for-toll-free-number-1.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQIB6zswFbX9sF6KX6_7a7cbeCcinf0B9u-FIy3aPElQ5xuY4aMvF9pv9drTGTVNtdsLvd8-3-YsKU1nmL_58XIKLM475BBrrQNGwAWI5FrIvOgZ8bnb1Yw9alYzfJsejDBKs5v8Ndk5YIf2u2-byIwPovwN7AjUolO71vOJkpunTFFF9AV0MdKC7qQy7ND4aMiSDQtsiMK0GABsw_y3z9_qvl22IyHIM5M1Mz6Y3c-PV5ffDb9iOYIMnzxYdoPSXqFq6SVb9gkkFE63qB_EYEEGbKh13sg9l2rhD_FEyLEAXAyQUCTDTeszgfiqTP4_ebnoqfsaTJKT4rb8a0PHj-F4DKs90DL8mhEuphtpDInpAJidEDef8SomxtGbjQQ&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQFnoECBcQAQ&uoh=1",
+        "displayed_link": "https://www.uidai.gov.in › 6119-a...",
+        "favicon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAADQBgCdASogABcAPtEutFooIagoGAEAGglsAJ0zGlgGFVaYBvKJEYC_2FGuN6VrsSEzi_bBBmJdXwGije09vYAA_vYJ0ecsngmxGF_eqz_z8dH6R5RyXausMNl-og5smXJ911Nn-m_yd739Dlcd5XOk1vVh3NBUgWNjkx4eczJd_LFp1mXce71orRAjizj-382EBF4I35UlFJ3lHAInEnuptfngIM-6Pl01DSEI4em7-n4CDNZjo9i3QIt6WSTb3N_rtw0qmEAn-pNFWEx2E7HGSMGN_xfE1eFASHt7VH89gHOzuD1tI9v_ypBpU_9UungOetOaZ0HH_kxy3tx3frtREJskjiwB-hw57ZULSAfeIGw5Tvo-jqZr4jJZJq2RAcT8DuWDSnxAhp67ppTbFbRGILfNcyPgog1-doQcmR04xtZIAAA.webp",
+        "date": "22 Jul 2026",
+        "snippet": "myAadhaar is undergoing a scheduled maintenance from 25 Jul 2026, 19:00 hrs to 26 Jul 2026, 09:00 hrs.During this period, updating your address ...",
+        "snippet_highlighted_words": [
+          "2026",
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "myAadhaar is undergoing a scheduled maintenance from 25 Jul 2026, 19:00 hrs to 26 Jul 2026, 09:00 hrs.During this period, updating your address ...",
+            "source_info_link": "https://www.uidai.gov.in/as/about-uidai-as/work-with-uidai-as/tenders-as-article/347-information,-education-and-communication-iec/information,-education-and-communication-iec/6119-amendments-to-rfp-for-toll-free-number-1.html",
+            "icon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAADQBgCdASogABcAPtEutFooIagoGAEAGglsAJ0zGlgGFVaYBvKJEYC_2FGuN6VrsSEzi_bBBmJdXwGije09vYAA_vYJ0ecsngmxGF_eqz_z8dH6R5RyXausMNl-og5smXJ911Nn-m_yd739Dlcd5XOk1vVh3NBUgWNjkx4eczJd_LFp1mXce71orRAjizj-382EBF4I35UlFJ3lHAInEnuptfngIM-6Pl01DSEI4em7-n4CDNZjo9i3QIt6WSTb3N_rtw0qmEAn-pNFWEx2E7HGSMGN_xfE1eFASHt7VH89gHOzuD1tI9v_ypBpU_9UungOetOaZ0HH_kxy3tx3frtREJskjiwB-hw57ZULSAfeIGw5Tvo-jqZr4jJZJq2RAcT8DuWDSnxAhp67ppTbFbRGILfNcyPgog1-doQcmR04xtZIAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0DL2dvdG8_dXJsPUNBRVNuUUlCNnpzd0ZiWDlzRjZLWDZfN2E3Y2JlQ2NpbmYwQjl1LUZJeTNhUEVsUTV4dVk0YU12RjlwdjlkclRHVFZOdGRzTHZkOC0zLVlzS1Uxbm1MXzU4WElLTE00NzVCQnJyUU5Hd0FXSTVGckl2T2daOGJuYjFZdzlhbFl6ZkpzZWpEQktzNXY4TmRrNVlJZjJ1Mi1ieUl3UG92d043QWpVb2xPNzF2T0prcHVuVEZGRjlBVjBNZEtDN3FReTdORDRhTWlTRFF0c2lNSzBHQUJzd195M3o5X3F2bDIySXlISU01TTFNejZZM2MtUFY1ZmZEYjlpT1lJTW56eFlkb1BTWHFGcTZTVmI5Z2trRkU2M3FCX0VZRUVHYktoMTNzZzlsMnJoRF9GRXlMRUFYQXlRVUNURFRlc3pnZmlxVFA0X2Vibm9xZnNhVEpLVDRyYjhhMFBIai1GNERLczkwREw4bWhFdXBodHBESW5wQUppZEVEZWY4U29teHRHYmpRURIEGgIIABqfBxIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkD7BggAEAAYACAAKisKB2FhZGhhYXIVpxiCQBoGYWFkaGFyGgV1aWRhaRoMaXY7cDthYWRoYWFyKiIKBGZyZWUVfA4IQBoJdXBncmFkaW5nGgpmcmVldXBkYXRlKi0KBnVwZGF0ZRUAAAAAGgd1cGRhdGVzGgl1cGdyYWRpbmcaCmZyZWV1cGRhdGUqSQoEbGFzdBUtY1w-GgdjbG9zaW5nGgNkdWUaA2VuZBoFZmluYWwaBmxhdGVzdBoGcmVjZW50GghsYXN0ZGF0ZRoIZGVhZGxpbmUqHAoEZGF0ZRWg0Ag_GgVkYXRlcxoIbGFzdGRhdGUqFgoEMjAyNhVJBRg_GglpdjtuOzIwMjYyjQMvZ290bz91cmw9Q0FFU25RSUI2enN3RmJYOXNGNktYNl83YTdjYmVDY2luZjBCOXUtRkl5M2FQRWxRNXh1WTRhTXZGOXB2OWRyVEdUVk50ZHNMdmQ4LTMtWXNLVTFubUxfNThYSUtMTTQ3NUJCcnJRTkd3QVdJNUZySXZPZ1o4Ym5iMVl3OWFsWXpmSnNlakRCS3M1djhOZGs1WUlmMnUyLWJ5SXdQb3Z3TjdBalVvbE83MXZPSmtwdW5URkZGOUFWME1kS0M3cVF5N05ENGFNaVNEUXRzaU1LMEdBQnN3X3kzejlfcXZsMjJJeUhJTTVNMU16NlkzYy1QVjVmZkRiOWlPWUlNbnp4WWRvUFNYcUZxNlNWYjlna2tGRTYzcUJfRVlFRUdiS2gxM3NnOWwycmhEX0ZFeUxFQVhBeVFVQ1REVGVzemdmaXFUUDRfZWJub3Fmc2FUSktUNHJiOGEwUEhqLUY0REtzOTBETDhtaEV1cGh0cERJbnBBSmlkRURlZjhTb214dEdialFROjdBbWVuZG1lbnRzIHRvIFJGUCBmb3IgVG9sbCA8Yj5GcmVlPC9iPiBOdW1iZXItMSAtIFVJREFJQqYBbXlBYWRoYWFyIGlzIHVuZGVyZ29pbmcgYSBzY2hlZHVsZWQgbWFpbnRlbmFuY2UgZnJvbSAyNSBKdWwgPGI-MjAyNjwvYj4sIDE5OjAwIGhycyB0byAyNiBKdWwgPGI-MjAyNjwvYj4sIDA5OjAwIGhycy5EdXJpbmcgdGhpcyBwZXJpb2QsIHVwZGF0aW5nIHlvdXIgYWRkcmVzcyZuYnNwOy4uLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0DL2dvdG8_dXJsPUNBRVNuUUlCNnpzd0ZiWDlzRjZLWDZfN2E3Y2JlQ2NpbmYwQjl1LUZJeTNhUEVsUTV4dVk0YU12RjlwdjlkclRHVFZOdGRzTHZkOC0zLVlzS1Uxbm1MXzU4WElLTE00NzVCQnJyUU5Hd0FXSTVGckl2T2daOGJuYjFZdzlhbFl6ZkpzZWpEQktzNXY4TmRrNVlJZjJ1Mi1ieUl3UG92d043QWpVb2xPNzF2T0prcHVuVEZGRjlBVjBNZEtDN3FReTdORDRhTWlTRFF0c2lNSzBHQUJzd195M3o5X3F2bDIySXlISU01TTFNejZZM2MtUFY1ZmZEYjlpT1lJTW56eFlkb1BTWHFGcTZTVmI5Z2trRkU2M3FCX0VZRUVHYktoMTNzZzlsMnJoRF9GRXlMRUFYQXlRVUNURFRlc3pnZmlxVFA0X2Vibm9xZnNhVEpLVDRyYjhhMFBIai1GNERLczkwREw4bWhFdXBodHBESW5wQUppZEVEZWY4U29teHRHYmpRURIEGgIIABqfBxIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkD7BggAEAAYACAAKisKB2FhZGhhYXIVpxiCQBoGYWFkaGFyGgV1aWRhaRoMaXY7cDthYWRoYWFyKiIKBGZyZWUVfA4IQBoJdXBncmFkaW5nGgpmcmVldXBkYXRlKi0KBnVwZGF0ZRUAAAAAGgd1cGRhdGVzGgl1cGdyYWRpbmcaCmZyZWV1cGRhdGUqSQoEbGFzdBUtY1w-GgdjbG9zaW5nGgNkdWUaA2VuZBoFZmluYWwaBmxhdGVzdBoGcmVjZW50GghsYXN0ZGF0ZRoIZGVhZGxpbmUqHAoEZGF0ZRWg0Ag_GgVkYXRlcxoIbGFzdGRhdGUqFgoEMjAyNhVJBRg_GglpdjtuOzIwMjYyjQMvZ290bz91cmw9Q0FFU25RSUI2enN3RmJYOXNGNktYNl83YTdjYmVDY2luZjBCOXUtRkl5M2FQRWxRNXh1WTRhTXZGOXB2OWRyVEdUVk50ZHNMdmQ4LTMtWXNLVTFubUxfNThYSUtMTTQ3NUJCcnJRTkd3QVdJNUZySXZPZ1o4Ym5iMVl3OWFsWXpmSnNlakRCS3M1djhOZGs1WUlmMnUyLWJ5SXdQb3Z3TjdBalVvbE83MXZPSmtwdW5URkZGOUFWME1kS0M3cVF5N05ENGFNaVNEUXRzaU1LMEdBQnN3X3kzejlfcXZsMjJJeUhJTTVNMU16NlkzYy1QVjVmZkRiOWlPWUlNbnp4WWRvUFNYcUZxNlNWYjlna2tGRTYzcUJfRVlFRUdiS2gxM3NnOWwycmhEX0ZFeUxFQVhBeVFVQ1REVGVzemdmaXFUUDRfZWJub3Fmc2FUSktUNHJiOGEwUEhqLUY0REtzOTBETDhtaEV1cGh0cERJbnBBSmlkRURlZjhTb214dEdialFROjdBbWVuZG1lbnRzIHRvIFJGUCBmb3IgVG9sbCA8Yj5GcmVlPC9iPiBOdW1iZXItMSAtIFVJREFJQqYBbXlBYWRoYWFyIGlzIHVuZGVyZ29pbmcgYSBzY2hlZHVsZWQgbWFpbnRlbmFuY2UgZnJvbSAyNSBKdWwgPGI-MjAyNjwvYj4sIDE5OjAwIGhycyB0byAyNiBKdWwgPGI-MjAyNjwvYj4sIDA5OjAwIGhycy5EdXJpbmcgdGhpcyBwZXJpb2QsIHVwZGF0aW5nIHlvdXIgYWRkcmVzcyZuYnNwOy4uLiICEAFIAFgAaAA",
+        "source": "Unique Identification Authority of India",
+        "read_more_link": "https://www.uidai.gov.in/as/about-uidai-as/work-with-uidai-as/tenders-as-article/347-information,-education-and-communication-iec/information,-education-and-communication-iec/6119-amendments-to-rfp-for-toll-free-number-1.html#:~:text=myAadhaar%20is%20undergoing%20a%20scheduled,this%20period%2C%20updating%20your%20address"
+      },
+      {
+        "position": 7,
+        "title": "Aadhar Card Online Kaise Apply - Apps on Google Play",
+        "link": "https://indiapostgdsonline.cept.gov.in/latest/aadhar-card-online-kaise-apply.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFWLgdOx1b6hPcSxZqrUD1NoSlswXCTHWcK-p76EFyhOgn87ojVATf-DPu7qcGSNyDAH0wdWLWztduiAk1iZ6nw0oAeZfejxbiVEwTVJtW28QsxvIwUKrkYIQ4-QvHDVW1A30y57SnMJB_TnK9RoKrAzAniPLMh7K1jxdf-ce2MYKKivTm4traQ&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQFnoECAsQAQ&uoh=1",
+        "displayed_link": "https://indiapostgdsonline.cept.gov.in › latest › aadhar-c...",
+        "favicon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACQBACdASocAA8APtEutFooIagoGAEAGglsAJ0dgI0AHn7O6-91RENx_FsmLBAA_vYT3G8ZBZHh8FgvHVY73V9RNscyVvF-J-APrrihpwapHqbnsvmouJEBY9HWfznA3ruUtOb5yeElnZIC1Mm4c_zNqvjcAKSelpJPrwtAy32xuhGGXLRe7P3T-Cujm6ma549vV7mXBTmM23dmjPw9u1v86axisoBAo-GO52krYP-tCWf6m8GhT0TogAA.webp",
+        "snippet": "Aadhar Card Online Kaise Apply. arrow_forward. Update date. Sep 26, 2026. communication. Data security. arrow_forward. Security begins with understanding ...",
+        "snippet_highlighted_words": [
+          "Sep 26, 2026"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.3,
+              "reviews": 3361
+            },
+            "extensions": [
+              "4.3(3,361)",
+              "Free",
+              "Android",
+              "Game"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Aadhar Card Online Kaise Apply. arrow_forward. Update date. Sep 26, 2026. communication. Data security. arrow_forward. Security begins with understanding ...",
+            "source_info_link": "https://indiapostgdsonline.cept.gov.in/latest/aadhar-card-online-kaise-apply.html",
+            "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACQBACdASocAA8APtEutFooIagoGAEAGglsAJ0dgI0AHn7O6-91RENx_FsmLBAA_vYT3G8ZBZHh8FgvHVY73V9RNscyVvF-J-APrrihpwapHqbnsvmouJEBY9HWfznA3ruUtOb5yeElnZIC1Mm4c_zNqvjcAKSelpJPrwtAy32xuhGGXLRe7P3T-Cujm6ma549vV7mXBTmM23dmjPw9u1v86axisoBAo-GO52krYP-tCWf6m8GhT0TogAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZXTGdkT3gxYjZoUGNTeFpxclVEMU5vU2xzd1hDVEhXY0stcDc2RUZ5aE9nbjg3b2pWQVRmLURQdTdxY0dTTnlEQUgwd2RXTFd6dGR1aUFrMWlaNm53MG9BZVpmZWp4YmlWRXdUVkp0VzI4UXN4dkl3VUtya1lJUTQtUXZIRFZXMUEzMHk1N1NuTUpCX1RuSzlSb0tyQXpBbmlQTE1oN0sxanhkZi1jZTJNWUtLaXZUbTR0cmFREgQaAggAGuUFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQMEFCAAQABgAIAAqKwoHYWFkaGFhchVC9CQ-GgZhYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIqIgoEZnJlZRVC9CQ-Ggl1cGdyYWRpbmcaCmZyZWV1cGRhdGUqLQoGdXBkYXRlFaX-nD8aB3VwZGF0ZXMaCXVwZ3JhZGluZxoKZnJlZXVwZGF0ZSpJCgRsYXN0FQAAAAAaB2Nsb3NpbmcaA2R1ZRoDZW5kGgVmaW5hbBoGbGF0ZXN0GgZyZWNlbnQaCGxhc3RkYXRlGghkZWFkbGluZSocCgRkYXRlFfaZEz8aBWRhdGVzGghsYXN0ZGF0ZSoWCgQyMDI2FdM-A0AaCWl2O247MjAyNjLMAS9nb3RvP3VybD1DQUVTakFFQjZ6c3dGV0xnZE94MWI2aFBjU3hacXJVRDFOb1Nsc3dYQ1RIV2NLLXA3NkVGeWhPZ244N29qVkFUZi1EUHU3cWNHU055REFIMHdkV0xXenRkdWlBazFpWjZudzBvQWVaZmVqeGJpVkV3VFZKdFcyOFFzeHZJd1VLcmtZSVE0LVF2SERWVzFBMzB5NTdTbk1KQl9Ubks5Um9LckF6QW5pUExNaDdLMWp4ZGYtY2UyTVlLS2l2VG00dHJhUTo7PGI-QWFkaGFyIENhcmQ8L2I-IE9ubGluZSBLYWlzZSBBcHBseSAtIEFwcHMgb24gR29vZ2xlIFBsYXlCqQFBYWRoYXIgQ2FyZCBPbmxpbmUgS2Fpc2UgQXBwbHkuIGFycm93X2ZvcndhcmQuIFVwZGF0ZSBkYXRlLiA8Yj5TZXAgMjYsIDIwMjY8L2I-LiBjb21tdW5pY2F0aW9uLiBEYXRhIHNlY3VyaXR5LiBhcnJvd19mb3J3YXJkLiBTZWN1cml0eSBiZWdpbnMgd2l0aCB1bmRlcnN0YW5kaW5nJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZXTGdkT3gxYjZoUGNTeFpxclVEMU5vU2xzd1hDVEhXY0stcDc2RUZ5aE9nbjg3b2pWQVRmLURQdTdxY0dTTnlEQUgwd2RXTFd6dGR1aUFrMWlaNm53MG9BZVpmZWp4YmlWRXdUVkp0VzI4UXN4dkl3VUtya1lJUTQtUXZIRFZXMUEzMHk1N1NuTUpCX1RuSzlSb0tyQXpBbmlQTE1oN0sxanhkZi1jZTJNWUtLaXZUbTR0cmFREgQaAggAGuUFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQMEFCAAQABgAIAAqKwoHYWFkaGFhchVC9CQ-GgZhYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIqIgoEZnJlZRVC9CQ-Ggl1cGdyYWRpbmcaCmZyZWV1cGRhdGUqLQoGdXBkYXRlFaX-nD8aB3VwZGF0ZXMaCXVwZ3JhZGluZxoKZnJlZXVwZGF0ZSpJCgRsYXN0FQAAAAAaB2Nsb3NpbmcaA2R1ZRoDZW5kGgVmaW5hbBoGbGF0ZXN0GgZyZWNlbnQaCGxhc3RkYXRlGghkZWFkbGluZSocCgRkYXRlFfaZEz8aBWRhdGVzGghsYXN0ZGF0ZSoWCgQyMDI2FdM-A0AaCWl2O247MjAyNjLMAS9nb3RvP3VybD1DQUVTakFFQjZ6c3dGV0xnZE94MWI2aFBjU3hacXJVRDFOb1Nsc3dYQ1RIV2NLLXA3NkVGeWhPZ244N29qVkFUZi1EUHU3cWNHU055REFIMHdkV0xXenRkdWlBazFpWjZudzBvQWVaZmVqeGJpVkV3VFZKdFcyOFFzeHZJd1VLcmtZSVE0LVF2SERWVzFBMzB5NTdTbk1KQl9Ubks5Um9LckF6QW5pUExNaDdLMWp4ZGYtY2UyTVlLS2l2VG00dHJhUTo7PGI-QWFkaGFyIENhcmQ8L2I-IE9ubGluZSBLYWlzZSBBcHBseSAtIEFwcHMgb24gR29vZ2xlIFBsYXlCqQFBYWRoYXIgQ2FyZCBPbmxpbmUgS2Fpc2UgQXBwbHkuIGFycm93X2ZvcndhcmQuIFVwZGF0ZSBkYXRlLiA8Yj5TZXAgMjYsIDIwMjY8L2I-LiBjb21tdW5pY2F0aW9uLiBEYXRhIHNlY3VyaXR5LiBhcnJvd19mb3J3YXJkLiBTZWN1cml0eSBiZWdpbnMgd2l0aCB1bmRlcnN0YW5kaW5nJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "cept.gov.in",
+        "read_more_link": "https://indiapostgdsonline.cept.gov.in/latest/aadhar-card-online-kaise-apply.html#:~:text=Aadhar%20Card%20Online%20Kaise%20Apply,developers%20collect%20and%20share%20data."
+      },
+      {
+        "position": 8,
+        "title": "state's first aadhaar seva kendra opens in labbipet ...",
+        "link": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=1589134&reg=37&lang=1",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFRDgVemm1nDJnT3WwLwXLB6AmjCXufHf5q_PcX7qBJHNxPsvoTBhnHrGDBvFy8CRpmXd5Fd24eS1XwTBwNtzaGr9P8iaFMmJLzQpDE0MBB-BNbNK5V3np10Zx8luVgx1HrUX7a5klJe1H8e8f1AS0v6Gtz-RS6h9397NcQqSHUU&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQFnoECBAQAQ&uoh=1",
+        "displayed_link": "https://www.pib.gov.in › PressReleaseDetail",
+        "favicon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAAAQCgCdASogACAAPtEutFooIagoGAEAGglsALO5jbpblT2BdomILaOyccAcnnhBlT1wHGB9O9aLMr55lQf9YxNgbLnjK860Uk98Px1dG-8v-1r4_TYv5PwNwAD-88y_s5ORsZ60bmEUDge5Fbbr17t-DSeg3CHNnWGEI55VLraKXKRBWfiF3J20uPgUvVrZllgvfBIdXy4TOT8-albyLvukdJIWNkx07PpbFegtrlDlMpgoE3ULsKrxJgUdmuHysxKeBx-4noovrZ_he1l7Rgc72wMaM4Ccabwqb_8QAueHgWXBNuXdKZQtHnFR73fzejj1o-A9O19mmswnv8Sh2ZwZt4wf9u2_-e2Qs-EtSQG4PGn3xfK-G_0iuRKne1aptFT8FtP0sP_s_p6_2t3zJaPstNMffq9V1FTMVUiYcd76XrN_jF804CdiTemfXiXYP39ZlVerTYd2t3EqnlfiNCPZ95Y5PzykMmowFzqdCTMkbdUiNd8zXdfDQMxMi8buQDYiwAtolG8TTd0HU-UJFTmgxKEninUWGZ-s7n8mQXy-MuX9TTac7r1HaFeUuafCRktTRJ4wv9j4mCHCDkNt4QCFlWYKOtJdbIL2rxNcWczxcjrND7NUCArw-9ALUU8W8AA.webp",
+        "date": "24 Oct 2019",
+        "snippet": "Aadhaar Enrolment, and Mandatory Biometric update of children of 5 and 15 years is free of cost. ... Last Updated On: 18 Sep 2026 17:00:00 PM.",
+        "snippet_highlighted_words": [
+          "Aadhaar",
+          "update",
+          "free",
+          "Last",
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Aadhaar Enrolment, and Mandatory Biometric update of children of 5 and 15 years is free of cost. ... Last Updated On: 18 Sep 2026 17:00:00 PM.",
+            "source_info_link": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=1589134&reg=37&lang=1",
+            "icon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAAAQCgCdASogACAAPtEutFooIagoGAEAGglsALO5jbpblT2BdomILaOyccAcnnhBlT1wHGB9O9aLMr55lQf9YxNgbLnjK860Uk98Px1dG-8v-1r4_TYv5PwNwAD-88y_s5ORsZ60bmEUDge5Fbbr17t-DSeg3CHNnWGEI55VLraKXKRBWfiF3J20uPgUvVrZllgvfBIdXy4TOT8-albyLvukdJIWNkx07PpbFegtrlDlMpgoE3ULsKrxJgUdmuHysxKeBx-4noovrZ_he1l7Rgc72wMaM4Ccabwqb_8QAueHgWXBNuXdKZQtHnFR73fzejj1o-A9O19mmswnv8Sh2ZwZt4wf9u2_-e2Qs-EtSQG4PGn3xfK-G_0iuRKne1aptFT8FtP0sP_s_p6_2t3zJaPstNMffq9V1FTMVUiYcd76XrN_jF804CdiTemfXiXYP39ZlVerTYd2t3EqnlfiNCPZ95Y5PzykMmowFzqdCTMkbdUiNd8zXdfDQMxMi8buQDYiwAtolG8TTd0HU-UJFTmgxKEninUWGZ-s7n8mQXy-MuX9TTac7r1HaFeUuafCRktTRJ4wv9j4mCHCDkNt4QCFlWYKOtJdbIL2rxNcWczxcjrND7NUCArw-9ALUU8W8AA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZSRGdWZW1tMW5ESm5UM1d3THdYTEI2QW1qQ1h1ZkhmNXFfUGNYN3FCSkhOeFBzdm9UQmhuSHJHREJ2Rnk4Q1JwbVhkNUZkMjRlUzFYd1RCd050emFHcjlQOGlhRk1tSkx6UXBERTBNQkItQk5iTks1VjNucDEwWng4bHVWZ3gxSHJVWDdhNWtsSmUxSDhlOGYxQVMwdjZHdHotUlM2aDkzOTdOY1FxU0hVVRIEGgIIABrxBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDNBQgAEAAYACAAKisKB2FhZGhhYXIV3WG3PxoGYWFkaGFyGgV1aWRhaRoMaXY7cDthYWRoYWFyKiIKBGZyZWUVAa2GPhoJdXBncmFkaW5nGgpmcmVldXBkYXRlKi0KBnVwZGF0ZRUBrYY-Ggd1cGRhdGVzGgl1cGdyYWRpbmcaCmZyZWV1cGRhdGUqSQoEbGFzdBV-Pfw8GgdjbG9zaW5nGgNkdWUaA2VuZBoFZmluYWwaBmxhdGVzdBoGcmVjZW50GghsYXN0ZGF0ZRoIZGVhZGxpbmUqHAoEZGF0ZRWjWgE_GgVkYXRlcxoIbGFzdGRhdGUqFgoEMjAyNhWWkCw_GglpdjtuOzIwMjYywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RlJEZ1ZlbW0xbkRKblQzV3dMd1hMQjZBbWpDWHVmSGY1cV9QY1g3cUJKSE54UHN2b1RCaG5IckdEQnZGeThDUnBtWGQ1RmQyNGVTMVh3VEJ3TnR6YUdyOVA4aWFGTW1KTHpRcERFME1CQi1CTmJOSzVWM25wMTBaeDhsdVZneDFIclVYN2E1a2xKZTFIOGU4ZjFBUzB2Nkd0ei1SUzZoOTM5N05jUXFTSFVVOkpzdGF0ZSYjMzk7cyBmaXJzdCA8Yj5hYWRoYWFyPC9iPiBzZXZhIGtlbmRyYSBvcGVucyBpbiBsYWJiaXBldCwgdmlqYXlhd2FkYUKxATxiPkFhZGhhYXI8L2I-IEVucm9sbWVudCwgYW5kIE1hbmRhdG9yeSBCaW9tZXRyaWMgPGI-dXBkYXRlPC9iPiBvZiBjaGlsZHJlbiBvZiA1IGFuZCAxNSB5ZWFycyBpcyA8Yj5mcmVlPC9iPiBvZiBjb3N0LiAuLi4gPGI-TGFzdDwvYj4gVXBkYXRlZCBPbjogMTggU2VwIDxiPjIwMjY8L2I-IDE3OjAwOjAwIFBNLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZSRGdWZW1tMW5ESm5UM1d3THdYTEI2QW1qQ1h1ZkhmNXFfUGNYN3FCSkhOeFBzdm9UQmhuSHJHREJ2Rnk4Q1JwbVhkNUZkMjRlUzFYd1RCd050emFHcjlQOGlhRk1tSkx6UXBERTBNQkItQk5iTks1VjNucDEwWng4bHVWZ3gxSHJVWDdhNWtsSmUxSDhlOGYxQVMwdjZHdHotUlM2aDkzOTdOY1FxU0hVVRIEGgIIABrxBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDNBQgAEAAYACAAKisKB2FhZGhhYXIV3WG3PxoGYWFkaGFyGgV1aWRhaRoMaXY7cDthYWRoYWFyKiIKBGZyZWUVAa2GPhoJdXBncmFkaW5nGgpmcmVldXBkYXRlKi0KBnVwZGF0ZRUBrYY-Ggd1cGRhdGVzGgl1cGdyYWRpbmcaCmZyZWV1cGRhdGUqSQoEbGFzdBV-Pfw8GgdjbG9zaW5nGgNkdWUaA2VuZBoFZmluYWwaBmxhdGVzdBoGcmVjZW50GghsYXN0ZGF0ZRoIZGVhZGxpbmUqHAoEZGF0ZRWjWgE_GgVkYXRlcxoIbGFzdGRhdGUqFgoEMjAyNhWWkCw_GglpdjtuOzIwMjYywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RlJEZ1ZlbW0xbkRKblQzV3dMd1hMQjZBbWpDWHVmSGY1cV9QY1g3cUJKSE54UHN2b1RCaG5IckdEQnZGeThDUnBtWGQ1RmQyNGVTMVh3VEJ3TnR6YUdyOVA4aWFGTW1KTHpRcERFME1CQi1CTmJOSzVWM25wMTBaeDhsdVZneDFIclVYN2E1a2xKZTFIOGU4ZjFBUzB2Nkd0ei1SUzZoOTM5N05jUXFTSFVVOkpzdGF0ZSYjMzk7cyBmaXJzdCA8Yj5hYWRoYWFyPC9iPiBzZXZhIGtlbmRyYSBvcGVucyBpbiBsYWJiaXBldCwgdmlqYXlhd2FkYUKxATxiPkFhZGhhYXI8L2I-IEVucm9sbWVudCwgYW5kIE1hbmRhdG9yeSBCaW9tZXRyaWMgPGI-dXBkYXRlPC9iPiBvZiBjaGlsZHJlbiBvZiA1IGFuZCAxNSB5ZWFycyBpcyA8Yj5mcmVlPC9iPiBvZiBjb3N0LiAuLi4gPGI-TGFzdDwvYj4gVXBkYXRlZCBPbjogMTggU2VwIDxiPjIwMjY8L2I-IDE3OjAwOjAwIFBNLiICEAFIAFgAaAA",
+        "source": "PIB",
+        "read_more_link": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=1589134&reg=37&lang=1#:~:text=Aadhaar%20Enrolment%2C%20and%20Mandatory%20Biometric,years%20is%20free%20of%20cost.&text=Last%20Updated%20On%3A%2018%20Sep,2026%2017%3A00%3A00%20PM"
+      },
+      {
+        "position": 9,
+        "title": "Circulars, Memorandums & Notification",
+        "link": "https://mndc.uidai.gov.in/od/circulars-memorandums-notification.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVP6LVcx1un0jIB6ZMqCyQ1kDQiPp3-PCavGBvvkgcX0eaj3Z9dp15_opE71eb7TI0yqtpyBM5kPa1n6rQsmRFi9Y5ThH4N1dsZryFbE4wgfeOPCsgrjG7HPCJkWlVtPbSu9n_czb3T2ibEgGMVTHax4916ievCVugdHA&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQFnoECA4QAQ&uoh=1",
+        "displayed_link": "https://mndc.uidai.gov.in › circulars...",
+        "favicon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAADQBgCdASogABcAPtEutFooIagoGAEAGglsAJ0zGlgGFVaYBvKJEYC_2FGuN6VrsSEzi_bBBmJdXwGije09vYAA_vYJ0ecsngmxGF_eqz_z8dH6R5RyXausMNl-og5smXJ911Nn-m_yd739Dlcd5XOk1vVh3NBUgWNjkx4eczJd_LFp1mXce71orRAjizj-382EBF4I35UlFJ3lHAInEnuptfngIM-6Pl01DSEI4em7-n4CDNZjo9i3QIt6WSTb3N_rtw0qmEAn-pNFWEx2E7HGSMGN_xfE1eFASHt7VH89gHOzuD1tI9v_ypBpU_9UungOetOaZ0HH_kxy3tx3frtREJskjiwB-hw57ZULSAfeIGw5Tvo-jqZr4jJZJq2RAcT8DuWDSnxAhp67ppTbFbRGILfNcyPgog1-doQcmR04xtZIAAA.webp",
+        "snippet": "6. Standard Operating Procedure for Date of Birth update in Aadhaar. Publish ... Last reviewed and updated on: August 7, 2026. UIDAI website translation ...",
+        "snippet_highlighted_words": [
+          "Date",
+          "update",
+          "Aadhaar",
+          "Last",
+          "2026",
+          "UIDAI"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "6. Standard Operating Procedure for Date of Birth update in Aadhaar. Publish ... Last reviewed and updated on: August 7, 2026. UIDAI website translation ...",
+            "source_info_link": "https://mndc.uidai.gov.in/od/circulars-memorandums-notification.html",
+            "icon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAADQBgCdASogABcAPtEutFooIagoGAEAGglsAJ0zGlgGFVaYBvKJEYC_2FGuN6VrsSEzi_bBBmJdXwGije09vYAA_vYJ0ecsngmxGF_eqz_z8dH6R5RyXausMNl-og5smXJ911Nn-m_yd739Dlcd5XOk1vVh3NBUgWNjkx4eczJd_LFp1mXce71orRAjizj-382EBF4I35UlFJ3lHAInEnuptfngIM-6Pl01DSEI4em7-n4CDNZjo9i3QIt6WSTb3N_rtw0qmEAn-pNFWEx2E7HGSMGN_xfE1eFASHt7VH89gHOzuD1tI9v_ypBpU_9UungOetOaZ0HH_kxy3tx3frtREJskjiwB-hw57ZULSAfeIGw5Tvo-jqZr4jJZJq2RAcT8DuWDSnxAhp67ppTbFbRGILfNcyPgog1-doQcmR04xtZIAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVlA2TFZjeDF1bjBqSUI2Wk1xQ3lRMWtEUWlQcDMtUENhdkdCdnZrZ2NYMGVhajNaOWRwMTVfb3BFNzFlYjdUSTB5cXRweUJNNWtQYTFuNnJRc21SRmk5WTVUaEg0TjFkc1pyeUZiRTR3Z2ZlT1BDc2dyakc3SFBDSmtXbFZ0UGJTdTluX2N6YjNUMmliRWdHTVZUSGF4NDkxNmlldkNWdWdkSEESBBoCCAAa-AUSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJA1AUIABAAGAAgACorCgdhYWRoYWFyFW6Lq0AaBmFhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhcioiCgRmcmVlFXwGAz4aCXVwZ3JhZGluZxoKZnJlZXVwZGF0ZSotCgZ1cGRhdGUVYPasPhoHdXBkYXRlcxoJdXBncmFkaW5nGgpmcmVldXBkYXRlKkkKBGxhc3QVK0BYPRoHY2xvc2luZxoDZHVlGgNlbmQaBWZpbmFsGgZsYXRlc3QaBnJlY2VudBoIbGFzdGRhdGUaCGRlYWRsaW5lKhwKBGRhdGUV5OHRPxoFZGF0ZXMaCGxhc3RkYXRlKhYKBDIwMjYV5nM1PxoJaXY7bjsyMDI2MrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVlA2TFZjeDF1bjBqSUI2Wk1xQ3lRMWtEUWlQcDMtUENhdkdCdnZrZ2NYMGVhajNaOWRwMTVfb3BFNzFlYjdUSTB5cXRweUJNNWtQYTFuNnJRc21SRmk5WTVUaEg0TjFkc1pyeUZiRTR3Z2ZlT1BDc2dyakc3SFBDSmtXbFZ0UGJTdTluX2N6YjNUMmliRWdHTVZUSGF4NDkxNmlldkNWdWdkSEE6P0NpcmN1bGFycywgTWVtb3JhbmR1bXMgJmFtcDsgTm90aWZpY2F0aW9uIHwgR292ZXJubWVudCBvZiBJbmRpYULLATYuIFN0YW5kYXJkIE9wZXJhdGluZyBQcm9jZWR1cmUgZm9yIDxiPkRhdGU8L2I-IG9mIEJpcnRoIDxiPnVwZGF0ZTwvYj4gaW4gPGI-QWFkaGFhcjwvYj4uIFB1Ymxpc2ggLi4uIDxiPkxhc3Q8L2I-IHJldmlld2VkIGFuZCB1cGRhdGVkIG9uOiBBdWd1c3QgNywgPGI-MjAyNjwvYj4uIDxiPlVJREFJPC9iPiB3ZWJzaXRlIHRyYW5zbGF0aW9uJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVlA2TFZjeDF1bjBqSUI2Wk1xQ3lRMWtEUWlQcDMtUENhdkdCdnZrZ2NYMGVhajNaOWRwMTVfb3BFNzFlYjdUSTB5cXRweUJNNWtQYTFuNnJRc21SRmk5WTVUaEg0TjFkc1pyeUZiRTR3Z2ZlT1BDc2dyakc3SFBDSmtXbFZ0UGJTdTluX2N6YjNUMmliRWdHTVZUSGF4NDkxNmlldkNWdWdkSEESBBoCCAAa-AUSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJA1AUIABAAGAAgACorCgdhYWRoYWFyFW6Lq0AaBmFhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhcioiCgRmcmVlFXwGAz4aCXVwZ3JhZGluZxoKZnJlZXVwZGF0ZSotCgZ1cGRhdGUVYPasPhoHdXBkYXRlcxoJdXBncmFkaW5nGgpmcmVldXBkYXRlKkkKBGxhc3QVK0BYPRoHY2xvc2luZxoDZHVlGgNlbmQaBWZpbmFsGgZsYXRlc3QaBnJlY2VudBoIbGFzdGRhdGUaCGRlYWRsaW5lKhwKBGRhdGUV5OHRPxoFZGF0ZXMaCGxhc3RkYXRlKhYKBDIwMjYV5nM1PxoJaXY7bjsyMDI2MrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVlA2TFZjeDF1bjBqSUI2Wk1xQ3lRMWtEUWlQcDMtUENhdkdCdnZrZ2NYMGVhajNaOWRwMTVfb3BFNzFlYjdUSTB5cXRweUJNNWtQYTFuNnJRc21SRmk5WTVUaEg0TjFkc1pyeUZiRTR3Z2ZlT1BDc2dyakc3SFBDSmtXbFZ0UGJTdTluX2N6YjNUMmliRWdHTVZUSGF4NDkxNmlldkNWdWdkSEE6P0NpcmN1bGFycywgTWVtb3JhbmR1bXMgJmFtcDsgTm90aWZpY2F0aW9uIHwgR292ZXJubWVudCBvZiBJbmRpYULLATYuIFN0YW5kYXJkIE9wZXJhdGluZyBQcm9jZWR1cmUgZm9yIDxiPkRhdGU8L2I-IG9mIEJpcnRoIDxiPnVwZGF0ZTwvYj4gaW4gPGI-QWFkaGFhcjwvYj4uIFB1Ymxpc2ggLi4uIDxiPkxhc3Q8L2I-IHJldmlld2VkIGFuZCB1cGRhdGVkIG9uOiBBdWd1c3QgNywgPGI-MjAyNjwvYj4uIDxiPlVJREFJPC9iPiB3ZWJzaXRlIHRyYW5zbGF0aW9uJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "Unique Identification Authority of India",
+        "read_more_link": "https://mndc.uidai.gov.in/od/circulars-memorandums-notification.html#:~:text=6.%20Standard%20Operating%20Procedure%20for,Date%20%3A%2024%20Dec%202025&text=keyboard_arrow_up"
+      },
+      {
+        "position": 10,
+        "title": "ਯੂਆਈਡੀਏਆਈ ਦਸਤਾਵੇਜ - Unique Identification Authority ...",
+        "link": "https://uidai.gov.in/pu/media-resources/uidai-documents-pu.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVML2ZKsi60F3wMBCZv2ulqEPkDyEKHE-LhCTweViqRztLlai_VtXQ0Q1xvA2a3yDU0mfRuqgqXpcmo5-Jcthqoqf8yTAYf8MgFZBnXj4sB6mGeneTqUHFfM7vCeAGXcnT5pq5uKfABlVyOh_7Yp8meaXGE_G9&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQFnoECBMQAQ&uoh=1",
+        "displayed_link": "https://uidai.gov.in › media-resources",
+        "favicon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAADQBgCdASogABcAPtEutFooIagoGAEAGglsAJ0zGlgGFVaYBvKJEYC_2FGuN6VrsSEzi_bBBmJdXwGije09vYAA_vYJ0ecsngmxGF_eqz_z8dH6R5RyXausMNl-og5smXJ911Nn-m_yd739Dlcd5XOk1vVh3NBUgWNjkx4eczJd_LFp1mXce71orRAjizj-382EBF4I35UlFJ3lHAInEnuptfngIM-6Pl01DSEI4em7-n4CDNZjo9i3QIt6WSTb3N_rtw0qmEAn-pNFWEx2E7HGSMGN_xfE1eFASHt7VH89gHOzuD1tI9v_ypBpU_9UungOetOaZ0HH_kxy3tx3frtREJskjiwB-hw57ZULSAfeIGw5Tvo-jqZr4jJZJq2RAcT8DuWDSnxAhp67ppTbFbRGILfNcyPgog1-doQcmR04xtZIAAA.webp",
+        "snippet": "6. Standard Operating Procedure for Date of Birth update in Aadhaar. 24 Dec ... Last reviewed and updated on: July 31, 2026. UIDAI website translation is ...",
+        "snippet_highlighted_words": [
+          "Date",
+          "update",
+          "Aadhaar",
+          "Last",
+          "2026",
+          "UIDAI"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "6. Standard Operating Procedure for Date of Birth update in Aadhaar. 24 Dec ... Last reviewed and updated on: July 31, 2026. UIDAI website translation is ...",
+            "source_info_link": "https://uidai.gov.in/pu/media-resources/uidai-documents-pu.html",
+            "icon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAADQBgCdASogABcAPtEutFooIagoGAEAGglsAJ0zGlgGFVaYBvKJEYC_2FGuN6VrsSEzi_bBBmJdXwGije09vYAA_vYJ0ecsngmxGF_eqz_z8dH6R5RyXausMNl-og5smXJ911Nn-m_yd739Dlcd5XOk1vVh3NBUgWNjkx4eczJd_LFp1mXce71orRAjizj-382EBF4I35UlFJ3lHAInEnuptfngIM-6Pl01DSEI4em7-n4CDNZjo9i3QIt6WSTb3N_rtw0qmEAn-pNFWEx2E7HGSMGN_xfE1eFASHt7VH89gHOzuD1tI9v_ypBpU_9UungOetOaZ0HH_kxy3tx3frtREJskjiwB-hw57ZULSAfeIGw5Tvo-jqZr4jJZJq2RAcT8DuWDSnxAhp67ppTbFbRGILfNcyPgog1-doQcmR04xtZIAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVk1MMlpLc2k2MEYzd01CQ1p2MnVscUVQa0R5RUtIRS1MaENUd2VWaXFSenRMbGFpX1Z0WFEwUTF4dkEyYTN5RFUwbWZSdXFncVhwY21vNS1KY3RocW9xZjh5VEFZZjhNZ0ZaQm5YajRzQjZtR2VuZVRxVUhGZk03dkNlQUdYY25UNXBxNXVLZkFCbFZ5T2hfN1lwOG1lYVhHRV9HORIEGgIIABrsBRIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkDIBQgAEAAYACAAKisKB2FhZGhhYXIVw56rQBoGYWFkaGFyGgV1aWRhaRoMaXY7cDthYWRoYWFyKiIKBGZyZWUV_eovPRoJdXBncmFkaW5nGgpmcmVldXBkYXRlKi0KBnVwZGF0ZRXwna4-Ggd1cGRhdGVzGgl1cGdyYWRpbmcaCmZyZWV1cGRhdGUqSQoEbGFzdBVH08E8GgdjbG9zaW5nGgNkdWUaA2VuZBoFZmluYWwaBmxhdGVzdBoGcmVjZW50GghsYXN0ZGF0ZRoIZGVhZGxpbmUqHAoEZGF0ZRWlFjw-GgVkYXRlcxoIbGFzdGRhdGUqFgoEMjAyNhWMuRU_GglpdjtuOzIwMjYysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWTUwyWktzaTYwRjN3TUJDWnYydWxxRVBrRHlFS0hFLUxoQ1R3ZVZpcVJ6dExsYWlfVnRYUTBRMXh2QTJhM3lEVTBtZlJ1cWdxWHBjbW81LUpjdGhxb3FmOHlUQVlmOE1nRlpCblhqNHNCNm1HZW5lVHFVSEZmTTd2Q2VBR1hjblQ1cHE1dUtmQUJsVnlPaF83WXA4bWVhWEdFX0c5OjngqK_gqYLgqIbgqIjgqKHgqYDgqI_gqIbgqIgg4Kim4Ki44Kik4Ki-4Ki14KmH4KicIC0gVWlkYWlCzAE2LiBTdGFuZGFyZCBPcGVyYXRpbmcgUHJvY2VkdXJlIGZvciA8Yj5EYXRlPC9iPiBvZiBCaXJ0aCA8Yj51cGRhdGU8L2I-IGluIDxiPkFhZGhhYXI8L2I-LiAyNCBEZWMgLi4uIDxiPkxhc3Q8L2I-IHJldmlld2VkIGFuZCB1cGRhdGVkIG9uOiBKdWx5IDMxLCA8Yj4yMDI2PC9iPi4gPGI-VUlEQUk8L2I-IHdlYnNpdGUgdHJhbnNsYXRpb24gaXMmbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVk1MMlpLc2k2MEYzd01CQ1p2MnVscUVQa0R5RUtIRS1MaENUd2VWaXFSenRMbGFpX1Z0WFEwUTF4dkEyYTN5RFUwbWZSdXFncVhwY21vNS1KY3RocW9xZjh5VEFZZjhNZ0ZaQm5YajRzQjZtR2VuZVRxVUhGZk03dkNlQUdYY25UNXBxNXVLZkFCbFZ5T2hfN1lwOG1lYVhHRV9HORIEGgIIABrsBRIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkDIBQgAEAAYACAAKisKB2FhZGhhYXIVw56rQBoGYWFkaGFyGgV1aWRhaRoMaXY7cDthYWRoYWFyKiIKBGZyZWUV_eovPRoJdXBncmFkaW5nGgpmcmVldXBkYXRlKi0KBnVwZGF0ZRXwna4-Ggd1cGRhdGVzGgl1cGdyYWRpbmcaCmZyZWV1cGRhdGUqSQoEbGFzdBVH08E8GgdjbG9zaW5nGgNkdWUaA2VuZBoFZmluYWwaBmxhdGVzdBoGcmVjZW50GghsYXN0ZGF0ZRoIZGVhZGxpbmUqHAoEZGF0ZRWlFjw-GgVkYXRlcxoIbGFzdGRhdGUqFgoEMjAyNhWMuRU_GglpdjtuOzIwMjYysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWTUwyWktzaTYwRjN3TUJDWnYydWxxRVBrRHlFS0hFLUxoQ1R3ZVZpcVJ6dExsYWlfVnRYUTBRMXh2QTJhM3lEVTBtZlJ1cWdxWHBjbW81LUpjdGhxb3FmOHlUQVlmOE1nRlpCblhqNHNCNm1HZW5lVHFVSEZmTTd2Q2VBR1hjblQ1cHE1dUtmQUJsVnlPaF83WXA4bWVhWEdFX0c5OjngqK_gqYLgqIbgqIjgqKHgqYDgqI_gqIbgqIgg4Kim4Ki44Kik4Ki-4Ki14KmH4KicIC0gVWlkYWlCzAE2LiBTdGFuZGFyZCBPcGVyYXRpbmcgUHJvY2VkdXJlIGZvciA8Yj5EYXRlPC9iPiBvZiBCaXJ0aCA8Yj51cGRhdGU8L2I-IGluIDxiPkFhZGhhYXI8L2I-LiAyNCBEZWMgLi4uIDxiPkxhc3Q8L2I-IHJldmlld2VkIGFuZCB1cGRhdGVkIG9uOiBKdWx5IDMxLCA8Yj4yMDI2PC9iPi4gPGI-VUlEQUk8L2I-IHdlYnNpdGUgdHJhbnNsYXRpb24gaXMmbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "Unique Identification Authority of India",
+        "read_more_link": "https://uidai.gov.in/pu/media-resources/uidai-documents-pu.html#:~:text=6.%20Standard%20Operating%20Procedure%20for,24%20Dec%202025%20%2D&text=keyboard_arrow_up"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026+(site:gov.in+OR+site:nic.in)&sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnvYPVsmQZIf8wtfjd5Yb1cjMv-aUg:1791172285279&ei=vR7Dat7WEMSX5OMPzvT1uAU&start=10&sa=N&sstk=AS6-VmL806ug7_NvmoOupvRKoYldGAsdWP3cOemUT-raQtaJao8sZ9uTaXXPfskID33k7wYTZ6xhmzBOgHKesGUx3qz_q2e_XsE3Iw&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQ8NMDegQIRBAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026+(site:gov.in+OR+site:nic.in)&sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnvYPVsmQZIf8wtfjd5Yb1cjMv-aUg:1791172285279&ei=vR7Dat7WEMSX5OMPzvT1uAU&start=10&sa=N&sstk=AS6-VmL806ug7_NvmoOupvRKoYldGAsdWP3cOemUT-raQtaJao8sZ9uTaXXPfskID33k7wYTZ6xhmzBOgHKesGUx3qz_q2e_XsE3Iw&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQ8tMDegQIRBAE",
+        "3": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026+(site:gov.in+OR+site:nic.in)&sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnvYPVsmQZIf8wtfjd5Yb1cjMv-aUg:1791172285279&ei=vR7Dat7WEMSX5OMPzvT1uAU&start=20&sa=N&sstk=AS6-VmL806ug7_NvmoOupvRKoYldGAsdWP3cOemUT-raQtaJao8sZ9uTaXXPfskID33k7wYTZ6xhmzBOgHKesGUx3qz_q2e_XsE3Iw&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQ8tMDegQIRBAG",
+        "4": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026+(site:gov.in+OR+site:nic.in)&sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnvYPVsmQZIf8wtfjd5Yb1cjMv-aUg:1791172285279&ei=vR7Dat7WEMSX5OMPzvT1uAU&start=30&sa=N&sstk=AS6-VmL806ug7_NvmoOupvRKoYldGAsdWP3cOemUT-raQtaJao8sZ9uTaXXPfskID33k7wYTZ6xhmzBOgHKesGUx3qz_q2e_XsE3Iw&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQ8tMDegQIRBAI",
+        "5": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026+(site:gov.in+OR+site:nic.in)&sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnvYPVsmQZIf8wtfjd5Yb1cjMv-aUg:1791172285279&ei=vR7Dat7WEMSX5OMPzvT1uAU&start=40&sa=N&sstk=AS6-VmL806ug7_NvmoOupvRKoYldGAsdWP3cOemUT-raQtaJao8sZ9uTaXXPfskID33k7wYTZ6xhmzBOgHKesGUx3qz_q2e_XsE3Iw&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQ8tMDegQIRBAK",
+        "6": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026+(site:gov.in+OR+site:nic.in)&sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnvYPVsmQZIf8wtfjd5Yb1cjMv-aUg:1791172285279&ei=vR7Dat7WEMSX5OMPzvT1uAU&start=50&sa=N&sstk=AS6-VmL806ug7_NvmoOupvRKoYldGAsdWP3cOemUT-raQtaJao8sZ9uTaXXPfskID33k7wYTZ6xhmzBOgHKesGUx3qz_q2e_XsE3Iw&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQ8tMDegQIRBAM",
+        "7": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026+(site:gov.in+OR+site:nic.in)&sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnvYPVsmQZIf8wtfjd5Yb1cjMv-aUg:1791172285279&ei=vR7Dat7WEMSX5OMPzvT1uAU&start=60&sa=N&sstk=AS6-VmL806ug7_NvmoOupvRKoYldGAsdWP3cOemUT-raQtaJao8sZ9uTaXXPfskID33k7wYTZ6xhmzBOgHKesGUx3qz_q2e_XsE3Iw&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQ8tMDegQIRBAO",
+        "8": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026+(site:gov.in+OR+site:nic.in)&sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnvYPVsmQZIf8wtfjd5Yb1cjMv-aUg:1791172285279&ei=vR7Dat7WEMSX5OMPzvT1uAU&start=70&sa=N&sstk=AS6-VmL806ug7_NvmoOupvRKoYldGAsdWP3cOemUT-raQtaJao8sZ9uTaXXPfskID33k7wYTZ6xhmzBOgHKesGUx3qz_q2e_XsE3Iw&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQ8tMDegQIRBAQ",
+        "9": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026+(site:gov.in+OR+site:nic.in)&sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnvYPVsmQZIf8wtfjd5Yb1cjMv-aUg:1791172285279&ei=vR7Dat7WEMSX5OMPzvT1uAU&start=80&sa=N&sstk=AS6-VmL806ug7_NvmoOupvRKoYldGAsdWP3cOemUT-raQtaJao8sZ9uTaXXPfskID33k7wYTZ6xhmzBOgHKesGUx3qz_q2e_XsE3Iw&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQ8tMDegQIRBAS",
+        "10": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026+(site:gov.in+OR+site:nic.in)&sca_esv=162034b9a39fa584&gl=in&hl=en&sxsrf=APpeQnvYPVsmQZIf8wtfjd5Yb1cjMv-aUg:1791172285279&ei=vR7Dat7WEMSX5OMPzvT1uAU&start=90&sa=N&sstk=AS6-VmL806ug7_NvmoOupvRKoYldGAsdWP3cOemUT-raQtaJao8sZ9uTaXXPfskID33k7wYTZ6xhmzBOgHKesGUx3qz_q2e_XsE3Iw&ved=2ahUKEwieqa7e_KGXAxXEC3kGHU56HVcQ8tMDegQIRBAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026+%28site%3Agov.in+OR+site%3Anic.in%29&start=90"
+      }
+    }
+  }
+}

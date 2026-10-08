@@ -1,0 +1,379 @@
+{
+  "civicsignal_fixture": {
+    "engine": "google",
+    "q": "PM Kisan next installment date 2026",
+    "params": {
+      "gl": "in",
+      "hl": "en",
+      "num": 10
+    },
+    "kind": "captured",
+    "captured_at": "2026-10-01T04:13:11.699116+00:00",
+    "note": "recurring payout; speculative 'expected' dates"
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6abdddd471b492b5bd9420fe",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/i_jD66BIS-1bFKbF2TGU0L3wtNdbGwug2Jcvt5NIrew/6abdddd471b492b5bd9420fe.json",
+      "markdown_endpoint": "https://serpapi.com/searches/i_jD66BIS-1bFKbF2TGU0L3wtNdbGwug2Jcvt5NIrew/6abdddd471b492b5bd9420fe.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/i_jD66BIS-1bFKbF2TGU0L3wtNdbGwug2Jcvt5NIrew/6abdddd471b492b5bd9420fe.json_with_pixel_position",
+      "created_at": "2026-10-01 04:13:08 UTC",
+      "processed_at": "2026-10-01 04:13:08 UTC",
+      "google_url": "https://www.google.com/search?q=PM+Kisan+next+installment+date+2026&oq=PM+Kisan+next+installment+date+2026&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/i_jD66BIS-1bFKbF2TGU0L3wtNdbGwug2Jcvt5NIrew/6abdddd471b492b5bd9420fe.html",
+      "total_time_taken": 0.65
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "PM Kisan next installment date 2026",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "PM Kisan next installment date 2026",
+      "total_results": 30800,
+      "time_taken_displayed": 0.35,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "PM Kisan 24th Installment Date 2026: When Will Rs 2000 Be ...",
+        "link": "https://www.facebook.com/FaridAhmedNaik1/posts/pm-kisan-24th-installment-date-2026-when-will-rs-2000-be-credited-to-farmers/1382595234033223/",
+        "thumbnail": "https://serpapi.com/searches/6abdddd471b492b5bd9420fe/images/y812L-6OcBXhKh1s3OSZHtgeGf5bmJG_-PJwhsPxKCc.jpeg",
+        "channel": "Farid Ahmed Naik",
+        "duration": "2:51",
+        "platform": "Facebook",
+        "date": "2 weeks ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQUkfjccxIHvtEPC1uBBMJ6t_R2rNlqpPlXgw"
+      },
+      {
+        "position": 2,
+        "title": "PM Kisan 24th Installment Release Date 2026 | सभी किसानों को ...",
+        "link": "https://www.facebook.com/JobAlertGuru/posts/pm-kisan-24th-installment-release-date-2026-%E0%A4%B8%E0%A4%AD%E0%A5%80-%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A4%BE%E0%A4%A8%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-24%E0%A4%B5%E0%A5%80-%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4-%E0%A4%B0%E0%A5%82%E0%A4%AA%E0%A4%AF%E0%A5%87-2000/1497818675695949/",
+        "thumbnail": "https://serpapi.com/searches/6abdddd471b492b5bd9420fe/images/VLlgtlCV7U5pHqpc_s_ln1zs2Fs0dCpS4Lb1ZH5LkG4.jpeg",
+        "channel": "Job Alert Guru",
+        "duration": "9:57",
+        "platform": "Facebook",
+        "date": "1 month ago"
+      },
+      {
+        "position": 3,
+        "title": "PM Kisan 14th installment Date 2026 when will RS 2000 be ...",
+        "link": "https://www.facebook.com/61593664863757/posts/pm-kisan-14th-installment-date-2026-when-will-rs-2000-be-credited-to-farmers/122111482491455495/",
+        "thumbnail": "https://serpapi.com/searches/6abdddd471b492b5bd9420fe/images/rSgSHLuKvgqr2wngVfXWQwvr9WZ3_bvpDzRdhtPTnwA.jpeg",
+        "channel": "VB G New Updates",
+        "duration": "1:01",
+        "platform": "Facebook",
+        "date": "2 weeks ago"
+      },
+      {
+        "position": 4,
+        "title": "पीएम किसान 24वीं किस्त इस दिन आएगी | PM Kisan ...",
+        "link": "https://www.facebook.com/mpsarkariinfo/posts/pm-kisan-24rd-installment-date-2026-official-update-%E0%A4%AA%E0%A5%80%E0%A4%8F%E0%A4%AE-%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A4%BE%E0%A4%A8-24%E0%A4%B5%E0%A5%80%E0%A4%82-%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4-%E0%A4%87%E0%A4%B8-%E0%A4%A6%E0%A4%BF/1525207316289751/",
+        "thumbnail": "https://serpapi.com/searches/6abdddd471b492b5bd9420fe/images/qbOnrqhfDTAMnnHkc88vjdoVX3g6vbxvWWz2RyZPNCA.jpeg",
+        "channel": "MP Sarkari Info",
+        "duration": "0:10",
+        "platform": "Facebook",
+        "date": "1 month ago"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "Is PM-KISAN 22th installment credited?",
+        "type": "ai_overview",
+        "page_token": "9eTGlXicHdBNcoIwGIDh6WVcVgJqxRmnM1TiTwVLMF80m05MBIREqKIou96lp-pp6nT3Lp95v3_04Vj8Pl2zuq7Oo263aZrntCxTvX-WpemK8_0ou1JovROyGA1eBug1kWP_MvfevuZeRKsKJsRaTzzGfX4W2I2Wjwp9nisE5Y6FJzD8ogAfREHiwFbWntW9kGYEpujODF-Ejk4CJyv3TBkAeaeG1CTHNjPVNCrOPTXxFoFTYd56wc6ueGQTs9PDW-BAn828a0QREYXuA-K-mC3iPSU-B7zaON49OMIHFPx95UO0aXG4td3ZtsWE0WENDK0IrS8CVa2YEEOxm4dO2gJdOH4mb-t83t9uCAKqlrGVNQrjSPluEm5CT97KQ0RJK3Nt6JGvQbtrmPasLQsQedjA6pcxxkxZaU1sN1BNJ5HXsdP5_zn-TEw9qk5l-gfIh4IW",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9eTGlXicHdBNcoIwGIDh6WVcVgJqxRmnM1TiTwVLMF80m05MBIREqKIou96lp-pp6nT3Lp95v3_04Vj8Pl2zuq7Oo263aZrntCxTvX-WpemK8_0ou1JovROyGA1eBug1kWP_MvfevuZeRKsKJsRaTzzGfX4W2I2Wjwp9nisE5Y6FJzD8ogAfREHiwFbWntW9kGYEpujODF-Ejk4CJyv3TBkAeaeG1CTHNjPVNCrOPTXxFoFTYd56wc6ueGQTs9PDW-BAn828a0QREYXuA-K-mC3iPSU-B7zaON49OMIHFPx95UO0aXG4td3ZtsWE0WENDK0IrS8CVa2YEEOxm4dO2gJdOH4mb-t83t9uCAKqlrGVNQrjSPluEm5CT97KQ0RJK3Nt6JGvQbtrmPasLQsQedjA6pcxxkxZaU1sN1BNJ5HXsdP5_zn-TEw9qk5l-gfIh4IW",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVqRjJjVUU1V25kdGVGTmFOa2c1T0hkUGNHaHBSMGhPYjBwcGFuTXlhWFpKY21ONVpIQkNhMTl4Vm5kamRVZFJNblJCY1VSQ1RVVTFiREo0YTBoelVWZHFhakpOVkVvMmVFVnNXRmhqZW1kT1FsZFBhV1ZCYjJ0VVp4SVhNVTR5T1dGMGRWVkhTMHRJY0hSUlVIUlBYelZ6UVhNYUlrRkVjM0k1WmxGTFNHZHJNVXQ2WmtaS2JrNHlaMGt5YlhGWWFFOU9RalJ5ZDBFIiwiZmN2IjoiMyIsImVpIjoiMU4yOWF0dVVHS0tIcHRRUHRPXzVzQXMiLCJxYyI6IkNpTndiU0JyYVhOaGJpQnVaWGgwSUdsdWMzUmhiR3h0Wlc1MElHUmhkR1VnTWpBeU5oQUFmYnF6cVQ0IiwicXVlc3Rpb24iOiJJcyBQTS1LSVNBTiAyMnRoIGluc3RhbGxtZW50IGNyZWRpdGVkPyIsImxrIjoiR2lWcGN5QndiU0JyYVhOaGJpQXlNblJvSUdsdWMzUmhiR3h0Wlc1MElHTnlaV1JwZEdWayIsImJzIjoiYzNYT3dRcUNRQkNBWWJydXFmTmVtcUMwb0VEMjBGV2lrNFJTU0hsZTNJMGQwaTNjQVh2OHpFZ3I4RFF3ZlBNejdNaTh5TUVoWHUtamRKdUFFR1FBclNOWkZLVzJCSG1sRlpKV29mRDVIQjNjUzdpaWszWllzaE5iWkViYmJ0SFhyWDdROTAwb2x0eXZmMnpYXzdkTk5zaU1iSFlPeU9nMjJzSlVsbVV6RWxRR29VQkhjTGxWSUFLeENjV1VUN3FnZXp2YnU1ZGhaN2JLRE9ZR2xDVDlpZTlpR1ByWTQ3TzY5X25RdS1QUkV3IiwiaWQiOiJmY18xTjI5YXR1VUdLS0hwdFFQdE9fNXNBc181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVqRjJjVUU1V25kdGVGTmFOa2c1T0hkUGNHaHBSMGhPYjBwcGFuTXlhWFpKY21ONVpIQkNhMTl4Vm5kamRVZFJNblJCY1VSQ1RVVTFiREo0YTBoelVWZHFhakpOVkVvMmVFVnNXRmhqZW1kT1FsZFBhV1ZCYjJ0VVp4SVhNVTR5T1dGMGRWVkhTMHRJY0hSUlVIUlBYelZ6UVhNYUlrRkVjM0k1WmxGTFNHZHJNVXQ2WmtaS2JrNHlaMGt5YlhGWWFFOU9RalJ5ZDBFIiwiZmN2IjoiMyIsImVpIjoiMU4yOWF0dVVHS0tIcHRRUHRPXzVzQXMiLCJxYyI6IkNpTndiU0JyYVhOaGJpQnVaWGgwSUdsdWMzUmhiR3h0Wlc1MElHUmhkR1VnTWpBeU5oQUFmYnF6cVQ0IiwicXVlc3Rpb24iOiJJcyBQTS1LSVNBTiAyMnRoIGluc3RhbGxtZW50IGNyZWRpdGVkPyIsImxrIjoiR2lWcGN5QndiU0JyYVhOaGJpQXlNblJvSUdsdWMzUmhiR3h0Wlc1MElHTnlaV1JwZEdWayIsImJzIjoiYzNYT3dRcUNRQkNBWWJydXFmTmVtcUMwb0VEMjBGV2lrNFJTU0hsZTNJMGQwaTNjQVh2OHpFZ3I4RFF3ZlBNejdNaTh5TUVoWHUtamRKdUFFR1FBclNOWkZLVzJCSG1sRlpKV29mRDVIQjNjUzdpaWszWllzaE5iWkViYmJ0SFhyWDdROTAwb2x0eXZmMnpYXzdkTk5zaU1iSFlPeU9nMjJzSlVsbVV6RWxRR29VQkhjTGxWSUFLeENjV1VUN3FnZXp2YnU1ZGhaN2JLRE9ZR2xDVDlpZTlpR1ByWTQ3TzY5X25RdS1QUkV3IiwiaWQiOiJmY18xTjI5YXR1VUdLS0hwdFFQdE9fNXNBc181In0%3D"
+      },
+      {
+        "question": "When credited PM-KISAN next installment?",
+        "type": "ai_overview",
+        "page_token": "z8p713icHdDBToMwHIDx-DIeHQXRuGQxQSkwRzNK-y_0YlgZY6MF5piw3XwXn8qn0Xj7jr98X9963zY_N5_1MPSn-Ww2juPdrut2enunOjMrTpdWzVSh9aZQzfzh8QE9V2rhnyPv5Rh5Ce97eKVW2nqNMsklDvOrBIpYgNGKxwiCkrFMhkrggrd1ugl6Hmf0LDLu5gcdMLOsoe1z3sIpDdCQIM8u7Don6Kko-GkkGF-2YjpurIHlgoC0dah8SkgLMfDc4S-Wy0V_TqGu4ErXDHVT7iz34MBaaowFEKpCYALTpWjunb_2U2uyJavNxhBXZpLHoT4Tp2xJqNfUJpm0kefXamKHyM0zioCXq9SqxxLjpPSfKpIRT03dPuH0qg7acEHfSrM8bLPIJbi5MMDmzytYKFdghkhwcizH20p9Lpzb_5-L98oM8_6j2_0C6OCDBA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=z8p713icHdDBToMwHIDx-DIeHQXRuGQxQSkwRzNK-y_0YlgZY6MF5piw3XwXn8qn0Xj7jr98X9963zY_N5_1MPSn-Ww2juPdrut2enunOjMrTpdWzVSh9aZQzfzh8QE9V2rhnyPv5Rh5Ce97eKVW2nqNMsklDvOrBIpYgNGKxwiCkrFMhkrggrd1ugl6Hmf0LDLu5gcdMLOsoe1z3sIpDdCQIM8u7Don6Kko-GkkGF-2YjpurIHlgoC0dah8SkgLMfDc4S-Wy0V_TqGu4ErXDHVT7iz34MBaaowFEKpCYALTpWjunb_2U2uyJavNxhBXZpLHoT4Tp2xJqNfUJpm0kefXamKHyM0zioCXq9SqxxLjpPSfKpIRT03dPuH0qg7acEHfSrM8bLPIJbi5MMDmzytYKFdghkhwcizH20p9Lpzb_5-L98oM8_6j2_0C6OCDBA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVqRjJjVUU1V25kdGVGTmFOa2c1T0hkUGNHaHBSMGhPYjBwcGFuTXlhWFpKY21ONVpIQkNhMTl4Vm5kamRVZFJNblJCY1VSQ1RVVTFiREo0YTBoelVWZHFhakpOVkVvMmVFVnNXRmhqZW1kT1FsZFBhV1ZCYjJ0VVp4SVhNVTR5T1dGMGRWVkhTMHRJY0hSUlVIUlBYelZ6UVhNYUlrRkVjM0k1WmxGTFNHZHJNVXQ2WmtaS2JrNHlaMGt5YlhGWWFFOU9RalJ5ZDBFIiwiZmN2IjoiMyIsImVpIjoiMU4yOWF0dVVHS0tIcHRRUHRPXzVzQXMiLCJxYyI6IkNpTndiU0JyYVhOaGJpQnVaWGgwSUdsdWMzUmhiR3h0Wlc1MElHUmhkR1VnTWpBeU5oQUFmYnF6cVQ0IiwicXVlc3Rpb24iOiJXaGVuIGNyZWRpdGVkIFBNLUtJU0FOIG5leHQgaW5zdGFsbG1lbnQ/IiwibGsiOiJHaWQzYUdWdUlHTnlaV1JwZEdWa0lIQnRJR3RwYzJGdUlHNWxlSFFnYVc1emRHRnNiRzFsYm5RIiwiYnMiOiJjM1hPd1FxQ1FCQ0FZYnJ1cWZOZW1xQzBvRUQyMEZXaWs0UlNTSGxlM0kwZDBpM2NBWHY4ekVncjhEUXdmUE16N01pOHlNRWhYdS1qZEp1QUVHUUFyU05aRktXMkJIbWxGWkpXb2ZENUhCM2NTN2lpazNaWXNoTmJaRWJiYnRIWHJYN1E5MDBvbHR5dmYyelhfN2ROTnNpTWJIWU95T2cyMnNKVWxtVXpFbFFHb1VCSGNMbFZJQUt4Q2NXVVQ3cWdlenZidTVkaFo3YktET1lHbENUOWllOWlHUHJZNDdPNjlfblF1LVBSRXciLCJpZCI6ImZjXzFOMjlhdHVVR0tLSHB0UVB0T181c0FzXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVqRjJjVUU1V25kdGVGTmFOa2c1T0hkUGNHaHBSMGhPYjBwcGFuTXlhWFpKY21ONVpIQkNhMTl4Vm5kamRVZFJNblJCY1VSQ1RVVTFiREo0YTBoelVWZHFhakpOVkVvMmVFVnNXRmhqZW1kT1FsZFBhV1ZCYjJ0VVp4SVhNVTR5T1dGMGRWVkhTMHRJY0hSUlVIUlBYelZ6UVhNYUlrRkVjM0k1WmxGTFNHZHJNVXQ2WmtaS2JrNHlaMGt5YlhGWWFFOU9RalJ5ZDBFIiwiZmN2IjoiMyIsImVpIjoiMU4yOWF0dVVHS0tIcHRRUHRPXzVzQXMiLCJxYyI6IkNpTndiU0JyYVhOaGJpQnVaWGgwSUdsdWMzUmhiR3h0Wlc1MElHUmhkR1VnTWpBeU5oQUFmYnF6cVQ0IiwicXVlc3Rpb24iOiJXaGVuIGNyZWRpdGVkIFBNLUtJU0FOIG5leHQgaW5zdGFsbG1lbnQ%2FIiwibGsiOiJHaWQzYUdWdUlHTnlaV1JwZEdWa0lIQnRJR3RwYzJGdUlHNWxlSFFnYVc1emRHRnNiRzFsYm5RIiwiYnMiOiJjM1hPd1FxQ1FCQ0FZYnJ1cWZOZW1xQzBvRUQyMEZXaWs0UlNTSGxlM0kwZDBpM2NBWHY4ekVncjhEUXdmUE16N01pOHlNRWhYdS1qZEp1QUVHUUFyU05aRktXMkJIbWxGWkpXb2ZENUhCM2NTN2lpazNaWXNoTmJaRWJiYnRIWHJYN1E5MDBvbHR5dmYyelhfN2ROTnNpTWJIWU95T2cyMnNKVWxtVXpFbFFHb1VCSGNMbFZJQUt4Q2NXVVQ3cWdlenZidTVkaFo3YktET1lHbENUOWllOWlHUHJZNDdPNjlfblF1LVBSRXciLCJpZCI6ImZjXzFOMjlhdHVVR0tLSHB0UVB0T181c0FzXzUifQ%3D%3D"
+      },
+      {
+        "question": "What is the PM-Kisan Samman Nidhi list for 2026?",
+        "type": "ai_overview",
+        "page_token": "rNf-RXicHdBfbpswHABg7TJ9bOw4pEmkaCrFhkoLmQ3-GXipwA5xEvNnLQ00b7vCzrBT7TSreoNP3--_7tRe_n37Y4ehf9vMZuM43h-77ugO97prZuXbR6tnunSuKvVls3xY4u-13tKr9p9etc9l30MgUNKYAYjPi7NYHCLnQThFksSeJsUIoddINFiNV5NBbpm2F1RF8mbcOkmcFfsUpj3FvMzgZ0XNCPNhJxWOS4B9SUxYAKsPii4kY--KcZKnu9HI1aCcY3kLpwRsI6R9SrB7V4EcJZ1Eme28imJZRo-LgnQ3jYzNIZ_gZsaSWK5ghfeKKUNds3MOVQj_kmodpGERx9jNRbhCn_Y-afQiI9Aa4k_JZR1kyF2p1VN6fvbyTGCQ5keC7GgY44au6ziLfT11Jy7FTZ9dIzFLVeD3MYvTas5CkLEQrG90AEES2qiQlnB-V-vrltx9XW9f6mbY9K_d8T9LSIr2",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rNf-RXicHdBfbpswHABg7TJ9bOw4pEmkaCrFhkoLmQ3-GXipwA5xEvNnLQ00b7vCzrBT7TSreoNP3--_7tRe_n37Y4ehf9vMZuM43h-77ugO97prZuXbR6tnunSuKvVls3xY4u-13tKr9p9etc9l30MgUNKYAYjPi7NYHCLnQThFksSeJsUIoddINFiNV5NBbpm2F1RF8mbcOkmcFfsUpj3FvMzgZ0XNCPNhJxWOS4B9SUxYAKsPii4kY--KcZKnu9HI1aCcY3kLpwRsI6R9SrB7V4EcJZ1Eme28imJZRo-LgnQ3jYzNIZ_gZsaSWK5ghfeKKUNds3MOVQj_kmodpGERx9jNRbhCn_Y-afQiI9Aa4k_JZR1kyF2p1VN6fvbyTGCQ5keC7GgY44au6ziLfT11Jy7FTZ9dIzFLVeD3MYvTas5CkLEQrG90AEES2qiQlnB-V-vrltx9XW9f6mbY9K_d8T9LSIr2",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVqRjJjVUU1V25kdGVGTmFOa2c1T0hkUGNHaHBSMGhPYjBwcGFuTXlhWFpKY21ONVpIQkNhMTl4Vm5kamRVZFJNblJCY1VSQ1RVVTFiREo0YTBoelVWZHFhakpOVkVvMmVFVnNXRmhqZW1kT1FsZFBhV1ZCYjJ0VVp4SVhNVTR5T1dGMGRWVkhTMHRJY0hSUlVIUlBYelZ6UVhNYUlrRkVjM0k1WmxGTFNHZHJNVXQ2WmtaS2JrNHlaMGt5YlhGWWFFOU9RalJ5ZDBFIiwiZmN2IjoiMyIsImVpIjoiMU4yOWF0dVVHS0tIcHRRUHRPXzVzQXMiLCJxYyI6IkNpTndiU0JyYVhOaGJpQnVaWGgwSUdsdWMzUmhiR3h0Wlc1MElHUmhkR1VnTWpBeU5oQUFmYnF6cVQ0IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBQTS1LaXNhbiBTYW1tYW4gTmlkaGkgbGlzdCBmb3IgMjAyNj8iLCJsayI6IkdoOXdiU0JyYVhOaGJpQnpZVzF0WVc0Z2JtbGthR2tnYkdsemRDQXlNREkyIiwiYnMiOiJjM1hPd1FxQ1FCQ0FZYnJ1cWZOZW1xQzBvRUQyMEZXaWs0UlNTSGxlM0kwZDBpM2NBWHY4ekVncjhEUXdmUE16N01pOHlNRWhYdS1qZEp1QUVHUUFyU05aRktXMkJIbWxGWkpXb2ZENUhCM2NTN2lpazNaWXNoTmJaRWJiYnRIWHJYN1E5MDBvbHR5dmYyelhfN2ROTnNpTWJIWU95T2cyMnNKVWxtVXpFbFFHb1VCSGNMbFZJQUt4Q2NXVVQ3cWdlenZidTVkaFo3YktET1lHbENUOWllOWlHUHJZNDdPNjlfblF1LVBSRXciLCJpZCI6ImZjXzFOMjlhdHVVR0tLSHB0UVB0T181c0FzXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVqRjJjVUU1V25kdGVGTmFOa2c1T0hkUGNHaHBSMGhPYjBwcGFuTXlhWFpKY21ONVpIQkNhMTl4Vm5kamRVZFJNblJCY1VSQ1RVVTFiREo0YTBoelVWZHFhakpOVkVvMmVFVnNXRmhqZW1kT1FsZFBhV1ZCYjJ0VVp4SVhNVTR5T1dGMGRWVkhTMHRJY0hSUlVIUlBYelZ6UVhNYUlrRkVjM0k1WmxGTFNHZHJNVXQ2WmtaS2JrNHlaMGt5YlhGWWFFOU9RalJ5ZDBFIiwiZmN2IjoiMyIsImVpIjoiMU4yOWF0dVVHS0tIcHRRUHRPXzVzQXMiLCJxYyI6IkNpTndiU0JyYVhOaGJpQnVaWGgwSUdsdWMzUmhiR3h0Wlc1MElHUmhkR1VnTWpBeU5oQUFmYnF6cVQ0IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBQTS1LaXNhbiBTYW1tYW4gTmlkaGkgbGlzdCBmb3IgMjAyNj8iLCJsayI6IkdoOXdiU0JyYVhOaGJpQnpZVzF0WVc0Z2JtbGthR2tnYkdsemRDQXlNREkyIiwiYnMiOiJjM1hPd1FxQ1FCQ0FZYnJ1cWZOZW1xQzBvRUQyMEZXaWs0UlNTSGxlM0kwZDBpM2NBWHY4ekVncjhEUXdmUE16N01pOHlNRWhYdS1qZEp1QUVHUUFyU05aRktXMkJIbWxGWkpXb2ZENUhCM2NTN2lpazNaWXNoTmJaRWJiYnRIWHJYN1E5MDBvbHR5dmYyelhfN2ROTnNpTWJIWU95T2cyMnNKVWxtVXpFbFFHb1VCSGNMbFZJQUt4Q2NXVVQ3cWdlenZidTVkaFo3YktET1lHbENUOWllOWlHUHJZNDdPNjlfblF1LVBSRXciLCJpZCI6ImZjXzFOMjlhdHVVR0tLSHB0UVB0T181c0FzXzUifQ%3D%3D"
+      },
+      {
+        "question": "Which date is the CM KISAN next installment?",
+        "type": "ai_overview",
+        "page_token": "noMG03icHZDBboIwAECzn_E4gYnLTMyyzlZxUEPXFuhlwVYFbIENBOS2f9lX7Wtmdn6H9_K-f3Renn_vuqxt62YxnfZ9f3-qqpM-3MvKTNPmWsqpTLXep_K8mD_O7eejXMKLB14_PRCyuuYrYr2P2zdaEuZzkkcFpjRyXQIJ8qNqkBtUcIQHAfkliUnCRtZSmDV7iIBPARRIJXJEX9whnbRsjB3hh6ZumBEde7VDUXKyP-vZbh3YCcfr1EFBEuu1MM11B-t5yj33YG424_ZkBZIDfbECM0R0QzrBa0_pLfFj4EuLEw55QpynqyizEpuWBAXoWBnMIqrGCKKcWxgoGwGYyYEWnnvrtTlT_ruV9QqhUMGnI44xkEOVh4yMstCGFSDG55mVjtmN27myQcYdjSOezcLIG8WoYtFPjrJbPkz-fy4_jqZd1F_V6Q8dj4M8",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=noMG03icHZDBboIwAECzn_E4gYnLTMyyzlZxUEPXFuhlwVYFbIENBOS2f9lX7Wtmdn6H9_K-f3Renn_vuqxt62YxnfZ9f3-qqpM-3MvKTNPmWsqpTLXep_K8mD_O7eejXMKLB14_PRCyuuYrYr2P2zdaEuZzkkcFpjRyXQIJ8qNqkBtUcIQHAfkliUnCRtZSmDV7iIBPARRIJXJEX9whnbRsjB3hh6ZumBEde7VDUXKyP-vZbh3YCcfr1EFBEuu1MM11B-t5yj33YG424_ZkBZIDfbECM0R0QzrBa0_pLfFj4EuLEw55QpynqyizEpuWBAXoWBnMIqrGCKKcWxgoGwGYyYEWnnvrtTlT_ruV9QqhUMGnI44xkEOVh4yMstCGFSDG55mVjtmN27myQcYdjSOezcLIG8WoYtFPjrJbPkz-fy4_jqZd1F_V6Q8dj4M8",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVqRjJjVUU1V25kdGVGTmFOa2c1T0hkUGNHaHBSMGhPYjBwcGFuTXlhWFpKY21ONVpIQkNhMTl4Vm5kamRVZFJNblJCY1VSQ1RVVTFiREo0YTBoelVWZHFhakpOVkVvMmVFVnNXRmhqZW1kT1FsZFBhV1ZCYjJ0VVp4SVhNVTR5T1dGMGRWVkhTMHRJY0hSUlVIUlBYelZ6UVhNYUlrRkVjM0k1WmxGTFNHZHJNVXQ2WmtaS2JrNHlaMGt5YlhGWWFFOU9RalJ5ZDBFIiwiZmN2IjoiMyIsImVpIjoiMU4yOWF0dVVHS0tIcHRRUHRPXzVzQXMiLCJxYyI6IkNpTndiU0JyYVhOaGJpQnVaWGgwSUdsdWMzUmhiR3h0Wlc1MElHUmhkR1VnTWpBeU5oQUFmYnF6cVQ0IiwicXVlc3Rpb24iOiJXaGljaCBkYXRlIGlzIHRoZSBDTSBLSVNBTiBuZXh0IGluc3RhbGxtZW50PyIsImxrIjoiR2lSM2FHbGphQ0JrWVhSbElHTnRJR3RwYzJGdUlHNWxlSFFnYVc1emRHRnNiRzFsYm5RIiwiYnMiOiJjM1hPd1FxQ1FCQ0FZYnJ1cWZOZW1xQzBvRUQyMEZXaWs0UlNTSGxlM0kwZDBpM2NBWHY4ekVncjhEUXdmUE16N01pOHlNRWhYdS1qZEp1QUVHUUFyU05aRktXMkJIbWxGWkpXb2ZENUhCM2NTN2lpazNaWXNoTmJaRWJiYnRIWHJYN1E5MDBvbHR5dmYyelhfN2ROTnNpTWJIWU95T2cyMnNKVWxtVXpFbFFHb1VCSGNMbFZJQUt4Q2NXVVQ3cWdlenZidTVkaFo3YktET1lHbENUOWllOWlHUHJZNDdPNjlfblF1LVBSRXciLCJpZCI6ImZjXzFOMjlhdHVVR0tLSHB0UVB0T181c0FzXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVqRjJjVUU1V25kdGVGTmFOa2c1T0hkUGNHaHBSMGhPYjBwcGFuTXlhWFpKY21ONVpIQkNhMTl4Vm5kamRVZFJNblJCY1VSQ1RVVTFiREo0YTBoelVWZHFhakpOVkVvMmVFVnNXRmhqZW1kT1FsZFBhV1ZCYjJ0VVp4SVhNVTR5T1dGMGRWVkhTMHRJY0hSUlVIUlBYelZ6UVhNYUlrRkVjM0k1WmxGTFNHZHJNVXQ2WmtaS2JrNHlaMGt5YlhGWWFFOU9RalJ5ZDBFIiwiZmN2IjoiMyIsImVpIjoiMU4yOWF0dVVHS0tIcHRRUHRPXzVzQXMiLCJxYyI6IkNpTndiU0JyYVhOaGJpQnVaWGgwSUdsdWMzUmhiR3h0Wlc1MElHUmhkR1VnTWpBeU5oQUFmYnF6cVQ0IiwicXVlc3Rpb24iOiJXaGljaCBkYXRlIGlzIHRoZSBDTSBLSVNBTiBuZXh0IGluc3RhbGxtZW50PyIsImxrIjoiR2lSM2FHbGphQ0JrWVhSbElHTnRJR3RwYzJGdUlHNWxlSFFnYVc1emRHRnNiRzFsYm5RIiwiYnMiOiJjM1hPd1FxQ1FCQ0FZYnJ1cWZOZW1xQzBvRUQyMEZXaWs0UlNTSGxlM0kwZDBpM2NBWHY4ekVncjhEUXdmUE16N01pOHlNRWhYdS1qZEp1QUVHUUFyU05aRktXMkJIbWxGWkpXb2ZENUhCM2NTN2lpazNaWXNoTmJaRWJiYnRIWHJYN1E5MDBvbHR5dmYyelhfN2ROTnNpTWJIWU95T2cyMnNKVWxtVXpFbFFHb1VCSGNMbFZJQUt4Q2NXVVQ3cWdlenZidTVkaFo3YktET1lHbENUOWllOWlHUHJZNDdPNjlfblF1LVBSRXciLCJpZCI6ImZjXzFOMjlhdHVVR0tLSHB0UVB0T181c0FzXzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "ioz2aHiczVXdcqpIEH6AfY7lJlHAn0RTRZ2aGQclmhgk5JzkhuLPAeXHOBgxd_sG-xD7VPs0Z4Bg0EhS51xsbWvRzExPT093f3x__RP40fLfP_72kmRFr3h-u902SRyTwG3accibdBfZ_DwO6Nr2vpFA8iPOCyQ34nYvUpuzqSRwri-Jt62-mWz04Xg8WiXqXTI1uhRQLt8uGZZJ3QXzni4ob_DssfyzPWCDJm26kTGEzdmLODVeR8gkdrMltNrNKW-GzAb8h6JioADIdKHqBAGAv3aWmagAZb5KIeh9qZBB4S87k-QT49ojlWwXZD8F5KZ3nbTrUeZCLY20-ojV6mCbKwiLE7UsKPL1fd6lSA1U96HVinJ6utiJKoc-flg95e3mcBwDOOgAVYVlCEdV0aq3gnJ2y8yCJaMxSAHc-jXJftvA_vdgtIw_v2IeCFJ6ZTqATFlRFd4hrHkF3lozJfK-7dn5y5pmPY3u-0I8cmcWdL3O04jardX1QF5N8bKzTDdPky1vW8wuiE3HdQzPEL7lY7EldoV--7J3nuPJpntA0SqguvTp1qAhutBxc9KEYgkltC_I0YUwG6NTtWKZRac25EIqOKhs9lG1m_Q3zdp7qwDloCMIVu4yPSwnpqygANpV6JUHZC4_QgkfGr1BKW8spdDK-_a9iV4Jg1SXBidg8OE7gBDIAaQAdVDkhZQBqEdpQkBT2Fo5Cw_ds4bxPZxpqLH70NzMPuh_Ac-Oy5J9KlhZMN47AdU3pQIlxPob5R1_m3lZIrKECgsWgiIvBMAyczE5OgfXfOIQuyN8qIXop0LqvgcHopSYOYJAFTry1INh2MCvnjFP17ubaRgpyeukC-hIPQ2VOLR-jXzs_xeeSmrS36ipHk_4azyxBzlJTXi_XqUmrcDTuB5PWHmnJlKhpm1p9E5Nx3hCWgVPaJc7h_JpavpVPKFP8FTqk3jKbnoKT2odnnJqOsDT9TE1HeBpT00lnn6PmpTfo6YcXm6hDnlqsyC1fIWVIJrbfWdqOrogTOQL0U1naWvYuibql3w1D5Or0HSCc8N3rmDrOtk55wabiK9ch3uW7m7Oxj41o7PITZMzP6KJGQShGyVnjpm4ZwyTF1wYrGNJMLtygg1r9riMHtRn57aLtXEq98bOwkpX_cY9RJbQAOu714Xe8fHspT00dPtRazmi9hRb47gx7z3gG0KfvB0C7qv8_INe6heT9XJK13gjCL6g48HoXtZG7cnICcGzthg9_lAnQqPfm3U6c5yGnQ0x8miotHPQ2HIHSixjLlzbEitHh4BbFXwnrPXQI6MEAnQzZnoL1OEFwzHkqG0aLn2ReoIwFy-ty57Ycnpm2-RCkuxWUl_gaLSWxJ8gDUOM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ioz2aHiczVXdcqpIEH6AfY7lJlHAn0RTRZ2aGQclmhgk5JzkhuLPAeXHOBgxd_sG-xD7VPs0Z4Bg0EhS51xsbWvRzExPT093f3x__RP40fLfP_72kmRFr3h-u902SRyTwG3accibdBfZ_DwO6Nr2vpFA8iPOCyQ34nYvUpuzqSRwri-Jt62-mWz04Xg8WiXqXTI1uhRQLt8uGZZJ3QXzni4ob_DssfyzPWCDJm26kTGEzdmLODVeR8gkdrMltNrNKW-GzAb8h6JioADIdKHqBAGAv3aWmagAZb5KIeh9qZBB4S87k-QT49ojlWwXZD8F5KZ3nbTrUeZCLY20-ojV6mCbKwiLE7UsKPL1fd6lSA1U96HVinJ6utiJKoc-flg95e3mcBwDOOgAVYVlCEdV0aq3gnJ2y8yCJaMxSAHc-jXJftvA_vdgtIw_v2IeCFJ6ZTqATFlRFd4hrHkF3lozJfK-7dn5y5pmPY3u-0I8cmcWdL3O04jardX1QF5N8bKzTDdPky1vW8wuiE3HdQzPEL7lY7EldoV--7J3nuPJpntA0SqguvTp1qAhutBxc9KEYgkltC_I0YUwG6NTtWKZRac25EIqOKhs9lG1m_Q3zdp7qwDloCMIVu4yPSwnpqygANpV6JUHZC4_QgkfGr1BKW8spdDK-_a9iV4Jg1SXBidg8OE7gBDIAaQAdVDkhZQBqEdpQkBT2Fo5Cw_ds4bxPZxpqLH70NzMPuh_Ac-Oy5J9KlhZMN47AdU3pQIlxPob5R1_m3lZIrKECgsWgiIvBMAyczE5OgfXfOIQuyN8qIXop0LqvgcHopSYOYJAFTry1INh2MCvnjFP17ubaRgpyeukC-hIPQ2VOLR-jXzs_xeeSmrS36ipHk_4azyxBzlJTXi_XqUmrcDTuB5PWHmnJlKhpm1p9E5Nx3hCWgVPaJc7h_JpavpVPKFP8FTqk3jKbnoKT2odnnJqOsDT9TE1HeBpT00lnn6PmpTfo6YcXm6hDnlqsyC1fIWVIJrbfWdqOrogTOQL0U1naWvYuibql3w1D5Or0HSCc8N3rmDrOtk55wabiK9ch3uW7m7Oxj41o7PITZMzP6KJGQShGyVnjpm4ZwyTF1wYrGNJMLtygg1r9riMHtRn57aLtXEq98bOwkpX_cY9RJbQAOu714Xe8fHspT00dPtRazmi9hRb47gx7z3gG0KfvB0C7qv8_INe6heT9XJK13gjCL6g48HoXtZG7cnICcGzthg9_lAnQqPfm3U6c5yGnQ0x8miotHPQ2HIHSixjLlzbEitHh4BbFXwnrPXQI6MEAnQzZnoL1OEFwzHkqG0aLn2ReoIwFy-ty57Ycnpm2-RCkuxWUl_gaLSWxJ8gDUOM"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "PM Kisan Samman Nidhi Yojana 23rd installment date 2026",
+        "link": "https://m.dailyhunt.in/news/india/english/news24online-epaper-newsonline/pm+kisan+samman+nidhi+yojana+23rd+installment+date+2026+big+update+for+farmers+rs+2000+to+be+credited+by+know+eligibility+status+check+process-newsid-n706054541",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESogIB6zswFeeJn4GMMXLqs7JXQOorNLNiI97ZIGanZVP0CU7FE_vtHWPiNTuEoZ8pzWrMueDLhQCdjlliwkwgpkOMptmhYAeSIlkTciBLgN9siJ5ruBjLD0Yr1dOxP99KoGoD-pAlFN9GT4mqoVdKaeBGk_WORpa19LDzv_cAt6kPvNBc4xOQd-EPuHl_5OYhX_CVFiJMWVqOb5NsD6pH3wApaLe9YVgZMC4BX67LB2MEB1MvPvruLqB3WZIDNPkw3-PY9ttLv0Rcm_14J3WFb2MaUh4753hLSbbAoyXJyVhwnBVUL28Zt0ExQMaov1gtyc63lsj4OABVSGS-vPTtWOR8qCPprkaxg8Sk8R6E7SmY5uGO47PRyzy4fwH0Sk3BlOK2EQ&ved=2ahUKEwjbzuiQ-peXAxWig4kEHbR3HrYQFnoECCkQAQ&uoh=1",
+        "displayed_link": "https://m.dailyhunt.in › News › India › English",
+        "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAADwCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhHA3qvCGbWmAUIDbJ-YDzc_QBvNm8rkSQL7-qWtGAGyIEJ_TV34zPXBJVBQoi1wSszR6AAD-4n0s5F75vdiL1zrnwLJfZyPFyWmytKeKuyM_jp0pYp_NlWh3-CT6cH8VIE9lHAhr9xe6PRmSCzML_Zb-EgFYH62HKAKLM5QcsEYHH4QUCbsXvo1Ahq3iaI59uWWCW2QC76AtqFaU9wWSzb9ljdwRlJXefXzZ-8sF-nVObRcaSeCpOTK7uTPMb6jhG90uwiDF_C7kjNNtR41J71LQWOMX7KBHVnaA32_JJe9refPB_mF_hqCNWWFQ7plJLOj5o_3hRD33_Uf5RfPeBNz-MOMFESsab7kuxGE1vGxbI774sgwYATDsOlgnY2_mDsobFi22_cm6ZXMfklvr7HzgM58XY_p2S3_3bmv70oW_feDEB0OAAA.webp",
+        "snippet": "The 23rd installment of the PM-KISAN scheme is expected to be released around July 2026, based on previous payment patterns. 9.3 crore farmers are likely to ...",
+        "snippet_highlighted_words": [
+          "around July 2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The 23rd installment of the PM-KISAN scheme is expected to be released around July 2026, based on previous payment patterns. 9.3 crore farmers are likely to ...",
+            "source_info_link": "https://m.dailyhunt.in/news/india/english/news24online-epaper-newsonline/pm+kisan+samman+nidhi+yojana+23rd+installment+date+2026+big+update+for+farmers+rs+2000+to+be+credited+by+know+eligibility+status+check+process-newsid-n706054541",
+            "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAADwCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhHA3qvCGbWmAUIDbJ-YDzc_QBvNm8rkSQL7-qWtGAGyIEJ_TV34zPXBJVBQoi1wSszR6AAD-4n0s5F75vdiL1zrnwLJfZyPFyWmytKeKuyM_jp0pYp_NlWh3-CT6cH8VIE9lHAhr9xe6PRmSCzML_Zb-EgFYH62HKAKLM5QcsEYHH4QUCbsXvo1Ahq3iaI59uWWCW2QC76AtqFaU9wWSzb9ljdwRlJXefXzZ-8sF-nVObRcaSeCpOTK7uTPMb6jhG90uwiDF_C7kjNNtR41J71LQWOMX7KBHVnaA32_JJe9refPB_mF_hqCNWWFQ7plJLOj5o_3hRD33_Uf5RfPeBNz-MOMFESsab7kuxGE1vGxbI774sgwYATDsOlgnY2_mDsobFi22_cm6ZXMfklvr7HzgM58XY_p2S3_3bmv70oW_feDEB0OAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQDL2dvdG8_dXJsPUNBRVNvZ0lCNnpzd0ZlZUpuNEdNTVhMcXM3SlhRT29yTkxOaUk5N1pJR2FuWlZQMENVN0ZFX3Z0SFdQaU5UdUVvWjhweldyTXVlRExoUUNkamxsaXdrd2dwa09NcHRtaFlBZVNJbGtUY2lCTGdOOXNpSjVydUJqTEQwWXIxZE94UDk5S29Hb0QtcEFsRk45R1Q0bXFvVmRLYWVCR2tfV09ScGExOUxEenZfY0F0NmtQdk5CYzR4T1FkLUVQdUhsXzVPWWhYX0NWRmlKTVdWcU9iNU5zRDZwSDN3QXBhTGU5WVZnWk1DNEJYNjdMQjJNRUIxTXZQdnJ1THFCM1daSUROUGt3My1QWTl0dEx2MFJjbV8xNEozV0ZiMk1hVWg0NzUzaExTYmJBb3lYSnlWaHduQlZVTDI4WnQwRXhRTWFvdjFndHljNjNsc2o0T0FCVlNHUy12UFR0V09SOHFDUHBya2F4ZzhTazhSNkU3U21ZNXVHTzQ3UFJ5enk0ZndIMFNrM0JsT0syRVESBBoCCAAaiAcSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA5AYIABAAGAAgACoiCgJwbRW-zNdAGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbiopCgVraXNhbhVgU91AGgZraXNhYW4aB3Bta2lzYW4aCml2O3A7a2lzYW4qIAoEbmV4dBWAXWQ_Gglmb2xsb3dpbmcaCHVwY29taW5nKjAKC2luc3RhbGxtZW50Fezb3kAaCmluc3RhbG1lbnQaEGl2O3A7aW5zdGFsbG1lbnQqEgoEZGF0ZRUMxLxAGgVkYXRlcyoWCgQyMDI2FayyuEAaCWl2O247MjAyNjKUAy9nb3RvP3VybD1DQUVTb2dJQjZ6c3dGZWVKbjRHTU1YTHFzN0pYUU9vck5MTmlJOTdaSUdhblpWUDBDVTdGRV92dEhXUGlOVHVFb1o4cHpXck11ZURMaFFDZGpsbGl3a3dncGtPTXB0bWhZQWVTSWxrVGNpQkxnTjlzaUo1cnVCakxEMFlyMWRPeFA5OUtvR29ELXBBbEZOOUdUNG1xb1ZkS2FlQkdrX1dPUnBhMTlMRHp2X2NBdDZrUHZOQmM0eE9RZC1FUHVIbF81T1loWF9DVkZpSk1XVnFPYjVOc0Q2cEgzd0FwYUxlOVlWZ1pNQzRCWDY3TEIyTUVCMU12UHZydUxxQjNXWklETlBrdzMtUFk5dHRMdjBSY21fMTRKM1dGYjJNYVVoNDc1M2hMU2JiQW95WEp5Vmh3bkJWVUwyOFp0MEV4UU1hb3YxZ3R5YzYzbHNqNE9BQlZTR1MtdlBUdFdPUjhxQ1BwcmtheGc4U2s4UjZFN1NtWTV1R080N1BSeXp5NGZ3SDBTazNCbE9LMkVROkU8Yj5QTSBLaXNhbjwvYj4gU2FtbWFuIE5pZGhpIFlvamFuYSAyM3JkIDxiPmluc3RhbGxtZW50IGRhdGUgMjAyNjwvYj5CrAFUaGUgMjNyZCBpbnN0YWxsbWVudCBvZiB0aGUgUE0tS0lTQU4gc2NoZW1lIGlzIGV4cGVjdGVkIHRvIGJlIHJlbGVhc2VkIDxiPmFyb3VuZCBKdWx5IDIwMjY8L2I-LCBiYXNlZCBvbiBwcmV2aW91cyBwYXltZW50IHBhdHRlcm5zLiA5LjMgY3JvcmUgZmFybWVycyBhcmUgbGlrZWx5IHRvJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQDL2dvdG8_dXJsPUNBRVNvZ0lCNnpzd0ZlZUpuNEdNTVhMcXM3SlhRT29yTkxOaUk5N1pJR2FuWlZQMENVN0ZFX3Z0SFdQaU5UdUVvWjhweldyTXVlRExoUUNkamxsaXdrd2dwa09NcHRtaFlBZVNJbGtUY2lCTGdOOXNpSjVydUJqTEQwWXIxZE94UDk5S29Hb0QtcEFsRk45R1Q0bXFvVmRLYWVCR2tfV09ScGExOUxEenZfY0F0NmtQdk5CYzR4T1FkLUVQdUhsXzVPWWhYX0NWRmlKTVdWcU9iNU5zRDZwSDN3QXBhTGU5WVZnWk1DNEJYNjdMQjJNRUIxTXZQdnJ1THFCM1daSUROUGt3My1QWTl0dEx2MFJjbV8xNEozV0ZiMk1hVWg0NzUzaExTYmJBb3lYSnlWaHduQlZVTDI4WnQwRXhRTWFvdjFndHljNjNsc2o0T0FCVlNHUy12UFR0V09SOHFDUHBya2F4ZzhTazhSNkU3U21ZNXVHTzQ3UFJ5enk0ZndIMFNrM0JsT0syRVESBBoCCAAaiAcSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA5AYIABAAGAAgACoiCgJwbRW-zNdAGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbiopCgVraXNhbhVgU91AGgZraXNhYW4aB3Bta2lzYW4aCml2O3A7a2lzYW4qIAoEbmV4dBWAXWQ_Gglmb2xsb3dpbmcaCHVwY29taW5nKjAKC2luc3RhbGxtZW50Fezb3kAaCmluc3RhbG1lbnQaEGl2O3A7aW5zdGFsbG1lbnQqEgoEZGF0ZRUMxLxAGgVkYXRlcyoWCgQyMDI2FayyuEAaCWl2O247MjAyNjKUAy9nb3RvP3VybD1DQUVTb2dJQjZ6c3dGZWVKbjRHTU1YTHFzN0pYUU9vck5MTmlJOTdaSUdhblpWUDBDVTdGRV92dEhXUGlOVHVFb1o4cHpXck11ZURMaFFDZGpsbGl3a3dncGtPTXB0bWhZQWVTSWxrVGNpQkxnTjlzaUo1cnVCakxEMFlyMWRPeFA5OUtvR29ELXBBbEZOOUdUNG1xb1ZkS2FlQkdrX1dPUnBhMTlMRHp2X2NBdDZrUHZOQmM0eE9RZC1FUHVIbF81T1loWF9DVkZpSk1XVnFPYjVOc0Q2cEgzd0FwYUxlOVlWZ1pNQzRCWDY3TEIyTUVCMU12UHZydUxxQjNXWklETlBrdzMtUFk5dHRMdjBSY21fMTRKM1dGYjJNYVVoNDc1M2hMU2JiQW95WEp5Vmh3bkJWVUwyOFp0MEV4UU1hb3YxZ3R5YzYzbHNqNE9BQlZTR1MtdlBUdFdPUjhxQ1BwcmtheGc4U2s4UjZFN1NtWTV1R080N1BSeXp5NGZ3SDBTazNCbE9LMkVROkU8Yj5QTSBLaXNhbjwvYj4gU2FtbWFuIE5pZGhpIFlvamFuYSAyM3JkIDxiPmluc3RhbGxtZW50IGRhdGUgMjAyNjwvYj5CrAFUaGUgMjNyZCBpbnN0YWxsbWVudCBvZiB0aGUgUE0tS0lTQU4gc2NoZW1lIGlzIGV4cGVjdGVkIHRvIGJlIHJlbGVhc2VkIDxiPmFyb3VuZCBKdWx5IDIwMjY8L2I-LCBiYXNlZCBvbiBwcmV2aW91cyBwYXltZW50IHBhdHRlcm5zLiA5LjMgY3JvcmUgZmFybWVycyBhcmUgbGlrZWx5IHRvJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "Dailyhunt"
+      },
+      {
+        "position": 2,
+        "title": "PM Kisan 23rd Installment Date 2026: ₹2000 Payment on ...",
+        "link": "https://governmentjobhub.com/pm-kisan-23rd-installment-date/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVRdmabrfkrqwfYaAl_1l7ezOqqPGic5kSwM_HGq3t0r77UXDpBe35oFGTi5UE4ECTipzyQ7fhhRYSpWddHVcBXbkTngMEOCpoGIO2bvA4cwrx2BDhLbKvJlgbzdopADzqLljflSsDf5f-J-197oI-&ved=2ahUKEwjbzuiQ-peXAxWig4kEHbR3HrYQFnoECC8QAQ&uoh=1",
+        "displayed_link": "https://governmentjobhub.com › p...",
+        "favicon": "https://serpapi.com/images/i/UklGRoABAABXRUJQVlA4IHQBAACwBwCdASogACAAPrUurVanIacnG_DgFolsAL9q4dQOAwIGj9helm9czKFfYKkBRQNP5sB7bduaMdTklBZedFy6RudPzmQAAP7-wsnUvfSdvqqODm2riIqisjs8m5nq9_T616omXzS5-__JCvHRzaJ5gwk2tF35aV0fH1Lt5K_-f5IMlpv_CO4-jqXS-a6ajrBlwgdxAhjzL342-fad10_8f-EP8BN_xinv_YxaHROvNUVxnNmL9W4owE66ndn_dsW8oJ_ZFYkpnaLZDf7HL2eaHX8MHw5yi9Ss07HsbGedO5y5nnfs9C6qsBs_28vZmGSuS-sesEYr2PGtGuzX_dtu35WmUZEKUUg3s1-bMaJiUMXeb5ypm4W8UIX_EDwET0vOy2CUH0ktN2rH72MRfHc_e-qYkJ258RH82Ungtl--4MmG1BMv7yWhK_vL81V_4XEID7H6HGEAAEsidBQYQ620FEiFs6OMxZMAwSx3FGKavswAAAA.webp",
+        "date": "13 Jun 2026",
+        "snippet": "PM Kisan 23rd Installment 2026 will be released on 20 June 2026. ₹2,000 Payment on 20 June, The government will transfer approximately ₹18,880 ...",
+        "snippet_highlighted_words": [
+          "PM Kisan 23rd Installment 2026 will be released on 20 June 2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "PM Kisan 23rd Installment 2026 will be released on 20 June 2026. ₹2,000 Payment on 20 June, The government will transfer approximately ₹18,880 ...",
+            "source_info_link": "https://governmentjobhub.com/pm-kisan-23rd-installment-date/",
+            "icon": "https://serpapi.com/images/i/UklGRoABAABXRUJQVlA4IHQBAACwBwCdASogACAAPrUurVanIacnG_DgFolsAL9q4dQOAwIGj9helm9czKFfYKkBRQNP5sB7bduaMdTklBZedFy6RudPzmQAAP7-wsnUvfSdvqqODm2riIqisjs8m5nq9_T616omXzS5-__JCvHRzaJ5gwk2tF35aV0fH1Lt5K_-f5IMlpv_CO4-jqXS-a6ajrBlwgdxAhjzL342-fad10_8f-EP8BN_xinv_YxaHROvNUVxnNmL9W4owE66ndn_dsW8oJ_ZFYkpnaLZDf7HL2eaHX8MHw5yi9Ss07HsbGedO5y5nnfs9C6qsBs_28vZmGSuS-sesEYr2PGtGuzX_dtu35WmUZEKUUg3s1-bMaJiUMXeb5ypm4W8UIX_EDwET0vOy2CUH0ktN2rH72MRfHc_e-qYkJ258RH82Ungtl--4MmG1BMv7yWhK_vL81V_4XEID7H6HGEAAEsidBQYQ620FEiFs6OMxZMAwSx3FGKavswAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVlJkbWFicmZrcnF3ZllhQWxfMWw3ZXpPcXFQR2ljNWtTd01fSEdxM3Qwcjc3VVhEcEJlMzVvRkdUaTVVRTRFQ1RpcHp5UTdmaGhSWVNwV2RkSFZjQlhia1RuZ01FT0Nwb0dJTzJidkE0Y3dyeDJCRGhMYkt2SmxnYnpkb3BBRHpxTGxqZmxTc0RmNWYtSi0xOTdvSS0SBBoCCAAanAUSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJA-AQIABAAGAAgACoiCgJwbRXNVAFBGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbiopCgVraXNhbhUveQBBGgZraXNhYW4aB3Bta2lzYW4aCml2O3A7a2lzYW4qIAoEbmV4dBXqnMk8Gglmb2xsb3dpbmcaCHVwY29taW5nKjAKC2luc3RhbGxtZW50FRR37UAaCmluc3RhbG1lbnQaEGl2O3A7aW5zdGFsbG1lbnQqEgoEZGF0ZRUWsL1AGgVkYXRlcyoWCgQyMDI2FTwz4kAaCWl2O247MjAyNjKqAS9nb3RvP3VybD1DQUVTZEFIck96QVZSZG1hYnJma3Jxd2ZZYUFsXzFsN2V6T3FxUEdpYzVrU3dNX0hHcTN0MHI3N1VYRHBCZTM1b0ZHVGk1VUU0RUNUaXB6eVE3ZmhoUllTcFdkZEhWY0JYYmtUbmdNRU9DcG9HSU8yYnZBNGN3cngyQkRoTGJLdkpsZ2J6ZG9wQUR6cUxsamZsU3NEZjVmLUotMTk3b0ktOk08Yj5QTSBLaXNhbjwvYj4gMjNyZCA8Yj5JbnN0YWxsbWVudCBEYXRlIDIwMjY8L2I-OiDigrkyLDAwMCBQYXltZW50IG9uIDIwIC4uLkKiATxiPlBNIEtpc2FuIDIzcmQgSW5zdGFsbG1lbnQgMjAyNiB3aWxsIGJlIHJlbGVhc2VkIG9uIDIwIEp1bmUgMjAyNjwvYj4uIOKCuTIsMDAwIFBheW1lbnQgb24gMjAgSnVuZSwgVGhlIGdvdmVybm1lbnQgd2lsbCB0cmFuc2ZlciBhcHByb3hpbWF0ZWx5IOKCuTE4LDg4MCZuYnNwOy4uLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVlJkbWFicmZrcnF3ZllhQWxfMWw3ZXpPcXFQR2ljNWtTd01fSEdxM3Qwcjc3VVhEcEJlMzVvRkdUaTVVRTRFQ1RpcHp5UTdmaGhSWVNwV2RkSFZjQlhia1RuZ01FT0Nwb0dJTzJidkE0Y3dyeDJCRGhMYkt2SmxnYnpkb3BBRHpxTGxqZmxTc0RmNWYtSi0xOTdvSS0SBBoCCAAanAUSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJA-AQIABAAGAAgACoiCgJwbRXNVAFBGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbiopCgVraXNhbhUveQBBGgZraXNhYW4aB3Bta2lzYW4aCml2O3A7a2lzYW4qIAoEbmV4dBXqnMk8Gglmb2xsb3dpbmcaCHVwY29taW5nKjAKC2luc3RhbGxtZW50FRR37UAaCmluc3RhbG1lbnQaEGl2O3A7aW5zdGFsbG1lbnQqEgoEZGF0ZRUWsL1AGgVkYXRlcyoWCgQyMDI2FTwz4kAaCWl2O247MjAyNjKqAS9nb3RvP3VybD1DQUVTZEFIck96QVZSZG1hYnJma3Jxd2ZZYUFsXzFsN2V6T3FxUEdpYzVrU3dNX0hHcTN0MHI3N1VYRHBCZTM1b0ZHVGk1VUU0RUNUaXB6eVE3ZmhoUllTcFdkZEhWY0JYYmtUbmdNRU9DcG9HSU8yYnZBNGN3cngyQkRoTGJLdkpsZ2J6ZG9wQUR6cUxsamZsU3NEZjVmLUotMTk3b0ktOk08Yj5QTSBLaXNhbjwvYj4gMjNyZCA8Yj5JbnN0YWxsbWVudCBEYXRlIDIwMjY8L2I-OiDigrkyLDAwMCBQYXltZW50IG9uIDIwIC4uLkKiATxiPlBNIEtpc2FuIDIzcmQgSW5zdGFsbG1lbnQgMjAyNiB3aWxsIGJlIHJlbGVhc2VkIG9uIDIwIEp1bmUgMjAyNjwvYj4uIOKCuTIsMDAwIFBheW1lbnQgb24gMjAgSnVuZSwgVGhlIGdvdmVybm1lbnQgd2lsbCB0cmFuc2ZlciBhcHByb3hpbWF0ZWx5IOKCuTE4LDg4MCZuYnNwOy4uLiICEAFIAFgAaAA",
+        "source": "Government Job Hub"
+      },
+      {
+        "position": 3,
+        "title": "PM Kisan 24th Installment Date 2026: जानिए कब आएंगे ...",
+        "link": "https://www.facebook.com/khaspress/posts/pm-kisan-24th-installment-date-2026-%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%8F-%E0%A4%95%E0%A4%AC-%E0%A4%86%E0%A4%8F%E0%A4%82%E0%A4%97%E0%A5%87-2000-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%9A%E0%A5%87%E0%A4%95-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%9F%E0%A4%B8%E0%A4%AA/1577329187741833/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxAMB6zswFZXfQqlaMVHrfqMjiZj87cAyZ83jSMCxT2-lUBg3VeZVgu7y1BBAQYb20aXRcp6xusq6qoBa4n8Lv83lWySW919jiACnqN_W3JcH4lpSn8I2HMN09xI6kCoVbLwfV6Jr6fFE-pnlR0SlqPJgqUhXVqrpxvS23FOHIZQz40TZIjXTHwvZyPOSKdoBr-cLvRbPJiarDIwwPZe_aDpNcOij1HkHTOrm92SPK_AOcewfnBFrhQ3eW0Ffi00Nz8E-JBIOBseo2-0LyRDw77U-xCiCfvhgDGSxYc_Z8VxqCebjeFI25MuLAaNbkBd99mj0fOtG35pMz_jpFswgRMQLktAUXyif-393FgfsgQ87G-Py6TEb6iQU5dEGZCDUNoU6KGANkwZEQNn-EgORmoW2jzyWmHlQN5WkDOdFgVVJBS5EbKabr1xPwgtyBbc3bK0zu_2NZvQODyDACmEkskBKYDVOFRDyIwB1N8ht3VOXDRMcb1uIw-yX2G-DkxLza4LL9GMvcUf7zU1fwoXUTMUePUfOdAvee6LF6cxmSBCgPfg3aZrsRBECTJg1rcweTrGs2U1CVnexxfIPJdPbvArSppxaog&ved=2ahUKEwjbzuiQ-peXAxWig4kEHbR3HrYQFnoECEQQAQ&uoh=1",
+        "displayed_link": "1 week ago",
+        "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+        "snippet": "प्रधानमंत्री किसान सम्मान निधि योजना की 24वीं किस्त अक्टूबर के अंत या नवंबर 2026 ...",
+        "snippet_highlighted_words": [
+          "अक्टूबर के अंत या नवंबर 2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "प्रधानमंत्री किसान सम्मान निधि योजना की 24वीं किस्त अक्टूबर के अंत या नवंबर 2026 ...",
+            "source_info_link": "https://www.facebook.com/khaspress/posts/pm-kisan-24th-installment-date-2026-%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%8F-%E0%A4%95%E0%A4%AC-%E0%A4%86%E0%A4%8F%E0%A4%82%E0%A4%97%E0%A5%87-2000-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%9A%E0%A5%87%E0%A4%95-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%9F%E0%A4%B8%E0%A4%AA/1577329187741833/",
+            "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuwEL2dvdG8_dXJsPUNBRVN4QU1CNnpzd0ZaWGZRcWxhTVZIcmZxTWppWmo4N2NBeVo4M2pTTUN4VDItbFVCZzNWZVpWZ3U3eTFCQkFRWWIyMGFYUmNwNnh1c3E2cW9CYTRuOEx2ODNsV3lTVzkxOWppQUNucU5fVzNKY0g0bHBTbjhJMkhNTjA5eEk2a0NvVmJMd2ZWNkpyNmZGRS1wbmxSMFNscVBKZ3FVaFhWcXJweHZTMjNGT0hJWlF6NDBUWklqWFRId3ZaeVBPU0tkb0JyLWNMdlJiUEppYXJESXd3UFplX2FEcE5jT2lqMUhrSFRPcm05MlNQS19BT2Nld2ZuQkZyaFEzZVcwRmZpMDBOejhFLUpCSU9Cc2VvMi0wTHlSRHc3N1UteENpQ2Z2aGdER1N4WWNfWjhWeHFDZWJqZUZJMjVNdUxBYU5ia0JkOTltajBmT3RHMzVwTXpfanBGc3dnUk1RTGt0QVVYeWlmLTM5M0ZnZnNnUTg3Ry1QeTZURWI2aVFVNWRFR1pDRFVOb1U2S0dBTmt3WkVRTm4tRWdPUm1vVzJqenlXbUhsUU41V2tET2RGZ1ZWSkJTNUViS2FicjF4UHdndHlCYmMzYkswenVfMk5adlFPRHlEQUNtRWtza0JLWURWT0ZSRHlJd0IxTjhodDNWT1hEUk1jYjF1SXcteVgyRy1Ea3hMemE0TEw5R012Y1VmN3pVMWZ3b1hVVE1VZVBVZk9kQXZlZTZMRjZjeG1TQkNnUGZnM2FacnNSQkVDVEpnMXJjd2VUckdzMlUxQ1ZuZXh4ZklQSmRQYnZBclNwcHhhb2cSBBoCCAAaoQkSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJA_QgIABAAGAAgACoiCgJwbRVkgqtAGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbiopCgVraXNhbhVkgqtAGgZraXNhYW4aB3Bta2lzYW4aCml2O3A7a2lzYW4qIAoEbmV4dBUAAAAAGglmb2xsb3dpbmcaCHVwY29taW5nKjAKC2luc3RhbGxtZW50FWSCq0AaCmluc3RhbG1lbnQaEGl2O3A7aW5zdGFsbG1lbnQqEgoEZGF0ZRVkgqtAGgVkYXRlcyoWCgQyMDI2Fdj4zkAaCWl2O247MjAyNjLsBC9nb3RvP3VybD1DQUVTeEFNQjZ6c3dGWlhmUXFsYU1WSHJmcU1qaVpqODdjQXlaODNqU01DeFQyLWxVQmczVmVaVmd1N3kxQkJBUVliMjBhWFJjcDZ4dXNxNnFvQmE0bjhMdjgzbFd5U1c5MTlqaUFDbnFOX1czSmNINGxwU244STJITU4wOXhJNmtDb1ZiTHdmVjZKcjZmRkUtcG5sUjBTbHFQSmdxVWhYVnFycHh2UzIzRk9ISVpRejQwVFpJalhUSHd2WnlQT1NLZG9Cci1jTHZSYlBKaWFyREl3d1BaZV9hRHBOY09pajFIa0hUT3JtOTJTUEtfQU9jZXdmbkJGcmhRM2VXMEZmaTAwTno4RS1KQklPQnNlbzItMEx5UkR3NzdVLXhDaUNmdmhnREdTeFljX1o4VnhxQ2ViamVGSTI1TXVMQWFOYmtCZDk5bWowZk90RzM1cE16X2pwRnN3Z1JNUUxrdEFVWHlpZi0zOTNGZ2ZzZ1E4N0ctUHk2VEViNmlRVTVkRUdaQ0RVTm9VNktHQU5rd1pFUU5uLUVnT1Jtb1cyanp5V21IbFFONVdrRE9kRmdWVkpCUzVFYkthYnIxeFB3Z3R5QmJjM2JLMHp1XzJOWnZRT0R5REFDbUVrc2tCS1lEVk9GUkR5SXdCMU44aHQzVk9YRFJNY2IxdUl3LXlYMkctRGt4THphNExMOUdNdmNVZjd6VTFmd29YVVRNVWVQVWZPZEF2ZWU2TEY2Y3htU0JDZ1BmZzNhWnJzUkJFQ1RKZzFyY3dlVHJHczJVMUNWbmV4eGZJUEpkUGJ2QXJTcHB4YW9nOlg8Yj5QTSBLaXNhbjwvYj4gMjR0aCA8Yj5JbnN0YWxsbWVudCBEYXRlIDIwMjY8L2I-OiDgpJzgpL7gpKjgpL_gpI8g4KSV4KSsIC4uLiAtIEZhY2Vib29rQtoB4KSq4KWN4KSw4KSn4KS-4KSo4KSu4KSC4KSk4KWN4KSw4KWAIOCkleCkv-CkuOCkvuCkqCDgpLjgpK7gpY3gpK7gpL7gpKgg4KSo4KS_4KSn4KS_IOCkr-Cli-CknOCkqOCkviDgpJXgpYAgMjTgpLXgpYDgpIIg4KSV4KS_4KS44KWN4KSkIDxiPuCkheCkleCljeCkn-ClguCkrOCksCDgpJXgpYcg4KSF4KSC4KSkIOCkr-CkviDgpKjgpLXgpILgpKzgpLAgMjAyNjwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuwEL2dvdG8_dXJsPUNBRVN4QU1CNnpzd0ZaWGZRcWxhTVZIcmZxTWppWmo4N2NBeVo4M2pTTUN4VDItbFVCZzNWZVpWZ3U3eTFCQkFRWWIyMGFYUmNwNnh1c3E2cW9CYTRuOEx2ODNsV3lTVzkxOWppQUNucU5fVzNKY0g0bHBTbjhJMkhNTjA5eEk2a0NvVmJMd2ZWNkpyNmZGRS1wbmxSMFNscVBKZ3FVaFhWcXJweHZTMjNGT0hJWlF6NDBUWklqWFRId3ZaeVBPU0tkb0JyLWNMdlJiUEppYXJESXd3UFplX2FEcE5jT2lqMUhrSFRPcm05MlNQS19BT2Nld2ZuQkZyaFEzZVcwRmZpMDBOejhFLUpCSU9Cc2VvMi0wTHlSRHc3N1UteENpQ2Z2aGdER1N4WWNfWjhWeHFDZWJqZUZJMjVNdUxBYU5ia0JkOTltajBmT3RHMzVwTXpfanBGc3dnUk1RTGt0QVVYeWlmLTM5M0ZnZnNnUTg3Ry1QeTZURWI2aVFVNWRFR1pDRFVOb1U2S0dBTmt3WkVRTm4tRWdPUm1vVzJqenlXbUhsUU41V2tET2RGZ1ZWSkJTNUViS2FicjF4UHdndHlCYmMzYkswenVfMk5adlFPRHlEQUNtRWtza0JLWURWT0ZSRHlJd0IxTjhodDNWT1hEUk1jYjF1SXcteVgyRy1Ea3hMemE0TEw5R012Y1VmN3pVMWZ3b1hVVE1VZVBVZk9kQXZlZTZMRjZjeG1TQkNnUGZnM2FacnNSQkVDVEpnMXJjd2VUckdzMlUxQ1ZuZXh4ZklQSmRQYnZBclNwcHhhb2cSBBoCCAAaoQkSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJA_QgIABAAGAAgACoiCgJwbRVkgqtAGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbiopCgVraXNhbhVkgqtAGgZraXNhYW4aB3Bta2lzYW4aCml2O3A7a2lzYW4qIAoEbmV4dBUAAAAAGglmb2xsb3dpbmcaCHVwY29taW5nKjAKC2luc3RhbGxtZW50FWSCq0AaCmluc3RhbG1lbnQaEGl2O3A7aW5zdGFsbG1lbnQqEgoEZGF0ZRVkgqtAGgVkYXRlcyoWCgQyMDI2Fdj4zkAaCWl2O247MjAyNjLsBC9nb3RvP3VybD1DQUVTeEFNQjZ6c3dGWlhmUXFsYU1WSHJmcU1qaVpqODdjQXlaODNqU01DeFQyLWxVQmczVmVaVmd1N3kxQkJBUVliMjBhWFJjcDZ4dXNxNnFvQmE0bjhMdjgzbFd5U1c5MTlqaUFDbnFOX1czSmNINGxwU244STJITU4wOXhJNmtDb1ZiTHdmVjZKcjZmRkUtcG5sUjBTbHFQSmdxVWhYVnFycHh2UzIzRk9ISVpRejQwVFpJalhUSHd2WnlQT1NLZG9Cci1jTHZSYlBKaWFyREl3d1BaZV9hRHBOY09pajFIa0hUT3JtOTJTUEtfQU9jZXdmbkJGcmhRM2VXMEZmaTAwTno4RS1KQklPQnNlbzItMEx5UkR3NzdVLXhDaUNmdmhnREdTeFljX1o4VnhxQ2ViamVGSTI1TXVMQWFOYmtCZDk5bWowZk90RzM1cE16X2pwRnN3Z1JNUUxrdEFVWHlpZi0zOTNGZ2ZzZ1E4N0ctUHk2VEViNmlRVTVkRUdaQ0RVTm9VNktHQU5rd1pFUU5uLUVnT1Jtb1cyanp5V21IbFFONVdrRE9kRmdWVkpCUzVFYkthYnIxeFB3Z3R5QmJjM2JLMHp1XzJOWnZRT0R5REFDbUVrc2tCS1lEVk9GUkR5SXdCMU44aHQzVk9YRFJNY2IxdUl3LXlYMkctRGt4THphNExMOUdNdmNVZjd6VTFmd29YVVRNVWVQVWZPZEF2ZWU2TEY2Y3htU0JDZ1BmZzNhWnJzUkJFQ1RKZzFyY3dlVHJHczJVMUNWbmV4eGZJUEpkUGJ2QXJTcHB4YW9nOlg8Yj5QTSBLaXNhbjwvYj4gMjR0aCA8Yj5JbnN0YWxsbWVudCBEYXRlIDIwMjY8L2I-OiDgpJzgpL7gpKjgpL_gpI8g4KSV4KSsIC4uLiAtIEZhY2Vib29rQtoB4KSq4KWN4KSw4KSn4KS-4KSo4KSu4KSC4KSk4KWN4KSw4KWAIOCkleCkv-CkuOCkvuCkqCDgpLjgpK7gpY3gpK7gpL7gpKgg4KSo4KS_4KSn4KS_IOCkr-Cli-CknOCkqOCkviDgpJXgpYAgMjTgpLXgpYDgpIIg4KSV4KS_4KS44KWN4KSkIDxiPuCkheCkleCljeCkn-ClguCkrOCksCDgpJXgpYcg4KSF4KSC4KSkIOCkr-CkviDgpKjgpLXgpILgpKzgpLAgMjAyNjwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "Facebook · Khas Press",
+        "read_more_link": "https://www.facebook.com/khaspress/posts/pm-kisan-24th-installment-date-2026-%E0%A4%9C%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%8F-%E0%A4%95%E0%A4%AC-%E0%A4%86%E0%A4%8F%E0%A4%82%E0%A4%97%E0%A5%87-2000-%E0%A4%94%E0%A4%B0-%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%9A%E0%A5%87%E0%A4%95-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%9F%E0%A4%B8%E0%A4%AA/1577329187741833/#:~:text=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80%20%E0%A4%95%E0%A4%BF%E0%A4%B8%E0%A4%BE%E0%A4%A8%20%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A8%20%E0%A4%A8%E0%A4%BF%E0%A4%A7%E0%A4%BF%20%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE,%E0%A4%9C%E0%A4%BE%E0%A4%B0%E0%A5%80%20%E0%A4%B9%E0%A5%8B%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%89%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%80%E0%A4%A6%20%E0%A4%B9%E0%A5%88%E0%A5%A4"
+      },
+      {
+        "position": 4,
+        "title": "pm kisan 23th installment date 2026",
+        "link": "https://www.youtube.com/watch?v=MTZI1Tcoslk",
+        "displayed_link": "2.1K+ views · 4 months ago",
+        "thumbnail": "https://serpapi.com/searches/6abdddd471b492b5bd9420fe/images/mhi2gOLy3CndH3uQKde6HWlA_vRvLSbP3x_aFxvnInE.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "snippet": "Pm Kisan 23th Installment Date 2026. Big Relief for PM Kisan Beneficiaries | Annual Assistance Increased to ₹9,000 in Union Budget 2026",
+        "duration": "3:37",
+        "about_this_result": {
+          "source": {
+            "description": "Pm Kisan 23th Installment Date 2026. Big Relief for PM Kisan Beneficiaries | Annual Assistance Increased to ₹9,000 in Union Budget 2026",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkJORFIzTk1GZU80blJkUzE0OTZWbnRGZ1R2UXhtY0lQUV9aOVpObFN3dDF5a2Z0VW9yRU81Nm9EbFhxNDduS1ZkVlp6XzdRSzBJX0NLcnkwRlVzbDBqdExqNXlwQ0xnejdFT1NSbFA5ZHByOVZlQnhKc0ljMEZfRkRGLUV5URIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkJORFIzTk1GZU80blJkUzE0OTZWbnRGZ1R2UXhtY0lQUV9aOVpObFN3dDF5a2Z0VW9yRU81Nm9EbFhxNDduS1ZkVlp6XzdRSzBJX0NLcnkwRlVzbDBqdExqNXlwQ0xnejdFT1NSbFA5ZHByOVZlQnhKc0ljMEZfRkRGLUV5URIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQs7OLSGJEhxCRwqpR0BcnULcX3QTf1XspnHQ",
+        "source": "YouTube · Lipun Odia News"
+      },
+      {
+        "position": 5,
+        "title": "PM Kisan 23rd Installment Date: Who Will Get the Next ...",
+        "link": "https://www.latestly.com/india/news/pm-kisan-23rd-installment-date-who-will-get-the-next-payment-and-who-may-miss-out-7381487.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuwEB6zswFfV4edj5CjxTyqthkqOZ1ujcu8XOXWg6BA5tRHy3HiZXSaHV_gl4sVcHoMQtDDVakhWvDT4ePQsxVFBFOGfwkRMktcPGwnuYUx_pt4Vi5_thcb-cPWG01FszoTb4Ps-iOK58MWDemCeAjxEKbh6ieiinULynx0dQ5tELNaHRui9SO-aXS7xb_w3mDvdF_zDS4-9TM5L2c51UlVI6KQ9pPikUiqwf-P1OBABJ92S-lt1W2IkQpLMn&ved=2ahUKEwjbzuiQ-peXAxWig4kEHbR3HrYQFnoECEgQAQ&uoh=1",
+        "displayed_link": "https://www.latestly.com › India › News",
+        "favicon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAABQBwCdASocABwAPtE-tFooIigoFAEAGglsALEe43mfszjAcxLqAHogdJ55RxM5HjwfxkspEYndRzIpCuTjZi4wIxAAAP7ww7ze5avy_6ocLh0PRD-bnSOXOYeRq5CfJAvZTt-H_N4XtSd_WXX_It3CvpE2KVJ_Ln_7hQ1-_p-rKkr3_aAbH-qfcn6K-Vl_94zkrG9VPIlaJk0oFQb6kGdpcnR5W5OiZ2o_MZ4424Gh8lSEG6qCJ49K45LmCYMEQq2NHKSWANz-8M5kD790En_snw9kLC3z2CCff7qF362zUdeM_WFVq8MxThX-8rNvlSGl6zx_557Hy6xhMB1q_iAfpqLKH-SZ_ikDnR5Ny3n_Ps_xDXa8zDjx33oVrYLf_mWXHc8k7CI7UiZMuezfmdxlXicwH_AAAAA.webp",
+        "date": "6 Apr 2026",
+        "snippet": "Farmers await the 23rd installment of the PM-Kisan scheme, expected around July 2026 following the March payout. While no official date is ...",
+        "snippet_highlighted_words": [
+          "expected around July 2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Farmers await the 23rd installment of the PM-Kisan scheme, expected around July 2026 following the March payout. While no official date is ...",
+            "source_info_link": "https://www.latestly.com/india/news/pm-kisan-23rd-installment-date-who-will-get-the-next-payment-and-who-may-miss-out-7381487.html",
+            "icon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAABQBwCdASocABwAPtE-tFooIigoFAEAGglsALEe43mfszjAcxLqAHogdJ55RxM5HjwfxkspEYndRzIpCuTjZi4wIxAAAP7ww7ze5avy_6ocLh0PRD-bnSOXOYeRq5CfJAvZTt-H_N4XtSd_WXX_It3CvpE2KVJ_Ln_7hQ1-_p-rKkr3_aAbH-qfcn6K-Vl_94zkrG9VPIlaJk0oFQb6kGdpcnR5W5OiZ2o_MZ4424Gh8lSEG6qCJ49K45LmCYMEQq2NHKSWANz-8M5kD790En_snw9kLC3z2CCff7qF362zUdeM_WFVq8MxThX-8rNvlSGl6zx_557Hy6xhMB1q_iAfpqLKH-SZ_ikDnR5Ny3n_Ps_xDXa8zDjx33oVrYLf_mWXHc8k7CI7UiZMuezfmdxlXicwH_AAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CooCL2dvdG8_dXJsPUNBRVN1d0VCNnpzd0ZmVjRlZGo1Q2p4VHlxdGhrcU9aMXVqY3U4WE9YV2c2QkE1dFJIeTNIaVpYU2FIVl9nbDRzVmNIb01RdEREVmFraFd2RFQ0ZVBRc3hWRkJGT0dmd2tSTWt0Y1BHd251WVV4X3B0NFZpNV90aGNiLWNQV0cwMUZzem9UYjRQcy1pT0s1OE1XRGVtQ2VBanhFS2JoNmllaWluVUx5bngwZFE1dEVMTmFIUnVpOVNPLWFYUzd4Yl93M21EdmRGX3pEUzQtOVRNNUwyYzUxVWxWSTZLUTlwUGlrVWlxd2YtUDFPQkFCSjkyUy1sdDFXMklrUXBMTW4SBBoCCAAa9AUSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA0AUIABAAGAAgACoiCgJwbRW9zgBBGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbiopCgVraXNhbhW9zgBBGgZraXNhYW4aB3Bta2lzYW4aCml2O3A7a2lzYW4qIAoEbmV4dBWsc9lAGglmb2xsb3dpbmcaCHVwY29taW5nKjAKC2luc3RhbGxtZW50FYPXAEEaCmluc3RhbG1lbnQaEGl2O3A7aW5zdGFsbG1lbnQqEgoEZGF0ZRUYf-JAGgVkYXRlcyoWCgQyMDI2Fd85lEAaCWl2O247MjAyNjKKAi9nb3RvP3VybD1DQUVTdXdFQjZ6c3dGZlY0ZWRqNUNqeFR5cXRoa3FPWjF1amN1OFhPWFdnNkJBNXRSSHkzSGlaWFNhSFZfZ2w0c1ZjSG9NUXRERFZha2hXdkRUNGVQUXN4VkZCRk9HZndrUk1rdGNQR3dudVlVeF9wdDRWaTVfdGhjYi1jUFdHMDFGc3pvVGI0UHMtaU9LNThNV0RlbUNlQWp4RUtiaDZpZWlpblVMeW54MGRRNXRFTE5hSFJ1aTlTTy1hWFM3eGJfdzNtRHZkRl96RFM0LTlUTTVMMmM1MVVsVkk2S1E5cFBpa1VpcXdmLVAxT0JBQko5MlMtbHQxVzJJa1FwTE1uOk08Yj5QTSBLaXNhbjwvYj4gMjNyZCA8Yj5JbnN0YWxsbWVudCBEYXRlPC9iPjogV2hvIFdpbGwgR2V0IHRoZSAuLi4gLSBMYXRlc3RMWUKaAUZhcm1lcnMgYXdhaXQgdGhlIDIzcmQgaW5zdGFsbG1lbnQgb2YgdGhlIFBNLUtpc2FuIHNjaGVtZSwgPGI-ZXhwZWN0ZWQgYXJvdW5kIEp1bHkgMjAyNjwvYj4gZm9sbG93aW5nIHRoZSBNYXJjaCBwYXlvdXQuIFdoaWxlIG5vIG9mZmljaWFsIGRhdGUgaXMmbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CooCL2dvdG8_dXJsPUNBRVN1d0VCNnpzd0ZmVjRlZGo1Q2p4VHlxdGhrcU9aMXVqY3U4WE9YV2c2QkE1dFJIeTNIaVpYU2FIVl9nbDRzVmNIb01RdEREVmFraFd2RFQ0ZVBRc3hWRkJGT0dmd2tSTWt0Y1BHd251WVV4X3B0NFZpNV90aGNiLWNQV0cwMUZzem9UYjRQcy1pT0s1OE1XRGVtQ2VBanhFS2JoNmllaWluVUx5bngwZFE1dEVMTmFIUnVpOVNPLWFYUzd4Yl93M21EdmRGX3pEUzQtOVRNNUwyYzUxVWxWSTZLUTlwUGlrVWlxd2YtUDFPQkFCSjkyUy1sdDFXMklrUXBMTW4SBBoCCAAa9AUSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA0AUIABAAGAAgACoiCgJwbRW9zgBBGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbiopCgVraXNhbhW9zgBBGgZraXNhYW4aB3Bta2lzYW4aCml2O3A7a2lzYW4qIAoEbmV4dBWsc9lAGglmb2xsb3dpbmcaCHVwY29taW5nKjAKC2luc3RhbGxtZW50FYPXAEEaCmluc3RhbG1lbnQaEGl2O3A7aW5zdGFsbG1lbnQqEgoEZGF0ZRUYf-JAGgVkYXRlcyoWCgQyMDI2Fd85lEAaCWl2O247MjAyNjKKAi9nb3RvP3VybD1DQUVTdXdFQjZ6c3dGZlY0ZWRqNUNqeFR5cXRoa3FPWjF1amN1OFhPWFdnNkJBNXRSSHkzSGlaWFNhSFZfZ2w0c1ZjSG9NUXRERFZha2hXdkRUNGVQUXN4VkZCRk9HZndrUk1rdGNQR3dudVlVeF9wdDRWaTVfdGhjYi1jUFdHMDFGc3pvVGI0UHMtaU9LNThNV0RlbUNlQWp4RUtiaDZpZWlpblVMeW54MGRRNXRFTE5hSFJ1aTlTTy1hWFM3eGJfdzNtRHZkRl96RFM0LTlUTTVMMmM1MVVsVkk2S1E5cFBpa1VpcXdmLVAxT0JBQko5MlMtbHQxVzJJa1FwTE1uOk08Yj5QTSBLaXNhbjwvYj4gMjNyZCA8Yj5JbnN0YWxsbWVudCBEYXRlPC9iPjogV2hvIFdpbGwgR2V0IHRoZSAuLi4gLSBMYXRlc3RMWUKaAUZhcm1lcnMgYXdhaXQgdGhlIDIzcmQgaW5zdGFsbG1lbnQgb2YgdGhlIFBNLUtpc2FuIHNjaGVtZSwgPGI-ZXhwZWN0ZWQgYXJvdW5kIEp1bHkgMjAyNjwvYj4gZm9sbG93aW5nIHRoZSBNYXJjaCBwYXlvdXQuIFdoaWxlIG5vIG9mZmljaWFsIGRhdGUgaXMmbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "LatestLY"
+      },
+      {
+        "position": 6,
+        "title": "PM Kisan 24th Installment Date 2026: Status & List",
+        "link": "https://pmkisaninstallmentdate.pages.dev/en/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVlPaRt324mUYP8CQS9vl6pBj8kysZDvH82NnR_HAAAoaynVPPBY6ZO_CW8oNMYZME13Pw-fiI-mTDD_vuq0ZMq64XPpviW1rgsGkXBTGMRrzmCwnaXZlBkgYhjr62jME&ved=2ahUKEwjbzuiQ-peXAxWig4kEHbR3HrYQFnoECD4QAQ&uoh=1",
+        "displayed_link": "https://pmkisaninstallmentdate.pages.dev › ...",
+        "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAADQCACdASogACAAPtEwtFooIigoGAEAGglsAJ0yhILH8Iwm6gwle4A3kb0AOk68oAwATP37MpfmJZABL8ZiK_36T8PBz4Oteh4VP5k_6_mqAP79mHhcppqenDYKDSuIzR87QIdFWUDB6Bbxl8e80dkWvFSLy3d5TtVtHvV0992Dv-8UPq0y3h2oJ3jXufXlOoAmBt0S1vFPvupM4hL-Jz6s_vKU___Ko4914eD_0Qjf-QdNXCcM_ild-6QH63edain_xLRwNRKT_dSn9VYhU_si50v9Wj7eQUFHr1rxZnXJHvun8e4fFRoqTOet6pxIRrxJyWZFHnbkdj9wz7-1Gmv0U8d9y7ZHiFDV-EkcAf8_gTYo9Pfx96OXovW-Hdmrq50Xlk17GXkGKZXRG0NRq-z5m7fEis-EnQ2ff8nxUznWCBTqNLr90milbPDy2BlSg_fcnOpA-nQa27sUsOE4Ksy_r237DI_-cbgmuDXfWg5gk9sQGQl_-OPx0vL22m5P48bJjpEFP9sH-TTG7EyOgsRULG_ds0gntZH1gr8nN-DPI39yt8oZeCr4w7q1ykgEkK3XvphpdhINVq0Xo_DJEnWGYAA.webp",
+        "snippet": "The 24th Installment of PM Kisan is expected in October/November 2026. Please verify your eKYC and Aadhaar DBT bank status immediately.",
+        "snippet_highlighted_words": [
+          "October/November 2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The 24th Installment of PM Kisan is expected in October/November 2026. Please verify your eKYC and Aadhaar DBT bank status immediately.",
+            "source_info_link": "https://pmkisaninstallmentdate.pages.dev/en/",
+            "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAADQCACdASogACAAPtEwtFooIigoGAEAGglsAJ0yhILH8Iwm6gwle4A3kb0AOk68oAwATP37MpfmJZABL8ZiK_36T8PBz4Oteh4VP5k_6_mqAP79mHhcppqenDYKDSuIzR87QIdFWUDB6Bbxl8e80dkWvFSLy3d5TtVtHvV0992Dv-8UPq0y3h2oJ3jXufXlOoAmBt0S1vFPvupM4hL-Jz6s_vKU___Ko4914eD_0Qjf-QdNXCcM_ild-6QH63edain_xLRwNRKT_dSn9VYhU_si50v9Wj7eQUFHr1rxZnXJHvun8e4fFRoqTOet6pxIRrxJyWZFHnbkdj9wz7-1Gmv0U8d9y7ZHiFDV-EkcAf8_gTYo9Pfx96OXovW-Hdmrq50Xlk17GXkGKZXRG0NRq-z5m7fEis-EnQ2ff8nxUznWCBTqNLr90milbPDy2BlSg_fcnOpA-nQa27sUsOE4Ksy_r237DI_-cbgmuDXfWg5gk9sQGQl_-OPx0vL22m5P48bJjpEFP9sH-TTG7EyOgsRULG_ds0gntZH1gr8nN-DPI39yt8oZeCr4w7q1ykgEkK3XvphpdhINVq0Xo_DJEnWGYAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVmxQYVJ0MzI0bVVZUDhDUVM5dmw2cEJqOGt5c1pEdkg4Mk5uUl9IQUFBb2F5blZQUEJZNlpPX0NXOG9OTVlaTUUxM1B3LWZpSS1tVEREX3Z1cTBaTXE2NFhQcHZpVzFyZ3NHa1hCVEdNUnJ6bUN3bmFYWmxCa2dZaGpyNjJqTUUSBBoCCAAa6gQSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAxgQIABAAGAAgACoiCgJwbRUxru9AGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbiopCgVraXNhbhU3yfJAGgZraXNhYW4aB3Bta2lzYW4aCml2O3A7a2lzYW4qIAoEbmV4dBUAAAAAGglmb2xsb3dpbmcaCHVwY29taW5nKjAKC2luc3RhbGxtZW50FTVOAkEaCmluc3RhbG1lbnQaEGl2O3A7aW5zdGFsbG1lbnQqEgoEZGF0ZRWQgJ1AGgVkYXRlcyoWCgQyMDI2FS1P7UAaCWl2O247MjAyNjKVAS9nb3RvP3VybD1DQUVTWkFIck96QVZsUGFSdDMyNG1VWVA4Q1FTOXZsNnBCajhreXNaRHZIODJOblJfSEFBQW9heW5WUFBCWTZaT19DVzhvTk1ZWk1FMTNQdy1maUktbVRERF92dXEwWk1xNjRYUHB2aVcxcmdzR2tYQlRHTVJyem1Dd25hWFpsQmtnWWhqcjYyak1FOkQ8Yj5QTSBLaXNhbjwvYj4gMjR0aCA8Yj5JbnN0YWxsbWVudCBEYXRlIDIwMjY8L2I-OiBTdGF0dXMgJmFtcDsgTGlzdEKOAVRoZSAyNHRoIEluc3RhbGxtZW50IG9mIFBNIEtpc2FuIGlzIGV4cGVjdGVkIGluIDxiPk9jdG9iZXIvTm92ZW1iZXIgMjAyNjwvYj4uIFBsZWFzZSB2ZXJpZnkgeW91ciBlS1lDIGFuZCBBYWRoYWFyIERCVCBiYW5rIHN0YXR1cyBpbW1lZGlhdGVseS4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVmxQYVJ0MzI0bVVZUDhDUVM5dmw2cEJqOGt5c1pEdkg4Mk5uUl9IQUFBb2F5blZQUEJZNlpPX0NXOG9OTVlaTUUxM1B3LWZpSS1tVEREX3Z1cTBaTXE2NFhQcHZpVzFyZ3NHa1hCVEdNUnJ6bUN3bmFYWmxCa2dZaGpyNjJqTUUSBBoCCAAa6gQSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAxgQIABAAGAAgACoiCgJwbRUxru9AGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbiopCgVraXNhbhU3yfJAGgZraXNhYW4aB3Bta2lzYW4aCml2O3A7a2lzYW4qIAoEbmV4dBUAAAAAGglmb2xsb3dpbmcaCHVwY29taW5nKjAKC2luc3RhbGxtZW50FTVOAkEaCmluc3RhbG1lbnQaEGl2O3A7aW5zdGFsbG1lbnQqEgoEZGF0ZRWQgJ1AGgVkYXRlcyoWCgQyMDI2FS1P7UAaCWl2O247MjAyNjKVAS9nb3RvP3VybD1DQUVTWkFIck96QVZsUGFSdDMyNG1VWVA4Q1FTOXZsNnBCajhreXNaRHZIODJOblJfSEFBQW9heW5WUFBCWTZaT19DVzhvTk1ZWk1FMTNQdy1maUktbVRERF92dXEwWk1xNjRYUHB2aVcxcmdzR2tYQlRHTVJyem1Dd25hWFpsQmtnWWhqcjYyak1FOkQ8Yj5QTSBLaXNhbjwvYj4gMjR0aCA8Yj5JbnN0YWxsbWVudCBEYXRlIDIwMjY8L2I-OiBTdGF0dXMgJmFtcDsgTGlzdEKOAVRoZSAyNHRoIEluc3RhbGxtZW50IG9mIFBNIEtpc2FuIGlzIGV4cGVjdGVkIGluIDxiPk9jdG9iZXIvTm92ZW1iZXIgMjAyNjwvYj4uIFBsZWFzZSB2ZXJpZnkgeW91ciBlS1lDIGFuZCBBYWRoYWFyIERCVCBiYW5rIHN0YXR1cyBpbW1lZGlhdGVseS4iAhABSABYAGgA",
+        "source": "Cloudflare"
+      },
+      {
+        "position": 7,
+        "title": "PM Kisan Yojana 23rd Installment Date 2026",
+        "link": "https://www.youtube.com/watch?v=AENDgYwGNm8",
+        "displayed_link": "610+ views · 4 months ago",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp5EHxQ58sgS3GUF1kiTqedv74JkuCt_RspbjOlOdU4g8JSJ77vno6ig&s",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "snippet": "PM Kisan Yojana 23rd Installment Date 2026 | ₹2000 Kab Aayega? Beneficiary List, eKYC & Payment Status Update PM Kisan Yojana 23rd ...",
+        "duration": "3:16",
+        "about_this_result": {
+          "source": {
+            "description": "PM Kisan Yojana 23rd Installment Date 2026 | ₹2000 Kab Aayega? Beneficiary List, eKYC & Payment Status Update PM Kisan Yojana 23rd ...",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlVpQ3NreEFIcjBVTnJaSHQ2b1E0eFFBM1RLSHBPbVR6eUkxUmJreGFHQkxQZjM3bzRna1BwenZLcjBzX2ZRR2ZYc1N5UkROd0YzdG9KQXVoY1ZYYmpmSnNoRG15dHNyeGc2SnQ3eXdRZzlmNURHSGNQbTJCTGZpWTNnd3hWURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlVpQ3NreEFIcjBVTnJaSHQ2b1E0eFFBM1RLSHBPbVR6eUkxUmJreGFHQkxQZjM3bzRna1BwenZLcjBzX2ZRR2ZYc1N5UkROd0YzdG9KQXVoY1ZYYmpmSnNoRG15dHNyeGc2SnQ3eXdRZzlmNURHSGNQbTJCTGZpWTNnd3hWURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT_F_s6aMgs9FATjMd5-r8Q2IQ3qD-NC0VgzQ",
+        "source": "YouTube · Jitu tech Talks"
+      },
+      {
+        "position": 8,
+        "title": "PM Kisan 24th Installment Date 2026",
+        "link": "https://indianfastjobalert.com/tag/pm-kisan-24th-installment-date-2026/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVKsXuLXYH07iRfPgmOiLNh12mfj4yj-gx_hx2k00NRvhESGIh4sIoO6pwlIP18M4HZAk7Txk393pGFbrU0arqqgPRitIJjCwlWTkWks_kz2QAbUUfSPl9RwmxxLLln-xV5EiUX13kGXfI57ssnLuzVDV6C_1zfiSupKQ&ved=2ahUKEwjbzuiQ-peXAxWig4kEHbR3HrYQFnoECEIQAQ&uoh=1",
+        "displayed_link": "https://indianfastjobalert.com › tag › pm-kisan-24th-insta...",
+        "favicon": "https://serpapi.com/images/i/UklGRpwBAABXRUJQVlA4IJABAABQCQCdASogACAAPtEutFooIagoGAEAGglsALEfHH43qtuGcAzgG5mZKhWY67OsBQAe4N6r6AH7ADi_yZc4eiJIr6mdVchQmzjU9gJLrtcDOeib4AD-9hMngLaIxH_WUs7b1fwEDg9nrG6mRloMePNwrfsLl0UZ_PRrLOBRUEc0PW5wDqOdORGqiC7gTmUSFJmrdljuVhIbL2DTi9yzWhZ_baX-KGWFCl7TU-smyTO6JuARfVCyQQWKSgDw8QRu0dZisQhMU2Azy2Cbm_DBjLYaH3Oju6Z_x_SVY1ltQDujB4S0BmtipLKeZRd6maULgkbg3BF3f2LB1-at3q93jnKv5O-4zuyOHeZzl-tYg80z57EOPx_TAFUr5uMZ_LIj0abiPjdWEoRXt-XKg3dEHqsvK9boBK7_vrVJpmqy-Tz8z6bf-2Xn6R-zi3c7GMMWu9z_cgNBgxHGO-I1vHEXg3Nweh4-XjATmpcENzsC005bgEUAo6N-fTdEr4CMXMx6dkpAIUnfjH86uzs_59VHiAAA.webp",
+        "date": "22 Sept 2026",
+        "snippet": "PM Kisan 24th Installment Date 2026, Check Expected Release Date, Payment Status, and Beneficiary Details ; Categories Scholarship ; Tags PM Kisan ...",
+        "snippet_highlighted_words": [
+          "PM Kisan 24th Installment Date 2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "PM Kisan 24th Installment Date 2026, Check Expected Release Date, Payment Status, and Beneficiary Details ; Categories Scholarship ; Tags PM Kisan ...",
+            "source_info_link": "https://indianfastjobalert.com/tag/pm-kisan-24th-installment-date-2026/",
+            "icon": "https://serpapi.com/images/i/UklGRpwBAABXRUJQVlA4IJABAABQCQCdASogACAAPtEutFooIagoGAEAGglsALEfHH43qtuGcAzgG5mZKhWY67OsBQAe4N6r6AH7ADi_yZc4eiJIr6mdVchQmzjU9gJLrtcDOeib4AD-9hMngLaIxH_WUs7b1fwEDg9nrG6mRloMePNwrfsLl0UZ_PRrLOBRUEc0PW5wDqOdORGqiC7gTmUSFJmrdljuVhIbL2DTi9yzWhZ_baX-KGWFCl7TU-smyTO6JuARfVCyQQWKSgDw8QRu0dZisQhMU2Azy2Cbm_DBjLYaH3Oju6Z_x_SVY1ltQDujB4S0BmtipLKeZRd6maULgkbg3BF3f2LB1-at3q93jnKv5O-4zuyOHeZzl-tYg80z57EOPx_TAFUr5uMZ_LIj0abiPjdWEoRXt-XKg3dEHqsvK9boBK7_vrVJpmqy-Tz8z6bf-2Xn6R-zi3c7GMMWu9z_cgNBgxHGO-I1vHEXg3Nweh4-XjATmpcENzsC005bgEUAo6N-fTdEr4CMXMx6dkpAIUnfjH86uzs_59VHiAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVktzWHVMWFlIMDdpUmZQZ21PaUxOaDEybWZqNHlqLWd4X2h4MmswME5SdmhFU0dJaDRzSW9PNnB3bElQMThNNEhaQWs3VHhrMzkzcEdGYnJVMGFycXFnUFJpdElKakN3bFdUa1drc19rejJRQWJVVWZTUGw5UndteHhMTGxuLXhWNUVpVVgxM2tHWGZJNTdzc25MdXpWRFY2Q18xemZpU3VwS1ESBBoCCAAajwUSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA6wQIABAAGAAgACoiCgJwbRUkbvhAGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbiopCgVraXNhbhUkbvhAGgZraXNhYW4aB3Bta2lzYW4aCml2O3A7a2lzYW4qIAoEbmV4dBWZpHw_Gglmb2xsb3dpbmcaCHVwY29taW5nKjAKC2luc3RhbGxtZW50FcJY8UAaCmluc3RhbG1lbnQaEGl2O3A7aW5zdGFsbG1lbnQqEgoEZGF0ZRXAXgpBGgVkYXRlcyoWCgQyMDI2FQgqDkEaCWl2O247MjAyNjK5AS9nb3RvP3VybD1DQUVTZndIck96QVZLc1h1TFhZSDA3aVJmUGdtT2lMTmgxMm1majR5ai1neF9oeDJrMDBOUnZoRVNHSWg0c0lvTzZwd2xJUDE4TTRIWkFrN1R4azM5M3BHRmJyVTBhcnFxZ1BSaXRJSmpDd2xXVGtXa3Nfa3oyUUFiVVVmU1BsOVJ3bXh4TExsbi14VjVFaVVYMTNrR1hmSTU3c3NuTHV6VkRWNkNfMXpmaVN1cEtROjE8Yj5QTSBLaXNhbjwvYj4gMjR0aCA8Yj5JbnN0YWxsbWVudCBEYXRlIDIwMjY8L2I-QqIBPGI-UE0gS2lzYW4gMjR0aCBJbnN0YWxsbWVudCBEYXRlIDIwMjY8L2I-LCBDaGVjayBFeHBlY3RlZCBSZWxlYXNlIERhdGUsIFBheW1lbnQgU3RhdHVzLCBhbmQgQmVuZWZpY2lhcnkgRGV0YWlscyA7IENhdGVnb3JpZXMgU2Nob2xhcnNoaXAgOyBUYWdzIFBNIEtpc2FuJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVktzWHVMWFlIMDdpUmZQZ21PaUxOaDEybWZqNHlqLWd4X2h4MmswME5SdmhFU0dJaDRzSW9PNnB3bElQMThNNEhaQWs3VHhrMzkzcEdGYnJVMGFycXFnUFJpdElKakN3bFdUa1drc19rejJRQWJVVWZTUGw5UndteHhMTGxuLXhWNUVpVVgxM2tHWGZJNTdzc25MdXpWRFY2Q18xemZpU3VwS1ESBBoCCAAajwUSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA6wQIABAAGAAgACoiCgJwbRUkbvhAGg5wcmltZSBtaW5pc3RlchoHcG1raXNhbiopCgVraXNhbhUkbvhAGgZraXNhYW4aB3Bta2lzYW4aCml2O3A7a2lzYW4qIAoEbmV4dBWZpHw_Gglmb2xsb3dpbmcaCHVwY29taW5nKjAKC2luc3RhbGxtZW50FcJY8UAaCmluc3RhbG1lbnQaEGl2O3A7aW5zdGFsbG1lbnQqEgoEZGF0ZRXAXgpBGgVkYXRlcyoWCgQyMDI2FQgqDkEaCWl2O247MjAyNjK5AS9nb3RvP3VybD1DQUVTZndIck96QVZLc1h1TFhZSDA3aVJmUGdtT2lMTmgxMm1majR5ai1neF9oeDJrMDBOUnZoRVNHSWg0c0lvTzZwd2xJUDE4TTRIWkFrN1R4azM5M3BHRmJyVTBhcnFxZ1BSaXRJSmpDd2xXVGtXa3Nfa3oyUUFiVVVmU1BsOVJ3bXh4TExsbi14VjVFaVVYMTNrR1hmSTU3c3NuTHV6VkRWNkNfMXpmaVN1cEtROjE8Yj5QTSBLaXNhbjwvYj4gMjR0aCA8Yj5JbnN0YWxsbWVudCBEYXRlIDIwMjY8L2I-QqIBPGI-UE0gS2lzYW4gMjR0aCBJbnN0YWxsbWVudCBEYXRlIDIwMjY8L2I-LCBDaGVjayBFeHBlY3RlZCBSZWxlYXNlIERhdGUsIFBheW1lbnQgU3RhdHVzLCBhbmQgQmVuZWZpY2lhcnkgRGV0YWlscyA7IENhdGVnb3JpZXMgU2Nob2xhcnNoaXAgOyBUYWdzIFBNIEtpc2FuJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "indianfastjobalert.com",
+        "read_more_link": "https://indianfastjobalert.com/tag/pm-kisan-24th-installment-date-2026/#:~:text=PM%20Kisan%2024th%20Installment%20Date,Payment%20Status%2C%20and%20Beneficiary%20Details&text=Scholarship&text=PM%20Kisan%2024th%20Installment%202026%2C,Kisan%2024th%20Installment%20Date%202026"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Pm kisan next installment date 2026 list",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvjk4HoD-RQhFC8pzhEGf6y4HbY0Q:1790827988402&q=Pm+kisan+next+installment+date+2026+list&sa=X&ved=2ahUKEwjbzuiQ-peXAxWig4kEHbR3HrYQ1QJ6BAg4EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Pm+kisan+next+installment+date+2026+list"
+      },
+      {
+        "block_position": 1,
+        "query": "Pm kisan next installment date 2026 march",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvjk4HoD-RQhFC8pzhEGf6y4HbY0Q:1790827988402&q=Pm+kisan+next+installment+date+2026+march&sa=X&ved=2ahUKEwjbzuiQ-peXAxWig4kEHbR3HrYQ1QJ6BAg7EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Pm+kisan+next+installment+date+2026+march"
+      },
+      {
+        "block_position": 1,
+        "query": "Pm kisan next installment date 2026 september",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvjk4HoD-RQhFC8pzhEGf6y4HbY0Q:1790827988402&q=Pm+kisan+next+installment+date+2026+september&sa=X&ved=2ahUKEwjbzuiQ-peXAxWig4kEHbR3HrYQ1QJ6BAg5EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Pm+kisan+next+installment+date+2026+september"
+      },
+      {
+        "block_position": 1,
+        "query": "Pm kisan next installment date 2026 aadhar",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvjk4HoD-RQhFC8pzhEGf6y4HbY0Q:1790827988402&q=Pm+kisan+next+installment+date+2026+aadhar&sa=X&ved=2ahUKEwjbzuiQ-peXAxWig4kEHbR3HrYQ1QJ6BAg3EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Pm+kisan+next+installment+date+2026+aadhar"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=PM+Kisan+next+installment+date+2026&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvjk4HoD-RQhFC8pzhEGf6y4HbY0Q:1790827988402&ei=1N29atuUGKKHptQPtO_5sAs&start=10&sa=N&sstk=AS6-VmLed2Neo-Fy7AMS7EuA_CnWz_5QQ_i38AmQ5F5XioRWR5N1aFPj9YA3hGiu92oo6oFOShkCw1tcJFTCrfgsIKLNnMVntmLx1A&ved=2ahUKEwjbzuiQ-peXAxWig4kEHbR3HrYQ8NMDegQIMhAG",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=PM+Kisan+next+installment+date+2026&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvjk4HoD-RQhFC8pzhEGf6y4HbY0Q:1790827988402&ei=1N29atuUGKKHptQPtO_5sAs&start=10&sa=N&sstk=AS6-VmLed2Neo-Fy7AMS7EuA_CnWz_5QQ_i38AmQ5F5XioRWR5N1aFPj9YA3hGiu92oo6oFOShkCw1tcJFTCrfgsIKLNnMVntmLx1A&ved=2ahUKEwjbzuiQ-peXAxWig4kEHbR3HrYQ8tMDegQIMhAE"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PM+Kisan+next+installment+date+2026&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PM+Kisan+next+installment+date+2026&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PM+Kisan+next+installment+date+2026&start=10"
+      }
+    }
+  }
+}

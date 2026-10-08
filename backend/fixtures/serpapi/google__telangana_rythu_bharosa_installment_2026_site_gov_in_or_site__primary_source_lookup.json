@@ -1,0 +1,330 @@
+{
+  "civicsignal_fixture": {
+    "engine": "google",
+    "q": "Telangana Rythu Bharosa installment 2026 (site:gov.in OR site:nic.in)",
+    "params": {
+      "gl": "in",
+      "hl": "en",
+      "num": 10
+    },
+    "kind": "captured",
+    "captured_at": "2026-10-05T03:51:58.221293+00:00",
+    "note": "Follow-up (primary_source_lookup) for: Telangana Rythu Bharosa installment 2026. Because: No official page that addresses the topic among 8 retrieved sources."
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac31eda1f56fae8e9e46736",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/5VtctAH27N4Pyh7qNbe_yZpfDOBV7UoruLSM3PualVw/6ac31eda1f56fae8e9e46736.json",
+      "markdown_endpoint": "https://serpapi.com/searches/5VtctAH27N4Pyh7qNbe_yZpfDOBV7UoruLSM3PualVw/6ac31eda1f56fae8e9e46736.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/5VtctAH27N4Pyh7qNbe_yZpfDOBV7UoruLSM3PualVw/6ac31eda1f56fae8e9e46736.json_with_pixel_position",
+      "created_at": "2026-10-05 03:51:54 UTC",
+      "processed_at": "2026-10-05 03:51:54 UTC",
+      "google_url": "https://www.google.com/search?q=Telangana+Rythu+Bharosa+installment+2026+%28site%3Agov.in+OR+site%3Anic.in%29&oq=Telangana+Rythu+Bharosa+installment+2026+%28site%3Agov.in+OR+site%3Anic.in%29&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/5VtctAH27N4Pyh7qNbe_yZpfDOBV7UoruLSM3PualVw/6ac31eda1f56fae8e9e46736.html",
+      "total_time_taken": 0.4
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Telangana Rythu Bharosa installment 2026 (site:gov.in OR site:nic.in)",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Telangana Rythu Bharosa installment 2026 (site:gov.in OR site:nic.in)",
+      "total_results": 10,
+      "time_taken_displayed": 0.29,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Home | Staff Selection Commission | GoI",
+        "link": "https://ssc.gov.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAVICFSjvMzFfscY_Z5mGmaKaf6JNGeHGAc8mYsxWKuzxS5geIPxUdG2aCfU_Yij0rfgbW9Q0bsUckn8oo-iR1bAcLTBwWRPkoisA&ved=2ahUKEwiJnrns_KGXAxW8K1kFHb1fKRYQFnoECBQQAQ&uoh=1",
+        "displayed_link": "https://ssc.gov.in",
+        "favicon": "https://serpapi.com/images/i/UklGRowAAABXRUJQVlA4IIAAAACQAgCdASoQAA0AAsBMJYgCdB2gDYTxfTyuaivoAAD-9iOlYHZnOLuANGvA_vbJujdkZPuq4PWyG6EpQWBWlH5sT23vQ7ev2-fEHN3XZwh14UpawUoqyZ3GzR0vLauZ9jFhiYNB8f7ITrypmqE9Cul5Nd9VHdWhx8wrqfGyluAAAA.webp",
+        "snippet": "Selection Posts Examination,2026. 30Apr. Stenographer Grade 'C' and 'D' Examination, 2026,2026. 30Apr. Combined Higher Secondary Level (10+2) Examination,2026, ...",
+        "snippet_highlighted_words": [
+          "2026",
+          "2026",
+          "2026",
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Selection Posts Examination,2026. 30Apr. Stenographer Grade 'C' and 'D' Examination, 2026,2026. 30Apr. Combined Higher Secondary Level (10+2) Examination,2026, ...",
+            "source_info_link": "https://ssc.gov.in/",
+            "icon": "https://serpapi.com/images/i/UklGRowAAABXRUJQVlA4IIAAAACQAgCdASoQAA0AAsBMJYgCdB2gDYTxfTyuaivoAAD-9iOlYHZnOLuANGvA_vbJujdkZPuq4PWyG6EpQWBWlH5sT23vQ7ev2-fEHN3XZwh14UpawUoqyZ3GzR0vLauZ9jFhiYNB8f7ITrypmqE9Cul5Nd9VHdWhx8wrqfGyluAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWSUNGU2p2TXpGZnNjWV9aNW1HbWFLYWY2Sk5HZUhHQWM4bVlzeFdLdXp4UzVnZUlQeFVkRzJhQ2ZVX1lpajByZmdiVzlRMGJzVWNrbjhvby1pUjFiQWNMVEJ3V1JQa29pc0ESBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWSUNGU2p2TXpGZnNjWV9aNW1HbWFLYWY2Sk5HZUhHQWM4bVlzeFdLdXp4UzVnZUlQeFVkRzJhQ2ZVX1lpajByZmdiVzlRMGJzVWNrbjhvby1pUjFiQWNMVEJ3V1JQa29pc0ESBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "SSC",
+        "read_more_link": "https://ssc.gov.in/#:~:text=Selection%20Posts%20Examination%2C2026,Higher%20Secondary%20Level%20(10%2B2)%20Examination%2C2026%2C2026"
+      },
+      {
+        "position": 2,
+        "title": "Rajasthan High Court",
+        "link": "https://hcraj.nic.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAV4J1QBg5lvrPEiT6240JHkDcNap01pQ2NGF-CAguN9ILmfQc3TMxfFWfteSgQL1oSQFhxrCpr0_4tqo8uuZBGmO1hkQWhclcuGe8U&ved=2ahUKEwiJnrns_KGXAxW8K1kFHb1fKRYQFnoECBMQAQ&uoh=1",
+        "displayed_link": "https://hcraj.nic.in",
+        "favicon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAACwBgCdASogACAAPtEutFooIagoGAEAGglpAAWFawN8X2oH-pm-qrT2Nze0FUr4PvDz-R0fHvXVnXWv3H1eQAD-_sLA4JZ8vTmwa-Ias9rNhQEphOEKq_AlZmNwdEnUU25sK7pZlxWfD8MSGVPMVxlz3cxv_G1nFqRqzYMcfkFCCth-sVvKLcBza5PWYgBrGiuZze83HjLdrgCJY4EJv7MQIvY1lop4-cV9bAAuxDdF5Acr2M-UepZ7r2W3HyLlszhr_6_z52JonP531wz9iuqAk99jd699p9iIA-3GSa7-GfX5Nm_D7auBOSE3OZfE-Wh92v5UzIx3EyDUgRbgs2gp6KVQRZSv6rEwFj2tEqW61NeN_SK9Jh-FTz-1hPa_8S_Z1le-YAclGK2-SR2W6GbpSCTyAAAA.webp",
+        "snippet": "CW / 5128 / 2026 (APOORVA AGRAWAT VS STATE OF RAJASTHAN) Date of Order/Judgment: 05/09/2026. The petitioner sought protection of Jawai leopard habitat and ...",
+        "snippet_highlighted_words": [
+          "2026",
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "CW / 5128 / 2026 (APOORVA AGRAWAT VS STATE OF RAJASTHAN) Date of Order/Judgment: 05/09/2026. The petitioner sought protection of Jawai leopard habitat and ...",
+            "source_info_link": "https://hcraj.nic.in/",
+            "icon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAACwBgCdASogACAAPtEutFooIagoGAEAGglpAAWFawN8X2oH-pm-qrT2Nze0FUr4PvDz-R0fHvXVnXWv3H1eQAD-_sLA4JZ8vTmwa-Ias9rNhQEphOEKq_AlZmNwdEnUU25sK7pZlxWfD8MSGVPMVxlz3cxv_G1nFqRqzYMcfkFCCth-sVvKLcBza5PWYgBrGiuZze83HjLdrgCJY4EJv7MQIvY1lop4-cV9bAAuxDdF5Acr2M-UepZ7r2W3HyLlszhr_6_z52JonP531wz9iuqAk99jd699p9iIA-3GSa7-GfX5Nm_D7auBOSE3OZfE-Wh92v5UzIx3EyDUgRbgs2gp6KVQRZSv6rEwFj2tEqW61NeN_SK9Jh-FTz-1hPa_8S_Z1le-YAclGK2-SR2W6GbpSCTyAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWNEoxUUJnNWx2clBFaVQ2MjQwSkhrRGNOYXAwMXBRMk5HRi1DQWd1TjlJTG1mUWMzVE14ZkZXZnRlU2dRTDFvU1FGaHhyQ3ByMF80dHFvOHV1WkJHbU8xaGtRV2hjbGN1R2U4VRIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWNEoxUUJnNWx2clBFaVQ2MjQwSkhrRGNOYXAwMXBRMk5HRi1DQWd1TjlJTG1mUWMzVE14ZkZXZnRlU2dRTDFvU1FGaHhyQ3ByMF80dHFvOHV1WkJHbU8xaGtRV2hjbGN1R2U4VRIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+        "source": "Rajasthan High Court",
+        "read_more_link": "https://hcraj.nic.in/#:~:text=Important%20Links"
+      },
+      {
+        "position": 3,
+        "title": "Haryana Labour :: E-Governance Portal",
+        "link": "https://hrylabour.gov.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVRQRYMd3NlqjAj9aVvtTo28N5DNYeEgAM47yMHm-yhp0LxUr7Q7EoMmf8s8f8TvjWGVarr3YkO0o5UZ_HDZIWwZ6QnBWaLnA8O_sJS3wO_w&ved=2ahUKEwiJnrns_KGXAxW8K1kFHb1fKRYQFnoECBkQAQ&uoh=1",
+        "displayed_link": "https://hrylabour.gov.in",
+        "favicon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAACwBACdASoQABQAPtEutFooIagoGAEAGglsAJ0ygCjVePVB4e0p7CMqugv0t-dAAP72E4d1k0yeMFNIEBjlbg2N1m5Lw2Mvt_fSZLI9MaeaBM8_ZdH5ctEO-e9ZT6JGoKKVuZiY4bAu0czIY2HAu-Vt3222nTuYxWacywtUp1_mgU2g7vkrJHP6QWH0GFYG_iB-rAQcSEFpO881Wp_P5_-vWS3z8LewKHQWohU-qTiWwC9rU0yP5Fl54V-QAAAA.webp",
+        "snippet": "The Labour Department Haryana e-Governance portal provide efficient, effective and excellent e-services for Factory, Shop, Contact Labour, BOCWW and BOCW ...",
+        "about_this_result": {
+          "source": {
+            "description": "The Labour Department Haryana e-Governance portal provide efficient, effective and excellent e-services for Factory, Shop, Contact Labour, BOCWW and BOCW ...",
+            "source_info_link": "https://hrylabour.gov.in/",
+            "icon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAACwBACdASoQABQAPtEutFooIagoGAEAGglsAJ0ygCjVePVB4e0p7CMqugv0t-dAAP72E4d1k0yeMFNIEBjlbg2N1m5Lw2Mvt_fSZLI9MaeaBM8_ZdH5ctEO-e9ZT6JGoKKVuZiY4bAu0czIY2HAu-Vt3222nTuYxWacywtUp1_mgU2g7vkrJHP6QWH0GFYG_iB-rAQcSEFpO881Wp_P5_-vWS3z8LewKHQWohU-qTiWwC9rU0yP5Fl54V-QAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVlJRUllNZDNObHFqQWo5YVZ2dFRvMjhONUROWWVFZ0FNNDd5TUhtLXlocDBMeFVyN1E3RW9NbWY4czhmOFR2aldHVmFycjNZa08wbzVVWl9IRFpJV3daNlFuQldhTG5BOE9fc0pTM3dPX3cSBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVlJRUllNZDNObHFqQWo5YVZ2dFRvMjhONUROWWVFZ0FNNDd5TUhtLXlocDBMeFVyN1E3RW9NbWY4czhmOFR2aldHVmFycjNZa08wbzVVWl9IRFpJV3daNlFuQldhTG5BOE9fc0pTM3dPX3cSBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "lABOUR DEPARTMENT HARYANA"
+      },
+      {
+        "position": 4,
+        "title": "Government e Marketplace | National Public Procurement Portal",
+        "link": "https://gem.gov.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAVZOgEn2c3iOaLW_YPAA9A76aeMaL2hR6yVYTTMa73SiY2IUWyUlmOXYqhnkTagZyUIy4iXOE3cW5k7CcUIIPfJteng36BWwLi4A&ved=2ahUKEwiJnrns_KGXAxW8K1kFHb1fKRYQFnoECBsQAQ&uoh=1",
+        "displayed_link": "https://gem.gov.in",
+        "snippet": "Government e Marketplace (GeM) is a digital platform for procurement of goods … 25th Sep 2026, have been extended until 07:00 PM on 28th Sep 2026.",
+        "snippet_highlighted_words": [
+          "2026",
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Government e Marketplace (GeM) is a digital platform for procurement of goods … 25th Sep 2026, have been extended until 07:00 PM on 28th Sep 2026.",
+            "source_info_link": "https://gem.gov.in/"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWWk9nRW4yYzNpT2FMV19ZUEFBOUE3NmFlTWFMMmhSNnlWWVRUTWE3M1NpWTJJVVd5VWxtT1hZcWhua1RhZ1p5VUl5NGlYT0UzY1c1azdDY1VJSVBmSnRlbmczNkJXd0xpNEESBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CngvZ290bz91cmw9Q0FFU1RnSHJPekFWWk9nRW4yYzNpT2FMV19ZUEFBOUE3NmFlTWFMMmhSNnlWWVRUTWE3M1NpWTJJVVd5VWxtT1hZcWhua1RhZ1p5VUl5NGlYT0UzY1c1azdDY1VJSVBmSnRlbmczNkJXd0xpNEESBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "Government e-Marketplace"
+      },
+      {
+        "position": 5,
+        "title": "WBJEE BOARD | India",
+        "link": "https://wbjeeb.nic.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUQHrOzAVZd7QwiUbkS7uMVAtmw1QoHFDdsW0lJIIprp93SE6uEtE6UtEELP5gPDbyQ6YiUyN6_xnWIfD6qs8GWmCrvt8qZpczRSaBnsqholSKg&ved=2ahUKEwiJnrns_KGXAxW8K1kFHb1fKRYQFnoECBEQAQ&uoh=1",
+        "displayed_link": "https://wbjeeb.nic.in",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png",
+        "snippet": "Examinations, Admission and eCounselling Services for Session 2026 ... Last Updated: Oct 04, 2026. Secure, Scalable and Sugamya Website as a Service ...",
+        "snippet_highlighted_words": [
+          "2026",
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Examinations, Admission and eCounselling Services for Session 2026 ... Last Updated: Oct 04, 2026. Secure, Scalable and Sugamya Website as a Service ...",
+            "source_info_link": "https://wbjeeb.nic.in/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnwvZ290bz91cmw9Q0FFU1VRSHJPekFWWmQ3UXdpVWJrUzd1TVZBdG13MVFvSEZEZHNXMGxKSUlwcnA5M1NFNnVFdEU2VXRFRUxQNWdQRGJ5UTZZaVV5TjZfeG5XSWZENnFzOEdXbUNydnQ4cVpwY3pSU2FCbnNxaG9sU0tnEgQaAggAGiASABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnwvZ290bz91cmw9Q0FFU1VRSHJPekFWWmQ3UXdpVWJrUzd1TVZBdG13MVFvSEZEZHNXMGxKSUlwcnA5M1NFNnVFdEU2VXRFRUxQNWdQRGJ5UTZZaVV5TjZfeG5XSWZENnFzOEdXbUNydnQ4cVpwY3pSU2FCbnNxaG9sU0tnEgQaAggAGiASABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "WBJEE Board",
+        "read_more_link": "https://wbjeeb.nic.in/#:~:text=Examinations%2C%20Admission%20and%20eCounselling%20Services,for%20Session%202026&text=Last%20Updated%3A%20Oct%2004%2C%202026"
+      },
+      {
+        "position": 6,
+        "title": "Homepage | (DBT) Direct Benefit Transfer",
+        "link": "https://dbtbharat.gov.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVUqZIhVaN-E5KzIaR4IH8SaSbLB9_gwteCu2h8fwS01Qa_ljRn_mOLhQVmGpv2YhhcI5pLj1RdcaJV-ESRbJRm1iaHAbqri2xgSgtVHCerw&ved=2ahUKEwiJnrns_KGXAxW8K1kFHb1fKRYQFnoECA8QAQ&uoh=1",
+        "displayed_link": "https://dbtbharat.gov.in",
+        "favicon": "https://serpapi.com/images/i/UklGRrwBAABXRUJQVlA4ILABAADwBwCdASocABwAPtEutFooIagoGAEAGglsALsZpS2_75TK8EM28bn0HqLo2CdcVbtSGx_O9w6LRRJHS0NV_9V0ThScL7qwyQAA_vYTnTmUrPsLHBI75K7xM6FyD9Ko_7YGe-fw9ZyxdlVx6S-M1jzvTdja3L0ugbkMLZevBvF7Vlc9y_LXk7-7XeVVF9lr2w8RdEQkJge0YG19-aTqgzpAjAVOLT56GWnjw9v_uMo3VDPn5YP6_0OayEWHaS55eURzocKN1Tet_IoOOf834I_-z925vCD4jMwUe248H0dpAul0-XVxVty-Aa5KZ11kYc04_yOWiHmEEZ487jy07Irb6PiAlqFvGt3FCuH50igfW7bl60TpCuv2TMijPqu2VIO_RtPocU_YtPP2SIk-tbmcJZ-2pFu8hDUV633UuGcbqNS45vP_lDc-BLjnzD_hr7F7ZQPmvo1Pdn3aHpdK_7sdLVV4im3J_Ex95zNz_z7NAwRnVGmbDwFWLk_fzi0qbsBKK2LvzpEDLhdB-JfAQmA52twuuIIWQLP19a6SVAqE2yQ0INz2KYp64rRUmV54AAA.webp",
+        "snippet": "2026-27. Total Direct Benefit Transfer ( FY 2026-27). ₹ 2,55,145 Cr. Total Funds Transfer. More details. TOTAL NO. OF TRANSACTIONS( FY 2026-27). 299 Cr. Total ...",
+        "snippet_highlighted_words": [
+          "2026",
+          "2026",
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "2026-27. Total Direct Benefit Transfer ( FY 2026-27). ₹ 2,55,145 Cr. Total Funds Transfer. More details. TOTAL NO. OF TRANSACTIONS( FY 2026-27). 299 Cr. Total ...",
+            "source_info_link": "https://dbtbharat.gov.in/",
+            "icon": "https://serpapi.com/images/i/UklGRrwBAABXRUJQVlA4ILABAADwBwCdASocABwAPtEutFooIagoGAEAGglsALsZpS2_75TK8EM28bn0HqLo2CdcVbtSGx_O9w6LRRJHS0NV_9V0ThScL7qwyQAA_vYTnTmUrPsLHBI75K7xM6FyD9Ko_7YGe-fw9ZyxdlVx6S-M1jzvTdja3L0ugbkMLZevBvF7Vlc9y_LXk7-7XeVVF9lr2w8RdEQkJge0YG19-aTqgzpAjAVOLT56GWnjw9v_uMo3VDPn5YP6_0OayEWHaS55eURzocKN1Tet_IoOOf834I_-z925vCD4jMwUe248H0dpAul0-XVxVty-Aa5KZ11kYc04_yOWiHmEEZ487jy07Irb6PiAlqFvGt3FCuH50igfW7bl60TpCuv2TMijPqu2VIO_RtPocU_YtPP2SIk-tbmcJZ-2pFu8hDUV633UuGcbqNS45vP_lDc-BLjnzD_hr7F7ZQPmvo1Pdn3aHpdK_7sdLVV4im3J_Ex95zNz_z7NAwRnVGmbDwFWLk_fzi0qbsBKK2LvzpEDLhdB-JfAQmA52twuuIIWQLP19a6SVAqE2yQ0INz2KYp64rRUmV54AAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVlVxWkloVmFOLUU1S3pJYVI0SUg4U2FTYkxCOV9nd3RlQ3UyaDhmd1MwMVFhX2xqUm5fbU9MaFFWbUdwdjJZaGhjSTVwTGoxUmRjYUpWLUVTUmJKUm0xaWFIQWJxcmkyeGdTZ3RWSENlcncSBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVlVxWkloVmFOLUU1S3pJYVI0SUg4U2FTYkxCOV9nd3RlQ3UyaDhmd1MwMVFhX2xqUm5fbU9MaFFWbUdwdjJZaGhjSTVwTGoxUmRjYUpWLUVTUmJKUm0xaWFIQWJxcmkyeGdTZ3RWSENlcncSBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "DBT | Direct Benefit Transfer",
+        "read_more_link": "https://dbtbharat.gov.in/#:~:text=2026%2D27,299%20Cr"
+      },
+      {
+        "position": 7,
+        "title": "Food, Civil Supplies and Consumer Protection Department",
+        "link": "https://mahafood.gov.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVj122hOlbW3jDOd3jPSeDjpjpDCZNwifXqUrzEjG0R9udilkaB13YPgSeSHo408a3E_X7ep3upYSqDL78szgVLr_56JnMPsoKLtwJMgAq&ved=2ahUKEwiJnrns_KGXAxW8K1kFHb1fKRYQFnoECBAQAQ&uoh=1",
+        "displayed_link": "https://mahafood.gov.in",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png",
+        "snippet": "शेवटचे अद्यावत: September 26, 2026 11:17 AM. सेवा म्हणून सुरक्षित, स्केलेबल आणि सुगम संकेतस्थळ ...",
+        "snippet_highlighted_words": [
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "शेवटचे अद्यावत: September 26, 2026 11:17 AM. सेवा म्हणून सुरक्षित, स्केलेबल आणि सुगम संकेतस्थळ ...",
+            "source_info_link": "https://mahafood.gov.in/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cn4vZ290bz91cmw9Q0FFU1V3SHJPekFWajEyMmhPbGJXM2pET2QzalBTZURqcGpwRENaTndpZlhxVXJ6RWpHMFI5dWRpbGthQjEzWVBnU2VTSG80MDhhM0VfWDdlcDN1cFlTcURMNzhzemdWTHJfNTZKbk1Qc29LTHR3Sk1nQXESBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cn4vZ290bz91cmw9Q0FFU1V3SHJPekFWajEyMmhPbGJXM2pET2QzalBTZURqcGpwRENaTndpZlhxVXJ6RWpHMFI5dWRpbGthQjEzWVBnU2VTSG80MDhhM0VfWDdlcDN1cFlTcURMNzhzemdWTHJfNTZKbk1Qc29LTHR3Sk1nQXESBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "mahafood.gov.in",
+        "read_more_link": "https://mahafood.gov.in/#:~:text=%E0%A4%B6%E0%A5%87%E0%A4%B5%E0%A4%9F%E0%A4%9A%E0%A5%87%20%E0%A4%85%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%A4%3A%20September%2026%2C%202026,11%3A17%20AM"
+      },
+      {
+        "position": 8,
+        "title": "AMC",
+        "link": "https://ahmedabadcity.gov.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVn4k51t3Ie0JoeB8SsMkp7s4SFhrUIXL0wkhov3bQW75hgV6Du_rnyQ7jNIifjEjZOum2LwfCPMItal7MW98mz8PugiBBsyo_KJonVD4Uzu3g2Q4&ved=2ahUKEwiJnrns_KGXAxW8K1kFHb1fKRYQFnoECBcQAQ&uoh=1",
+        "displayed_link": "https://ahmedabadcity.gov.in",
+        "snippet": "Pay Chargeable FSI Installment · Pay Rajachitthi Difference Fees. BIRTH ... AISP 2026 - Expression of Interest Form · Contractor Registration · Fire NOC · TDO ...",
+        "snippet_highlighted_words": [
+          "Installment",
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Pay Chargeable FSI Installment · Pay Rajachitthi Difference Fees. BIRTH ... AISP 2026 - Expression of Interest Form · Contractor Registration · Fire NOC · TDO ...",
+            "source_info_link": "https://ahmedabadcity.gov.in/"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVm40azUxdDNJZTBKb2VCOFNzTWtwN3M0U0ZoclVJWEwwd2tob3YzYlFXNzVoZ1Y2RHVfcm55UTdqTklpZmpFalpPdW0yTHdmQ1BNSXRhbDdNVzk4bXo4UHVnaUJCc3lvX0tKb25WRDRVenUzZzJRNBIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVm40azUxdDNJZTBKb2VCOFNzTWtwN3M0U0ZoclVJWEwwd2tob3YzYlFXNzVoZ1Y2RHVfcm55UTdqTklpZmpFalpPdW0yTHdmQ1BNSXRhbDdNVzk4bXo4UHVnaUJCc3lvX0tKb25WRDRVenUzZzJRNBIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+        "source": "ahmedabadcity.gov.in",
+        "read_more_link": "https://ahmedabadcity.gov.in/#:~:text=Ahmedabad%20City%20as%20India's%20Best&text=AISP%202026%20%2D%20Expression%20of,TDO(B.P.S.P)%20Services"
+      },
+      {
+        "position": 9,
+        "title": "Home | National Company Law Appellate Tribunal (NCLAT)",
+        "link": "https://nclat.nic.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVMIJ1hRWBUDsPU9QpXGjFhN2EnYfn_pzjdIKUB1chravNsfplRF-QUK38bD3z1ZVKcDkuU8s0TjCRe6GSwaTElss1H6v1F3icKQ-r&ved=2ahUKEwiJnrns_KGXAxW8K1kFHb1fKRYQFnoECBgQAQ&uoh=1",
+        "displayed_link": "https://nclat.nic.in",
+        "favicon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAADwBwCdASogACAAPtEutFooIagoGAEAGglsAJ0zND-HkH4S3QdsWMnbgN5V3lgiTUnG6XxN3KDkOx61kOIXngMyIHPb5MIAQQAA_v7DY4ZIo3cyfhwvhpUX43oHbn05oh6VrEyyBQi6h_xPNd64V7cZElKZsIrBe203_UnseZ3voVBLPd8_NnhQMR4dKJlK2pM1CjhpYoB83UhO21-u_f2g-7nXazFFnUynsh_HwYQTx8BpjNH6d7HeVopBwTfs_5HEoD_Ab7xENzcTVb_S-uMErv3U0MP03zXrp1Hi0XADVe-WjEfehIgONOm-0hXAqz8d63SToN2Xv5pMptsy3mTZkrmPvQCc_V7d5qL9p8qEZcUyB09bQ8S4z1J7EQSJt6B0RZ1nAsqd65wg9U22WhJ4ceLIAm7GgAA.webp",
+        "snippet": "Please take notice that the next date of hearing in the following matters of Chennai Bench, notified earlier vide reference cited, is 21.12.2026.",
+        "snippet_highlighted_words": [
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Please take notice that the next date of hearing in the following matters of Chennai Bench, notified earlier vide reference cited, is 21.12.2026.",
+            "source_info_link": "https://nclat.nic.in/",
+            "icon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAADwBwCdASogACAAPtEutFooIagoGAEAGglsAJ0zND-HkH4S3QdsWMnbgN5V3lgiTUnG6XxN3KDkOx61kOIXngMyIHPb5MIAQQAA_v7DY4ZIo3cyfhwvhpUX43oHbn05oh6VrEyyBQi6h_xPNd64V7cZElKZsIrBe203_UnseZ3voVBLPd8_NnhQMR4dKJlK2pM1CjhpYoB83UhO21-u_f2g-7nXazFFnUynsh_HwYQTx8BpjNH6d7HeVopBwTfs_5HEoD_Ab7xENzcTVb_S-uMErv3U0MP03zXrp1Hi0XADVe-WjEfehIgONOm-0hXAqz8d63SToN2Xv5pMptsy3mTZkrmPvQCc_V7d5qL9p8qEZcUyB09bQ8S4z1J7EQSJt6B0RZ1nAsqd65wg9U22WhJ4ceLIAm7GgAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWTUlKMWhSV0JVRHNQVTlRcFhHakZoTjJFbllmbl9wempkSUtVQjFjaHJhdk5zZnBsUkYtUVVLMzhiRDN6MVpWS2NEa3VVOHMwVGpDUmU2R1N3YVRFbHNzMUg2djFGM2ljS1EtchIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWTUlKMWhSV0JVRHNQVTlRcFhHakZoTjJFbllmbl9wempkSUtVQjFjaHJhdk5zZnBsUkYtUVVLMzhiRDN6MVpWS2NEa3VVOHMwVGpDUmU2R1N3YVRFbHNzMUg2djFGM2ljS1EtchIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+        "source": "National Company Law Appellate Tribunal (NCLAT)",
+        "read_more_link": "https://nclat.nic.in/#:~:text=Please%20take%20notice%20that%20the,vide%20reference%20cited%2C%20is%2021.12.2026."
+      },
+      {
+        "position": 10,
+        "title": "Delhi Development Authority (DDA): Home page",
+        "link": "http://dda.gov.in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTQHrOzAV-tbLJKxE8gkIjqHiO-bl3ofiePBCEeyUwRvpHcqVb2au28QMaNegBRcY5vATh9gKvpN8ns8Ct5MlnapDDRxAMTpZuc4lC6XO&ved=2ahUKEwiJnrns_KGXAxW8K1kFHb1fKRYQFnoECBUQAQ&uoh=1",
+        "displayed_link": "http://dda.gov.in",
+        "favicon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAACwCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhHZ_jlQF244lGQZG--DKf4AaQKaF5H8I_L9qQIt4AafQcrXpZyztNKXkQ0SZdgJ2EsAA_v7Dnj1j0f3_OPVnm3-IiDuh6dzq6yPpJ9S057O3sarof0_544oQwAqBhV7ht_7DrCYKC9ZfpxTxPxUfg4I6Kx-82uyOCO8LxHj_krn0AphQZ7sX6JPBswl2VcYrS1BGbJh1GXQrbaHbh62wLI-8uPu6-vnNIVqUgY_1QnP_-GJyzu9p1JqneJonqpEP5KFFmC-rBtKGzWCJ803R435gxoCcMlbQp3avWPo2ZKJUPMUWrZjSo96TlVdOVkrfLHWaZC0Nh4_FjMhlE3JWmNj-HKvgKZ8ENmhihmUdPF-MK-hU-QXzrBnQu4OVUrDRK9bRHnb7MT5ua0qjXkrLqBHQN4UWRwwsRYuVBegNhnbha0ebHR1gXn0XnXfaVJv_q81goTRYZtNO72A6i07KxMxCW56dq8RPpa0msHHOw0BnBDKh7S4xoDWTmiUmsAAA.webp",
+        "snippet": "The DDA is responsible for Planning, development and construction of Housing projects, Commercial Land, Land Management & Disposal, Land Pooling & Costing ...",
+        "about_this_result": {
+          "source": {
+            "description": "The DDA is responsible for Planning, development and construction of Housing projects, Commercial Land, Land Management & Disposal, Land Pooling & Costing ...",
+            "source_info_link": "http://dda.gov.in/",
+            "icon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAACwCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhHZ_jlQF244lGQZG--DKf4AaQKaF5H8I_L9qQIt4AafQcrXpZyztNKXkQ0SZdgJ2EsAA_v7Dnj1j0f3_OPVnm3-IiDuh6dzq6yPpJ9S057O3sarof0_544oQwAqBhV7ht_7DrCYKC9ZfpxTxPxUfg4I6Kx-82uyOCO8LxHj_krn0AphQZ7sX6JPBswl2VcYrS1BGbJh1GXQrbaHbh62wLI-8uPu6-vnNIVqUgY_1QnP_-GJyzu9p1JqneJonqpEP5KFFmC-rBtKGzWCJ803R435gxoCcMlbQp3avWPo2ZKJUPMUWrZjSo96TlVdOVkrfLHWaZC0Nh4_FjMhlE3JWmNj-HKvgKZ8ENmhihmUdPF-MK-hU-QXzrBnQu4OVUrDRK9bRHnb7MT5ua0qjXkrLqBHQN4UWRwwsRYuVBegNhnbha0ebHR1gXn0XnXfaVJv_q81goTRYZtNO72A6i07KxMxCW56dq8RPpa0msHHOw0BnBDKh7S4xoDWTmiUmsAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnYvZ290bz91cmw9Q0FFU1RRSHJPekFWLXRiTEpLeEU4Z2tJanFIaU8tYmwzb2ZpZVBCQ0VleVV3UnZwSGNxVmIyYXUyOFFNYU5lZ0JSY1k1dkFUaDlnS3ZwTjhuczhDdDVNbG5hcEREUnhBTVRwWnVjNGxDNlhPEgQaAggAGiASABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnYvZ290bz91cmw9Q0FFU1RRSHJPekFWLXRiTEpLeEU4Z2tJanFIaU8tYmwzb2ZpZVBCQ0VleVV3UnZwSGNxVmIyYXUyOFFNYU5lZ0JSY1k1dkFUaDlnS3ZwTjhuczhDdDVNbG5hcEREUnhBTVRwWnVjNGxDNlhPEgQaAggAGiASABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "Delhi Development Authority (DDA)"
+      }
+    ]
+  }
+}

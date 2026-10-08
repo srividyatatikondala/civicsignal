@@ -1,0 +1,360 @@
+{
+  "civicsignal_fixture": {
+    "engine": "google",
+    "q": "Telangana Rythu Bharosa installment 2026",
+    "params": {
+      "gl": "in",
+      "hl": "en",
+      "num": 10
+    },
+    "kind": "captured",
+    "captured_at": "2026-10-01T04:13:13.870381+00:00",
+    "note": "state scheme; regional source landscape"
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6abdddd632f11d7cf41b456f",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/FCcpVmdGZlAfkzEJtsM1W13UeSYHziBaKnwWZDyikSQ/6abdddd632f11d7cf41b456f.json",
+      "markdown_endpoint": "https://serpapi.com/searches/FCcpVmdGZlAfkzEJtsM1W13UeSYHziBaKnwWZDyikSQ/6abdddd632f11d7cf41b456f.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/FCcpVmdGZlAfkzEJtsM1W13UeSYHziBaKnwWZDyikSQ/6abdddd632f11d7cf41b456f.json_with_pixel_position",
+      "created_at": "2026-10-01 04:13:10 UTC",
+      "processed_at": "2026-10-01 04:13:10 UTC",
+      "google_url": "https://www.google.com/search?q=Telangana+Rythu+Bharosa+installment+2026&oq=Telangana+Rythu+Bharosa+installment+2026&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/FCcpVmdGZlAfkzEJtsM1W13UeSYHziBaKnwWZDyikSQ/6abdddd632f11d7cf41b456f.html",
+      "total_time_taken": 0.43
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Telangana Rythu Bharosa installment 2026",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Telangana Rythu Bharosa installment 2026",
+      "total_results": 982,
+      "time_taken_displayed": 0.2,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Telangana Rythu Bharosa Funds Release 5th Day Update",
+        "link": "https://www.youtube.com/shorts/JQcvuoTK9Fk",
+        "thumbnail": "https://serpapi.com/searches/6abdddd632f11d7cf41b456f/images/KKtyHoFYT69PrZRAcAOyZMlD0g3r5IAcWpcg7cCdP2E.jpeg",
+        "channel": "ystvtelugu",
+        "duration": "1:15",
+        "platform": "YouTube",
+        "date": "5 Jul 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTMfYRNM9i3wgDs8OF4_irOXGWf-4CjHkQuXA"
+      },
+      {
+        "position": 2,
+        "title": "Rs. 14000 Rythu Bharosa to be credited to Telangana farmers ...",
+        "link": "https://www.youtube.com/watch?v=0BqWCSA_N0Q",
+        "thumbnail": "https://serpapi.com/searches/6abdddd632f11d7cf41b456f/images/91tPWWYYmjPIFmgTFdshBqqDphg6k7KZ_C8FTZtn7gs.jpeg",
+        "channel": "TS News Updates",
+        "duration": "8:32",
+        "platform": "YouTube",
+        "date": "1 month ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRwa-4iAGvIZb6UBvKoRhQCVAAt2vsNjJcSfw"
+      },
+      {
+        "position": 3,
+        "title": "Rythu Bharosa Payment Status 2026 | @manatalkshow...",
+        "link": "https://www.youtube.com/watch?v=EFSbC35Zv1Q",
+        "thumbnail": "https://serpapi.com/searches/6abdddd632f11d7cf41b456f/images/ihh41S8xS7VAgIEwvDYty4VLxs6iN4mYDtZjFPSESxY.jpeg",
+        "channel": "Mana Talk Show",
+        "duration": "1:51",
+        "platform": "YouTube",
+        "date": "17 Jun 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ4OCp-agSzb8AJ4CJzZKP9MAYYCRI3cwiLTw"
+      },
+      {
+        "position": 4,
+        "title": "Telangana Rythu Bharosa: ₹6000 Per Acre to Be Credited in ...",
+        "link": "https://www.facebook.com/61590698944213/videos/telangana-rythu-bharosa-6000-per-acre-to-be-credited-in-installments-latest-upda/2129175604312492/",
+        "thumbnail": "https://serpapi.com/searches/6abdddd632f11d7cf41b456f/images/4ovh1ydfJT6ge3x1hCNc0AxSA_bA8O4I-IH7WTUttcE.jpeg",
+        "channel": "DAR FOCUS Tech",
+        "duration": "0:15",
+        "platform": "Facebook",
+        "date": "19 Jun 2026"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "What is the status of Rythu Bandhu 2026 in Telangana?",
+        "type": "ai_overview",
+        "page_token": "IWGZynicHdDBbpswGABg7WV6bCCIbkSKJjHsUBQsYfht8GWidgLFNtDWLYRbX2HPsKfa02za_Tt9n7_N86j_fPnVOze_HXa7ZVnuu2nqzOVeTnbXvt1GuZOtMU-t1IeHrw_-96s8og8Z_3iVcQHzzBLqVTieLwMZ6SlykBqPWgxlmqW5L0zjf3Nl3d2eBhZzC_t26DdW4brhxBObGSgjk-DrpLZuhZNeZaBeFMpAabzUfv9CbHRVG-XNhsf2JM7FSEMasKDR4p2k-F2ZbC8TE4IXwT_XnLkyOZ_D0joBaKWsjm8UiYwidSa1XjiSG0tUqTQzbFDhhZuq8onPUqrLATcVhDFYWgAzk0CZIB7eM0P2wsyggnhEvVxV8hg2NXJMrzeGwa9sVJzBOVoJCnR6LoBucjAWWKTzhPIy7b0cw1IYCC9W1AIe18r2Nk-wB8XdVX4cg7v_18efV-sO8-vU_QUkrY7L",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IWGZynicHdDBbpswGABg7WV6bCCIbkSKJjHsUBQsYfht8GWidgLFNtDWLYRbX2HPsKfa02za_Tt9n7_N86j_fPnVOze_HXa7ZVnuu2nqzOVeTnbXvt1GuZOtMU-t1IeHrw_-96s8og8Z_3iVcQHzzBLqVTieLwMZ6SlykBqPWgxlmqW5L0zjf3Nl3d2eBhZzC_t26DdW4brhxBObGSgjk-DrpLZuhZNeZaBeFMpAabzUfv9CbHRVG-XNhsf2JM7FSEMasKDR4p2k-F2ZbC8TE4IXwT_XnLkyOZ_D0joBaKWsjm8UiYwidSa1XjiSG0tUqTQzbFDhhZuq8onPUqrLATcVhDFYWgAzk0CZIB7eM0P2wsyggnhEvVxV8hg2NXJMrzeGwa9sVJzBOVoJCnR6LoBucjAWWKTzhPIy7b0cw1IYCC9W1AIe18r2Nk-wB8XdVX4cg7v_18efV-sO8-vU_QUkrY7L",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNHODBPVmh5Wm5sbVIzTjVVak5VWTJvMmVFdGhNa0pJYTBkVE1ESTRhazAxVlROWU1UUjFkMFJ6Y1Y5U2QybzRaRGhSVkVwSVZrRmZkM1JXVm1KU1pWSllTSGxKYWxkWlRWQjZPVk5PUTJKRE9VcHphVk5IUm5CSlFSSVhNWFF5T1dGeExWWk1jbFJWTlU1dlVDMUxiVVUyVVZFYUlrRkVjM0k1WmxGMGVXVnBlRUl5ZDBNeFIyODNZbXBpUlZKWU5tRnZNMjF4V2tFIiwiZmN2IjoiMyIsImVpIjoiMXQyOWFxLVZMclRVNU5vUC1LbUU2UVEiLCJxYyI6IkNpaDBaV3hoYm1kaGJtRWdjbmwwYUhVZ1ltaGhjbTl6WVNCcGJuTjBZV3hzYldWdWRDQXlNREkyRUFCOU1vbmVQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc3RhdHVzIG9mIFJ5dGh1IEJhbmRodSAyMDI2IGluIFRlbGFuZ2FuYT8iLCJsayI6IkdoNXllWFJvZFNCaVlXNWthSFVnTWpBeU5pQnBiaUIwWld4aGJtZGhibUUiLCJicyI6ImM0M1FNV19DTUJBRllMRjZZczVRdllLcXFyQlVsdWpDRUltcHJLaFN4WGh4SEd3MXRwRjlwczJfSjBXQUlFczczWERmdmRPZDJJckZweUdHVFdDamtaZzRKNFFHbTQ1TnhvcDgzUmY1S3Q5Z1BUNTBTMzVIbmtxSjRpR2VTSFZQLUVMRVZzemV3emM0UUJtdHZuRG1obUpJaEQxMVRucy1ieXpsdkhneF85VmlMU2FfMFM0ckEzSWg5NTBteFB1WlVrNkxSX09YRW8xWTNqN0EwWTkxMllFaktlNXh5bFd5ZFFjNmtHMnBhdlhnRGNfRjBfVmkwQzVhbFZ2T1VROER4cU1qIiwiaWQiOiJmY18xdDI5YXEtVkxyVFU1Tm9QLUttRTZRUV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNHODBPVmh5Wm5sbVIzTjVVak5VWTJvMmVFdGhNa0pJYTBkVE1ESTRhazAxVlROWU1UUjFkMFJ6Y1Y5U2QybzRaRGhSVkVwSVZrRmZkM1JXVm1KU1pWSllTSGxKYWxkWlRWQjZPVk5PUTJKRE9VcHphVk5IUm5CSlFSSVhNWFF5T1dGeExWWk1jbFJWTlU1dlVDMUxiVVUyVVZFYUlrRkVjM0k1WmxGMGVXVnBlRUl5ZDBNeFIyODNZbXBpUlZKWU5tRnZNMjF4V2tFIiwiZmN2IjoiMyIsImVpIjoiMXQyOWFxLVZMclRVNU5vUC1LbUU2UVEiLCJxYyI6IkNpaDBaV3hoYm1kaGJtRWdjbmwwYUhVZ1ltaGhjbTl6WVNCcGJuTjBZV3hzYldWdWRDQXlNREkyRUFCOU1vbmVQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgc3RhdHVzIG9mIFJ5dGh1IEJhbmRodSAyMDI2IGluIFRlbGFuZ2FuYT8iLCJsayI6IkdoNXllWFJvZFNCaVlXNWthSFVnTWpBeU5pQnBiaUIwWld4aGJtZGhibUUiLCJicyI6ImM0M1FNV19DTUJBRllMRjZZczVRdllLcXFyQlVsdWpDRUltcHJLaFN4WGh4SEd3MXRwRjlwczJfSjBXQUlFczczWERmdmRPZDJJckZweUdHVFdDamtaZzRKNFFHbTQ1TnhvcDgzUmY1S3Q5Z1BUNTBTMzVIbmtxSjRpR2VTSFZQLUVMRVZzemV3emM0UUJtdHZuRG1obUpJaEQxMVRucy1ieXpsdkhneF85VmlMU2FfMFM0ckEzSWg5NTBteFB1WlVrNkxSX09YRW8xWTNqN0EwWTkxMllFaktlNXh5bFd5ZFFjNmtHMnBhdlhnRGNfRjBfVmkwQzVhbFZ2T1VROER4cU1qIiwiaWQiOiJmY18xdDI5YXEtVkxyVFU1Tm9QLUttRTZRUV81In0%3D"
+      },
+      {
+        "question": "How to check rythu bharosa payment status?",
+        "type": "ai_overview",
+        "page_token": "poiOfnicHdBfToMwHADgeJk9OhA2syWLEaEb6IgUfhT6YqBl4FqgblX-vHkXT-VpTPyO8H3_yPdO_N58NVqr63a5HIbhtu77Wla3rG-XxXXq2JIVUpYFE9v1_dp8OLGd9-k7Tx--E4FSqYuN5NBrBtwvTN5nFsrTWViVUJgR6ceCBmknn3JjM1EwvUpsGjo_zjhxLpwEqiK2He-pzdtRhvtgwCabogwRcg6NqqOv9Hy8i8EcKhftCVJ7TvCILX-M7jwjB9qnbm0eQcXHNIDSGw8UYSfM6inO1Ae40itRcAoR02BIJyHaqjJ6OGZI5sJeEbL6LEVzCAE_vxA6JXM9Jp3jeA0bueuv8szTqRinFIGZtJvoBbTGCcWA-_cI8MzOsoX2apUdt6mQFwqNxUxeAPhD2KGBu7iIuiDiw-LEvnbW4v9z93Zq9VZd-voPA46FHQ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=poiOfnicHdBfToMwHADgeJk9OhA2syWLEaEb6IgUfhT6YqBl4FqgblX-vHkXT-VpTPyO8H3_yPdO_N58NVqr63a5HIbhtu77Wla3rG-XxXXq2JIVUpYFE9v1_dp8OLGd9-k7Tx--E4FSqYuN5NBrBtwvTN5nFsrTWViVUJgR6ceCBmknn3JjM1EwvUpsGjo_zjhxLpwEqiK2He-pzdtRhvtgwCabogwRcg6NqqOv9Hy8i8EcKhftCVJ7TvCILX-M7jwjB9qnbm0eQcXHNIDSGw8UYSfM6inO1Ae40itRcAoR02BIJyHaqjJ6OGZI5sJeEbL6LEVzCAE_vxA6JXM9Jp3jeA0bueuv8szTqRinFIGZtJvoBbTGCcWA-_cI8MzOsoX2apUdt6mQFwqNxUxeAPhD2KGBu7iIuiDiw-LEvnbW4v9z93Zq9VZd-voPA46FHQ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNHODBPVmh5Wm5sbVIzTjVVak5VWTJvMmVFdGhNa0pJYTBkVE1ESTRhazAxVlROWU1UUjFkMFJ6Y1Y5U2QybzRaRGhSVkVwSVZrRmZkM1JXVm1KU1pWSllTSGxKYWxkWlRWQjZPVk5PUTJKRE9VcHphVk5IUm5CSlFSSVhNWFF5T1dGeExWWk1jbFJWTlU1dlVDMUxiVVUyVVZFYUlrRkVjM0k1WmxGMGVXVnBlRUl5ZDBNeFIyODNZbXBpUlZKWU5tRnZNMjF4V2tFIiwiZmN2IjoiMyIsImVpIjoiMXQyOWFxLVZMclRVNU5vUC1LbUU2UVEiLCJxYyI6IkNpaDBaV3hoYm1kaGJtRWdjbmwwYUhVZ1ltaGhjbTl6WVNCcGJuTjBZV3hzYldWdWRDQXlNREkyRUFCOU1vbmVQZyIsInF1ZXN0aW9uIjoiSG93IHRvIGNoZWNrIHJ5dGh1IGJoYXJvc2EgcGF5bWVudCBzdGF0dXM/IiwibGsiOiJHaWxvYjNjZ2RHOGdZMmhsWTJzZ2NubDBhSFVnWW1oaGNtOXpZU0J3WVhsdFpXNTBJSE4wWVhSMWN3IiwiYnMiOiJjNDNRTVdfQ01CQUZZTEY2WXM1UXZZS3FxckJVbHVqQ0VJbXByS2hTeFhoeEhHdzF0cEY5cHMyX0owV0FJRXM3M1hEZnZkT2QySXJGcHlHR1RXQ2prWmc0SjRRR200NU54b3A4M1JmNUt0OWdQVDUwUzM1SG5rcUo0aUdlU0hWUC1FTEVWc3pld3pjNFFCbXR2bkRtaG1KSWhEMTFUbnMtYnl6bHZIZ3hfOVZpTFNhXzBTNHJBM0loOTUwbXhQdVpVazZMUl9PWEVvMVkzajdBMFk5MTJZRWpLZTV4eWxXeWRRYzZrRzJwYXZYZ0RjX0YwX1ZpMEM1YWxWdk9VUThEeHFNaiIsImlkIjoiZmNfMXQyOWFxLVZMclRVNU5vUC1LbUU2UVFfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNHODBPVmh5Wm5sbVIzTjVVak5VWTJvMmVFdGhNa0pJYTBkVE1ESTRhazAxVlROWU1UUjFkMFJ6Y1Y5U2QybzRaRGhSVkVwSVZrRmZkM1JXVm1KU1pWSllTSGxKYWxkWlRWQjZPVk5PUTJKRE9VcHphVk5IUm5CSlFSSVhNWFF5T1dGeExWWk1jbFJWTlU1dlVDMUxiVVUyVVZFYUlrRkVjM0k1WmxGMGVXVnBlRUl5ZDBNeFIyODNZbXBpUlZKWU5tRnZNMjF4V2tFIiwiZmN2IjoiMyIsImVpIjoiMXQyOWFxLVZMclRVNU5vUC1LbUU2UVEiLCJxYyI6IkNpaDBaV3hoYm1kaGJtRWdjbmwwYUhVZ1ltaGhjbTl6WVNCcGJuTjBZV3hzYldWdWRDQXlNREkyRUFCOU1vbmVQZyIsInF1ZXN0aW9uIjoiSG93IHRvIGNoZWNrIHJ5dGh1IGJoYXJvc2EgcGF5bWVudCBzdGF0dXM%2FIiwibGsiOiJHaWxvYjNjZ2RHOGdZMmhsWTJzZ2NubDBhSFVnWW1oaGNtOXpZU0J3WVhsdFpXNTBJSE4wWVhSMWN3IiwiYnMiOiJjNDNRTVdfQ01CQUZZTEY2WXM1UXZZS3FxckJVbHVqQ0VJbXByS2hTeFhoeEhHdzF0cEY5cHMyX0owV0FJRXM3M1hEZnZkT2QySXJGcHlHR1RXQ2prWmc0SjRRR200NU54b3A4M1JmNUt0OWdQVDUwUzM1SG5rcUo0aUdlU0hWUC1FTEVWc3pld3pjNFFCbXR2bkRtaG1KSWhEMTFUbnMtYnl6bHZIZ3hfOVZpTFNhXzBTNHJBM0loOTUwbXhQdVpVazZMUl9PWEVvMVkzajdBMFk5MTJZRWpLZTV4eWxXeWRRYzZrRzJwYXZYZ0RjX0YwX1ZpMEM1YWxWdk9VUThEeHFNaiIsImlkIjoiZmNfMXQyOWFxLVZMclRVNU5vUC1LbUU2UVFfNSJ9"
+      },
+      {
+        "question": "How much amount for rythu bharosa?",
+        "type": "ai_overview",
+        "page_token": "YpW30XicHdBfboIwHADg7DJ7nFammyZmGZPyJ8psoUV4WfBXBGkrbKJg33aXnWqnWbLvCN_3jzqe5O_dteq69rwYjfq-fyibplTFAzR6lJ9vJxhBrtQ-B7mYPc3QywGWzsW33z59m7C25Ss6jlDWFlINhIltLueekKm1l8ouatsTrrqInQqyVTAQ1K7zpDTMwzY4z5MIC8IclFHdbbNY1Yy_msINDjlWtpABLmRpIss-5zrrUw2PGyfz9izYChN63K380OBI4HaWJlRzw_p00jySSX-L4gBFEvtEDvXehEdaV0ooQPGJIjKeTyP-jBKNHXDCDYzVlK9wBKdgk9TcXe8EdSoYxMqfpjun43K4ccxQrOdkzbqOxhlltDkSRg3USnOPDu87mCRsaoGhn8SE60xWKE8GN67DMTfQMXJ_gOvSuv__XH4cdLdov5ryD3KUhPQ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YpW30XicHdBfboIwHADg7DJ7nFammyZmGZPyJ8psoUV4WfBXBGkrbKJg33aXnWqnWbLvCN_3jzqe5O_dteq69rwYjfq-fyibplTFAzR6lJ9vJxhBrtQ-B7mYPc3QywGWzsW33z59m7C25Ss6jlDWFlINhIltLueekKm1l8ouatsTrrqInQqyVTAQ1K7zpDTMwzY4z5MIC8IclFHdbbNY1Yy_msINDjlWtpABLmRpIss-5zrrUw2PGyfz9izYChN63K380OBI4HaWJlRzw_p00jySSX-L4gBFEvtEDvXehEdaV0ooQPGJIjKeTyP-jBKNHXDCDYzVlK9wBKdgk9TcXe8EdSoYxMqfpjun43K4ccxQrOdkzbqOxhlltDkSRg3USnOPDu87mCRsaoGhn8SE60xWKE8GN67DMTfQMXJ_gOvSuv__XH4cdLdov5ryD3KUhPQ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNHODBPVmh5Wm5sbVIzTjVVak5VWTJvMmVFdGhNa0pJYTBkVE1ESTRhazAxVlROWU1UUjFkMFJ6Y1Y5U2QybzRaRGhSVkVwSVZrRmZkM1JXVm1KU1pWSllTSGxKYWxkWlRWQjZPVk5PUTJKRE9VcHphVk5IUm5CSlFSSVhNWFF5T1dGeExWWk1jbFJWTlU1dlVDMUxiVVUyVVZFYUlrRkVjM0k1WmxGMGVXVnBlRUl5ZDBNeFIyODNZbXBpUlZKWU5tRnZNMjF4V2tFIiwiZmN2IjoiMyIsImVpIjoiMXQyOWFxLVZMclRVNU5vUC1LbUU2UVEiLCJxYyI6IkNpaDBaV3hoYm1kaGJtRWdjbmwwYUhVZ1ltaGhjbTl6WVNCcGJuTjBZV3hzYldWdWRDQXlNREkyRUFCOU1vbmVQZyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggYW1vdW50IGZvciByeXRodSBiaGFyb3NhPyIsImxrIjoiR2lGb2IzY2diWFZqYUNCaGJXOTFiblFnWm05eUlISjVkR2gxSUdKb1lYSnZjMkUiLCJicyI6ImM0M1FNV19DTUJBRllMRjZZczVRdllLcXFyQlVsdWpDRUltcHJLaFN4WGh4SEd3MXRwRjlwczJfSjBXQUlFczczWERmdmRPZDJJckZweUdHVFdDamtaZzRKNFFHbTQ1TnhvcDgzUmY1S3Q5Z1BUNTBTMzVIbmtxSjRpR2VTSFZQLUVMRVZzemV3emM0UUJtdHZuRG1obUpJaEQxMVRucy1ieXpsdkhneF85VmlMU2FfMFM0ckEzSWg5NTBteFB1WlVrNkxSX09YRW8xWTNqN0EwWTkxMllFaktlNXh5bFd5ZFFjNmtHMnBhdlhnRGNfRjBfVmkwQzVhbFZ2T1VROER4cU1qIiwiaWQiOiJmY18xdDI5YXEtVkxyVFU1Tm9QLUttRTZRUV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNHODBPVmh5Wm5sbVIzTjVVak5VWTJvMmVFdGhNa0pJYTBkVE1ESTRhazAxVlROWU1UUjFkMFJ6Y1Y5U2QybzRaRGhSVkVwSVZrRmZkM1JXVm1KU1pWSllTSGxKYWxkWlRWQjZPVk5PUTJKRE9VcHphVk5IUm5CSlFSSVhNWFF5T1dGeExWWk1jbFJWTlU1dlVDMUxiVVUyVVZFYUlrRkVjM0k1WmxGMGVXVnBlRUl5ZDBNeFIyODNZbXBpUlZKWU5tRnZNMjF4V2tFIiwiZmN2IjoiMyIsImVpIjoiMXQyOWFxLVZMclRVNU5vUC1LbUU2UVEiLCJxYyI6IkNpaDBaV3hoYm1kaGJtRWdjbmwwYUhVZ1ltaGhjbTl6WVNCcGJuTjBZV3hzYldWdWRDQXlNREkyRUFCOU1vbmVQZyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggYW1vdW50IGZvciByeXRodSBiaGFyb3NhPyIsImxrIjoiR2lGb2IzY2diWFZqYUNCaGJXOTFiblFnWm05eUlISjVkR2gxSUdKb1lYSnZjMkUiLCJicyI6ImM0M1FNV19DTUJBRllMRjZZczVRdllLcXFyQlVsdWpDRUltcHJLaFN4WGh4SEd3MXRwRjlwczJfSjBXQUlFczczWERmdmRPZDJJckZweUdHVFdDamtaZzRKNFFHbTQ1TnhvcDgzUmY1S3Q5Z1BUNTBTMzVIbmtxSjRpR2VTSFZQLUVMRVZzemV3emM0UUJtdHZuRG1obUpJaEQxMVRucy1ieXpsdkhneF85VmlMU2FfMFM0ckEzSWg5NTBteFB1WlVrNkxSX09YRW8xWTNqN0EwWTkxMllFaktlNXh5bFd5ZFFjNmtHMnBhdlhnRGNfRjBfVmkwQzVhbFZ2T1VROER4cU1qIiwiaWQiOiJmY18xdDI5YXEtVkxyVFU1Tm9QLUttRTZRUV81In0%3D"
+      },
+      {
+        "question": "What is the maximum tractor subsidy available in Telangana?",
+        "type": "ai_overview",
+        "page_token": "7vrNsXicHdBRbpswGABg7TJ9bHBYsiVSVI2CWRDQYmzT-mUixsTBv4EGWghvu8LO0FPtNJP2HeH7_QmX1vz98kePYz_sV6tpmu7PXXcGdS87uyqHWytXsgQ4ldLst9-26KGWh-BDeo9X6WWs77lPnNzM1yfuvVInWjiDKeYgpNm9xSydS1dr1v5YJxbHOYX3E_Ch9I9fiRs5pyYFBaKmRcUqxB-5Fa5sCJEFakuGSY70JQ8yxCBdTg0e0lZHTxy_izUekhDygpKG35Atiu8Ow7uhWrTDQrwQm4YvKPKlxc-ZEUQBCF5EHl_rIf_JfWEgTszRzRp9ZC1m1O23ysBbueatCgVPkfZTX9TZUiVJSHgG2FMGxZWtSKDlXPnHzetLMHIz3zhmiNpdFrNxJFQQRrpLxsgiG7DMzCYJN5SCvKkw2igWtaUJZupUS9IQT4GZxHRXy4-De_f_-vCrtuO-v3bnf66tj0Q",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7vrNsXicHdBRbpswGABg7TJ9bHBYsiVSVI2CWRDQYmzT-mUixsTBv4EGWghvu8LO0FPtNJP2HeH7_QmX1vz98kePYz_sV6tpmu7PXXcGdS87uyqHWytXsgQ4ldLst9-26KGWh-BDeo9X6WWs77lPnNzM1yfuvVInWjiDKeYgpNm9xSydS1dr1v5YJxbHOYX3E_Ch9I9fiRs5pyYFBaKmRcUqxB-5Fa5sCJEFakuGSY70JQ8yxCBdTg0e0lZHTxy_izUekhDygpKG35Atiu8Ow7uhWrTDQrwQm4YvKPKlxc-ZEUQBCF5EHl_rIf_JfWEgTszRzRp9ZC1m1O23ysBbueatCgVPkfZTX9TZUiVJSHgG2FMGxZWtSKDlXPnHzetLMHIz3zhmiNpdFrNxJFQQRrpLxsgiG7DMzCYJN5SCvKkw2igWtaUJZupUS9IQT4GZxHRXy4-De_f_-vCrtuO-v3bnf66tj0Q",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNHODBPVmh5Wm5sbVIzTjVVak5VWTJvMmVFdGhNa0pJYTBkVE1ESTRhazAxVlROWU1UUjFkMFJ6Y1Y5U2QybzRaRGhSVkVwSVZrRmZkM1JXVm1KU1pWSllTSGxKYWxkWlRWQjZPVk5PUTJKRE9VcHphVk5IUm5CSlFSSVhNWFF5T1dGeExWWk1jbFJWTlU1dlVDMUxiVVUyVVZFYUlrRkVjM0k1WmxGMGVXVnBlRUl5ZDBNeFIyODNZbXBpUlZKWU5tRnZNMjF4V2tFIiwiZmN2IjoiMyIsImVpIjoiMXQyOWFxLVZMclRVNU5vUC1LbUU2UVEiLCJxYyI6IkNpaDBaV3hoYm1kaGJtRWdjbmwwYUhVZ1ltaGhjbTl6WVNCcGJuTjBZV3hzYldWdWRDQXlNREkyRUFCOU1vbmVQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWF4aW11bSB0cmFjdG9yIHN1YnNpZHkgYXZhaWxhYmxlIGluIFRlbGFuZ2FuYT8iLCJsayI6IkdpVjBaV3hoYm1kaGJtRWdZV2R5YVdOMWJIUjFjbVVnZEhKaFkzUnZjaUJ6ZFdKemFXUjUiLCJicyI6ImM0M1FNV19DTUJBRllMRjZZczVRdllLcXFyQlVsdWpDRUltcHJLaFN4WGh4SEd3MXRwRjlwczJfSjBXQUlFczczWERmdmRPZDJJckZweUdHVFdDamtaZzRKNFFHbTQ1TnhvcDgzUmY1S3Q5Z1BUNTBTMzVIbmtxSjRpR2VTSFZQLUVMRVZzemV3emM0UUJtdHZuRG1obUpJaEQxMVRucy1ieXpsdkhneF85VmlMU2FfMFM0ckEzSWg5NTBteFB1WlVrNkxSX09YRW8xWTNqN0EwWTkxMllFaktlNXh5bFd5ZFFjNmtHMnBhdlhnRGNfRjBfVmkwQzVhbFZ2T1VROER4cU1qIiwiaWQiOiJmY18xdDI5YXEtVkxyVFU1Tm9QLUttRTZRUV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNHODBPVmh5Wm5sbVIzTjVVak5VWTJvMmVFdGhNa0pJYTBkVE1ESTRhazAxVlROWU1UUjFkMFJ6Y1Y5U2QybzRaRGhSVkVwSVZrRmZkM1JXVm1KU1pWSllTSGxKYWxkWlRWQjZPVk5PUTJKRE9VcHphVk5IUm5CSlFSSVhNWFF5T1dGeExWWk1jbFJWTlU1dlVDMUxiVVUyVVZFYUlrRkVjM0k1WmxGMGVXVnBlRUl5ZDBNeFIyODNZbXBpUlZKWU5tRnZNMjF4V2tFIiwiZmN2IjoiMyIsImVpIjoiMXQyOWFxLVZMclRVNU5vUC1LbUU2UVEiLCJxYyI6IkNpaDBaV3hoYm1kaGJtRWdjbmwwYUhVZ1ltaGhjbTl6WVNCcGJuTjBZV3hzYldWdWRDQXlNREkyRUFCOU1vbmVQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbWF4aW11bSB0cmFjdG9yIHN1YnNpZHkgYXZhaWxhYmxlIGluIFRlbGFuZ2FuYT8iLCJsayI6IkdpVjBaV3hoYm1kaGJtRWdZV2R5YVdOMWJIUjFjbVVnZEhKaFkzUnZjaUJ6ZFdKemFXUjUiLCJicyI6ImM0M1FNV19DTUJBRllMRjZZczVRdllLcXFyQlVsdWpDRUltcHJLaFN4WGh4SEd3MXRwRjlwczJfSjBXQUlFczczWERmdmRPZDJJckZweUdHVFdDamtaZzRKNFFHbTQ1TnhvcDgzUmY1S3Q5Z1BUNTBTMzVIbmtxSjRpR2VTSFZQLUVMRVZzemV3emM0UUJtdHZuRG1obUpJaEQxMVRucy1ieXpsdkhneF85VmlMU2FfMFM0ckEzSWg5NTBteFB1WlVrNkxSX09YRW8xWTNqN0EwWTkxMllFaktlNXh5bFd5ZFFjNmtHMnBhdlhnRGNfRjBfVmkwQzVhbFZ2T1VROER4cU1qIiwiaWQiOiJmY18xdDI5YXEtVkxyVFU1Tm9QLUttRTZRUV81In0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "T_AbfXiczVXJdqM4FP2A_o5ik9iA8ZhzOHUkIA6eEnlI4mx8ZMDCZooBh9i7-o7e9lf117QYbEPKVKpqUaffAgnp6U16V_fbP_batf79628zDF-DG5aNoqhKPI_YRlXzHBYHe1djV54d-Jr51bRFw2WILa5dZv8mCowWiBxjrEU-rHXwtvI48Kezxsh7qPQdpYkQkxwXF0scGBtq_X0TsAuWfqwvgkx_qkHVcBddWO1Uwmm7pa72rlKtcTWhes9ih-qAPypEBQhIoBfPlRIdqXyrIDC1YcUHMlEBOW1lEiVuqVdFTa2TksioseSYpKLUsBxtDner5ARKdXo_iqVgN8iMRkk6MDaMfianYxpJICeb8FPdy4voXMh5brc0EnVY_PdoBG0wVIGZLXy4lwnI1T4OsptOGwDWH4B0J8UWykVB4G5IJoiUZHGWPlGnUeZ8KD_ROFid0Obl2KVPB55da6aWTPwg7mlp2uG87tOOH2kH4-15WNE2nLDbCaA21HrzuYZYbUn1bA_rhr4wF9zX5J-v8Q2uI7Ta1wmetOAEqCAPKHUE5-PmbXe6J9VBFfJHKEn5PPJFjldnl6oOs2a_fMHwWM-CSFKhqDC1S6gJWY37JdeHfRml_X-8fTmK5wOSK_fRdbykfAclWFQCKZSSa41VvVMD5C-QKACOzw5yTSNfaj7r44IqE5AloqhJ_GkWia8PpTLBWAXHKL4rlwrUMaJ7faoIo3Hq-_4chEQISg2cJTYlSSB-BUghMTX7nqFE1cCajkiiGFGAJREL0jtI3pEMw0qGGS-OPJ-7UvLISVQJzj_BQ4n0f0JHBUfMfIBAATpqZbRtHcjMrFSCfXvycvs-dGQJh6YUXYaK5yx_jXy0_xuejtSUvv6leOLiyWd4oh_1IjXB0z7IU1OKJ4mU4uk2wVNCTTBHTfIlavqAJwjUTR5PQeq6hJp-FU_wB3g60dgFPJ34uIgnVIanjJryeDLbqEBNBTydqOmIp9-hJvyb1JTAy0iHIk_tNqSUr5Tlyrzd2YZ28PBoNR1MCNqNBL03UWfkU75aOeGNg3X7erHWb2CtF-716wVd8G4MndmKU8PGLsEuvhrvQ3N3BU3sewG-WrtBiG3bMdzwigKzyTi274kcrgsrG_H1lwNSZPnhadDZjzcjfWt16701WiITc5ZlTfWGDJ898xX6Nbhdeh0yffbXiOsowj2Hg4npPA5kQZrp211vU3nk_bU8aboWfBhHAl-zOa8frmaL97dO4743btf3T0ttMdJb4fhFnzSCNnfQQBJPILbq8PFwmM_UkcY4vibSq603yS0CTwRoQJrTjiFghj06RgB1mwApsEavggk0vDCCN7HNcSu-tWy1-ZrexgJmHBLuX8U6zwSuL_L_AQG0SFM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=T_AbfXiczVXJdqM4FP2A_o5ik9iA8ZhzOHUkIA6eEnlI4mx8ZMDCZooBh9i7-o7e9lf117QYbEPKVKpqUaffAgnp6U16V_fbP_batf79628zDF-DG5aNoqhKPI_YRlXzHBYHe1djV54d-Jr51bRFw2WILa5dZv8mCowWiBxjrEU-rHXwtvI48Kezxsh7qPQdpYkQkxwXF0scGBtq_X0TsAuWfqwvgkx_qkHVcBddWO1Uwmm7pa72rlKtcTWhes9ih-qAPypEBQhIoBfPlRIdqXyrIDC1YcUHMlEBOW1lEiVuqVdFTa2TksioseSYpKLUsBxtDner5ARKdXo_iqVgN8iMRkk6MDaMfianYxpJICeb8FPdy4voXMh5brc0EnVY_PdoBG0wVIGZLXy4lwnI1T4OsptOGwDWH4B0J8UWykVB4G5IJoiUZHGWPlGnUeZ8KD_ROFid0Obl2KVPB55da6aWTPwg7mlp2uG87tOOH2kH4-15WNE2nLDbCaA21HrzuYZYbUn1bA_rhr4wF9zX5J-v8Q2uI7Ta1wmetOAEqCAPKHUE5-PmbXe6J9VBFfJHKEn5PPJFjldnl6oOs2a_fMHwWM-CSFKhqDC1S6gJWY37JdeHfRml_X-8fTmK5wOSK_fRdbykfAclWFQCKZSSa41VvVMD5C-QKACOzw5yTSNfaj7r44IqE5AloqhJ_GkWia8PpTLBWAXHKL4rlwrUMaJ7faoIo3Hq-_4chEQISg2cJTYlSSB-BUghMTX7nqFE1cCajkiiGFGAJREL0jtI3pEMw0qGGS-OPJ-7UvLISVQJzj_BQ4n0f0JHBUfMfIBAATpqZbRtHcjMrFSCfXvycvs-dGQJh6YUXYaK5yx_jXy0_xuejtSUvv6leOLiyWd4oh_1IjXB0z7IU1OKJ4mU4uk2wVNCTTBHTfIlavqAJwjUTR5PQeq6hJp-FU_wB3g60dgFPJ34uIgnVIanjJryeDLbqEBNBTydqOmIp9-hJvyb1JTAy0iHIk_tNqSUr5Tlyrzd2YZ28PBoNR1MCNqNBL03UWfkU75aOeGNg3X7erHWb2CtF-716wVd8G4MndmKU8PGLsEuvhrvQ3N3BU3sewG-WrtBiG3bMdzwigKzyTi274kcrgsrG_H1lwNSZPnhadDZjzcjfWt16701WiITc5ZlTfWGDJ898xX6Nbhdeh0yffbXiOsowj2Hg4npPA5kQZrp211vU3nk_bU8aboWfBhHAl-zOa8frmaL97dO4743btf3T0ttMdJb4fhFnzSCNnfQQBJPILbq8PFwmM_UkcY4vibSq603yS0CTwRoQJrTjiFghj06RgB1mwApsEavggk0vDCCN7HNcSu-tWy1-ZrexgJmHBLuX8U6zwSuL_L_AQG0SFM"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "రైతు భరోసా 2,3,4,5ఎకరాల వారికి డబ్బులు 2వ విడత తేదీ |TS Rythu ...",
+        "link": "https://www.youtube.com/watch?v=lI8T2YOIxYw&vl=en",
+        "displayed_link": "4.4K+ views · 6 months ago",
+        "thumbnail": "https://serpapi.com/searches/6abdddd632f11d7cf41b456f/images/ewZHhJufIveEMkJ29BPZD6gc6ghWxLxETlB6_Ir5h-k.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "snippet": "రైతు భరోసా 2,3,4,5ఎకరాల వారికి డబ్బులు 2వ విడత తేదీ |TS Rythu Bharosa Latest News 2026 |Rythu Bandhu ...",
+        "duration": "2:15",
+        "about_this_result": {
+          "source": {
+            "description": "రైతు భరోసా 2,3,4,5ఎకరాల వారికి డబ్బులు 2వ విడత తేదీ |TS Rythu Bharosa Latest News 2026 |Rythu Bandhu ...",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVlRJb2JmZTNvQ3JNRFBjM3pnQTNSa2k3dkppeF9pMWZpNHduSTQ5Z1F0eW85NGlqcy1xcTVfZXlIZU5KT1E0TGVDcDV4OGlaWDV4SFI3dDFvY1hfRXQ2QXhuSTJXWUM3UHkzMHpPWlJHOEsyNHdoYUlNdVBvX2E3Ulh2UkNPVUhHVFZxQ0RREhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVlRJb2JmZTNvQ3JNRFBjM3pnQTNSa2k3dkppeF9pMWZpNHduSTQ5Z1F0eW85NGlqcy1xcTVfZXlIZU5KT1E0TGVDcDV4OGlaWDV4SFI3dDFvY1hfRXQ2QXhuSTJXWUM3UHkzMHpPWlJHOEsyNHdoYUlNdVBvX2E3Ulh2UkNPVUhHVFZxQ0RREhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQqgfsxH-arXo06XKIRONQUYLq3kuIRLlccqg",
+        "source": "YouTube · Jadi Entertainment"
+      },
+      {
+        "position": 2,
+        "title": "Post",
+        "link": "https://x.com/CNNnews18/status/2042578007064555656",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVywryyLpoawiPGfPT1NejXuRRs2B-iJJKhYmtvhZnTNhbWFCKL2pFMd8f6CczXEDwCzu6daCPu6hiGuGF8mRtTB_z4ZUPo8nfqzRYvmJvLR6WAM31dTXy398fXeH5x4h2bhCOFRU&ved=2ahUKEwiv2PiR-peXAxU0KlkFHfgUIU0QFnoECC0QAQ&uoh=1",
+        "displayed_link": "1 like · 5 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
+        "snippet": "The Telangana government will deposit second Rythu Bharosa installment of about Rs 4,000 crore between April 15 and 22, aiding farmers with up ...",
+        "snippet_highlighted_words": [
+          "Telangana",
+          "Rythu Bharosa installment"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The Telangana government will deposit second Rythu Bharosa installment of about Rs 4,000 crore between April 15 and 22, aiding farmers with up ...",
+            "source_info_link": "https://x.com/CNNnews18/status/2042578007064555656",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVnl3cnl5THBvYXdpUEdmUFQxTmVqWHVSUnMyQi1pSkpLaFltdHZoWm5UTmhiV0ZDS0wycEZNZDhmNkNjelhFRHdDenU2ZGFDUHU2aGlHdUdGOG1SdFRCX3o0WlVQbzhuZnF6Ull2bUp2TFI2V0FNMzFkVFh5Mzk4ZlhlSDV4NGgyYmhDT0ZSVRIEGgIIABqeBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkD6BAgAEAAYACAAKiAKCXRlbGFuZ2FuYRW4saFAGg5pdjtwO3RlbGFuZ2FuYSomCgVyeXRodRWH005AGgxyeXRodWJoYXJvc2EaCml2O3A7cnl0aHUqKgoHYmhhcm9zYRWH005AGgxyeXRodWJoYXJvc2EaDGl2O3A7Ymhhcm9zYSqPAQoLaW5zdGFsbG1lbnQVh9NOQBoMaW5zdGFsbG1lbnRzGgppbnN0YWxtZW50GgtpbnN0YWxtZW50cxoQaXY7cDtpbnN0YWxsbWVudBoHcGF5bWVudBoIcGF5bWVudHMaCWZpbmFuY2lhbBoEbG9hbhoDZW1pGgZjcmVkaXQaBnNjaGVtZRoJcmVwYXltZW50KhYKBDIwMjYV_46vPhoJaXY7bjsyMDI2Mp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVnl3cnl5THBvYXdpUEdmUFQxTmVqWHVSUnMyQi1pSkpLaFltdHZoWm5UTmhiV0ZDS0wycEZNZDhmNkNjelhFRHdDenU2ZGFDUHU2aGlHdUdGOG1SdFRCX3o0WlVQbzhuZnF6Ull2bUp2TFI2V0FNMzFkVFh5Mzk4ZlhlSDV4NGgyYmhDT0ZSVToIUG9zdCAtIFhCpQFUaGUgPGI-VGVsYW5nYW5hPC9iPiBnb3Zlcm5tZW50IHdpbGwgZGVwb3NpdCBzZWNvbmQgPGI-Unl0aHUgQmhhcm9zYSBpbnN0YWxsbWVudDwvYj4gb2YgYWJvdXQgUnMgNCwwMDAgY3JvcmUgYmV0d2VlbiBBcHJpbCAxNSBhbmQgMjIsIGFpZGluZyBmYXJtZXJzIHdpdGggdXAmbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVnl3cnl5THBvYXdpUEdmUFQxTmVqWHVSUnMyQi1pSkpLaFltdHZoWm5UTmhiV0ZDS0wycEZNZDhmNkNjelhFRHdDenU2ZGFDUHU2aGlHdUdGOG1SdFRCX3o0WlVQbzhuZnF6Ull2bUp2TFI2V0FNMzFkVFh5Mzk4ZlhlSDV4NGgyYmhDT0ZSVRIEGgIIABqeBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkD6BAgAEAAYACAAKiAKCXRlbGFuZ2FuYRW4saFAGg5pdjtwO3RlbGFuZ2FuYSomCgVyeXRodRWH005AGgxyeXRodWJoYXJvc2EaCml2O3A7cnl0aHUqKgoHYmhhcm9zYRWH005AGgxyeXRodWJoYXJvc2EaDGl2O3A7Ymhhcm9zYSqPAQoLaW5zdGFsbG1lbnQVh9NOQBoMaW5zdGFsbG1lbnRzGgppbnN0YWxtZW50GgtpbnN0YWxtZW50cxoQaXY7cDtpbnN0YWxsbWVudBoHcGF5bWVudBoIcGF5bWVudHMaCWZpbmFuY2lhbBoEbG9hbhoDZW1pGgZjcmVkaXQaBnNjaGVtZRoJcmVwYXltZW50KhYKBDIwMjYV_46vPhoJaXY7bjsyMDI2Mp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVnl3cnl5THBvYXdpUEdmUFQxTmVqWHVSUnMyQi1pSkpLaFltdHZoWm5UTmhiV0ZDS0wycEZNZDhmNkNjelhFRHdDenU2ZGFDUHU2aGlHdUdGOG1SdFRCX3o0WlVQbzhuZnF6Ull2bUp2TFI2V0FNMzFkVFh5Mzk4ZlhlSDV4NGgyYmhDT0ZSVToIUG9zdCAtIFhCpQFUaGUgPGI-VGVsYW5nYW5hPC9iPiBnb3Zlcm5tZW50IHdpbGwgZGVwb3NpdCBzZWNvbmQgPGI-Unl0aHUgQmhhcm9zYSBpbnN0YWxsbWVudDwvYj4gb2YgYWJvdXQgUnMgNCwwMDAgY3JvcmUgYmV0d2VlbiBBcHJpbCAxNSBhbmQgMjIsIGFpZGluZyBmYXJtZXJzIHdpdGggdXAmbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "X · CNNnews18"
+      },
+      {
+        "position": 3,
+        "title": "Rythu Bharosa : అన్నదాతలకు శుభవార్త.. మార్చి 22న రైతు ...",
+        "link": "https://www.hindustantimes.com/telugu/telangana/rythu-bharosa-first-installment-to-be-disbursed-on-march-22-2nd-installment-to-released-after-20-days-261773618194122.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES4wEB6zswFXk5MHOp8PP-K5CxXwh_R6Ow1J-LWNjw1gJRt-i2V4FFe82qt2lyVPRmelMxvhysWy2WrMYanPBfOKG1gUKZEy8SKUE-xIsKKSlGzNpvnaycB3mC4BmFtrR177uGddixnLSSNzpQjdhysE2zpYB09hneDF9EbCGGJ02Pvl15lLBx_-fbALXGfcuN139UpYoh7bwWMzVJZ53CVLvdIdZJ5pgtyFqy6lVx3vKJ6PPzpdLnGJgXsXeBpkgYHbAiR3VrGUmKA9UMawoFxLvi65hq8ea0A7yrI_NMsPyq_yAq6w&ved=2ahUKEwiv2PiR-peXAxU0KlkFHfgUIU0QFnoECDkQAQ&uoh=1",
+        "displayed_link": "https://www.hindustantimes.com › ...",
+        "favicon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAACQCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHp_qvFBuG9hDZ24DeQN59NoCqMWrBZU2l1T0JSgzBK5INpXj2m-YF04Id0IHlM_AAD-9N3XWvfwHuVSLn-ID0PuUhrTD-n1iXJ9g2wy1ZPjHqkNBecHaXbDEYrsV-_Mw_Miq2lzmIKiFZDAa_OnpHwKBo_cC3lBrEzbnzUeP8-uRz7aCcFn231otOZ0tAlCbe5NgqlaZeLjwRl_OuMUdcKDJ4wHaPqI3ZZF5-y5z9NxPd8_yxYyUd1tys_YnoCBL9lcFVd6s3SlF2-Lp1r3AfWItqwOdfBHfR_X_WUB2P4M2vYZoJm9-f7Vw1eEVdNpMHPlkQTkHl-IgbqybGR_-T-aWAYR-9vcuBwcqa8Q-m4G03_LeH_JYStrbl_hon2QzvGKidmYorS4KtODzOllom_-0CvnrykfC9zvG3l_VLmHcdYSCdh4uhe2qWnQC-HdpP2XU5VpKK0u5MFONpELjHflH3B-nq0T4na6T-W1t_ywKCgTomr_V2wduH9kgAAA.webp",
+        "date": "16 Mar 2026",
+        "snippet": "Rythu Bharosa : మార్చి 22న తెలంగాణ ప్రభుత్వం రైతు భరోసా మొదటి విడతను విడుదల చేస్తుంది.",
+        "snippet_highlighted_words": [
+          "Rythu Bharosa"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Rythu Bharosa : మార్చి 22న తెలంగాణ ప్రభుత్వం రైతు భరోసా మొదటి విడతను విడుదల చేస్తుంది.",
+            "source_info_link": "https://www.hindustantimes.com/telugu/telangana/rythu-bharosa-first-installment-to-be-disbursed-on-march-22-2nd-installment-to-released-after-20-days-261773618194122.html",
+            "icon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAACQCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHp_qvFBuG9hDZ24DeQN59NoCqMWrBZU2l1T0JSgzBK5INpXj2m-YF04Id0IHlM_AAD-9N3XWvfwHuVSLn-ID0PuUhrTD-n1iXJ9g2wy1ZPjHqkNBecHaXbDEYrsV-_Mw_Miq2lzmIKiFZDAa_OnpHwKBo_cC3lBrEzbnzUeP8-uRz7aCcFn231otOZ0tAlCbe5NgqlaZeLjwRl_OuMUdcKDJ4wHaPqI3ZZF5-y5z9NxPd8_yxYyUd1tys_YnoCBL9lcFVd6s3SlF2-Lp1r3AfWItqwOdfBHfR_X_WUB2P4M2vYZoJm9-f7Vw1eEVdNpMHPlkQTkHl-IgbqybGR_-T-aWAYR-9vcuBwcqa8Q-m4G03_LeH_JYStrbl_hon2QzvGKidmYorS4KtODzOllom_-0CvnrykfC9zvG3l_VLmHcdYSCdh4uhe2qWnQC-HdpP2XU5VpKK0u5MFONpELjHflH3B-nq0T4na6T-W1t_ywKCgTomr_V2wduH9kgAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsACL2dvdG8_dXJsPUNBRVM0d0VCNnpzd0ZYazVNSE9wOFBQLUs1Q3hYd2hfUjZPdzFKLUxXTmp3MWdKUnQtaTJWNEZGZTgycXQybHlWUFJtZWxNeHZoeXNXeTJXck1ZYW5QQmZPS0cxZ1VLWkV5OFNLVUUteElzS0tTbEd6TnB2bmF5Y0IzbUM0Qm1GdHJSMTc3dUdkZGl4bkxTU056cFFqZGh5c0UyenBZQjA5aG5lREY5RWJDR0dKMDJQdmwxNWxMQnhfLWZiQUxYR2ZjdU4xMzlVcFlvaDdid1dNelZKWjUzQ1ZMdmRJZFpKNXBndHlGcXk2bFZ4M3ZLSjZQUHpwZExuR0pnWHNYZUJwa2dZSGJBaVIzVnJHVW1LQTlVTWF3b0Z4THZpNjVocThlYTBBN3lySV9OTXNQeXFfeUFxNncSBBoCCAAa8gcSAggAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkDMBwgAEAAYACAAKiAKCXRlbGFuZ2FuYRVsaGY_Gg5pdjtwO3RlbGFuZ2FuYSomCgVyeXRodRU0eWdAGgxyeXRodWJoYXJvc2EaCml2O3A7cnl0aHUqKgoHYmhhcm9zYRU0eWdAGgxyeXRodWJoYXJvc2EaDGl2O3A7Ymhhcm9zYSqPAQoLaW5zdGFsbG1lbnQVAAAAPxoMaW5zdGFsbG1lbnRzGgppbnN0YWxtZW50GgtpbnN0YWxtZW50cxoQaXY7cDtpbnN0YWxsbWVudBoHcGF5bWVudBoIcGF5bWVudHMaCWZpbmFuY2lhbBoEbG9hbhoDZW1pGgZjcmVkaXQaBnNjaGVtZRoJcmVwYXltZW50KhYKBDIwMjYVt9f5PhoJaXY7bjsyMDI2MsACL2dvdG8_dXJsPUNBRVM0d0VCNnpzd0ZYazVNSE9wOFBQLUs1Q3hYd2hfUjZPdzFKLUxXTmp3MWdKUnQtaTJWNEZGZTgycXQybHlWUFJtZWxNeHZoeXNXeTJXck1ZYW5QQmZPS0cxZ1VLWkV5OFNLVUUteElzS0tTbEd6TnB2bmF5Y0IzbUM0Qm1GdHJSMTc3dUdkZGl4bkxTU056cFFqZGh5c0UyenBZQjA5aG5lREY5RWJDR0dKMDJQdmwxNWxMQnhfLWZiQUxYR2ZjdU4xMzlVcFlvaDdid1dNelZKWjUzQ1ZMdmRJZFpKNXBndHlGcXk2bFZ4M3ZLSjZQUHpwZExuR0pnWHNYZUJwa2dZSGJBaVIzVnJHVW1LQTlVTWF3b0Z4THZpNjVocThlYTBBN3lySV9OTXNQeXFfeUFxNnc6igE8Yj5SeXRodSBCaGFyb3NhPC9iPiA6IOCwheCwqOCxjeCwqOCwpuCwvuCwpOCwsuCwleCxgSDgsLbgsYHgsK3gsLXgsL7gsLDgsY3gsKQuLiDgsK7gsL7gsLDgsY3gsJrgsL8gMjLgsKgg4LCw4LGI4LCk4LGBIOCwreCwsOCxi-CwuOCwviAuLi5C0QE8Yj5SeXRodSBCaGFyb3NhPC9iPiA6IOCwruCwvuCwsOCxjeCwmuCwvyAyMuCwqCDgsKTgsYbgsLLgsILgsJfgsL7gsKMg4LCq4LGN4LCw4LCt4LGB4LCk4LGN4LC14LCCIOCwsOCxiOCwpOCxgSDgsK3gsLDgsYvgsLjgsL4g4LCu4LGK4LCm4LCf4LC_IOCwteCwv-CwoeCwpOCwqOCxgSDgsLXgsL_gsKHgsYHgsKbgsLIg4LCa4LGH4LC44LGN4LCk4LGB4LCC4LCm4LC_LiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsACL2dvdG8_dXJsPUNBRVM0d0VCNnpzd0ZYazVNSE9wOFBQLUs1Q3hYd2hfUjZPdzFKLUxXTmp3MWdKUnQtaTJWNEZGZTgycXQybHlWUFJtZWxNeHZoeXNXeTJXck1ZYW5QQmZPS0cxZ1VLWkV5OFNLVUUteElzS0tTbEd6TnB2bmF5Y0IzbUM0Qm1GdHJSMTc3dUdkZGl4bkxTU056cFFqZGh5c0UyenBZQjA5aG5lREY5RWJDR0dKMDJQdmwxNWxMQnhfLWZiQUxYR2ZjdU4xMzlVcFlvaDdid1dNelZKWjUzQ1ZMdmRJZFpKNXBndHlGcXk2bFZ4M3ZLSjZQUHpwZExuR0pnWHNYZUJwa2dZSGJBaVIzVnJHVW1LQTlVTWF3b0Z4THZpNjVocThlYTBBN3lySV9OTXNQeXFfeUFxNncSBBoCCAAa8gcSAggAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkDMBwgAEAAYACAAKiAKCXRlbGFuZ2FuYRVsaGY_Gg5pdjtwO3RlbGFuZ2FuYSomCgVyeXRodRU0eWdAGgxyeXRodWJoYXJvc2EaCml2O3A7cnl0aHUqKgoHYmhhcm9zYRU0eWdAGgxyeXRodWJoYXJvc2EaDGl2O3A7Ymhhcm9zYSqPAQoLaW5zdGFsbG1lbnQVAAAAPxoMaW5zdGFsbG1lbnRzGgppbnN0YWxtZW50GgtpbnN0YWxtZW50cxoQaXY7cDtpbnN0YWxsbWVudBoHcGF5bWVudBoIcGF5bWVudHMaCWZpbmFuY2lhbBoEbG9hbhoDZW1pGgZjcmVkaXQaBnNjaGVtZRoJcmVwYXltZW50KhYKBDIwMjYVt9f5PhoJaXY7bjsyMDI2MsACL2dvdG8_dXJsPUNBRVM0d0VCNnpzd0ZYazVNSE9wOFBQLUs1Q3hYd2hfUjZPdzFKLUxXTmp3MWdKUnQtaTJWNEZGZTgycXQybHlWUFJtZWxNeHZoeXNXeTJXck1ZYW5QQmZPS0cxZ1VLWkV5OFNLVUUteElzS0tTbEd6TnB2bmF5Y0IzbUM0Qm1GdHJSMTc3dUdkZGl4bkxTU056cFFqZGh5c0UyenBZQjA5aG5lREY5RWJDR0dKMDJQdmwxNWxMQnhfLWZiQUxYR2ZjdU4xMzlVcFlvaDdid1dNelZKWjUzQ1ZMdmRJZFpKNXBndHlGcXk2bFZ4M3ZLSjZQUHpwZExuR0pnWHNYZUJwa2dZSGJBaVIzVnJHVW1LQTlVTWF3b0Z4THZpNjVocThlYTBBN3lySV9OTXNQeXFfeUFxNnc6igE8Yj5SeXRodSBCaGFyb3NhPC9iPiA6IOCwheCwqOCxjeCwqOCwpuCwvuCwpOCwsuCwleCxgSDgsLbgsYHgsK3gsLXgsL7gsLDgsY3gsKQuLiDgsK7gsL7gsLDgsY3gsJrgsL8gMjLgsKgg4LCw4LGI4LCk4LGBIOCwreCwsOCxi-CwuOCwviAuLi5C0QE8Yj5SeXRodSBCaGFyb3NhPC9iPiA6IOCwruCwvuCwsOCxjeCwmuCwvyAyMuCwqCDgsKTgsYbgsLLgsILgsJfgsL7gsKMg4LCq4LGN4LCw4LCt4LGB4LCk4LGN4LC14LCCIOCwsOCxiOCwpOCxgSDgsK3gsLDgsYvgsLjgsL4g4LCu4LGK4LCm4LCf4LC_IOCwteCwv-CwoeCwpOCwqOCxgSDgsLXgsL_gsKHgsYHgsKbgsLIg4LCa4LGH4LC44LGN4LCk4LGB4LCC4LCm4LC_LiICEAFIAFgAaAA",
+        "source": "Hindustan Times",
+        "read_more_link": "https://www.hindustantimes.com/telugu/telangana/rythu-bharosa-first-installment-to-be-disbursed-on-march-22-2nd-installment-to-released-after-20-days-261773618194122.html#:~:text=Rythu%20Bharosa%20%3A%20%E0%B0%AE%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%9A%E0%B0%BF%2022%E0%B0%A8,%E0%B0%AD%E0%B0%B0%E0%B1%8B%E0%B0%B8%E0%B0%BE%20%E0%B0%AE%E0%B1%8A%E0%B0%A6%E0%B0%9F%E0%B0%BF%20%E0%B0%B5%E0%B0%BF%E0%B0%A1%E0%B0%A4%E0%B0%A8%E0%B1%81%20%E0%B0%B5%E0%B0%BF%E0%B0%A1%E0%B1%81%E0%B0%A6%E0%B0%B2%20%E0%B0%9A%E0%B1%87%E0%B0%B8%E0%B1%8D%E0%B0%A4%E0%B1%81%E0%B0%82%E0%B0%A6%E0%B0%BF."
+      },
+      {
+        "position": 4,
+        "title": "Rythu Bharosa 2nd Installment update... ...",
+        "link": "https://www.instagram.com/reel/DWtcgYfFetx/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAViZt74FlDxLYXKHS9b7Ys0KGDTTKBgtGSnMvH1SpBVVaZdIRD3tf1I6WCvm8VpDdcJzH8xmoq-FELVTOTYPoSCpAZgDPaLwgc0du-RbhjZhbxXANobfQPrlcbKlz2oQ&ved=2ahUKEwiv2PiR-peXAxU0KlkFHfgUIU0QFnoECEAQAQ&uoh=1",
+        "displayed_link": "40+ likes · 5 months ago",
+        "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+        "snippet": "It appears the schedule for the release of the second phase of Rythu Bharosa funds in the second week of April has been finalized.",
+        "snippet_highlighted_words": [
+          "of"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "It appears the schedule for the release of the second phase of Rythu Bharosa funds in the second week of April has been finalized.",
+            "source_info_link": "https://www.instagram.com/reel/DWtcgYfFetx/",
+            "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmladDc0RmxEeExZWEtIUzliN1lzMEtHRFRUS0JndEdTbk12SDFTcEJWVmFaZElSRDN0ZjFJNldDdm04VnBEZGNKekg4eG1vcS1GRUxWVE9UWVBvU0NwQVpnRFBhTHdnYzBkdS1SYmhqWmhieFhBTm9iZlFQcmxjYktsejJvURIEGgIIABq9BRIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkCZBQgAEAAYACAAKiAKCXRlbGFuZ2FuYRWhrbZAGg5pdjtwO3RlbGFuZ2FuYSomCgVyeXRodRWw6uZAGgxyeXRodWJoYXJvc2EaCml2O3A7cnl0aHUqKgoHYmhhcm9zYRU9k9xAGgxyeXRodWJoYXJvc2EaDGl2O3A7Ymhhcm9zYSqPAQoLaW5zdGFsbG1lbnQV_bKLQBoMaW5zdGFsbG1lbnRzGgppbnN0YWxtZW50GgtpbnN0YWxtZW50cxoQaXY7cDtpbnN0YWxsbWVudBoHcGF5bWVudBoIcGF5bWVudHMaCWZpbmFuY2lhbBoEbG9hbhoDZW1pGgZjcmVkaXQaBnNjaGVtZRoJcmVwYXltZW50KhYKBDIwMjYViIzePxoJaXY7bjsyMDI2MpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmladDc0RmxEeExZWEtIUzliN1lzMEtHRFRUS0JndEdTbk12SDFTcEJWVmFaZElSRDN0ZjFJNldDdm04VnBEZGNKekg4eG1vcS1GRUxWVE9UWVBvU0NwQVpnRFBhTHdnYzBkdS1SYmhqWmhieFhBTm9iZlFQcmxjYktsejJvUTpMPGI-Unl0aHUgQmhhcm9zYTwvYj4gMm5kIDxiPkluc3RhbGxtZW50PC9iPiB1cGRhdGUuLi4gKFJ5dGh1IC4uLiAtIEluc3RhZ3JhbUKJAUl0IGFwcGVhcnMgdGhlIHNjaGVkdWxlIGZvciB0aGUgcmVsZWFzZSA8Yj5vZjwvYj4gdGhlIHNlY29uZCBwaGFzZSBvZiBSeXRodSBCaGFyb3NhIGZ1bmRzIGluIHRoZSBzZWNvbmQgd2VlayBvZiBBcHJpbCBoYXMgYmVlbiBmaW5hbGl6ZWQuIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmladDc0RmxEeExZWEtIUzliN1lzMEtHRFRUS0JndEdTbk12SDFTcEJWVmFaZElSRDN0ZjFJNldDdm04VnBEZGNKekg4eG1vcS1GRUxWVE9UWVBvU0NwQVpnRFBhTHdnYzBkdS1SYmhqWmhieFhBTm9iZlFQcmxjYktsejJvURIEGgIIABq9BRIAGgAiACoAMgYIARICaW46AEIECAIQAEoAWgByAHoAgkCZBQgAEAAYACAAKiAKCXRlbGFuZ2FuYRWhrbZAGg5pdjtwO3RlbGFuZ2FuYSomCgVyeXRodRWw6uZAGgxyeXRodWJoYXJvc2EaCml2O3A7cnl0aHUqKgoHYmhhcm9zYRU9k9xAGgxyeXRodWJoYXJvc2EaDGl2O3A7Ymhhcm9zYSqPAQoLaW5zdGFsbG1lbnQV_bKLQBoMaW5zdGFsbG1lbnRzGgppbnN0YWxtZW50GgtpbnN0YWxtZW50cxoQaXY7cDtpbnN0YWxsbWVudBoHcGF5bWVudBoIcGF5bWVudHMaCWZpbmFuY2lhbBoEbG9hbhoDZW1pGgZjcmVkaXQaBnNjaGVtZRoJcmVwYXltZW50KhYKBDIwMjYViIzePxoJaXY7bjsyMDI2MpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmladDc0RmxEeExZWEtIUzliN1lzMEtHRFRUS0JndEdTbk12SDFTcEJWVmFaZElSRDN0ZjFJNldDdm04VnBEZGNKekg4eG1vcS1GRUxWVE9UWVBvU0NwQVpnRFBhTHdnYzBkdS1SYmhqWmhieFhBTm9iZlFQcmxjYktsejJvUTpMPGI-Unl0aHUgQmhhcm9zYTwvYj4gMm5kIDxiPkluc3RhbGxtZW50PC9iPiB1cGRhdGUuLi4gKFJ5dGh1IC4uLiAtIEluc3RhZ3JhbUKJAUl0IGFwcGVhcnMgdGhlIHNjaGVkdWxlIGZvciB0aGUgcmVsZWFzZSA8Yj5vZjwvYj4gdGhlIHNlY29uZCBwaGFzZSBvZiBSeXRodSBCaGFyb3NhIGZ1bmRzIGluIHRoZSBzZWNvbmQgd2VlayBvZiBBcHJpbCBoYXMgYmVlbiBmaW5hbGl6ZWQuIgIQAUgAWABoAA",
+        "source": "Instagram · saamanyudivoice"
+      },
+      {
+        "position": 5,
+        "title": "Release of 2nd installment of Rythu Bharosa funds tomorrow",
+        "link": "https://assets.thehansindia.com/telangana/release-of-2nd-installment-of-rythu-bharosa-funds-tomorrow-1067051",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEB6zswFZbF4NjA1Oslqhgyy0P0-dLKDLLuADwYvJHYTS2hs-pFMo0IIyVC2ORu7PkBlJJGZW6S3Xq6iQ846_EP-Esef0oyC7TC8ns-Kuh7vMM_i4E4g3XvnA636byFmmc_sZFTvFob_gMO-FEB29rw-1jA3fVA6XJFcWlkxF842MgjGrSZHknmafMe4fq9IN1xWqul6pOcusHGvxDqqPyxe51PlA&ved=2ahUKEwiv2PiR-peXAxU0KlkFHfgUIU0QFnoECD8QAQ&uoh=1",
+        "displayed_link": "https://assets.thehansindia.com › telangana › release-of-...",
+        "favicon": "https://serpapi.com/images/i/UklGRmYBAABXRUJQVlA4IFoBAACQBgCdASocABwAPtEutFooIagoGAEAGglsALfEEh_aJxq0demodVUb7NAtn48Zs-OmmGPhAlJCOr79dwSAAP72AwaIkl3z-uF7r164rQPWBaI9D37lypWZjm-ku3KduAiWLnYGXeu0f5mqKU2IGNO6k9I-2DH08KrXtNteyBdiS_TeAbwC34zTR4D5L2WYqrsH4eTaUsPlQnuMjLyTu4dGZVa5VQDhUz-r-n59lbsoLNQ0ZVBMhnRv6EzhQWFHa5LhpVX2PQ5lH0uoYy40_KmT3s1b2XQsl874HWeaXTy_zhxuTKP1PxlwPyJEJ1h9EM4M4dmfCh5VtYvKcqbJ-d8G7Bex1lr5xLpsWnTMVoEPhLLgnE5WD_DfILTKehvDq2C_6ra17HL0v8NzoiMSrfw9_S06fGfgm9qg965zxsfnB4hMdjqvP_q2-YfSP0rP_X1CP_pa6SEAxFoA.webp",
+        "snippet": "2nd installment of Rythu Bharosa funds. In the second phase, a total of Rs 5,653 crore will be transferred to benefit 45,11,947 farmers,",
+        "snippet_highlighted_words": [
+          "2nd installment of Rythu Bharosa funds"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "2nd installment of Rythu Bharosa funds. In the second phase, a total of Rs 5,653 crore will be transferred to benefit 45,11,947 farmers,",
+            "source_info_link": "https://assets.thehansindia.com/telangana/release-of-2nd-installment-of-rythu-bharosa-funds-tomorrow-1067051",
+            "icon": "https://serpapi.com/images/i/UklGRmYBAABXRUJQVlA4IFoBAACQBgCdASocABwAPtEutFooIagoGAEAGglsALfEEh_aJxq0demodVUb7NAtn48Zs-OmmGPhAlJCOr79dwSAAP72AwaIkl3z-uF7r164rQPWBaI9D37lypWZjm-ku3KduAiWLnYGXeu0f5mqKU2IGNO6k9I-2DH08KrXtNteyBdiS_TeAbwC34zTR4D5L2WYqrsH4eTaUsPlQnuMjLyTu4dGZVa5VQDhUz-r-n59lbsoLNQ0ZVBMhnRv6EzhQWFHa5LhpVX2PQ5lH0uoYy40_KmT3s1b2XQsl874HWeaXTy_zhxuTKP1PxlwPyJEJ1h9EM4M4dmfCh5VtYvKcqbJ-d8G7Bex1lr5xLpsWnTMVoEPhLLgnE5WD_DfILTKehvDq2C_6ra17HL0v8NzoiMSrfw9_S06fGfgm9qg965zxsfnB4hMdjqvP_q2-YfSP0rP_X1CP_pa6SEAxFoA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZaYkY0TmpBMU9zbHFoZ3l5MFAwLWRMS0RMTHVBRHdZdkpIWVRTMmhzLXBGTW8wSUl5VkMyT1J1N1BrQmxKSkdaVzZTM1hxNmlRODQ2X0VQLUVzZWYwb3lDN1RDOG5zLUt1aDd2TU1faTRFNGczWHZuQTYzNmJ5Rm1tY19zWkZUdkZvYl9nTU8tRkVCMjlydy0xakEzZlZBNlhKRmNXbGt4Rjg0Mk1nakdyU1pIa25tYWZNZTRmcTlJTjF4V3F1bDZwT2N1c0hHdnhEcXFQeXhlNTFQbEESBBoCCAAalwYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA8wUIABAAGAAgACogCgl0ZWxhbmdhbmEVPsTkPxoOaXY7cDt0ZWxhbmdhbmEqJgoFcnl0aHUVhOaWQBoMcnl0aHViaGFyb3NhGgppdjtwO3J5dGh1KioKB2JoYXJvc2EVhOaWQBoMcnl0aHViaGFyb3NhGgxpdjtwO2JoYXJvc2EqjwEKC2luc3RhbGxtZW50FRbYhEAaDGluc3RhbGxtZW50cxoKaW5zdGFsbWVudBoLaW5zdGFsbWVudHMaEGl2O3A7aW5zdGFsbG1lbnQaB3BheW1lbnQaCHBheW1lbnRzGglmaW5hbmNpYWwaBGxvYW4aA2VtaRoGY3JlZGl0GgZzY2hlbWUaCXJlcGF5bWVudCoWCgQyMDI2Fb9XujwaCWl2O247MjAyNjLsAS9nb3RvP3VybD1DQUVTcEFFQjZ6c3dGWmJGNE5qQTFPc2xxaGd5eTBQMC1kTEtETEx1QUR3WXZKSFlUUzJocy1wRk1vMElJeVZDMk9SdTdQa0JsSkpHWlc2UzNYcTZpUTg0Nl9FUC1Fc2VmMG95QzdUQzhucy1LdWg3dk1NX2k0RTRnM1h2bkE2MzZieUZtbWNfc1pGVHZGb2JfZ01PLUZFQjI5cnctMWpBM2ZWQTZYSkZjV2xreEY4NDJNZ2pHclNaSGtubWFmTWU0ZnE5SU4xeFdxdWw2cE9jdXNIR3Z4RHFxUHl4ZTUxUGxBOkhSZWxlYXNlIG9mIDJuZCA8Yj5pbnN0YWxsbWVudDwvYj4gb2YgPGI-Unl0aHUgQmhhcm9zYTwvYj4gZnVuZHMgdG9tb3Jyb3dCjwE8Yj4ybmQgaW5zdGFsbG1lbnQgb2YgUnl0aHUgQmhhcm9zYSBmdW5kczwvYj4uIEluIHRoZSBzZWNvbmQgcGhhc2UsIGEgdG90YWwgb2YgUnMgNSw2NTMgY3JvcmUgd2lsbCBiZSB0cmFuc2ZlcnJlZCB0byBiZW5lZml0IDQ1LDExLDk0NyBmYXJtZXJzLCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZaYkY0TmpBMU9zbHFoZ3l5MFAwLWRMS0RMTHVBRHdZdkpIWVRTMmhzLXBGTW8wSUl5VkMyT1J1N1BrQmxKSkdaVzZTM1hxNmlRODQ2X0VQLUVzZWYwb3lDN1RDOG5zLUt1aDd2TU1faTRFNGczWHZuQTYzNmJ5Rm1tY19zWkZUdkZvYl9nTU8tRkVCMjlydy0xakEzZlZBNlhKRmNXbGt4Rjg0Mk1nakdyU1pIa25tYWZNZTRmcTlJTjF4V3F1bDZwT2N1c0hHdnhEcXFQeXhlNTFQbEESBBoCCAAalwYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA8wUIABAAGAAgACogCgl0ZWxhbmdhbmEVPsTkPxoOaXY7cDt0ZWxhbmdhbmEqJgoFcnl0aHUVhOaWQBoMcnl0aHViaGFyb3NhGgppdjtwO3J5dGh1KioKB2JoYXJvc2EVhOaWQBoMcnl0aHViaGFyb3NhGgxpdjtwO2JoYXJvc2EqjwEKC2luc3RhbGxtZW50FRbYhEAaDGluc3RhbGxtZW50cxoKaW5zdGFsbWVudBoLaW5zdGFsbWVudHMaEGl2O3A7aW5zdGFsbG1lbnQaB3BheW1lbnQaCHBheW1lbnRzGglmaW5hbmNpYWwaBGxvYW4aA2VtaRoGY3JlZGl0GgZzY2hlbWUaCXJlcGF5bWVudCoWCgQyMDI2Fb9XujwaCWl2O247MjAyNjLsAS9nb3RvP3VybD1DQUVTcEFFQjZ6c3dGWmJGNE5qQTFPc2xxaGd5eTBQMC1kTEtETEx1QUR3WXZKSFlUUzJocy1wRk1vMElJeVZDMk9SdTdQa0JsSkpHWlc2UzNYcTZpUTg0Nl9FUC1Fc2VmMG95QzdUQzhucy1LdWg3dk1NX2k0RTRnM1h2bkE2MzZieUZtbWNfc1pGVHZGb2JfZ01PLUZFQjI5cnctMWpBM2ZWQTZYSkZjV2xreEY4NDJNZ2pHclNaSGtubWFmTWU0ZnE5SU4xeFdxdWw2cE9jdXNIR3Z4RHFxUHl4ZTUxUGxBOkhSZWxlYXNlIG9mIDJuZCA8Yj5pbnN0YWxsbWVudDwvYj4gb2YgPGI-Unl0aHUgQmhhcm9zYTwvYj4gZnVuZHMgdG9tb3Jyb3dCjwE8Yj4ybmQgaW5zdGFsbG1lbnQgb2YgUnl0aHUgQmhhcm9zYSBmdW5kczwvYj4uIEluIHRoZSBzZWNvbmQgcGhhc2UsIGEgdG90YWwgb2YgUnMgNSw2NTMgY3JvcmUgd2lsbCBiZSB0cmFuc2ZlcnJlZCB0byBiZW5lZml0IDQ1LDExLDk0NyBmYXJtZXJzLCICEAFIAFgAaAA",
+        "source": "The Hans India"
+      },
+      {
+        "position": 6,
+        "title": "PM Kisan Funds Release Date 2026 | Rythu Bharosa ...",
+        "link": "https://www.youtube.com/shorts/LGKfCHMDDp0",
+        "displayed_link": "67.3K+ views · 3 months ago",
+        "thumbnail": "https://serpapi.com/searches/6abdddd632f11d7cf41b456f/images/ewZHhJufIveEMkJ29BPZD_w8_WH-S2t3VB1m6tTaooI.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "snippet": "farmers in Telangana are also awaiting the next phase of Rythu Bharosa payments. In this video, we discuss: ✓ PM Kisan 23rd installment ...",
+        "duration": "0:59",
+        "about_this_result": {
+          "source": {
+            "description": "farmers in Telangana are also awaiting the next phase of Rythu Bharosa payments. In this video, we discuss: ✓ PM Kisan 23rd installment ...",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVi1aTG5YOFg2MDJncElwVXBqQ1oxX2V1VkhSbHlpQTRwSXBiaC1qN0NHLUZDZElvMHdfNXNaSjIwaDhLMHRsbnl6SXlxSnNSMjh0QnROTlBFVGxTamhvd3UtVmFmOW9CQ0otZHNSdEpoVldCNWFFYkxNR2hWSEEtSUYxMUESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVi1aTG5YOFg2MDJncElwVXBqQ1oxX2V1VkhSbHlpQTRwSXBiaC1qN0NHLUZDZElvMHdfNXNaSjIwaDhLMHRsbnl6SXlxSnNSMjh0QnROTlBFVGxTamhvd3UtVmFmOW9CQ0otZHNSdEpoVldCNWFFYkxNR2hWSEEtSUYxMUESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRNUlvKBuH3v6_w5zYsTzmvlnCKXgDNUGH1FA",
+        "source": "YouTube · ystvtelugu"
+      },
+      {
+        "position": 7,
+        "title": "₹9000 Cr Rythu Bharosa: Telangana releases first ...",
+        "link": "https://newsmeter.in/regional/telangana/9000-cr-rythu-bharosa-telangana-releases-first-installment-of-3590-cr-to-2422l-farmers-765020",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvgEB6zswFe06PPit3h8Tz12uwj3RbBi9-Q2fUMScw7z9nR9QXH4cTNa6xjQ8xgWhainZviaMWebcfGe_uFXoKeG5QH2kUPXY1TiQesmBCxsGAjhRdpcLYTcwMFVDSSlAqbDuhhqFMRk3Yz9XhY1CqNuBjzh7cKqkvo-p6OLSzXGz85uJNNHsUiFuQNw5sZknj2mAfXPw61P7FW5p4vIbcNoAlAziv4zws1BpYXc2RPrINt9MI11KyHXnwse77M8L&ved=2ahUKEwiv2PiR-peXAxU0KlkFHfgUIU0QFnoECDsQAQ&uoh=1",
+        "displayed_link": "https://newsmeter.in › REGIONAL › TELANGANA",
+        "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglsAMiZizZxtbUXOB8jMfdUj1ZNO6udsvxEAAD-9gJS2WZGfRDpaTLwGPsXjeO09vs6KrJmkWc2WlUOHGrv4eViamgGQthHZljvXlxh8Ct5SPwZfVUiy4htLlEemN3-95go2bskBxC0f2Yy9FQCxnuHcoigR-Vf-0PKvGxJgUEKxQRVAm-qBY4g40s80uSN_SHXWuz7-8798H5RgFXJ6r3T2Hx3zneXpqZ4_Tv4bMiSv_yuD0dp82hsXJC9Rnc9feCbapRZ8Vcj5txeLWi_stXr7ijndO54UB-PAAAA.webp",
+        "date": "22 Mar 2026",
+        "snippet": "... 2026 8:34 PM. ₹9,000 Cr Rythu Bharosa: Telangana releases first installment of ₹3,590 Cr to 24.22. Siddipet: Chief Minister A Revanth Reddy ...",
+        "snippet_highlighted_words": [
+          "2026",
+          "Rythu Bharosa",
+          "Telangana",
+          "installment"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "... 2026 8:34 PM. ₹9,000 Cr Rythu Bharosa: Telangana releases first installment of ₹3,590 Cr to 24.22. Siddipet: Chief Minister A Revanth Reddy ...",
+            "source_info_link": "https://newsmeter.in/regional/telangana/9000-cr-rythu-bharosa-telangana-releases-first-installment-of-3590-cr-to-2422l-farmers-765020",
+            "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAAAwBQCdASocABwAPtE-tFooIigoFAEAGglsAMiZizZxtbUXOB8jMfdUj1ZNO6udsvxEAAD-9gJS2WZGfRDpaTLwGPsXjeO09vs6KrJmkWc2WlUOHGrv4eViamgGQthHZljvXlxh8Ct5SPwZfVUiy4htLlEemN3-95go2bskBxC0f2Yy9FQCxnuHcoigR-Vf-0PKvGxJgUEKxQRVAm-qBY4g40s80uSN_SHXWuz7-8798H5RgFXJ6r3T2Hx3zneXpqZ4_Tv4bMiSv_yuD0dp82hsXJC9Rnc9feCbapRZ8Vcj5txeLWi_stXr7ijndO54UB-PAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4CL2dvdG8_dXJsPUNBRVN2Z0VCNnpzd0ZlMDZQUGl0M2g4VHoxMnV3ajNSYkJpOS1RMmZVTVNjdzd6OW5SOVFYSDRjVE5hNnhqUTh4Z1doYWluWnZpYU1XZWJjZkdlX3VGWG9LZUc1UUgya1VQWFkxVGlRZXNtQkN4c0dBamhSZHBjTFlUY3dNRlZEU1NsQXFiRHVoaHFGTVJrM1l6OVhoWTFDcU51Qmp6aDdjS3Frdm8tcDZPTFN6WEd6ODV1Sk5OSHNVaUZ1UU53NXNaa25qMm1BZlhQdzYxUDdGVzVwNHZJYmNOb0FsQXppdjR6d3MxQnBZWGMyUlBySU50OU1JMTFLeUhYbndzZTc3TThMEgQaAggAGt8GEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQLsGCAAQABgAIAAqIAoJdGVsYW5nYW5hFTCzvUAaDml2O3A7dGVsYW5nYW5hKiYKBXJ5dGh1FfmFt0AaDHJ5dGh1Ymhhcm9zYRoKaXY7cDtyeXRodSoqCgdiaGFyb3NhFfmFt0AaDHJ5dGh1Ymhhcm9zYRoMaXY7cDtiaGFyb3NhKo8BCgtpbnN0YWxsbWVudBUV9bFAGgxpbnN0YWxsbWVudHMaCmluc3RhbG1lbnQaC2luc3RhbG1lbnRzGhBpdjtwO2luc3RhbGxtZW50GgdwYXltZW50GghwYXltZW50cxoJZmluYW5jaWFsGgRsb2FuGgNlbWkaBmNyZWRpdBoGc2NoZW1lGglyZXBheW1lbnQqFgoEMjAyNhXZ9Rc-GglpdjtuOzIwMjYyjgIvZ290bz91cmw9Q0FFU3ZnRUI2enN3RmUwNlBQaXQzaDhUejEydXdqM1JiQmk5LVEyZlVNU2N3N3o5blI5UVhINGNUTmE2eGpROHhnV2hhaW5admlhTVdlYmNmR2VfdUZYb0tlRzVRSDJrVVBYWTFUaVFlc21CQ3hzR0FqaFJkcGNMWVRjd01GVkRTU2xBcWJEdWhocUZNUmszWXo5WGhZMUNxTnVCanpoN2NLcWt2by1wNk9MU3pYR3o4NXVKTk5Ic1VpRnVRTnc1c1prbmoybUFmWFB3NjFQN0ZXNXA0dkliY05vQWxBeml2NHp3czFCcFlYYzJSUHJJTnQ5TUkxMUt5SFhud3NlNzdNOEw6ReKCuTksMDAwIENyIDxiPlJ5dGh1IEJoYXJvc2E8L2I-OiA8Yj5UZWxhbmdhbmE8L2I-IHJlbGVhc2VzIGZpcnN0IC4uLkK4AS4uLiA8Yj4yMDI2PC9iPiA4OjM0IFBNLiDigrk5LDAwMCBDciA8Yj5SeXRodSBCaGFyb3NhPC9iPjogPGI-VGVsYW5nYW5hPC9iPiByZWxlYXNlcyBmaXJzdCA8Yj5pbnN0YWxsbWVudDwvYj4gb2Yg4oK5Myw1OTAgQ3IgdG8gMjQuMjIuIFNpZGRpcGV0OiBDaGllZiBNaW5pc3RlciBBIFJldmFudGggUmVkZHkmbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4CL2dvdG8_dXJsPUNBRVN2Z0VCNnpzd0ZlMDZQUGl0M2g4VHoxMnV3ajNSYkJpOS1RMmZVTVNjdzd6OW5SOVFYSDRjVE5hNnhqUTh4Z1doYWluWnZpYU1XZWJjZkdlX3VGWG9LZUc1UUgya1VQWFkxVGlRZXNtQkN4c0dBamhSZHBjTFlUY3dNRlZEU1NsQXFiRHVoaHFGTVJrM1l6OVhoWTFDcU51Qmp6aDdjS3Frdm8tcDZPTFN6WEd6ODV1Sk5OSHNVaUZ1UU53NXNaa25qMm1BZlhQdzYxUDdGVzVwNHZJYmNOb0FsQXppdjR6d3MxQnBZWGMyUlBySU50OU1JMTFLeUhYbndzZTc3TThMEgQaAggAGt8GEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQLsGCAAQABgAIAAqIAoJdGVsYW5nYW5hFTCzvUAaDml2O3A7dGVsYW5nYW5hKiYKBXJ5dGh1FfmFt0AaDHJ5dGh1Ymhhcm9zYRoKaXY7cDtyeXRodSoqCgdiaGFyb3NhFfmFt0AaDHJ5dGh1Ymhhcm9zYRoMaXY7cDtiaGFyb3NhKo8BCgtpbnN0YWxsbWVudBUV9bFAGgxpbnN0YWxsbWVudHMaCmluc3RhbG1lbnQaC2luc3RhbG1lbnRzGhBpdjtwO2luc3RhbGxtZW50GgdwYXltZW50GghwYXltZW50cxoJZmluYW5jaWFsGgRsb2FuGgNlbWkaBmNyZWRpdBoGc2NoZW1lGglyZXBheW1lbnQqFgoEMjAyNhXZ9Rc-GglpdjtuOzIwMjYyjgIvZ290bz91cmw9Q0FFU3ZnRUI2enN3RmUwNlBQaXQzaDhUejEydXdqM1JiQmk5LVEyZlVNU2N3N3o5blI5UVhINGNUTmE2eGpROHhnV2hhaW5admlhTVdlYmNmR2VfdUZYb0tlRzVRSDJrVVBYWTFUaVFlc21CQ3hzR0FqaFJkcGNMWVRjd01GVkRTU2xBcWJEdWhocUZNUmszWXo5WGhZMUNxTnVCanpoN2NLcWt2by1wNk9MU3pYR3o4NXVKTk5Ic1VpRnVRTnc1c1prbmoybUFmWFB3NjFQN0ZXNXA0dkliY05vQWxBeml2NHp3czFCcFlYYzJSUHJJTnQ5TUkxMUt5SFhud3NlNzdNOEw6ReKCuTksMDAwIENyIDxiPlJ5dGh1IEJoYXJvc2E8L2I-OiA8Yj5UZWxhbmdhbmE8L2I-IHJlbGVhc2VzIGZpcnN0IC4uLkK4AS4uLiA8Yj4yMDI2PC9iPiA4OjM0IFBNLiDigrk5LDAwMCBDciA8Yj5SeXRodSBCaGFyb3NhPC9iPjogPGI-VGVsYW5nYW5hPC9iPiByZWxlYXNlcyBmaXJzdCA8Yj5pbnN0YWxsbWVudDwvYj4gb2Yg4oK5Myw1OTAgQ3IgdG8gMjQuMjIuIFNpZGRpcGV0OiBDaGllZiBNaW5pc3RlciBBIFJldmFudGggUmVkZHkmbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "NewsMeter",
+        "read_more_link": "https://newsmeter.in/regional/telangana/9000-cr-rythu-bharosa-telangana-releases-first-installment-of-3590-cr-to-2422l-farmers-765020#:~:text=Published%20on%20%3A%2022%20Mar,under%20the%20Rythu%20Bharosa%20scheme."
+      },
+      {
+        "position": 8,
+        "title": "MdShakeel(PingTV)",
+        "link": "https://x.com/PingtvIndia/status/2041430020204490761",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVaI-oG8AEfA8ZXynLTI7fMP6NOn6YBP-t7kCLxwp_FntgQtqBb3x23CpV_zceNjTB-ApyhpeKqBpTjwESWZNTG_Msi-9SuQVRkBpZBGAYKXzZWICwxHc5HQ0YneD9e1cRg--5mhlX7A&ved=2ahUKEwiv2PiR-peXAxU0KlkFHfgUIU0QFnoECDgQAQ&uoh=1",
+        "displayed_link": "5 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
+        "snippet": "Good news for Telangana Farmers! The 2nd installment of #RythuBharosa is arriving soon. Over ₹2650 Crore to be credited by April 15, 2026 ...",
+        "snippet_highlighted_words": [
+          "April 15, 2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Good news for Telangana Farmers! The 2nd installment of #RythuBharosa is arriving soon. Over ₹2650 Crore to be credited by April 15, 2026 ...",
+            "source_info_link": "https://x.com/PingtvIndia/status/2041430020204490761",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmFJLW9HOEFFZkE4Wlh5bkxUSTdmTVA2Tk9uNllCUC10N2tDTHh3cF9GbnRnUXRxQmIzeDIzQ3BWX3pjZU5qVEItQXB5aHBlS3FCcFRqd0VTV1pOVEdfTXNpLTlTdVFWUmtCcFpCR0FZS1h6WldJQ3d4SGM1SFEwWW5lRDllMWNSZy0tNW1obFg3QRIEGgIIABqkBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCABQgAEAAYACAAKiAKCXRlbGFuZ2FuYRXJFZpAGg5pdjtwO3RlbGFuZ2FuYSomCgVyeXRodRW7FxFAGgxyeXRodWJoYXJvc2EaCml2O3A7cnl0aHUqKgoHYmhhcm9zYRXIoRRAGgxyeXRodWJoYXJvc2EaDGl2O3A7Ymhhcm9zYSqPAQoLaW5zdGFsbG1lbnQVV_AXQBoMaW5zdGFsbG1lbnRzGgppbnN0YWxtZW50GgtpbnN0YWxtZW50cxoQaXY7cDtpbnN0YWxsbWVudBoHcGF5bWVudBoIcGF5bWVudHMaCWZpbmFuY2lhbBoEbG9hbhoDZW1pGgZjcmVkaXQaBnNjaGVtZRoJcmVwYXltZW50KhYKBDIwMjYVcIYIQBoJaXY7bjsyMDI2MqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmFJLW9HOEFFZkE4Wlh5bkxUSTdmTVA2Tk9uNllCUC10N2tDTHh3cF9GbnRnUXRxQmIzeDIzQ3BWX3pjZU5qVEItQXB5aHBlS3FCcFRqd0VTV1pOVEdfTXNpLTlTdVFWUmtCcFpCR0FZS1h6WldJQ3d4SGM1SFEwWW5lRDllMWNSZy0tNW1obFg3QToVTWRTaGFrZWVsKFBpbmdUVikgLSBYQpsBR29vZCBuZXdzIGZvciBUZWxhbmdhbmEgRmFybWVycyEgVGhlIDJuZCBpbnN0YWxsbWVudCBvZiAjUnl0aHVCaGFyb3NhIGlzIGFycml2aW5nIHNvb24uIE92ZXIg4oK5MjY1MCBDcm9yZSB0byBiZSBjcmVkaXRlZCBieSA8Yj5BcHJpbCAxNSwgMjAyNjwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmFJLW9HOEFFZkE4Wlh5bkxUSTdmTVA2Tk9uNllCUC10N2tDTHh3cF9GbnRnUXRxQmIzeDIzQ3BWX3pjZU5qVEItQXB5aHBlS3FCcFRqd0VTV1pOVEdfTXNpLTlTdVFWUmtCcFpCR0FZS1h6WldJQ3d4SGM1SFEwWW5lRDllMWNSZy0tNW1obFg3QRIEGgIIABqkBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCABQgAEAAYACAAKiAKCXRlbGFuZ2FuYRXJFZpAGg5pdjtwO3RlbGFuZ2FuYSomCgVyeXRodRW7FxFAGgxyeXRodWJoYXJvc2EaCml2O3A7cnl0aHUqKgoHYmhhcm9zYRXIoRRAGgxyeXRodWJoYXJvc2EaDGl2O3A7Ymhhcm9zYSqPAQoLaW5zdGFsbG1lbnQVV_AXQBoMaW5zdGFsbG1lbnRzGgppbnN0YWxtZW50GgtpbnN0YWxtZW50cxoQaXY7cDtpbnN0YWxsbWVudBoHcGF5bWVudBoIcGF5bWVudHMaCWZpbmFuY2lhbBoEbG9hbhoDZW1pGgZjcmVkaXQaBnNjaGVtZRoJcmVwYXltZW50KhYKBDIwMjYVcIYIQBoJaXY7bjsyMDI2MqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVmFJLW9HOEFFZkE4Wlh5bkxUSTdmTVA2Tk9uNllCUC10N2tDTHh3cF9GbnRnUXRxQmIzeDIzQ3BWX3pjZU5qVEItQXB5aHBlS3FCcFRqd0VTV1pOVEdfTXNpLTlTdVFWUmtCcFpCR0FZS1h6WldJQ3d4SGM1SFEwWW5lRDllMWNSZy0tNW1obFg3QToVTWRTaGFrZWVsKFBpbmdUVikgLSBYQpsBR29vZCBuZXdzIGZvciBUZWxhbmdhbmEgRmFybWVycyEgVGhlIDJuZCBpbnN0YWxsbWVudCBvZiAjUnl0aHVCaGFyb3NhIGlzIGFycml2aW5nIHNvb24uIE92ZXIg4oK5MjY1MCBDcm9yZSB0byBiZSBjcmVkaXRlZCBieSA8Yj5BcHJpbCAxNSwgMjAyNjwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "X · PingtvIndia"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Telangana+Rythu+Bharosa+installment+2026&sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnswwhJ2CEN0LXmCRthuk7wtWlzGMg:1790827990764&ei=1t29aq-VLrTU5NoP-KmE6QQ&start=10&sa=N&sstk=AS6-VmKhzOZ5XuVhQ3usV_Z7ppywuFUIK5KwR0_69_jm38gc0TEvNMK3Lq3dSh2TDo9G4WlDGFsBkMbvfnCNDZ9iGwb6GgMDOC5rsA&ved=2ahUKEwiv2PiR-peXAxU0KlkFHfgUIU0Q8NMDegQIMBAI",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Telangana+Rythu+Bharosa+installment+2026&sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnswwhJ2CEN0LXmCRthuk7wtWlzGMg:1790827990764&ei=1t29aq-VLrTU5NoP-KmE6QQ&start=10&sa=N&sstk=AS6-VmKhzOZ5XuVhQ3usV_Z7ppywuFUIK5KwR0_69_jm38gc0TEvNMK3Lq3dSh2TDo9G4WlDGFsBkMbvfnCNDZ9iGwb6GgMDOC5rsA&ved=2ahUKEwiv2PiR-peXAxU0KlkFHfgUIU0Q8tMDegQIMBAE",
+        "3": "https://www.google.com/search?q=Telangana+Rythu+Bharosa+installment+2026&sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnswwhJ2CEN0LXmCRthuk7wtWlzGMg:1790827990764&ei=1t29aq-VLrTU5NoP-KmE6QQ&start=20&sa=N&sstk=AS6-VmKhzOZ5XuVhQ3usV_Z7ppywuFUIK5KwR0_69_jm38gc0TEvNMK3Lq3dSh2TDo9G4WlDGFsBkMbvfnCNDZ9iGwb6GgMDOC5rsA&ved=2ahUKEwiv2PiR-peXAxU0KlkFHfgUIU0Q8tMDegQIMBAG"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Telangana+Rythu+Bharosa+installment+2026&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Telangana+Rythu+Bharosa+installment+2026&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Telangana+Rythu+Bharosa+installment+2026&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Telangana+Rythu+Bharosa+installment+2026&start=20"
+      }
+    }
+  }
+}

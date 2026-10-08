@@ -1,0 +1,400 @@
+{
+  "civicsignal_fixture": {
+    "engine": "google",
+    "q": "RTI application fee central government",
+    "params": {
+      "gl": "in",
+      "hl": "en",
+      "num": 10
+    },
+    "kind": "captured",
+    "captured_at": "2026-10-01T04:13:18.542093+00:00",
+    "note": "CLEAN CONTROL: long-stable statutory fee"
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6abddddb7a3b0502169966dc",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/P1JmPmk8_-A0Vg_SPVwJ6E09d24yYnoxVq2ZBa1fvFs/6abddddb7a3b0502169966dc.json",
+      "markdown_endpoint": "https://serpapi.com/searches/P1JmPmk8_-A0Vg_SPVwJ6E09d24yYnoxVq2ZBa1fvFs/6abddddb7a3b0502169966dc.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/P1JmPmk8_-A0Vg_SPVwJ6E09d24yYnoxVq2ZBa1fvFs/6abddddb7a3b0502169966dc.json_with_pixel_position",
+      "created_at": "2026-10-01 04:13:15 UTC",
+      "processed_at": "2026-10-01 04:13:15 UTC",
+      "google_url": "https://www.google.com/search?q=RTI+application+fee+central+government&oq=RTI+application+fee+central+government&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/P1JmPmk8_-A0Vg_SPVwJ6E09d24yYnoxVq2ZBa1fvFs/6abddddb7a3b0502169966dc.html",
+      "total_time_taken": 0.43
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "RTI application fee central government",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "RTI application fee central government",
+      "total_results": 99700,
+      "time_taken_displayed": 0.23,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_images": [
+      {
+        "source": "https://www.instagram.com/reel/DbUZ4WuBCkN/",
+        "thumbnail": "https://serpapi.com/searches/6abddddb7a3b0502169966dc/images/b4qmrdWoL_rxWe7v493jUS4OxxzA3MnnQXobhpJBBPs.jpeg",
+        "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3950896596958587149",
+        "title": "Need Information from a Central Government Department?, Use the official  RTI Online Portal to file a Right to Information (RTI) application., RTI  Online Portal, Website: rtionline.gov.in, RTI ...",
+        "source_name": "Instagram"
+      },
+      {
+        "source": "https://www.firstpost.com/india/file-rti-applications-pay-fee-online-govt-launches-portal-1050753.html",
+        "thumbnail": "https://serpapi.com/searches/6abddddb7a3b0502169966dc/images/vObKlJInx9Dfkkyy4aPVDOTsBVdYWHaBSFovLVcHuuk.jpeg",
+        "original": "https://images.firstpost.com/wp-content/uploads/2013/08/RTI-screengrab1.jpg?im=Resize,width=720,aspect=fit,type=normal",
+        "title": "Portal to file RTI applications, pay fee online launched today",
+        "source_name": "Firstpost"
+      },
+      {
+        "source": "https://www.facebook.com/groups/httpsrtionline.gov.in/posts/1236702300339258/",
+        "thumbnail": "https://serpapi.com/searches/6abddddb7a3b0502169966dc/images/bzkkYGdvlxBJhbzR8bbdqwXI4O9-ACeiwQKQraZ1vJ8.jpeg",
+        "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3235629339923262",
+        "title": "Guidelines for filing RTI applications in India",
+        "source_name": "Facebook"
+      },
+      {
+        "source": "https://www.legalrepublic.in/everyday-law/rti-fee-rules/",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaMJng0YxYWy2jtvi6ELTUrqjLKLXV_bUcHQgz0E1LP4QV33g-rKoX9462kw&s",
+        "original": "https://media.legalrepublic.in/article-previews/everyday-law/rti-fee-rules/preview-og-e03447b7496b5961.webp",
+        "title": "How RTI fees work and who is exempt | Legal Republic",
+        "source_name": "LegalRepublic.in"
+      },
+      {
+        "source": "https://www.youtube.com/watch?v=0Qz7ROZBnKc",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjw8eXygEvmrSHx0HdTaQi24qfsPje1fJDt1Smizg4w&s",
+        "original": "https://i.ytimg.com/vi/0Qz7ROZBnKc/sddefault.jpg",
+        "title": "Can a central government employee file an RTI against his own authority ?",
+        "source_name": "YouTube"
+      },
+      {
+        "source": "https://scroll.in/latest/833835/no-change-in-rti-application-fee-word-limit-for-query-says-government",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_21B5Zp67jYL-UA48EZ2aV0lWM_A3RnxQOijDNEsp4wdxV7JIVbPuxc&s",
+        "original": "https://sc0.blr1.digitaloceanspaces.com/large/833835-izfpwqzskr-1491450108.jpg",
+        "title": "No change in RTI application fee, word limit for queries ...",
+        "source_name": "Scroll.in"
+      },
+      {
+        "source": "https://www.newindianexpress.com/india/2018/Mar/20/sc-fixes-rs-50-as-maximum-fee-for-rti-application-1790002.html",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQstkQZEZqXKj9qobcryB8fxu_Nh1LizdQKYbvT6SfpIrofIT35JwNQcsZRwA&s",
+        "original": "https://cf-images.assettype.com/TNIE/import/2018/3/20/original/RTI-generic_1.jpg?w=1200&h=900&auto=format%2Ccompress&fit=max&enlarge=true",
+        "title": "SC fixes Rs 50 as maximum fee for RTI application",
+        "source_name": "The New Indian Express"
+      },
+      {
+        "source": "https://www.scribd.com/document/956494838/Timely-Intimation-About-Payment-of-Additional-Fee-Under-RTI-Act-2005",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL5s0yRnTaD6OZIMZCqUa9NLgBHgFn60E4V5OQ58Lt9DkMQX67nofE8Uv4eg&s",
+        "original": "https://imgv2-1-f.scribdassets.com/img/document/956494838/original/e09fb27b7e/1?v=1",
+        "title": "RTI Act Fee Notification Guidelines | PDF | Government Of ...",
+        "source_name": "Scribd"
+      },
+      {
+        "source": "https://www.facebook.com/groups/httpsrtionline.gov.in/posts/1236702300339258/",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Ri-TZ9zZDoOUOMgfRqixTVCpxDHFtLcgy-IaH-kkXB9DznBvNb8rjxc&s",
+        "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1574361500132758",
+        "title": "Guidelines for filing RTI applications in India",
+        "source_name": "Facebook"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How much is the RTI application fee?",
+        "type": "ai_overview",
+        "page_token": "20nvYHicHdBLcpswAIDh6WWyjCWcR-sZT6cKYEwrEcvogTYZkGzLIB5u5BDY9S49VU_TTA7wf4v_z1937pp_X7z1fnhdLRbjON6e-v7kDre6bxfl69TphS6dq0rdrB4eH-D3o15H1wg9XbZox4aBhxTsOzwWrR0y8e0qctSSgEMM3RNt3JYKv6ESv-8hlXueXllkLiUnVM3xTxF_XRad8qrxFyxgSiI7m4QPJoCyghRQYY6GpTLP04lBG3Le39Ma9TpS77qBMT7D2tTpWUVuJLUV-_pHkDE_S-BCxq2tZgOr5ARM60FR67lqwLKYccAcHVlwBz7aMksaQKSeeEuQiGwuYYwiW0xZvr0vJF7-YqbFQI1ZSHcHjhLBPN2cU0QTMmVCUbExoYLIlh8m5vy5CkgnIXlTbVwexC4onaI3R_22Xt583ly_HFu_Gn73p_9psIJb",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=20nvYHicHdBLcpswAIDh6WWyjCWcR-sZT6cKYEwrEcvogTYZkGzLIB5u5BDY9S49VU_TTA7wf4v_z1937pp_X7z1fnhdLRbjON6e-v7kDre6bxfl69TphS6dq0rdrB4eH-D3o15H1wg9XbZox4aBhxTsOzwWrR0y8e0qctSSgEMM3RNt3JYKv6ESv-8hlXueXllkLiUnVM3xTxF_XRad8qrxFyxgSiI7m4QPJoCyghRQYY6GpTLP04lBG3Le39Ma9TpS77qBMT7D2tTpWUVuJLUV-_pHkDE_S-BCxq2tZgOr5ARM60FR67lqwLKYccAcHVlwBz7aMksaQKSeeEuQiGwuYYwiW0xZvr0vJF7-YqbFQI1ZSHcHjhLBPN2cU0QTMmVCUbExoYLIlh8m5vy5CkgnIXlTbVwexC4onaI3R_22Xt583ly_HFu_Gn73p_9psIJb",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWNsVnNibTlNUmxRd2VYZHZVRUl3V1dnMFUyVk1lRVUyZWs5RU16Vm9ValE0U0haNVZpMXBZVXB1TW10SlExSjVZekp5YUVOMVFrSk9WM0pzVERoRk0wVTJURzFNVFhCV2ExTmpOMDlFYkdjME1rWmhkSG93ZG5CbFVSSVdNamt5T1dGek55MUhaak5HY0RnMFVIbFFSMWxMVVJvaVFVUnpjamxtVXpSelduWmlUVkJqV1VKWE5XOXhaRjl0UkhCTVUxOVRYMDR3UVEiLCJmY3YiOiIzIiwiZWkiOiIyOTI5YXM3LUdmM0ZwODRQeVBHWUtRIiwicWMiOiJDaVp5ZEdrZ1lYQndiR2xqWVhScGIyNGdabVZsSUdObGJuUnlZV3dnWjI5MlpYSnViV1Z1ZEJBQWZXWXlaRDgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGlzIHRoZSBSVEkgYXBwbGljYXRpb24gZmVlPyIsImxrIjoiR2lOb2IzY2diWFZqYUNCcGN5QjBhR1VnY25ScElHRndjR3hwWTJGMGFXOXVJR1psWlEiLCJicyI6ImMyM1BQUXZDTUJDQVlWd3p1UnBSRF93Y3RUam9WTVRGRGk2dDRCenExUVRhSkRRcDFYOXZFeXFWNHBwNzdqMUNybVJ4VVRVVVZjcEJHTEFjSWI1RndMVE9SY3FzVUJJeXhEQlkwam52dWRLS3ZpTkhRczlNUW8yZzJkdVhtbGRRTWhleWlZenBLTzJtYnItYmtvU3M3MXk1T0w2dzBCWWZrSldxLUVZTXFBemlCSGJiTU5qUVZmMlB0a1ZQUzlOUWNpSlQ5ejEzTllJbldsOFRFdllINEtvcVRSak02SVMzUW5qaElqOWlPUGdBIiwiaWQiOiJmY18yOTI5YXM3LUdmM0ZwODRQeVBHWUtRXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWNsVnNibTlNUmxRd2VYZHZVRUl3V1dnMFUyVk1lRVUyZWs5RU16Vm9ValE0U0haNVZpMXBZVXB1TW10SlExSjVZekp5YUVOMVFrSk9WM0pzVERoRk0wVTJURzFNVFhCV2ExTmpOMDlFYkdjME1rWmhkSG93ZG5CbFVSSVdNamt5T1dGek55MUhaak5HY0RnMFVIbFFSMWxMVVJvaVFVUnpjamxtVXpSelduWmlUVkJqV1VKWE5XOXhaRjl0UkhCTVUxOVRYMDR3UVEiLCJmY3YiOiIzIiwiZWkiOiIyOTI5YXM3LUdmM0ZwODRQeVBHWUtRIiwicWMiOiJDaVp5ZEdrZ1lYQndiR2xqWVhScGIyNGdabVZsSUdObGJuUnlZV3dnWjI5MlpYSnViV1Z1ZEJBQWZXWXlaRDgiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGlzIHRoZSBSVEkgYXBwbGljYXRpb24gZmVlPyIsImxrIjoiR2lOb2IzY2diWFZqYUNCcGN5QjBhR1VnY25ScElHRndjR3hwWTJGMGFXOXVJR1psWlEiLCJicyI6ImMyM1BQUXZDTUJDQVlWd3p1UnBSRF93Y3RUam9WTVRGRGk2dDRCenExUVRhSkRRcDFYOXZFeXFWNHBwNzdqMUNybVJ4VVRVVVZjcEJHTEFjSWI1RndMVE9SY3FzVUJJeXhEQlkwam52dWRLS3ZpTkhRczlNUW8yZzJkdVhtbGRRTWhleWlZenBLTzJtYnItYmtvU3M3MXk1T0w2dzBCWWZrSldxLUVZTXFBemlCSGJiTU5qUVZmMlB0a1ZQUzlOUWNpSlQ5ejEzTllJbldsOFRFdllINEtvcVRSak02SVMzUW5qaElqOWlPUGdBIiwiaWQiOiJmY18yOTI5YXM3LUdmM0ZwODRQeVBHWUtRXzUifQ%3D%3D"
+      },
+      {
+        "question": "Can we pay RTI fee online?",
+        "type": "ai_overview",
+        "page_token": "Jr5aFXicHdBdboIwAADg7DI-ygriMhOziICKowb6B31ZoCBQKpCBMHnbXXaqnWbJviN83z-qaurfJ1YOQ9dvNG2apmXRtoXKl6K9aUn_aIQmEqXSRNSb9csavF3F1ul7a99OVkC6jtrhM8JwzCIPCBJiTuEYyFinjWvA-ssJpP_IJb_n2GIXO5Op7ZlQBz2MqEcNj79H_IIBr5BezGhWcYw5xo0K8tsrE9TrQts30RxWsaHO9ODt45oe2bE0sKPu3O0ead2d0wqQCFgjrLOL79ZzwCglRimJPiSUZEMc0YawzGKNtUKHYIByh1x5Mn2pSjGLIdTjOWx2K-haJnEyjoCTnGrXEcbJ5ModuU3mVOc-ksEqiMozV7xL3RITBlqsOMgdZ3EV49ZY_IdtP663YdN9tsUfbKJ46A",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Jr5aFXicHdBdboIwAADg7DI-ygriMhOziICKowb6B31ZoCBQKpCBMHnbXXaqnWbJviN83z-qaurfJ1YOQ9dvNG2apmXRtoXKl6K9aUn_aIQmEqXSRNSb9csavF3F1ul7a99OVkC6jtrhM8JwzCIPCBJiTuEYyFinjWvA-ssJpP_IJb_n2GIXO5Op7ZlQBz2MqEcNj79H_IIBr5BezGhWcYw5xo0K8tsrE9TrQts30RxWsaHO9ODt45oe2bE0sKPu3O0ead2d0wqQCFgjrLOL79ZzwCglRimJPiSUZEMc0YawzGKNtUKHYIByh1x5Mn2pSjGLIdTjOWx2K-haJnEyjoCTnGrXEcbJ5ModuU3mVOc-ksEqiMozV7xL3RITBlqsOMgdZ3EV49ZY_IdtP663YdN9tsUfbKJ46A",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWNsVnNibTlNUmxRd2VYZHZVRUl3V1dnMFUyVk1lRVUyZWs5RU16Vm9ValE0U0haNVZpMXBZVXB1TW10SlExSjVZekp5YUVOMVFrSk9WM0pzVERoRk0wVTJURzFNVFhCV2ExTmpOMDlFYkdjME1rWmhkSG93ZG5CbFVSSVdNamt5T1dGek55MUhaak5HY0RnMFVIbFFSMWxMVVJvaVFVUnpjamxtVXpSelduWmlUVkJqV1VKWE5XOXhaRjl0UkhCTVUxOVRYMDR3UVEiLCJmY3YiOiIzIiwiZWkiOiIyOTI5YXM3LUdmM0ZwODRQeVBHWUtRIiwicWMiOiJDaVp5ZEdrZ1lYQndiR2xqWVhScGIyNGdabVZsSUdObGJuUnlZV3dnWjI5MlpYSnViV1Z1ZEJBQWZXWXlaRDgiLCJxdWVzdGlvbiI6IkNhbiB3ZSBwYXkgUlRJIGZlZSBvbmxpbmU/IiwibGsiOiJHaGxqWVc0Z2QyVWdjR0Y1SUhKMGFTQm1aV1VnYjI1c2FXNWwiLCJicyI6ImMyM1BQUXZDTUJDQVlWd3p1UnBSRF93Y3RUam9WTVRGRGk2dDRCenExUVRhSkRRcDFYOXZFeXFWNHBwNzdqMUNybVJ4VVRVVVZjcEJHTEFjSWI1RndMVE9SY3FzVUJJeXhEQlkwam52dWRLS3ZpTkhRczlNUW8yZzJkdVhtbGRRTWhleWlZenBLTzJtYnItYmtvU3M3MXk1T0w2dzBCWWZrSldxLUVZTXFBemlCSGJiTU5qUVZmMlB0a1ZQUzlOUWNpSlQ5ejEzTllJbldsOFRFdllINEtvcVRSak02SVMzUW5qaElqOWlPUGdBIiwiaWQiOiJmY18yOTI5YXM3LUdmM0ZwODRQeVBHWUtRXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWNsVnNibTlNUmxRd2VYZHZVRUl3V1dnMFUyVk1lRVUyZWs5RU16Vm9ValE0U0haNVZpMXBZVXB1TW10SlExSjVZekp5YUVOMVFrSk9WM0pzVERoRk0wVTJURzFNVFhCV2ExTmpOMDlFYkdjME1rWmhkSG93ZG5CbFVSSVdNamt5T1dGek55MUhaak5HY0RnMFVIbFFSMWxMVVJvaVFVUnpjamxtVXpSelduWmlUVkJqV1VKWE5XOXhaRjl0UkhCTVUxOVRYMDR3UVEiLCJmY3YiOiIzIiwiZWkiOiIyOTI5YXM3LUdmM0ZwODRQeVBHWUtRIiwicWMiOiJDaVp5ZEdrZ1lYQndiR2xqWVhScGIyNGdabVZsSUdObGJuUnlZV3dnWjI5MlpYSnViV1Z1ZEJBQWZXWXlaRDgiLCJxdWVzdGlvbiI6IkNhbiB3ZSBwYXkgUlRJIGZlZSBvbmxpbmU%2FIiwibGsiOiJHaGxqWVc0Z2QyVWdjR0Y1SUhKMGFTQm1aV1VnYjI1c2FXNWwiLCJicyI6ImMyM1BQUXZDTUJDQVlWd3p1UnBSRF93Y3RUam9WTVRGRGk2dDRCenExUVRhSkRRcDFYOXZFeXFWNHBwNzdqMUNybVJ4VVRVVVZjcEJHTEFjSWI1RndMVE9SY3FzVUJJeXhEQlkwam52dWRLS3ZpTkhRczlNUW8yZzJkdVhtbGRRTWhleWlZenBLTzJtYnItYmtvU3M3MXk1T0w2dzBCWWZrSldxLUVZTXFBemlCSGJiTU5qUVZmMlB0a1ZQUzlOUWNpSlQ5ejEzTllJbldsOFRFdllINEtvcVRSak02SVMzUW5qaElqOWlPUGdBIiwiaWQiOiJmY18yOTI5YXM3LUdmM0ZwODRQeVBHWUtRXzUifQ%3D%3D"
+      },
+      {
+        "question": "Who is exempted from RTI fees of RS 10?",
+        "type": "ai_overview",
+        "page_token": "5F5RjXicHdDLUoMwGEDh8WW6tCBSbWc6jlwLliB_kxDYOJC0pRIuSiqWne_iU_k0Ou7Ptzlf3_LU1j9XqlKqH1bz-TiO18euO8r9Ne-aeTFcWj7nhZRlwevV4m6hPxz42j27lv0WWAnpe-qAtmMeoE0PmU5NysItmpCGdbBzXEWFtKpokgFx5VPqe11WC5kSEaObYUQOikoW5gJzg_v3qiS1og75FDqY_K_LHTplKXoTTd5AI23BEIM2dFAq-4QIjTrecyktq3Aeb7D0znEKAzRLFnuVnshM271KF8jyvMUh_PnNNlV2MaGETNSmLNCpV1XcNds9zm7RJHxc5z3TTHCr7BLjwMxYZGyJaCItH2MHkj21NilR4J9CCzboEqc5lNga0JRHSIMG1SoQZCmLtrJjX-nRSR-xQY3ZgX-sjdn_zfXLoVGr_r07_gIFL4Hz",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5F5RjXicHdDLUoMwGEDh8WW6tCBSbWc6jlwLliB_kxDYOJC0pRIuSiqWne_iU_k0Ou7Ptzlf3_LU1j9XqlKqH1bz-TiO18euO8r9Ne-aeTFcWj7nhZRlwevV4m6hPxz42j27lv0WWAnpe-qAtmMeoE0PmU5NysItmpCGdbBzXEWFtKpokgFx5VPqe11WC5kSEaObYUQOikoW5gJzg_v3qiS1og75FDqY_K_LHTplKXoTTd5AI23BEIM2dFAq-4QIjTrecyktq3Aeb7D0znEKAzRLFnuVnshM271KF8jyvMUh_PnNNlV2MaGETNSmLNCpV1XcNds9zm7RJHxc5z3TTHCr7BLjwMxYZGyJaCItH2MHkj21NilR4J9CCzboEqc5lNga0JRHSIMG1SoQZCmLtrJjX-nRSR-xQY3ZgX-sjdn_zfXLoVGr_r07_gIFL4Hz",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWNsVnNibTlNUmxRd2VYZHZVRUl3V1dnMFUyVk1lRVUyZWs5RU16Vm9ValE0U0haNVZpMXBZVXB1TW10SlExSjVZekp5YUVOMVFrSk9WM0pzVERoRk0wVTJURzFNVFhCV2ExTmpOMDlFYkdjME1rWmhkSG93ZG5CbFVSSVdNamt5T1dGek55MUhaak5HY0RnMFVIbFFSMWxMVVJvaVFVUnpjamxtVXpSelduWmlUVkJqV1VKWE5XOXhaRjl0UkhCTVUxOVRYMDR3UVEiLCJmY3YiOiIzIiwiZWkiOiIyOTI5YXM3LUdmM0ZwODRQeVBHWUtRIiwicWMiOiJDaVp5ZEdrZ1lYQndiR2xqWVhScGIyNGdabVZsSUdObGJuUnlZV3dnWjI5MlpYSnViV1Z1ZEJBQWZXWXlaRDgiLCJxdWVzdGlvbiI6IldobyBpcyBleGVtcHRlZCBmcm9tIFJUSSBmZWVzIG9mIFJTIDEwPyIsImxrIjoiR2laM2FHOGdhWE1nWlhobGJYQjBaV1FnWm5KdmJTQnlkR2tnWm1WbGN5QnZaaUJ5Y3lBeE1BIiwiYnMiOiJjMjNQUFF2Q01CQ0FZVnd6dVJwUkRfd2N0VGpvVk1URkRpNnQ0QnpxMVFUYUpEUXAxWDl2RXlxVjRwcDc3ajFDcm1SeFVUVVVWY3BCR0xBY0liNUZ3TFRPUmNxc1VCSXl4REJZMGpudnVkS0t2aU5IUXM5TVFvMmcyZHVYbWxkUU1oZXlpWXpwS08ybWJyLWJrb1NzNzF5NU9MNncwQllma0pXcS1FWU1xQXppQkhiYk1OalFWZjJQdGtWUFM5TlFjaUpUOXoxM05ZSW5XbDhURXZZSDRLb3FUUmpNNklTM1FuamhJajlpT1BnQSIsImlkIjoiZmNfMjkyOWFzNy1HZjNGcDg0UHlQR1lLUV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWNsVnNibTlNUmxRd2VYZHZVRUl3V1dnMFUyVk1lRVUyZWs5RU16Vm9ValE0U0haNVZpMXBZVXB1TW10SlExSjVZekp5YUVOMVFrSk9WM0pzVERoRk0wVTJURzFNVFhCV2ExTmpOMDlFYkdjME1rWmhkSG93ZG5CbFVSSVdNamt5T1dGek55MUhaak5HY0RnMFVIbFFSMWxMVVJvaVFVUnpjamxtVXpSelduWmlUVkJqV1VKWE5XOXhaRjl0UkhCTVUxOVRYMDR3UVEiLCJmY3YiOiIzIiwiZWkiOiIyOTI5YXM3LUdmM0ZwODRQeVBHWUtRIiwicWMiOiJDaVp5ZEdrZ1lYQndiR2xqWVhScGIyNGdabVZsSUdObGJuUnlZV3dnWjI5MlpYSnViV1Z1ZEJBQWZXWXlaRDgiLCJxdWVzdGlvbiI6IldobyBpcyBleGVtcHRlZCBmcm9tIFJUSSBmZWVzIG9mIFJTIDEwPyIsImxrIjoiR2laM2FHOGdhWE1nWlhobGJYQjBaV1FnWm5KdmJTQnlkR2tnWm1WbGN5QnZaaUJ5Y3lBeE1BIiwiYnMiOiJjMjNQUFF2Q01CQ0FZVnd6dVJwUkRfd2N0VGpvVk1URkRpNnQ0QnpxMVFUYUpEUXAxWDl2RXlxVjRwcDc3ajFDcm1SeFVUVVVWY3BCR0xBY0liNUZ3TFRPUmNxc1VCSXl4REJZMGpudnVkS0t2aU5IUXM5TVFvMmcyZHVYbWxkUU1oZXlpWXpwS08ybWJyLWJrb1NzNzF5NU9MNncwQllma0pXcS1FWU1xQXppQkhiYk1OalFWZjJQdGtWUFM5TlFjaUpUOXoxM05ZSW5XbDhURXZZSDRLb3FUUmpNNklTM1FuamhJajlpT1BnQSIsImlkIjoiZmNfMjkyOWFzNy1HZjNGcDg0UHlQR1lLUV81In0%3D"
+      },
+      {
+        "question": "How can I get RTI in 48 hours?",
+        "type": "ai_overview",
+        "page_token": "U-_fanicHdBdToMwAADgeBkfHQyr2ZLFhEHZCC1p7c_Ki8HCxqBl6OqQvXkXT-VpNB7ge_m-vs2x735uXOPccF7OZuM43h1Op4Op7_TJzsrz1OuZLo15LXW3fHh88J_2ehV_xOH6bRsSPgwiot5z50dKVqVqi4zJyrI2fauTEbAYXHIJQAELmItmki0JkPSA3hC_TtB9acEFzwdUt5DiXaWQdWvNIEDzzy2HC5IzNNI4BSIi95UgQF2bKWMQkdbYGlaDCpp3JiirurTLuOM0Ks6spwqbYSySsydFNeoEHGnMgdoNCvcC1x32heUBhxBm0pSsby7M286JWVyfE8heN6KPGzXlbPtnUJDxyiKvGPOIklqEG8kdTY5pSDd4ymXBiL9YK6smabjTQZrrK27LxFm0a3zWhk4w3N_u9WUV3P5vrl721i2H99PhF35IgfE",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=U-_fanicHdBdToMwAADgeBkfHQyr2ZLFhEHZCC1p7c_Ki8HCxqBl6OqQvXkXT-VpNB7ge_m-vs2x735uXOPccF7OZuM43h1Op4Op7_TJzsrz1OuZLo15LXW3fHh88J_2ehV_xOH6bRsSPgwiot5z50dKVqVqi4zJyrI2fauTEbAYXHIJQAELmItmki0JkPSA3hC_TtB9acEFzwdUt5DiXaWQdWvNIEDzzy2HC5IzNNI4BSIi95UgQF2bKWMQkdbYGlaDCpp3JiirurTLuOM0Ks6spwqbYSySsydFNeoEHGnMgdoNCvcC1x32heUBhxBm0pSsby7M286JWVyfE8heN6KPGzXlbPtnUJDxyiKvGPOIklqEG8kdTY5pSDd4ymXBiL9YK6smabjTQZrrK27LxFm0a3zWhk4w3N_u9WUV3P5vrl721i2H99PhF35IgfE",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWNsVnNibTlNUmxRd2VYZHZVRUl3V1dnMFUyVk1lRVUyZWs5RU16Vm9ValE0U0haNVZpMXBZVXB1TW10SlExSjVZekp5YUVOMVFrSk9WM0pzVERoRk0wVTJURzFNVFhCV2ExTmpOMDlFYkdjME1rWmhkSG93ZG5CbFVSSVdNamt5T1dGek55MUhaak5HY0RnMFVIbFFSMWxMVVJvaVFVUnpjamxtVXpSelduWmlUVkJqV1VKWE5XOXhaRjl0UkhCTVUxOVRYMDR3UVEiLCJmY3YiOiIzIiwiZWkiOiIyOTI5YXM3LUdmM0ZwODRQeVBHWUtRIiwicWMiOiJDaVp5ZEdrZ1lYQndiR2xqWVhScGIyNGdabVZsSUdObGJuUnlZV3dnWjI5MlpYSnViV1Z1ZEJBQWZXWXlaRDgiLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBnZXQgUlRJIGluIDQ4IGhvdXJzPyIsImxrIjoiR2gxb2IzY2dZMkZ1SUdrZ1oyVjBJSEowYVNCcGJpQTBPQ0JvYjNWeWN3IiwiYnMiOiJjMjNQUFF2Q01CQ0FZVnd6dVJwUkRfd2N0VGpvVk1URkRpNnQ0QnpxMVFUYUpEUXAxWDl2RXlxVjRwcDc3ajFDcm1SeFVUVVVWY3BCR0xBY0liNUZ3TFRPUmNxc1VCSXl4REJZMGpudnVkS0t2aU5IUXM5TVFvMmcyZHVYbWxkUU1oZXlpWXpwS08ybWJyLWJrb1NzNzF5NU9MNncwQllma0pXcS1FWU1xQXppQkhiYk1OalFWZjJQdGtWUFM5TlFjaUpUOXoxM05ZSW5XbDhURXZZSDRLb3FUUmpNNklTM1FuamhJajlpT1BnQSIsImlkIjoiZmNfMjkyOWFzNy1HZjNGcDg0UHlQR1lLUV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTWNsVnNibTlNUmxRd2VYZHZVRUl3V1dnMFUyVk1lRVUyZWs5RU16Vm9ValE0U0haNVZpMXBZVXB1TW10SlExSjVZekp5YUVOMVFrSk9WM0pzVERoRk0wVTJURzFNVFhCV2ExTmpOMDlFYkdjME1rWmhkSG93ZG5CbFVSSVdNamt5T1dGek55MUhaak5HY0RnMFVIbFFSMWxMVVJvaVFVUnpjamxtVXpSelduWmlUVkJqV1VKWE5XOXhaRjl0UkhCTVUxOVRYMDR3UVEiLCJmY3YiOiIzIiwiZWkiOiIyOTI5YXM3LUdmM0ZwODRQeVBHWUtRIiwicWMiOiJDaVp5ZEdrZ1lYQndiR2xqWVhScGIyNGdabVZsSUdObGJuUnlZV3dnWjI5MlpYSnViV1Z1ZEJBQWZXWXlaRDgiLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBnZXQgUlRJIGluIDQ4IGhvdXJzPyIsImxrIjoiR2gxb2IzY2dZMkZ1SUdrZ1oyVjBJSEowYVNCcGJpQTBPQ0JvYjNWeWN3IiwiYnMiOiJjMjNQUFF2Q01CQ0FZVnd6dVJwUkRfd2N0VGpvVk1URkRpNnQ0QnpxMVFUYUpEUXAxWDl2RXlxVjRwcDc3ajFDcm1SeFVUVVVWY3BCR0xBY0liNUZ3TFRPUmNxc1VCSXl4REJZMGpudnVkS0t2aU5IUXM5TVFvMmcyZHVYbWxkUU1oZXlpWXpwS08ybWJyLWJrb1NzNzF5NU9MNncwQllma0pXcS1FWU1xQXppQkhiYk1OalFWZjJQdGtWUFM5TlFjaUpUOXoxM05ZSW5XbDhURXZZSDRLb3FUUmpNNklTM1FuamhJajlpT1BnQSIsImlkIjoiZmNfMjkyOWFzNy1HZjNGcDg0UHlQR1lLUV81In0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "HD-XL3iczVXdcqJKEH6A8xzLTaLIj1FTRW3NjIijJopItvSGQsCRiOA6RqJ3-y77VOdpzgDBoCtJ7V5sndaimZmenp7u_vh-_Az8cPXvPz-Xu92G3vN8HMdVEkUk8KpOtOZteggdfhEFdOssv5JA8UNuGSheyB32isQ5VKlxnq-ILbFl00ZFW0idTVMeHUbatK9z6W7FmtvUe2bOX58pb_HssfoitdmgSqteaGmwOt4LQ-vYRTZxqmJNlKpD3l4zG_AXRVcBBpDpTJUJAkD93FliogOU-MqFoPelTNqZv-RMkk70S4_EyS7IfhikpiP5tb6kzIWeGxnlEevFQZwqCLMTjSQo8vl93iVLDdRPoZUKvj6d7USFQ6e_rF7z9nA-jgBsy0DXYR7CRVWM4q1gJ7llYsGSUWm_Ahj7Jcl-28D-E9BdRR9fMQ0E4WaeDtChrKiYdwlr3ho_3zIl8L6zdNKXLU16Gk1atajrjefQW8qzLnXETa_d2QzVlbx6fZkNYt6ZM7sgsl3PtZZW7Ws6FkShXmtJjeZtiieHngBFi4Cq09mjRdfozlSrgyoUciihU0EuLqSyMbpWK5ZZdG3DyUue8cJmHxW7yXzTrL1jDPBZRxAVjxKt5RNDVlAAnSL08gMSl9egdGaUQYmkjYWzBsPv208mZiEMUlxqX4HBL98BhEAKIAz0dpYXkgegX6QJAQOztXwWnrtnDeMv1URDgwVNUzPnrP9r6viyLMmngpVFVU9OQPENF6CEWH-jtOMfEy8rRFYQs2AhyPJCAMwzF5GLc9SSTxxid4RPpRD9UEjZ9-BMcI6ZCwgUoaNW6LERNepeRZtXnreDp6a-HwmTY2ckketQidbz3yMf5_-Fp5yazDdqKseT-jme2IN8RE3p40RNxMjw1C_Hk4rfqYkUqCnOjd6p6RJPyCjgCR1S57BznZp-F0_oAzzl-iqekptew5NehqeUms7w1LukpjM8nagpx9OfURP-M2pK4eVl6pynXp5JKV9p6JWQYLyY2XVj9GKa485-s7sbtDbySv-Urxbr3f3adoNby3fvodjbHdxbi01E957LfVfGE3xjbzaB79g7PwpvFp5343jhbmsHNyTae9twzUbcOthGSs1uRHZ7gyePpGNujUXUe3rqCi1BkiV5epRmq3XkDnZx1xe1ifXyYA-l6TezcuceAFx4rqypiAz6EjwaXdn_rrZEHGs7047rZguH4gvutXzX83zUGY_VWa95OBhSv2X2aYRHmiVrndB6jO2hPBoiB6PBcWohkMZFFfNhHA1dHz-YbMZ2qacI3HrrKKxGcgh6OvhGWD-iKeMJAkw7YjoGunbHwA056tiWR_dKs1ZbCI15oymIbtOWbG5NdoeNIgscDbeK8B_LsUmE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HD-XL3iczVXdcqJKEH6A8xzLTaLIj1FTRW3NjIijJopItvSGQsCRiOA6RqJ3-y77VOdpzgDBoCtJ7V5sndaimZmenp7u_vh-_Az8cPXvPz-Xu92G3vN8HMdVEkUk8KpOtOZteggdfhEFdOssv5JA8UNuGSheyB32isQ5VKlxnq-ILbFl00ZFW0idTVMeHUbatK9z6W7FmtvUe2bOX58pb_HssfoitdmgSqteaGmwOt4LQ-vYRTZxqmJNlKpD3l4zG_AXRVcBBpDpTJUJAkD93FliogOU-MqFoPelTNqZv-RMkk70S4_EyS7IfhikpiP5tb6kzIWeGxnlEevFQZwqCLMTjSQo8vl93iVLDdRPoZUKvj6d7USFQ6e_rF7z9nA-jgBsy0DXYR7CRVWM4q1gJ7llYsGSUWm_Ahj7Jcl-28D-E9BdRR9fMQ0E4WaeDtChrKiYdwlr3ho_3zIl8L6zdNKXLU16Gk1atajrjefQW8qzLnXETa_d2QzVlbx6fZkNYt6ZM7sgsl3PtZZW7Ws6FkShXmtJjeZtiieHngBFi4Cq09mjRdfozlSrgyoUciihU0EuLqSyMbpWK5ZZdG3DyUue8cJmHxW7yXzTrL1jDPBZRxAVjxKt5RNDVlAAnSL08gMSl9egdGaUQYmkjYWzBsPv208mZiEMUlxqX4HBL98BhEAKIAz0dpYXkgegX6QJAQOztXwWnrtnDeMv1URDgwVNUzPnrP9r6viyLMmngpVFVU9OQPENF6CEWH-jtOMfEy8rRFYQs2AhyPJCAMwzF5GLc9SSTxxid4RPpRD9UEjZ9-BMcI6ZCwgUoaNW6LERNepeRZtXnreDp6a-HwmTY2ckketQidbz3yMf5_-Fp5yazDdqKseT-jme2IN8RE3p40RNxMjw1C_Hk4rfqYkUqCnOjd6p6RJPyCjgCR1S57BznZp-F0_oAzzl-iqekptew5NehqeUms7w1LukpjM8nagpx9OfURP-M2pK4eVl6pynXp5JKV9p6JWQYLyY2XVj9GKa485-s7sbtDbySv-Urxbr3f3adoNby3fvodjbHdxbi01E957LfVfGE3xjbzaB79g7PwpvFp5343jhbmsHNyTae9twzUbcOthGSs1uRHZ7gyePpGNujUXUe3rqCi1BkiV5epRmq3XkDnZx1xe1ifXyYA-l6TezcuceAFx4rqypiAz6EjwaXdn_rrZEHGs7047rZguH4gvutXzX83zUGY_VWa95OBhSv2X2aYRHmiVrndB6jO2hPBoiB6PBcWohkMZFFfNhHA1dHz-YbMZ2qacI3HrrKKxGcgh6OvhGWD-iKeMJAkw7YjoGunbHwA056tiWR_dKs1ZbCI15oymIbtOWbG5NdoeNIgscDbeK8B_LsUmE"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "RTI | PM SHRI KV Anantapur | India",
+        "link": "https://anantapur.kvs.ac.in/en/rti/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVQHjfPt2TVOzZ-BwVAqGJRzQ8SLYSwhBTQKxXBuL8DhOxa3EjJOAo5GPUgY6yJ-16lrAbc0vIZmu74xWMFDWWTDEythoRXRsl1FIov-Qz_fIn_VPMOuBrCTE&ved=2ahUKEwiO2JWU-peXAxX94skDHcg4JgUQFnoECBgQAQ&uoh=1",
+        "displayed_link": "https://anantapur.kvs.ac.in › rti",
+        "favicon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAAAwBQCdASogABkAPtEutFooIagoGAEAGgliAKkF_-A9EQhRfFvkb6XpjBzpC-4THYsMyAD-9gmCaoT8-2eOUKar2FU2PFll4oRW9W4z5o9LYgkGAB3VzeoCZOCvDmA63Piyb2Qx7c0_djVrt1jvU6L9h6cgbo0TKMrJhdaAEqcl4hQOozCH5vpoAMLOgmpvZAN4TS4hW5mITzklZ71IivTSiaHV0udwnMBrwh3ZHbCjJZNruUP6tyGMsqiAf7JWownOcO5Fey2cKvsKoehd_m2-7reZSN_Bus0dQHuAAAA.webp",
+        "date": "9 Jul 2024",
+        "snippet": "The applicant can pay the prescribed RTI fee through the following modes: i. i. Internet banking through SBI and its associated banks. ii. ...",
+        "snippet_highlighted_words": [
+          "RTI fee"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The applicant can pay the prescribed RTI fee through the following modes: i. i. Internet banking through SBI and its associated banks. ii. ...",
+            "source_info_link": "https://anantapur.kvs.ac.in/en/rti/",
+            "icon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAAAwBQCdASogABkAPtEutFooIagoGAEAGgliAKkF_-A9EQhRfFvkb6XpjBzpC-4THYsMyAD-9gmCaoT8-2eOUKar2FU2PFll4oRW9W4z5o9LYgkGAB3VzeoCZOCvDmA63Piyb2Qx7c0_djVrt1jvU6L9h6cgbo0TKMrJhdaAEqcl4hQOozCH5vpoAMLOgmpvZAN4TS4hW5mITzklZ71IivTSiaHV0udwnMBrwh3ZHbCjJZNruUP6tyGMsqiAf7JWownOcO5Fey2cKvsKoehd_m2-7reZSN_Bus0dQHuAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVlFIamZQdDJUVk96Wi1Cd1ZBcUdKUnpROFNMWVN3aEJUUUt4WEJ1TDhEaE94YTNFakpPQW81R1BVZ1k2eUotMTZsckFiYzB2SVptdTc0eFdNRkRXV1RERXl0aG9SWFJzbDFGSW92LVF6X2ZJbl9WUE1PdUJyQ1RFEgQaAggAGuIEEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQL4ECAAQABgAIAAqFAoDcnRpFeoiYkAaCGl2O3A7cnRpKjsKC2FwcGxpY2F0aW9uFVBcuD8aA2FwcBoMYXBwbGljYXRpb25zGgRhcHBzGg5hcHBsaWNhdGlvbmZlZSogCgNmZWUVRWFfPxoEZmVlcxoOYXBwbGljYXRpb25mZWUqKQoHY2VudHJhbBUztQE_GgZjZW50ZXIaEWNlbnRyYWxnb3Zlcm5tZW50KjwKCmdvdmVybm1lbnQVd2P-PhoDZ292Ggtnb3Zlcm5tZW50cxoEZ292dBoRY2VudHJhbGdvdmVybm1lbnQyjQEvZ290bz91cmw9Q0FFU1hnSHJPekFWUUhqZlB0MlRWT3paLUJ3VkFxR0pSelE4U0xZU3doQlRRS3hYQnVMOERoT3hhM0VqSk9BbzVHUFVnWTZ5Si0xNmxyQWJjMHZJWm11NzR4V01GRFdXVERFeXRob1JYUnNsMUZJb3YtUXpfZkluX1ZQTU91QnJDVEU6KTxiPlJUSTwvYj4gfCBQTSBTSFJJIEtWIEFuYW50YXB1ciB8IEluZGlhQpoBVGhlIGFwcGxpY2FudCBjYW4gcGF5IHRoZSBwcmVzY3JpYmVkIDxiPlJUSSBmZWU8L2I-IHRocm91Z2ggdGhlIGZvbGxvd2luZyBtb2RlczogaS4gaS4gSW50ZXJuZXQgYmFua2luZyB0aHJvdWdoIFNCSSBhbmQgaXRzIGFzc29jaWF0ZWQgYmFua3MuIGlpLiZuYnNwOy4uLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVlFIamZQdDJUVk96Wi1Cd1ZBcUdKUnpROFNMWVN3aEJUUUt4WEJ1TDhEaE94YTNFakpPQW81R1BVZ1k2eUotMTZsckFiYzB2SVptdTc0eFdNRkRXV1RERXl0aG9SWFJzbDFGSW92LVF6X2ZJbl9WUE1PdUJyQ1RFEgQaAggAGuIEEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQL4ECAAQABgAIAAqFAoDcnRpFeoiYkAaCGl2O3A7cnRpKjsKC2FwcGxpY2F0aW9uFVBcuD8aA2FwcBoMYXBwbGljYXRpb25zGgRhcHBzGg5hcHBsaWNhdGlvbmZlZSogCgNmZWUVRWFfPxoEZmVlcxoOYXBwbGljYXRpb25mZWUqKQoHY2VudHJhbBUztQE_GgZjZW50ZXIaEWNlbnRyYWxnb3Zlcm5tZW50KjwKCmdvdmVybm1lbnQVd2P-PhoDZ292Ggtnb3Zlcm5tZW50cxoEZ292dBoRY2VudHJhbGdvdmVybm1lbnQyjQEvZ290bz91cmw9Q0FFU1hnSHJPekFWUUhqZlB0MlRWT3paLUJ3VkFxR0pSelE4U0xZU3doQlRRS3hYQnVMOERoT3hhM0VqSk9BbzVHUFVnWTZ5Si0xNmxyQWJjMHZJWm11NzR4V01GRFdXVERFeXRob1JYUnNsMUZJb3YtUXpfZkluX1ZQTU91QnJDVEU6KTxiPlJUSTwvYj4gfCBQTSBTSFJJIEtWIEFuYW50YXB1ciB8IEluZGlhQpoBVGhlIGFwcGxpY2FudCBjYW4gcGF5IHRoZSBwcmVzY3JpYmVkIDxiPlJUSSBmZWU8L2I-IHRocm91Z2ggdGhlIGZvbGxvd2luZyBtb2RlczogaS4gaS4gSW50ZXJuZXQgYmFua2luZyB0aHJvdWdoIFNCSSBhbmQgaXRzIGFzc29jaWF0ZWQgYmFua3MuIGlpLiZuYnNwOy4uLiICEAFIAFgAaAA",
+        "source": "PM SHRI Kendriya Vidyalaya Anantapur"
+      },
+      {
+        "position": 2,
+        "title": "How to File an RTI Application in India – Complete Step-by ...",
+        "link": "https://siddharthgupta.in/how-to/file-rti-application-india",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVHG4CYsdEUL9Qu-v3KLyooNKIC7x8s64AUg_LM9NNHj7jyqC1TmPOHN1EBJlWOMHgBwFLGE5HrCWdSLSGYO7A7BMUB2ibgiL7d0MOrkbShSp2eDnaB-Fs31FYvoxfl69GtDqwLT5NV0LafIzu1H3jgpM&ved=2ahUKEwiO2JWU-peXAxX94skDHcg4JgUQFnoECBoQAQ&uoh=1",
+        "displayed_link": "https://siddharthgupta.in › How-To Guides",
+        "favicon": "https://serpapi.com/images/i/UklGRgIBAABXRUJQVlA4IPYAAACQBQCdASogACAAPtE-tFooIigoFAEAGglmAMfl3At5IZD7lRZSPo5LWBP45dTeL4dtWPcvAAD-_Sz1E7caxe8VH-o9S_H-52cnbRAtvY7P8l8_CqQmcIOFoXq1vWmp3_-KROX63hk5DVE0uz15IrCuGBe6jWVqHITznBkLRto51Zvp-O6MSa8ARlJDHWcF__SLYW5b0y-0pzqjrX-16Zejapqdb_XhyaSshd6s5f0Ld0H4bEPMCtM6hXvI1SzTmS5X2qbjiA8h6Jw-1YYjhcif12mYL2BRr9fbuHXLgf6A3VYHpdtRsWs87YRo_nImPQWF_nlM0AA.webp",
+        "snippet": "1 Check the state-specific fee 2 Pay through the state's payment mechanism Step 4: Submit the RTI Application Online Submission (Central Government) 7 Pay the ...",
+        "snippet_highlighted_words": [
+          "fee",
+          "RTI Application",
+          "Central Government"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "1 Check the state-specific fee 2 Pay through the state's payment mechanism Step 4: Submit the RTI Application Online Submission (Central Government) 7 Pay the  ...",
+            "source_info_link": "https://siddharthgupta.in/how-to/file-rti-application-india",
+            "icon": "https://serpapi.com/images/i/UklGRgIBAABXRUJQVlA4IPYAAACQBQCdASogACAAPtE-tFooIigoFAEAGglmAMfl3At5IZD7lRZSPo5LWBP45dTeL4dtWPcvAAD-_Sz1E7caxe8VH-o9S_H-52cnbRAtvY7P8l8_CqQmcIOFoXq1vWmp3_-KROX63hk5DVE0uz15IrCuGBe6jWVqHITznBkLRto51Zvp-O6MSa8ARlJDHWcF__SLYW5b0y-0pzqjrX-16Zejapqdb_XhyaSshd6s5f0Ld0H4bEPMCtM6hXvI1SzTmS5X2qbjiA8h6Jw-1YYjhcif12mYL2BRr9fbuHXLgf6A3VYHpdtRsWs87YRo_nImPQWF_nlM0AA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVkhHNENZc2RFVUw5UXUtdjNLTHlvb05LSUM3eDhzNjRBVWdfTE05Tk5IajdqeXFDMVRtUE9ITjFFQkpsV09NSGdCd0ZMR0U1SHJDV2RTTFNHWU83QTdCTVVCMmliZ2lMN2QwTU9ya2JTaFNwMmVEbmFCLUZzMzFGWXZveGZsNjlHdERxd0xUNU5WMExhZkl6dTFIM2pncE0SBBoCCAAazgUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAqgUIABAAGAAgACoUCgNydGkVxG3QQBoIaXY7cDtydGkqOwoLYXBwbGljYXRpb24VOoCkQBoDYXBwGgxhcHBsaWNhdGlvbnMaBGFwcHMaDmFwcGxpY2F0aW9uZmVlKiAKA2ZlZRVcg60_GgRmZWVzGg5hcHBsaWNhdGlvbmZlZSopCgdjZW50cmFsFXGvnz8aBmNlbnRlchoRY2VudHJhbGdvdmVybm1lbnQqPAoKZ292ZXJubWVudBUHEhpAGgNnb3YaC2dvdmVybm1lbnRzGgRnb3Z0GhFjZW50cmFsZ292ZXJubWVudDKtAS9nb3RvP3VybD1DQUVTZGdIck96QVZIRzRDWXNkRVVMOVF1LXYzS0x5b29OS0lDN3g4czY0QVVnX0xNOU5OSGo3anlxQzFUbVBPSE4xRUJKbFdPTUhnQndGTEdFNUhyQ1dkU0xTR1lPN0E3Qk1VQjJpYmdpTDdkME1PcmtiU2hTcDJlRG5hQi1GczMxRll2b3hmbDY5R3REcXdMVDVOVjBMYWZJenUxSDNqZ3BNOkdIb3cgdG8gRmlsZSBhbiA8Yj5SVEkgQXBwbGljYXRpb248L2I-IGluIEluZGlhIOKAkyBDb21wbGV0ZSBTdGVwLWJ5IC4uLkLIATEgQ2hlY2sgdGhlIHN0YXRlLXNwZWNpZmljIDxiPmZlZTwvYj4gMiBQYXkgdGhyb3VnaCB0aGUgc3RhdGUmIzM5O3MgcGF5bWVudCBtZWNoYW5pc20gU3RlcCA0OiBTdWJtaXQgdGhlIDxiPlJUSSBBcHBsaWNhdGlvbjwvYj4gT25saW5lIFN1Ym1pc3Npb24gKDxiPkNlbnRyYWwgR292ZXJubWVudDwvYj4pIDcgUGF5IHRoZSA8Yj48L2I-Jm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVkhHNENZc2RFVUw5UXUtdjNLTHlvb05LSUM3eDhzNjRBVWdfTE05Tk5IajdqeXFDMVRtUE9ITjFFQkpsV09NSGdCd0ZMR0U1SHJDV2RTTFNHWU83QTdCTVVCMmliZ2lMN2QwTU9ya2JTaFNwMmVEbmFCLUZzMzFGWXZveGZsNjlHdERxd0xUNU5WMExhZkl6dTFIM2pncE0SBBoCCAAazgUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAqgUIABAAGAAgACoUCgNydGkVxG3QQBoIaXY7cDtydGkqOwoLYXBwbGljYXRpb24VOoCkQBoDYXBwGgxhcHBsaWNhdGlvbnMaBGFwcHMaDmFwcGxpY2F0aW9uZmVlKiAKA2ZlZRVcg60_GgRmZWVzGg5hcHBsaWNhdGlvbmZlZSopCgdjZW50cmFsFXGvnz8aBmNlbnRlchoRY2VudHJhbGdvdmVybm1lbnQqPAoKZ292ZXJubWVudBUHEhpAGgNnb3YaC2dvdmVybm1lbnRzGgRnb3Z0GhFjZW50cmFsZ292ZXJubWVudDKtAS9nb3RvP3VybD1DQUVTZGdIck96QVZIRzRDWXNkRVVMOVF1LXYzS0x5b29OS0lDN3g4czY0QVVnX0xNOU5OSGo3anlxQzFUbVBPSE4xRUJKbFdPTUhnQndGTEdFNUhyQ1dkU0xTR1lPN0E3Qk1VQjJpYmdpTDdkME1PcmtiU2hTcDJlRG5hQi1GczMxRll2b3hmbDY5R3REcXdMVDVOVjBMYWZJenUxSDNqZ3BNOkdIb3cgdG8gRmlsZSBhbiA8Yj5SVEkgQXBwbGljYXRpb248L2I-IGluIEluZGlhIOKAkyBDb21wbGV0ZSBTdGVwLWJ5IC4uLkLIATEgQ2hlY2sgdGhlIHN0YXRlLXNwZWNpZmljIDxiPmZlZTwvYj4gMiBQYXkgdGhyb3VnaCB0aGUgc3RhdGUmIzM5O3MgcGF5bWVudCBtZWNoYW5pc20gU3RlcCA0OiBTdWJtaXQgdGhlIDxiPlJUSSBBcHBsaWNhdGlvbjwvYj4gT25saW5lIFN1Ym1pc3Npb24gKDxiPkNlbnRyYWwgR292ZXJubWVudDwvYj4pIDcgUGF5IHRoZSA8Yj48L2I-Jm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "siddharthgupta.in"
+      },
+      {
+        "position": 3,
+        "title": "No change in fee, word limit for RTI queries, says Centre",
+        "link": "https://morungexpress.com/no-change-fee-word-limit-rti-queries-says-centre",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFQYzCJTghN8q9YRpBgMSgVRNZtwDUP4IpzbvSQVJlxat7j90WbxR7evtZRtGxpFhR4WHJPJucGKZ3P_-b89cqUoEJB6JoglpgGoi8EtOgVR65gTzALaHadNVNOxoJ2kotzCOy5O9XYOy-YU05SGuLcQs4enZoFPclXLdcgQBCn1N&ved=2ahUKEwiO2JWU-peXAxX94skDHcg4JgUQFnoECB0QAQ&uoh=1",
+        "displayed_link": "https://morungexpress.com › no-change-fee-word-limit-r...",
+        "favicon": "https://serpapi.com/images/i/UklGRpYBAABXRUJQVlA4IIoBAABwBwCdASogAB0APtEutFooIagoGAEAGglsAJ0zWkAvs34qqFVMVY9sPPBzY5qe-ZrT3cmWUSnthVvv9ZDzg28gbF_bIAD-5PoJAT-yZHgzCPCCTex8P9raExionhPPxI920hf1UXzl5sCvQAvljfg9ITJU9qIIzDnbDTUxkUP_5Zg1PYku1U7iaC0__WV8PE0xpoeZX65eV_M-DiDBn1xxflQnZ8EklP-TkgXt7_XehDPJG9uxNN9uZcDmUof_235fke7N08IQfbpf0TrPMtxtKr-jbgzliGgQQkF4Fwwgvd4l34KuJp3tJFx1Rzw-OGDK-kZKb-0NJuRara2sI1J6S8n9aMo3_ATb77h-sUdJhLt-pF5eWj3aA-UPUNHx7dUSohjUcaOnyrIDzAKBqU7UHHJrRNKaTPKC0X_YkaFMVX-eaZzl4n1NsJTbV7Ko8O4Xb_J6wXVvcVFxH4o-7V8HiUlWh6phdKXF3TV0OrIB3r-VizR_vQESyVwNzzTNRy0suGGSp5R5AAAA.webp",
+        "snippet": "The rules provided that an RTI application will ordinarily be not more than 500 words (subject to exception) with a nominal fee being charged from each ...",
+        "snippet_highlighted_words": [
+          "RTI application",
+          "fee"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The rules provided that an RTI application will ordinarily be not more than 500 words (subject to exception) with a nominal fee being charged from each ...",
+            "source_info_link": "https://morungexpress.com/no-change-fee-word-limit-rti-queries-says-centre",
+            "icon": "https://serpapi.com/images/i/UklGRpYBAABXRUJQVlA4IIoBAABwBwCdASogAB0APtEutFooIagoGAEAGglsAJ0zWkAvs34qqFVMVY9sPPBzY5qe-ZrT3cmWUSnthVvv9ZDzg28gbF_bIAD-5PoJAT-yZHgzCPCCTex8P9raExionhPPxI920hf1UXzl5sCvQAvljfg9ITJU9qIIzDnbDTUxkUP_5Zg1PYku1U7iaC0__WV8PE0xpoeZX65eV_M-DiDBn1xxflQnZ8EklP-TkgXt7_XehDPJG9uxNN9uZcDmUof_235fke7N08IQfbpf0TrPMtxtKr-jbgzliGgQQkF4Fwwgvd4l34KuJp3tJFx1Rzw-OGDK-kZKb-0NJuRara2sI1J6S8n9aMo3_ATb77h-sUdJhLt-pF5eWj3aA-UPUNHx7dUSohjUcaOnyrIDzAKBqU7UHHJrRNKaTPKC0X_YkaFMVX-eaZzl4n1NsJTbV7Ko8O4Xb_J6wXVvcVFxH4o-7V8HiUlWh6phdKXF3TV0OrIB3r-VizR_vQESyVwNzzTNRy0suGGSp5R5AAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZRWXpDSlRnaE44cTlZUnBCZ01TZ1ZSTlp0d0RVUDRJcHpidlNRVkpseGF0N2o5MFdieFI3ZXZ0WlJ0R3hwRmhSNFdISlBKdWNHS1ozUF8tYjg5Y3FVb0VKQjZKb2dscGdHb2k4RXRPZ1ZSNjVnVHpBTGFIYWROVk5PeG9KMmtvdHpDT3k1TzlYWU95LVlVMDVTR3VMY1FzNGVuWm9GUGNsWExkY2dRQkNuMU4SBBoCCAAayQUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJApQUIABAAGAAgACoUCgNydGkV2x2lQBoIaXY7cDtydGkqOwoLYXBwbGljYXRpb24VtjGEPxoDYXBwGgxhcHBsaWNhdGlvbnMaBGFwcHMaDmFwcGxpY2F0aW9uZmVlKiAKA2ZlZRW794dAGgRmZWVzGg5hcHBsaWNhdGlvbmZlZSopCgdjZW50cmFsFauIuj8aBmNlbnRlchoRY2VudHJhbGdvdmVybm1lbnQqPAoKZ292ZXJubWVudBXGzx5AGgNnb3YaC2dvdmVybm1lbnRzGgRnb3Z0GhFjZW50cmFsZ292ZXJubWVudDLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGUVl6Q0pUZ2hOOHE5WVJwQmdNU2dWUk5adHdEVVA0SXB6YnZTUVZKbHhhdDdqOTBXYnhSN2V2dFpSdEd4cEZoUjRXSEpQSnVjR0taM1BfLWI4OWNxVW9FSkI2Sm9nbHBnR29pOEV0T2dWUjY1Z1R6QUxhSGFkTlZOT3hvSjJrb3R6Q095NU85WFlPeS1ZVTA1U0d1TGNRczRlblpvRlBjbFhMZGNnUUJDbjFOOkdObyBjaGFuZ2UgaW4gPGI-ZmVlPC9iPiwgd29yZCBsaW1pdCBmb3IgPGI-UlRJPC9iPiBxdWVyaWVzLCBzYXlzIENlbnRyZUKuAVRoZSBydWxlcyBwcm92aWRlZCB0aGF0IGFuIDxiPlJUSSBhcHBsaWNhdGlvbjwvYj4gd2lsbCBvcmRpbmFyaWx5IGJlIG5vdCBtb3JlIHRoYW4gNTAwIHdvcmRzIChzdWJqZWN0IHRvIGV4Y2VwdGlvbikgd2l0aCBhIG5vbWluYWwgPGI-ZmVlPC9iPiBiZWluZyBjaGFyZ2VkIGZyb20gZWFjaCZuYnNwOy4uLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZRWXpDSlRnaE44cTlZUnBCZ01TZ1ZSTlp0d0RVUDRJcHpidlNRVkpseGF0N2o5MFdieFI3ZXZ0WlJ0R3hwRmhSNFdISlBKdWNHS1ozUF8tYjg5Y3FVb0VKQjZKb2dscGdHb2k4RXRPZ1ZSNjVnVHpBTGFIYWROVk5PeG9KMmtvdHpDT3k1TzlYWU95LVlVMDVTR3VMY1FzNGVuWm9GUGNsWExkY2dRQkNuMU4SBBoCCAAayQUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJApQUIABAAGAAgACoUCgNydGkV2x2lQBoIaXY7cDtydGkqOwoLYXBwbGljYXRpb24VtjGEPxoDYXBwGgxhcHBsaWNhdGlvbnMaBGFwcHMaDmFwcGxpY2F0aW9uZmVlKiAKA2ZlZRW794dAGgRmZWVzGg5hcHBsaWNhdGlvbmZlZSopCgdjZW50cmFsFauIuj8aBmNlbnRlchoRY2VudHJhbGdvdmVybm1lbnQqPAoKZ292ZXJubWVudBXGzx5AGgNnb3YaC2dvdmVybm1lbnRzGgRnb3Z0GhFjZW50cmFsZ292ZXJubWVudDLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGUVl6Q0pUZ2hOOHE5WVJwQmdNU2dWUk5adHdEVVA0SXB6YnZTUVZKbHhhdDdqOTBXYnhSN2V2dFpSdEd4cEZoUjRXSEpQSnVjR0taM1BfLWI4OWNxVW9FSkI2Sm9nbHBnR29pOEV0T2dWUjY1Z1R6QUxhSGFkTlZOT3hvSjJrb3R6Q095NU85WFlPeS1ZVTA1U0d1TGNRczRlblpvRlBjbFhMZGNnUUJDbjFOOkdObyBjaGFuZ2UgaW4gPGI-ZmVlPC9iPiwgd29yZCBsaW1pdCBmb3IgPGI-UlRJPC9iPiBxdWVyaWVzLCBzYXlzIENlbnRyZUKuAVRoZSBydWxlcyBwcm92aWRlZCB0aGF0IGFuIDxiPlJUSSBhcHBsaWNhdGlvbjwvYj4gd2lsbCBvcmRpbmFyaWx5IGJlIG5vdCBtb3JlIHRoYW4gNTAwIHdvcmRzIChzdWJqZWN0IHRvIGV4Y2VwdGlvbikgd2l0aCBhIG5vbWluYWwgPGI-ZmVlPC9iPiBiZWluZyBjaGFyZ2VkIGZyb20gZWFjaCZuYnNwOy4uLiICEAFIAFgAaAA",
+        "source": "MorungExpress",
+        "read_more_link": "https://morungexpress.com/no-change-fee-word-limit-rti-queries-says-centre#:~:text=The%20rules%20provided%20that%20an,being%20charged%20from%20each%20applicant."
+      },
+      {
+        "position": 4,
+        "title": "Filing an RTI Application - A Detailed Guide - VCAN",
+        "link": "https://togethervcan.in/article/filing-an-rti-application-a-detailed-guide/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFYSQQTZxQUFXWLHsZHRLDEf7j0XFaXs0rv3UFFVu7mMBOqEzkP1xd1vPmUHstr2V5zK7LCXnVw0YAOUpjmupVbx-ZIfHMFRBbyN58CPCzCC_PJtO6K4UfmGsv73foKV4KYCVw1LsD9FlT_DuAccpZ0cHZTa1N2fz4fYsxPzEoYhEkA&ved=2ahUKEwiO2JWU-peXAxX94skDHcg4JgUQFnoECB8QAQ&uoh=1",
+        "displayed_link": "https://togethervcan.in › article › filing-an-rti-application...",
+        "date": "6 Apr 2020",
+        "snippet": "The application fee for an RTI application is Rs. 10/-, which is to be submitted along with the application, either as a Demand Draft, Banker's ...",
+        "snippet_highlighted_words": [
+          "Rs. 10"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The application fee for an RTI application is Rs. 10/-, which is to be submitted along with the application, either as a Demand Draft, Banker's ...",
+            "source_info_link": "https://togethervcan.in/article/filing-an-rti-application-a-detailed-guide/"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZZU1FRVFp4UVVGWFdMSHNaSFJMREVmN2owWEZhWHMwcnYzVUZGVnU3bU1CT3FFemtQMXhkMXZQbVVIc3RyMlY1eks3TENYblZ3MFlBT1Vwam11cFZieC1aSWZITUZSQmJ5TjU4Q1BDekNDX1BKdE82SzRVZm1Hc3Y3M2ZvS1Y0S1lDVncxTHNEOUZsVF9EdUFjY3BaMGNIWlRhMU4yZno0ZllzeFB6RW9ZaEVrQRIEGgIIABqzBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCPBQgAEAAYACAAKhQKA3J0aRXpG41AGghpdjtwO3J0aSo7CgthcHBsaWNhdGlvbhWdypJAGgNhcHAaDGFwcGxpY2F0aW9ucxoEYXBwcxoOYXBwbGljYXRpb25mZWUqIAoDZmVlFZ4Mdj8aBGZlZXMaDmFwcGxpY2F0aW9uZmVlKikKB2NlbnRyYWwVXo6pPhoGY2VudGVyGhFjZW50cmFsZ292ZXJubWVudCo8Cgpnb3Zlcm5tZW50FcHnzj8aA2dvdhoLZ292ZXJubWVudHMaBGdvdnQaEWNlbnRyYWxnb3Zlcm5tZW50MsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZZU1FRVFp4UVVGWFdMSHNaSFJMREVmN2owWEZhWHMwcnYzVUZGVnU3bU1CT3FFemtQMXhkMXZQbVVIc3RyMlY1eks3TENYblZ3MFlBT1Vwam11cFZieC1aSWZITUZSQmJ5TjU4Q1BDekNDX1BKdE82SzRVZm1Hc3Y3M2ZvS1Y0S1lDVncxTHNEOUZsVF9EdUFjY3BaMGNIWlRhMU4yZno0ZllzeFB6RW9ZaEVrQTo6RmlsaW5nIGFuIDxiPlJUSSBBcHBsaWNhdGlvbjwvYj4gLSBBIERldGFpbGVkIEd1aWRlIC0gVkNBTkKjAVRoZSBhcHBsaWNhdGlvbiBmZWUgZm9yIGFuIFJUSSBhcHBsaWNhdGlvbiBpcyA8Yj5Scy4gMTA8L2I-Ly0sIHdoaWNoIGlzIHRvIGJlIHN1Ym1pdHRlZCBhbG9uZyB3aXRoIHRoZSBhcHBsaWNhdGlvbiwgZWl0aGVyIGFzIGEgRGVtYW5kIERyYWZ0LCBCYW5rZXImIzM5O3MmbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZZU1FRVFp4UVVGWFdMSHNaSFJMREVmN2owWEZhWHMwcnYzVUZGVnU3bU1CT3FFemtQMXhkMXZQbVVIc3RyMlY1eks3TENYblZ3MFlBT1Vwam11cFZieC1aSWZITUZSQmJ5TjU4Q1BDekNDX1BKdE82SzRVZm1Hc3Y3M2ZvS1Y0S1lDVncxTHNEOUZsVF9EdUFjY3BaMGNIWlRhMU4yZno0ZllzeFB6RW9ZaEVrQRIEGgIIABqzBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCPBQgAEAAYACAAKhQKA3J0aRXpG41AGghpdjtwO3J0aSo7CgthcHBsaWNhdGlvbhWdypJAGgNhcHAaDGFwcGxpY2F0aW9ucxoEYXBwcxoOYXBwbGljYXRpb25mZWUqIAoDZmVlFZ4Mdj8aBGZlZXMaDmFwcGxpY2F0aW9uZmVlKikKB2NlbnRyYWwVXo6pPhoGY2VudGVyGhFjZW50cmFsZ292ZXJubWVudCo8Cgpnb3Zlcm5tZW50FcHnzj8aA2dvdhoLZ292ZXJubWVudHMaBGdvdnQaEWNlbnRyYWxnb3Zlcm5tZW50MsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZZU1FRVFp4UVVGWFdMSHNaSFJMREVmN2owWEZhWHMwcnYzVUZGVnU3bU1CT3FFemtQMXhkMXZQbVVIc3RyMlY1eks3TENYblZ3MFlBT1Vwam11cFZieC1aSWZITUZSQmJ5TjU4Q1BDekNDX1BKdE82SzRVZm1Hc3Y3M2ZvS1Y0S1lDVncxTHNEOUZsVF9EdUFjY3BaMGNIWlRhMU4yZno0ZllzeFB6RW9ZaEVrQTo6RmlsaW5nIGFuIDxiPlJUSSBBcHBsaWNhdGlvbjwvYj4gLSBBIERldGFpbGVkIEd1aWRlIC0gVkNBTkKjAVRoZSBhcHBsaWNhdGlvbiBmZWUgZm9yIGFuIFJUSSBhcHBsaWNhdGlvbiBpcyA8Yj5Scy4gMTA8L2I-Ly0sIHdoaWNoIGlzIHRvIGJlIHN1Ym1pdHRlZCBhbG9uZyB3aXRoIHRoZSBhcHBsaWNhdGlvbiwgZWl0aGVyIGFzIGEgRGVtYW5kIERyYWZ0LCBCYW5rZXImIzM5O3MmbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "togethervcan.in"
+      },
+      {
+        "position": 5,
+        "title": "Pending RTI Applications",
+        "link": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1540979",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVVibtgewsJ_423IXfV9WsFmcaEvt1lUDd6P7wabfTGI6g9lPMjcD8VR1YrUpAbB4awV9br-_f5hNZ04ph9CisaYy8a_kg7llIgmV0f_UMW6v12Q6TQJAwMsv7mv999IOb8_DASU61ue7TUHqR0UfODA&ved=2ahUKEwiO2JWU-peXAxX94skDHcg4JgUQFnoECBkQAQ&uoh=1",
+        "displayed_link": "https://www.pib.gov.in › Pressreleaseshare",
+        "favicon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAAAQCgCdASogACAAPtEutFooIagoGAEAGglsALO5jbpblT2BdomILaOyccAcnnhBlT1wHGB9O9aLMr55lQf9YxNgbLnjK860Uk98Px1dG-8v-1r4_TYv5PwNwAD-88y_s5ORsZ60bmEUDge5Fbbr17t-DSeg3CHNnWGEI55VLraKXKRBWfiF3J20uPgUvVrZllgvfBIdXy4TOT8-albyLvukdJIWNkx07PpbFegtrlDlMpgoE3ULsKrxJgUdmuHysxKeBx-4noovrZ_he1l7Rgc72wMaM4Ccabwqb_8QAueHgWXBNuXdKZQtHnFR73fzejj1o-A9O19mmswnv8Sh2ZwZt4wf9u2_-e2Qs-EtSQG4PGn3xfK-G_0iuRKne1aptFT8FtP0sP_s_p6_2t3zJaPstNMffq9V1FTMVUiYcd76XrN_jF804CdiTemfXiXYP39ZlVerTYd2t3EqnlfiNCPZ95Y5PzykMmowFzqdCTMkbdUiNd8zXdfDQMxMi8buQDYiwAtolG8TTd0HU-UJFTmgxKEninUWGZ-s7n8mQXy-MuX9TTac7r1HaFeUuafCRktTRJ4wv9j4mCHCDkNt4QCFlWYKOtJdbIL2rxNcWczxcjrND7NUCArw-9ALUU8W8AA.webp",
+        "date": "1 Aug 2018",
+        "snippet": "Applicant can make online payment of the requisite fee through this portal and submit the RTI application.",
+        "snippet_highlighted_words": [
+          "fee",
+          "RTI application"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Applicant can make online payment of the requisite fee through this portal and submit the RTI application.",
+            "source_info_link": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1540979",
+            "icon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAAAQCgCdASogACAAPtEutFooIagoGAEAGglsALO5jbpblT2BdomILaOyccAcnnhBlT1wHGB9O9aLMr55lQf9YxNgbLnjK860Uk98Px1dG-8v-1r4_TYv5PwNwAD-88y_s5ORsZ60bmEUDge5Fbbr17t-DSeg3CHNnWGEI55VLraKXKRBWfiF3J20uPgUvVrZllgvfBIdXy4TOT8-albyLvukdJIWNkx07PpbFegtrlDlMpgoE3ULsKrxJgUdmuHysxKeBx-4noovrZ_he1l7Rgc72wMaM4Ccabwqb_8QAueHgWXBNuXdKZQtHnFR73fzejj1o-A9O19mmswnv8Sh2ZwZt4wf9u2_-e2Qs-EtSQG4PGn3xfK-G_0iuRKne1aptFT8FtP0sP_s_p6_2t3zJaPstNMffq9V1FTMVUiYcd76XrN_jF804CdiTemfXiXYP39ZlVerTYd2t3EqnlfiNCPZ95Y5PzykMmowFzqdCTMkbdUiNd8zXdfDQMxMi8buQDYiwAtolG8TTd0HU-UJFTmgxKEninUWGZ-s7n8mQXy-MuX9TTac7r1HaFeUuafCRktTRJ4wv9j4mCHCDkNt4QCFlWYKOtJdbIL2rxNcWczxcjrND7NUCArw-9ALUU8W8AA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVlZpYnRnZXdzSl80MjNJWGZWOVdzRm1jYUV2dDFsVURkNlA3d2FiZlRHSTZnOWxQTWpjRDhWUjFZclVwQWJCNGF3Vjlici1fZjVoTlowNHBoOUNpc2FZeThhX2tnN2xsSWdtVjBmX1VNVzZ2MTJRNlRRSkF3TXN2N212OTk5SU9iOF9EQVNVNjF1ZTdUVUhxUjBVZk9EQRIEGgIIABraBBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkC2BAgAEAAYACAAKhQKA3J0aRWb6aBAGghpdjtwO3J0aSo7CgthcHBsaWNhdGlvbhWyN_A_GgNhcHAaDGFwcGxpY2F0aW9ucxoEYXBwcxoOYXBwbGljYXRpb25mZWUqIAoDZmVlFWbSCT8aBGZlZXMaDmFwcGxpY2F0aW9uZmVlKikKB2NlbnRyYWwVMDYyQBoGY2VudGVyGhFjZW50cmFsZ292ZXJubWVudCo8Cgpnb3Zlcm5tZW50FTA2MkAaA2dvdhoLZ292ZXJubWVudHMaBGdvdnQaEWNlbnRyYWxnb3Zlcm5tZW50MqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVlZpYnRnZXdzSl80MjNJWGZWOVdzRm1jYUV2dDFsVURkNlA3d2FiZlRHSTZnOWxQTWpjRDhWUjFZclVwQWJCNGF3Vjlici1fZjVoTlowNHBoOUNpc2FZeThhX2tnN2xsSWdtVjBmX1VNVzZ2MTJRNlRRSkF3TXN2N212OTk5SU9iOF9EQVNVNjF1ZTdUVUhxUjBVZk9EQTolUGVuZGluZyA8Yj5SVEkgQXBwbGljYXRpb25zPC9iPiAtIFBJQkJ4QXBwbGljYW50IGNhbiBtYWtlIG9ubGluZSBwYXltZW50IG9mIHRoZSByZXF1aXNpdGUgPGI-ZmVlPC9iPiB0aHJvdWdoIHRoaXMgcG9ydGFsIGFuZCBzdWJtaXQgdGhlIDxiPlJUSSBhcHBsaWNhdGlvbjwvYj4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVlZpYnRnZXdzSl80MjNJWGZWOVdzRm1jYUV2dDFsVURkNlA3d2FiZlRHSTZnOWxQTWpjRDhWUjFZclVwQWJCNGF3Vjlici1fZjVoTlowNHBoOUNpc2FZeThhX2tnN2xsSWdtVjBmX1VNVzZ2MTJRNlRRSkF3TXN2N212OTk5SU9iOF9EQVNVNjF1ZTdUVUhxUjBVZk9EQRIEGgIIABraBBIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkC2BAgAEAAYACAAKhQKA3J0aRWb6aBAGghpdjtwO3J0aSo7CgthcHBsaWNhdGlvbhWyN_A_GgNhcHAaDGFwcGxpY2F0aW9ucxoEYXBwcxoOYXBwbGljYXRpb25mZWUqIAoDZmVlFWbSCT8aBGZlZXMaDmFwcGxpY2F0aW9uZmVlKikKB2NlbnRyYWwVMDYyQBoGY2VudGVyGhFjZW50cmFsZ292ZXJubWVudCo8Cgpnb3Zlcm5tZW50FTA2MkAaA2dvdhoLZ292ZXJubWVudHMaBGdvdnQaEWNlbnRyYWxnb3Zlcm5tZW50MqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVlZpYnRnZXdzSl80MjNJWGZWOVdzRm1jYUV2dDFsVURkNlA3d2FiZlRHSTZnOWxQTWpjRDhWUjFZclVwQWJCNGF3Vjlici1fZjVoTlowNHBoOUNpc2FZeThhX2tnN2xsSWdtVjBmX1VNVzZ2MTJRNlRRSkF3TXN2N212OTk5SU9iOF9EQVNVNjF1ZTdUVUhxUjBVZk9EQTolUGVuZGluZyA8Yj5SVEkgQXBwbGljYXRpb25zPC9iPiAtIFBJQkJ4QXBwbGljYW50IGNhbiBtYWtlIG9ubGluZSBwYXltZW50IG9mIHRoZSByZXF1aXNpdGUgPGI-ZmVlPC9iPiB0aHJvdWdoIHRoaXMgcG9ydGFsIGFuZCBzdWJtaXQgdGhlIDxiPlJUSSBhcHBsaWNhdGlvbjwvYj4uIgIQAUgAWABoAA",
+        "source": "PIB"
+      },
+      {
+        "position": 6,
+        "title": "Guidelines for filing RTI applications in India",
+        "link": "https://www.facebook.com/groups/httpsrtionline.gov.in/posts/1236702300339258/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFXrJN4_pv2JgRyaRIyzkQV9dgw9uXkacKvKFVwUgKI9rO96ZtFgcPCY-V6W67wTiCtMxHUvxhM4O6sXv78R58p-skf--GSltNj-vFj2osl_oIx4T6IXYlqIbTBEkSuLkWe-NADdooQG7SCURVwSD0dOalAn6WbTELHsVyMNAT6_IzgIp&ved=2ahUKEwiO2JWU-peXAxX94skDHcg4JgUQFnoECCEQAQ&uoh=1",
+        "displayed_link": "3 years ago",
+        "thumbnail": "https://serpapi.com/searches/6abddddb7a3b0502169966dc/images/RsMeiO9F1BTmHHXiP3joEYx_cSPqtm8rHIwqVubem1s.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+        "snippet": "The standard application fee is ₹10, but it is waived for applicants below the poverty line with valid documentation. RTIs can be submitted in ...",
+        "snippet_highlighted_words": [
+          "The standard application fee is ₹10"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The standard application fee is ₹10, but it is waived for applicants below the poverty line with valid documentation. RTIs can be submitted in ...",
+            "source_info_link": "https://www.facebook.com/groups/httpsrtionline.gov.in/posts/1236702300339258/",
+            "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZYckpONF9wdjJKZ1J5YVJJeXprUVY5ZGd3OXVYa2FjS3ZLRlZ3VWdLSTlyTzk2WnRGZ2NQQ1ktVjZXNjd3VGlDdE14SFV2eGhNNE82c1h2NzhSNThwLXNrZi0tR1NsdE5qLXZGajJvc2xfb0l4NFQ2SVhZbHFJYlRCRWtTdUxrV2UtTkFEZG9vUUc3U0NVUlZ3U0QwZE9hbEFuNldiVEVMSHNWeU1OQVQ2X0l6Z0lwEgQaAggAGrsFEgAaAggBIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAlQUIABAAGAAgACoUCgNydGkVheGqQBoIaXY7cDtydGkqOwoLYXBwbGljYXRpb24Vv6k7QBoDYXBwGgxhcHBsaWNhdGlvbnMaBGFwcHMaDmFwcGxpY2F0aW9uZmVlKiAKA2ZlZRVZA44_GgRmZWVzGg5hcHBsaWNhdGlvbmZlZSopCgdjZW50cmFsFaJNuT8aBmNlbnRlchoRY2VudHJhbGdvdmVybm1lbnQqPAoKZ292ZXJubWVudBUhRvc_GgNnb3YaC2dvdmVybm1lbnRzGgRnb3Z0GhFjZW50cmFsZ292ZXJubWVudDLGAS9nb3RvP3VybD1DQUVTaUFFQjZ6c3dGWHJKTjRfcHYySmdSeWFSSXl6a1FWOWRndzl1WGthY0t2S0ZWd1VnS0k5ck85Nlp0RmdjUENZLVY2VzY3d1RpQ3RNeEhVdnhoTTRPNnNYdjc4UjU4cC1za2YtLUdTbHROai12Rmoyb3NsX29JeDRUNklYWWxxSWJUQkVrU3VMa1dlLU5BRGRvb1FHN1NDVVJWd1NEMGRPYWxBbjZXYlRFTEhzVnlNTkFUNl9JemdJcDpBR3VpZGVsaW5lcyBmb3IgZmlsaW5nIDxiPlJUSSBhcHBsaWNhdGlvbnM8L2I-IGluIEluZGlhIC0gRmFjZWJvb2tCoAE8Yj5UaGUgc3RhbmRhcmQgYXBwbGljYXRpb24gZmVlIGlzIOKCuTEwPC9iPiwgYnV0IGl0IGlzIHdhaXZlZCBmb3IgYXBwbGljYW50cyBiZWxvdyB0aGUgcG92ZXJ0eSBsaW5lIHdpdGggdmFsaWQgZG9jdW1lbnRhdGlvbi4gUlRJcyBjYW4gYmUgc3VibWl0dGVkIGluJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZYckpONF9wdjJKZ1J5YVJJeXprUVY5ZGd3OXVYa2FjS3ZLRlZ3VWdLSTlyTzk2WnRGZ2NQQ1ktVjZXNjd3VGlDdE14SFV2eGhNNE82c1h2NzhSNThwLXNrZi0tR1NsdE5qLXZGajJvc2xfb0l4NFQ2SVhZbHFJYlRCRWtTdUxrV2UtTkFEZG9vUUc3U0NVUlZ3U0QwZE9hbEFuNldiVEVMSHNWeU1OQVQ2X0l6Z0lwEgQaAggAGrsFEgAaAggBIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAlQUIABAAGAAgACoUCgNydGkVheGqQBoIaXY7cDtydGkqOwoLYXBwbGljYXRpb24Vv6k7QBoDYXBwGgxhcHBsaWNhdGlvbnMaBGFwcHMaDmFwcGxpY2F0aW9uZmVlKiAKA2ZlZRVZA44_GgRmZWVzGg5hcHBsaWNhdGlvbmZlZSopCgdjZW50cmFsFaJNuT8aBmNlbnRlchoRY2VudHJhbGdvdmVybm1lbnQqPAoKZ292ZXJubWVudBUhRvc_GgNnb3YaC2dvdmVybm1lbnRzGgRnb3Z0GhFjZW50cmFsZ292ZXJubWVudDLGAS9nb3RvP3VybD1DQUVTaUFFQjZ6c3dGWHJKTjRfcHYySmdSeWFSSXl6a1FWOWRndzl1WGthY0t2S0ZWd1VnS0k5ck85Nlp0RmdjUENZLVY2VzY3d1RpQ3RNeEhVdnhoTTRPNnNYdjc4UjU4cC1za2YtLUdTbHROai12Rmoyb3NsX29JeDRUNklYWWxxSWJUQkVrU3VMa1dlLU5BRGRvb1FHN1NDVVJWd1NEMGRPYWxBbjZXYlRFTEhzVnlNTkFUNl9JemdJcDpBR3VpZGVsaW5lcyBmb3IgZmlsaW5nIDxiPlJUSSBhcHBsaWNhdGlvbnM8L2I-IGluIEluZGlhIC0gRmFjZWJvb2tCoAE8Yj5UaGUgc3RhbmRhcmQgYXBwbGljYXRpb24gZmVlIGlzIOKCuTEwPC9iPiwgYnV0IGl0IGlzIHdhaXZlZCBmb3IgYXBwbGljYW50cyBiZWxvdyB0aGUgcG92ZXJ0eSBsaW5lIHdpdGggdmFsaWQgZG9jdW1lbnRhdGlvbi4gUlRJcyBjYW4gYmUgc3VibWl0dGVkIGluJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "Facebook · R.T.I Experts",
+        "read_more_link": "https://www.facebook.com/groups/httpsrtionline.gov.in/posts/1236702300339258/#:~:text=The%20standard%20application%20fee%20is,RTIs%20can%20be%20submitted%20in"
+      },
+      {
+        "position": 7,
+        "title": "No change in RTI application fee, word limit for queries, ...",
+        "link": "https://scroll.in/latest/833835/no-change-in-rti-application-fee-word-limit-for-query-says-government",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFZhSDJockAI95JzmJlfn5zZrDt8nzAUkhKJl4EH1O5QZlyltVuqgZ5y6yw52wNalmRRFkgoZ00TlHgqvLQvw0EWLWUkIVZV80Vbu8MfssDNazImknld3yECfs7CeDJRUCwGtG6UOrycwr0a693XN3JBdaxeWYaSlVnh7AVAV4NXDFvh07-qJSLZpm5bwgZEF9otp_LYqIiFKEqji&ved=2ahUKEwiO2JWU-peXAxX94skDHcg4JgUQFnoECE4QAQ&uoh=1",
+        "displayed_link": "https://scroll.in › India › National News",
+        "favicon": "https://serpapi.com/images/i/UklGRv4AAABXRUJQVlA4IPIAAADQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0zNEEOwDk_sgJYA3kkrwPbxln0lzSJUTvrY8hEXUtWa-vvkYAA_pQBuAWgfYgozR-cf3o0AnMj1j9iMytXyQJMN93mT3t7_-fmeHn9wmbW9oU_8of_tLP1LPzkqA3T2zbqPa2QQbSZwbUCN1G6dEnV-nfFB-L1HNkicrN9NklOfWxLo1uurqtM33FRHlwJN1Dt2mKoF1u1E3qyGKAZ9SI_MPuqvFnTfoXPeqMFd_qAMiZ6ESX6eUC2A44tiWCxOWGEzxGap-UNPsZOM74RhHKWYZCJjAAAAA.webp",
+        "date": "6 Apr 2017",
+        "snippet": "The Centre on Wednesday rejected media reports about a proposed hike in Right to Information application fees and word limit for queries, ...",
+        "snippet_highlighted_words": [
+          "application fees"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The Centre on Wednesday rejected media reports about a proposed hike in Right to Information application fees and word limit for queries, ...",
+            "source_info_link": "https://scroll.in/latest/833835/no-change-in-rti-application-fee-word-limit-for-query-says-government",
+            "icon": "https://serpapi.com/images/i/UklGRv4AAABXRUJQVlA4IPIAAADQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0zNEEOwDk_sgJYA3kkrwPbxln0lzSJUTvrY8hEXUtWa-vvkYAA_pQBuAWgfYgozR-cf3o0AnMj1j9iMytXyQJMN93mT3t7_-fmeHn9wmbW9oU_8of_tLP1LPzkqA3T2zbqPa2QQbSZwbUCN1G6dEnV-nfFB-L1HNkicrN9NklOfWxLo1uurqtM33FRHlwJN1Dt2mKoF1u1E3qyGKAZ9SI_MPuqvFnTfoXPeqMFd_qAMiZ6ESX6eUC2A44tiWCxOWGEzxGap-UNPsZOM74RhHKWYZCJjAAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZaaFNESm9ja0FJOTVKem1KbGZuNXpackR0OG56QVVraEtKbDRFSDFPNVFabHlsdFZ1cWdaNXk2eXc1MndOYWxtUlJGa2dvWjAwVGxIZ3F2TFF2dzBFV0xXVWtJVlpWODBWYnU4TWZzc0ROYXpJbWtubGQzeUVDZnM3Q2VESlJVQ3dHdEc2VU9yeWN3cjBhNjkzWE4zSkJkYXhlV1lhU2xWbmg3QVZBVjROWERGdmgwNy1xSlNMWnBtNWJ3Z1pFRjlvdHBfTFlxSWlGS0VxamkSBBoCCAAa2gUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAtgUIABAAGAAgACoUCgNydGkVVK-WQBoIaXY7cDtydGkqOwoLYXBwbGljYXRpb24Vo3iBQBoDYXBwGgxhcHBsaWNhdGlvbnMaBGFwcHMaDmFwcGxpY2F0aW9uZmVlKiAKA2ZlZRVIKolAGgRmZWVzGg5hcHBsaWNhdGlvbmZlZSopCgdjZW50cmFsFWddgT0aBmNlbnRlchoRY2VudHJhbGdvdmVybm1lbnQqPAoKZ292ZXJubWVudBXWTIFAGgNnb3YaC2dvdmVybm1lbnRzGgRnb3Z0GhFjZW50cmFsZ292ZXJubWVudDLmAS9nb3RvP3VybD1DQUVTb0FFQjZ6c3dGWmhTREpvY2tBSTk1SnptSmxmbjV6WnJEdDhuekFVa2hLSmw0RUgxTzVRWmx5bHRWdXFnWjV5Nnl3NTJ3TmFsbVJSRmtnb1owMFRsSGdxdkxRdncwRVdMV1VrSVZaVjgwVmJ1OE1mc3NETmF6SW1rbmxkM3lFQ2ZzN0NlREpSVUN3R3RHNlVPcnljd3IwYTY5M1hOM0pCZGF4ZVdZYVNsVm5oN0FWQVY0TlhERnZoMDctcUpTTFpwbTVid2daRUY5b3RwX0xZcUlpRktFcWppOklObyBjaGFuZ2UgaW4gPGI-UlRJIGFwcGxpY2F0aW9uIGZlZTwvYj4sIHdvcmQgbGltaXQgZm9yIHF1ZXJpZXMsIHNheXMgLi4uQpkBVGhlIENlbnRyZSBvbiBXZWRuZXNkYXkgcmVqZWN0ZWQgbWVkaWEgcmVwb3J0cyBhYm91dCBhIHByb3Bvc2VkIGhpa2UgaW4gUmlnaHQgdG8gSW5mb3JtYXRpb24gPGI-YXBwbGljYXRpb24gZmVlczwvYj4gYW5kIHdvcmQgbGltaXQgZm9yIHF1ZXJpZXMsJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZaaFNESm9ja0FJOTVKem1KbGZuNXpackR0OG56QVVraEtKbDRFSDFPNVFabHlsdFZ1cWdaNXk2eXc1MndOYWxtUlJGa2dvWjAwVGxIZ3F2TFF2dzBFV0xXVWtJVlpWODBWYnU4TWZzc0ROYXpJbWtubGQzeUVDZnM3Q2VESlJVQ3dHdEc2VU9yeWN3cjBhNjkzWE4zSkJkYXhlV1lhU2xWbmg3QVZBVjROWERGdmgwNy1xSlNMWnBtNWJ3Z1pFRjlvdHBfTFlxSWlGS0VxamkSBBoCCAAa2gUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAtgUIABAAGAAgACoUCgNydGkVVK-WQBoIaXY7cDtydGkqOwoLYXBwbGljYXRpb24Vo3iBQBoDYXBwGgxhcHBsaWNhdGlvbnMaBGFwcHMaDmFwcGxpY2F0aW9uZmVlKiAKA2ZlZRVIKolAGgRmZWVzGg5hcHBsaWNhdGlvbmZlZSopCgdjZW50cmFsFWddgT0aBmNlbnRlchoRY2VudHJhbGdvdmVybm1lbnQqPAoKZ292ZXJubWVudBXWTIFAGgNnb3YaC2dvdmVybm1lbnRzGgRnb3Z0GhFjZW50cmFsZ292ZXJubWVudDLmAS9nb3RvP3VybD1DQUVTb0FFQjZ6c3dGWmhTREpvY2tBSTk1SnptSmxmbjV6WnJEdDhuekFVa2hLSmw0RUgxTzVRWmx5bHRWdXFnWjV5Nnl3NTJ3TmFsbVJSRmtnb1owMFRsSGdxdkxRdncwRVdMV1VrSVZaVjgwVmJ1OE1mc3NETmF6SW1rbmxkM3lFQ2ZzN0NlREpSVUN3R3RHNlVPcnljd3IwYTY5M1hOM0pCZGF4ZVdZYVNsVm5oN0FWQVY0TlhERnZoMDctcUpTTFpwbTVid2daRUY5b3RwX0xZcUlpRktFcWppOklObyBjaGFuZ2UgaW4gPGI-UlRJIGFwcGxpY2F0aW9uIGZlZTwvYj4sIHdvcmQgbGltaXQgZm9yIHF1ZXJpZXMsIHNheXMgLi4uQpkBVGhlIENlbnRyZSBvbiBXZWRuZXNkYXkgcmVqZWN0ZWQgbWVkaWEgcmVwb3J0cyBhYm91dCBhIHByb3Bvc2VkIGhpa2UgaW4gUmlnaHQgdG8gSW5mb3JtYXRpb24gPGI-YXBwbGljYXRpb24gZmVlczwvYj4gYW5kIHdvcmQgbGltaXQgZm9yIHF1ZXJpZXMsJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "Scroll.in",
+        "read_more_link": "https://scroll.in/latest/833835/no-change-in-rti-application-fee-word-limit-for-query-says-government#:~:text=The%20Centre%20on%20Wednesday%20rejected,limit%20for%20queries%2C%20reported%20IANS."
+      },
+      {
+        "position": 8,
+        "title": "Online RTI Application - rtionline.gov.in",
+        "link": "https://charteredonline.in/online-rti-application-rtionline-gov-in/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAV3TaBji7G6fZRnYg18oRaZbWv9h9YDEbVyjyaOmd9MOcEBpNii6zceRRTDLM9ORiEdwqsZeknlfrhtp6CY6LzrIeIo73HLKOEF7oBdlRFVwNpUkmwn9c8kHBk7dyV7WJflF5X0P3A7VZvzxowqiRddAv0XLhixlghAw&ved=2ahUKEwiO2JWU-peXAxX94skDHcg4JgUQFnoECEwQAQ&uoh=1",
+        "displayed_link": "https://charteredonline.in › OTHER",
+        "favicon": "https://serpapi.com/images/i/UklGRrYAAABXRUJQVlA4IKoAAABQBACdASocAAsAPtEutFooIagoGAEAGglsALsMFQAxYs76hNgFPuwrr16AAP72CcqQSPSr8FNZBPlNXSdjD1meDopdNBAmepkCD6EqqLj2b5e7Oz9X98Aj_VioCLX3TVfz4hQKpYPuke_m00pOh7LiH0L4h2NL4Ugy_qS2-iI87K-K8d9idqWW8_2I-hT0ehlH_j-AZ-nzGxImsCL4BUvkZBr7Oeec6gAAAA.webp",
+        "date": "14 Sept 2018",
+        "snippet": "11. No RTI fee is required to be paid by any citizen who is below poverty line as per RTI Rules, 2012. However, the applicant must attach a ...",
+        "snippet_highlighted_words": [
+          "No RTI fee is required to be paid by any citizen who is below poverty line"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "11. No RTI fee is required to be paid by any citizen who is below poverty line as per RTI Rules, 2012. However, the applicant must attach a ...",
+            "source_info_link": "https://charteredonline.in/online-rti-application-rtionline-gov-in/",
+            "icon": "https://serpapi.com/images/i/UklGRrYAAABXRUJQVlA4IKoAAABQBACdASocAAsAPtEutFooIagoGAEAGglsALsMFQAxYs76hNgFPuwrr16AAP72CcqQSPSr8FNZBPlNXSdjD1meDopdNBAmepkCD6EqqLj2b5e7Oz9X98Aj_VioCLX3TVfz4hQKpYPuke_m00pOh7LiH0L4h2NL4Ugy_qS2-iI87K-K8d9idqWW8_2I-hT0ehlH_j-AZ-nzGxImsCL4BUvkZBr7Oeec6gAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVjNUYUJqaTdHNmZaUm5ZZzE4b1JhWmJXdjloOVlERWJWeWp5YU9tZDlNT2NFQnBOaWk2emNlUlJURExNOU9SaUVkd3FzWmVrbmxmcmh0cDZDWTZMenJJZUlvNzNITEtPRUY3b0JkbFJGVndOcFVrbXduOWM4a0hCazdkeVY3V0pmbEY1WDBQM0E3Vlp2enhvd3FpUmRkQXYwWExoaXhsZ2hBdxIEGgIIABqcBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkD4BAgAEAAYACAAKhQKA3J0aRVTo8tAGghpdjtwO3J0aSo7CgthcHBsaWNhdGlvbhWaFbNAGgNhcHAaDGFwcGxpY2F0aW9ucxoEYXBwcxoOYXBwbGljYXRpb25mZWUqIAoDZmVlFZ8a0D8aBGZlZXMaDmFwcGxpY2F0aW9uZmVlKikKB2NlbnRyYWwVCynOPxoGY2VudGVyGhFjZW50cmFsZ292ZXJubWVudCo8Cgpnb3Zlcm5tZW50FWvZ0T8aA2dvdhoLZ292ZXJubWVudHMaBGdvdnQaEWNlbnRyYWxnb3Zlcm5tZW50MrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVjNUYUJqaTdHNmZaUm5ZZzE4b1JhWmJXdjloOVlERWJWeWp5YU9tZDlNT2NFQnBOaWk2emNlUlJURExNOU9SaUVkd3FzWmVrbmxmcmh0cDZDWTZMenJJZUlvNzNITEtPRUY3b0JkbFJGVndOcFVrbXduOWM4a0hCazdkeVY3V0pmbEY1WDBQM0E3Vlp2enhvd3FpUmRkQXYwWExoaXhsZ2hBdzo3T25saW5lIDxiPlJUSSBBcHBsaWNhdGlvbjwvYj4gLSBydGlvbmxpbmUuPGI-Z292PC9iPi5pbkKbATExLiA8Yj5ObyBSVEkgZmVlIGlzIHJlcXVpcmVkIHRvIGJlIHBhaWQgYnkgYW55IGNpdGl6ZW4gd2hvIGlzIGJlbG93IHBvdmVydHkgbGluZTwvYj4gYXMgcGVyIFJUSSBSdWxlcywgMjAxMi4gSG93ZXZlciwgdGhlIGFwcGxpY2FudCBtdXN0IGF0dGFjaCBhJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVjNUYUJqaTdHNmZaUm5ZZzE4b1JhWmJXdjloOVlERWJWeWp5YU9tZDlNT2NFQnBOaWk2emNlUlJURExNOU9SaUVkd3FzWmVrbmxmcmh0cDZDWTZMenJJZUlvNzNITEtPRUY3b0JkbFJGVndOcFVrbXduOWM4a0hCazdkeVY3V0pmbEY1WDBQM0E3Vlp2enhvd3FpUmRkQXYwWExoaXhsZ2hBdxIEGgIIABqcBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkD4BAgAEAAYACAAKhQKA3J0aRVTo8tAGghpdjtwO3J0aSo7CgthcHBsaWNhdGlvbhWaFbNAGgNhcHAaDGFwcGxpY2F0aW9ucxoEYXBwcxoOYXBwbGljYXRpb25mZWUqIAoDZmVlFZ8a0D8aBGZlZXMaDmFwcGxpY2F0aW9uZmVlKikKB2NlbnRyYWwVCynOPxoGY2VudGVyGhFjZW50cmFsZ292ZXJubWVudCo8Cgpnb3Zlcm5tZW50FWvZ0T8aA2dvdhoLZ292ZXJubWVudHMaBGdvdnQaEWNlbnRyYWxnb3Zlcm5tZW50MrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVjNUYUJqaTdHNmZaUm5ZZzE4b1JhWmJXdjloOVlERWJWeWp5YU9tZDlNT2NFQnBOaWk2emNlUlJURExNOU9SaUVkd3FzWmVrbmxmcmh0cDZDWTZMenJJZUlvNzNITEtPRUY3b0JkbFJGVndOcFVrbXduOWM4a0hCazdkeVY3V0pmbEY1WDBQM0E3Vlp2enhvd3FpUmRkQXYwWExoaXhsZ2hBdzo3T25saW5lIDxiPlJUSSBBcHBsaWNhdGlvbjwvYj4gLSBydGlvbmxpbmUuPGI-Z292PC9iPi5pbkKbATExLiA8Yj5ObyBSVEkgZmVlIGlzIHJlcXVpcmVkIHRvIGJlIHBhaWQgYnkgYW55IGNpdGl6ZW4gd2hvIGlzIGJlbG93IHBvdmVydHkgbGluZTwvYj4gYXMgcGVyIFJUSSBSdWxlcywgMjAxMi4gSG93ZXZlciwgdGhlIGFwcGxpY2FudCBtdXN0IGF0dGFjaCBhJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "charteredonline.in",
+        "read_more_link": "https://charteredonline.in/online-rti-application-rtionline-gov-in/#:~:text=11.%20No%20RTI%20fee%20is,this%20regard%2C%20alongwith%20the%20application."
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=RTI+application+fee+central+government&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvWprdHi4hAqZvMFVX2Djwjt7CnnQ:1790827995431&ei=2929as7-Gf3Fp84PyPGYKQ&start=10&sa=N&sstk=AS6-VmLANk6dfZIQ6SOPj-Cjq0xnU5t6hW7sh0zhw3C404Wg3r_WyKDDfRI8YX6YnBoU24YbNQXjKg_Ri-7KDuq8CncOnI-QO5uxFQ&ved=2ahUKEwiO2JWU-peXAxX94skDHcg4JgUQ8NMDegQIShAI",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=RTI+application+fee+central+government&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvWprdHi4hAqZvMFVX2Djwjt7CnnQ:1790827995431&ei=2929as7-Gf3Fp84PyPGYKQ&start=10&sa=N&sstk=AS6-VmLANk6dfZIQ6SOPj-Cjq0xnU5t6hW7sh0zhw3C404Wg3r_WyKDDfRI8YX6YnBoU24YbNQXjKg_Ri-7KDuq8CncOnI-QO5uxFQ&ved=2ahUKEwiO2JWU-peXAxX94skDHcg4JgUQ8tMDegQIShAE",
+        "3": "https://www.google.com/search?q=RTI+application+fee+central+government&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvWprdHi4hAqZvMFVX2Djwjt7CnnQ:1790827995431&ei=2929as7-Gf3Fp84PyPGYKQ&start=20&sa=N&sstk=AS6-VmLANk6dfZIQ6SOPj-Cjq0xnU5t6hW7sh0zhw3C404Wg3r_WyKDDfRI8YX6YnBoU24YbNQXjKg_Ri-7KDuq8CncOnI-QO5uxFQ&ved=2ahUKEwiO2JWU-peXAxX94skDHcg4JgUQ8tMDegQIShAG"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=RTI+application+fee+central+government&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=RTI+application+fee+central+government&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=RTI+application+fee+central+government&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=RTI+application+fee+central+government&start=20"
+      }
+    }
+  }
+}

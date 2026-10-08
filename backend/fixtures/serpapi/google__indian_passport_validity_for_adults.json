@@ -1,0 +1,378 @@
+{
+  "civicsignal_fixture": {
+    "engine": "google",
+    "q": "Indian passport validity for adults",
+    "params": {
+      "gl": "in",
+      "hl": "en",
+      "num": 10
+    },
+    "kind": "captured",
+    "captured_at": "2026-10-01T04:13:19.570124+00:00",
+    "note": "CLEAN CONTROL: long-stable rule"
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6abddddca8dce6e4fa7f56b2",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/pf0EExJSlYVA7shroBKksQD5x34f7xDOy-Ioo6q3AS8/6abddddca8dce6e4fa7f56b2.json",
+      "markdown_endpoint": "https://serpapi.com/searches/pf0EExJSlYVA7shroBKksQD5x34f7xDOy-Ioo6q3AS8/6abddddca8dce6e4fa7f56b2.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/pf0EExJSlYVA7shroBKksQD5x34f7xDOy-Ioo6q3AS8/6abddddca8dce6e4fa7f56b2.json_with_pixel_position",
+      "created_at": "2026-10-01 04:13:16 UTC",
+      "processed_at": "2026-10-01 04:13:16 UTC",
+      "google_url": "https://www.google.com/search?q=Indian+passport+validity+for+adults&oq=Indian+passport+validity+for+adults&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/pf0EExJSlYVA7shroBKksQD5x34f7xDOy-Ioo6q3AS8/6abddddca8dce6e4fa7f56b2.html",
+      "total_time_taken": 0.44
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Indian passport validity for adults",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Indian passport validity for adults",
+      "total_results": 10,
+      "time_taken_displayed": 0.28,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+      {
+        "question": "Can I travel with 3 months validity on my passport?",
+        "type": "ai_overview",
+        "page_token": "cl_2EHicHdBdbpswAABg9TJ9bIJZMiVSVJVhk0YKKf4FXiawSSg24DYQE956hZ5hp9ppJu07wvf1x7x3-u_Ddz0M9rpdLJxzT5e-v5jqSfbtorjeO7mQhTFlIfV2_XPtPZ_lDt5k8OtTBgmzlod4SVrpZx68q0j5vE087KFVok3PUhQmKfoo9HFgIF4zXzqhUUD0cCrBlGfeoSMzyks2eULEk4r0TNLAFb4qSLQqyhDNpZ66TLw6SuuR0jwX3NwVsMERspn7ysZQjSWqR6nx_ig4owCvCYSOo01HItvFwLIqjO_Ue1ll2loZDWHV8DEGEhR75VSDBNGHjyPLWxnZW6wPLo7qa44wEenlx4lnywoeMBX124kNDazlTJvXVZbGgC6Vo_OLR9tNUlLTir3BHPfvCcOzbEzLQ5QoMWU8VCOjQcdaD1K-uRJYzxXf3AgYUJI8nuVt5z_-v979PrfD1n72l3-ga47r",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cl_2EHicHdBdbpswAABg9TJ9bIJZMiVSVJVhk0YKKf4FXiawSSg24DYQE956hZ5hp9ppJu07wvf1x7x3-u_Ddz0M9rpdLJxzT5e-v5jqSfbtorjeO7mQhTFlIfV2_XPtPZ_lDt5k8OtTBgmzlod4SVrpZx68q0j5vE087KFVok3PUhQmKfoo9HFgIF4zXzqhUUD0cCrBlGfeoSMzyks2eULEk4r0TNLAFb4qSLQqyhDNpZ66TLw6SuuR0jwX3NwVsMERspn7ysZQjSWqR6nx_ig4owCvCYSOo01HItvFwLIqjO_Ue1ll2loZDWHV8DEGEhR75VSDBNGHjyPLWxnZW6wPLo7qa44wEenlx4lnywoeMBX124kNDazlTJvXVZbGgC6Vo_OLR9tNUlLTir3BHPfvCcOzbEzLQ5QoMWU8VCOjQcdaD1K-uRJYzxXf3AgYUJI8nuVt5z_-v979PrfD1n72l3-ga47r",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJFaHVNMk5RUmpsUVQzRmFkREZVUVRKWFYzSmZjVXBuUkdvMFNVRllUbTlDYTFsbFYxRmpVekpaTUdSRVJHaDNWR1pzYmtKR1RUSm5VSFl3UmswdFQxVnBZazlqWlY4dGExVkxUVGsxZUUweE5FMWxSRXhxYjJwRGR4SVhNMDR5T1dGemRrOUhjRTh3TlU1dlVHMDVabGg1VVZVYUlrRkVjM0k1WmxScGFWZzBTbE0wVUZkRk5EaGFPVU5KYVdaVlNVdEJPRVZsVW5jIiwiZmN2IjoiMyIsImVpIjoiM04yOWFzdk9HcE8wNU5vUG05Zlh5UVUiLCJxYyI6IkNpTnBibVJwWVc0Z2NHRnpjM0J2Y25RZ2RtRnNhV1JwZEhrZ1ptOXlJR0ZrZFd4MGN4QUFmWXhhY1Q4IiwicXVlc3Rpb24iOiJDYW4gSSB0cmF2ZWwgd2l0aCAzIG1vbnRocyB2YWxpZGl0eSBvbiBteSBwYXNzcG9ydD8iLCJsayI6IkdpOWpZVzRnYVNCMGNtRjJaV3dnZDJsMGFDQXpJRzF2Ym5Sb2N5QjJZV3hwWkdsMGVTQnZiaUJ3WVhOemNHOXlkQSIsImJzIjoiYzQzUE93dkNNQlNHWVZ3ek9XZjZSRkVITHpSRkhETTRpYU9Eb3dRYnpZSGVTRUpyX3IyV1VoV0s2UDQtNS1Nd3ctS2R5ckdIdDZyU0tXcnlCakd5SXZmR29WSXBKZVFEaWh4WlFLbWNLd3ZycFlqNC12Sms5SnQxaHAzWnNyOGtPdEpsTHl2RmlpXzZHOThCTzdCSk8zRFRIdW9kTkk1eVJCc2tLamdweG56VTNtMjZMeFU3c3RuSktBLTZmajRPY3RnaWFHVWQ5TDBrcXhNcDVueGFfNVVPQnc4IiwiaWQiOiJmY18zTjI5YXN2T0dwTzA1Tm9QbTlmWHlRVV8yIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJFaHVNMk5RUmpsUVQzRmFkREZVUVRKWFYzSmZjVXBuUkdvMFNVRllUbTlDYTFsbFYxRmpVekpaTUdSRVJHaDNWR1pzYmtKR1RUSm5VSFl3UmswdFQxVnBZazlqWlY4dGExVkxUVGsxZUUweE5FMWxSRXhxYjJwRGR4SVhNMDR5T1dGemRrOUhjRTh3TlU1dlVHMDVabGg1VVZVYUlrRkVjM0k1WmxScGFWZzBTbE0wVUZkRk5EaGFPVU5KYVdaVlNVdEJPRVZsVW5jIiwiZmN2IjoiMyIsImVpIjoiM04yOWFzdk9HcE8wNU5vUG05Zlh5UVUiLCJxYyI6IkNpTnBibVJwWVc0Z2NHRnpjM0J2Y25RZ2RtRnNhV1JwZEhrZ1ptOXlJR0ZrZFd4MGN4QUFmWXhhY1Q4IiwicXVlc3Rpb24iOiJDYW4gSSB0cmF2ZWwgd2l0aCAzIG1vbnRocyB2YWxpZGl0eSBvbiBteSBwYXNzcG9ydD8iLCJsayI6IkdpOWpZVzRnYVNCMGNtRjJaV3dnZDJsMGFDQXpJRzF2Ym5Sb2N5QjJZV3hwWkdsMGVTQnZiaUJ3WVhOemNHOXlkQSIsImJzIjoiYzQzUE93dkNNQlNHWVZ3ek9XZjZSRkVITHpSRkhETTRpYU9Eb3dRYnpZSGVTRUpyX3IyV1VoV0s2UDQtNS1Nd3ctS2R5ckdIdDZyU0tXcnlCakd5SXZmR29WSXBKZVFEaWh4WlFLbWNLd3ZycFlqNC12Sms5SnQxaHAzWnNyOGtPdEpsTHl2RmlpXzZHOThCTzdCSk8zRFRIdW9kTkk1eVJCc2tLamdweG56VTNtMjZMeFU3c3RuSktBLTZmajRPY3RnaWFHVWQ5TDBrcXhNcDVueGFfNVVPQnc4IiwiaWQiOiJmY18zTjI5YXN2T0dwTzA1Tm9QbTlmWHlRVV8yIn0%3D"
+      },
+      {
+        "question": "Can I travel with 2 months passport validity?",
+        "type": "ai_overview",
+        "page_token": "NCVW43icHdBtbpswGABg9TL92QQIrRopmkYKpBS7w9iG8GfyRwKJXz5UaCH-tyvsDDvVTjNpzxGeX3_g0pm_d7-baRrG7Wo1z_ND3fc1nB5U367EeOvUSgkAKZTZPj49Ot_Oahd-qWD_oYKMDQN_IeucNn7OnEhw3Jc3J1BmnKThAXLJW244EpxEsqwdbRKrGU6wx2-nFgx60a7umjFlS44MOVKLLXb1uyjDWUYwat7M3E0Kyc2iAHxJmXfaO6zyIiJstRFltcmvVZe1ZEND7TAaDNL4WUphzw8JE1dsM545soCFHQjCXhJSW43EnTwVJZTEONIRphhwLEKdFkXjpzz4zBxArF0Q6RpAnv5ElG00hfR0qHjYKEuvr_6xxC5d65na7w5tnzNJoS0OQDjpLxkjVl2hZaaeBDzvj-50yTmZVKwFL-A9XxOcx_4PES-Xar4_q6-dd___evfz3E7b4aOv_wFsh45T",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NCVW43icHdBtbpswGABg9TL92QQIrRopmkYKpBS7w9iG8GfyRwKJXz5UaCH-tyvsDDvVTjNpzxGeX3_g0pm_d7-baRrG7Wo1z_ND3fc1nB5U367EeOvUSgkAKZTZPj49Ot_Oahd-qWD_oYKMDQN_IeucNn7OnEhw3Jc3J1BmnKThAXLJW244EpxEsqwdbRKrGU6wx2-nFgx60a7umjFlS44MOVKLLXb1uyjDWUYwat7M3E0Kyc2iAHxJmXfaO6zyIiJstRFltcmvVZe1ZEND7TAaDNL4WUphzw8JE1dsM545soCFHQjCXhJSW43EnTwVJZTEONIRphhwLEKdFkXjpzz4zBxArF0Q6RpAnv5ElG00hfR0qHjYKEuvr_6xxC5d65na7w5tnzNJoS0OQDjpLxkjVl2hZaaeBDzvj-50yTmZVKwFL-A9XxOcx_4PES-Xar4_q6-dd___evfz3E7b4aOv_wFsh45T",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJFaHVNMk5RUmpsUVQzRmFkREZVUVRKWFYzSmZjVXBuUkdvMFNVRllUbTlDYTFsbFYxRmpVekpaTUdSRVJHaDNWR1pzYmtKR1RUSm5VSFl3UmswdFQxVnBZazlqWlY4dGExVkxUVGsxZUUweE5FMWxSRXhxYjJwRGR4SVhNMDR5T1dGemRrOUhjRTh3TlU1dlVHMDVabGg1VVZVYUlrRkVjM0k1WmxScGFWZzBTbE0wVUZkRk5EaGFPVU5KYVdaVlNVdEJPRVZsVW5jIiwiZmN2IjoiMyIsImVpIjoiM04yOWFzdk9HcE8wNU5vUG05Zlh5UVUiLCJxYyI6IkNpTnBibVJwWVc0Z2NHRnpjM0J2Y25RZ2RtRnNhV1JwZEhrZ1ptOXlJR0ZrZFd4MGN4QUFmWXhhY1Q4IiwicXVlc3Rpb24iOiJDYW4gSSB0cmF2ZWwgd2l0aCAyIG1vbnRocyBwYXNzcG9ydCB2YWxpZGl0eT8iLCJsayI6IkdpeGpZVzRnYVNCMGNtRjJaV3dnZDJsMGFDQXlJRzF2Ym5Sb2N5QndZWE56Y0c5eWRDQjJZV3hwWkdsMGVRIiwiYnMiOiJjNDNQT3d2Q01CU0dZVnd6T1dmNlJGRUhMelJGSERNNGlhT0Rvd1FiellIZVNFSnJfcjJXVWhXSzZQNC01LU13dy1LZHlyR0h0NnJTS1dyeUJqR3lJdmZHb1ZJcEplUURpaHhaUUttY0t3dnJwWWo0LXZKazlKdDFocDNac3I4a090SmxMeXZGaWlfNkc5OEJPN0JKTzNEVEh1b2ROSTV5UkJza0tqZ3B4bnpVM20yNkx4VTdzdG5KS0EtNmZqNE9jdGdpYUdVZDlMMGtxeE1wNW54YV81VU9CdzgiLCJpZCI6ImZjXzNOMjlhc3ZPR3BPMDVOb1BtOWZYeVFVXzIifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJFaHVNMk5RUmpsUVQzRmFkREZVUVRKWFYzSmZjVXBuUkdvMFNVRllUbTlDYTFsbFYxRmpVekpaTUdSRVJHaDNWR1pzYmtKR1RUSm5VSFl3UmswdFQxVnBZazlqWlY4dGExVkxUVGsxZUUweE5FMWxSRXhxYjJwRGR4SVhNMDR5T1dGemRrOUhjRTh3TlU1dlVHMDVabGg1VVZVYUlrRkVjM0k1WmxScGFWZzBTbE0wVUZkRk5EaGFPVU5KYVdaVlNVdEJPRVZsVW5jIiwiZmN2IjoiMyIsImVpIjoiM04yOWFzdk9HcE8wNU5vUG05Zlh5UVUiLCJxYyI6IkNpTnBibVJwWVc0Z2NHRnpjM0J2Y25RZ2RtRnNhV1JwZEhrZ1ptOXlJR0ZrZFd4MGN4QUFmWXhhY1Q4IiwicXVlc3Rpb24iOiJDYW4gSSB0cmF2ZWwgd2l0aCAyIG1vbnRocyBwYXNzcG9ydCB2YWxpZGl0eT8iLCJsayI6IkdpeGpZVzRnYVNCMGNtRjJaV3dnZDJsMGFDQXlJRzF2Ym5Sb2N5QndZWE56Y0c5eWRDQjJZV3hwWkdsMGVRIiwiYnMiOiJjNDNQT3d2Q01CU0dZVnd6T1dmNlJGRUhMelJGSERNNGlhT0Rvd1FiellIZVNFSnJfcjJXVWhXSzZQNC01LU13dy1LZHlyR0h0NnJTS1dyeUJqR3lJdmZHb1ZJcEplUURpaHhaUUttY0t3dnJwWWo0LXZKazlKdDFocDNac3I4a090SmxMeXZGaWlfNkc5OEJPN0JKTzNEVEh1b2ROSTV5UkJza0tqZ3B4bnpVM20yNkx4VTdzdG5KS0EtNmZqNE9jdGdpYUdVZDlMMGtxeE1wNW54YV81VU9CdzgiLCJpZCI6ImZjXzNOMjlhc3ZPR3BPMDVOb1BtOWZYeVFVXzIifQ%3D%3D"
+      },
+      {
+        "question": "Can I get a passport within 15 days?",
+        "type": "ai_overview",
+        "page_token": "Bbrru3icHdDbboIwGADg7GW8VFsPiyZmGQoTZtGWUg43S2lFhJ_DFBW927vsqfY0W_YEX_J9fcOxKn6erlnbNuf5YHC73fqHuj7Avq_qciDP90oNlARIpCrm0-cpeknVwrzYxvLTNqjfNGLFhl6g2iQkY1lGbSBi8FYijc22IsLCe7PbsrUmCrOTstjSs_SGIsPVuO3kyKkFAl-OMhlXwkiKiYiw3yloJhToPals7K2dDQFh0VAjxdnOLRvqr-MLwbG75donZjsVeBb7hZMluTbcnHSb4HwnlfMmOUw9Dke9Mh4hzuife49htiPgpDQshoHIVhHKSGC5lhg2O26ekUQzw8zUg-f2JApdzIf6xh-viJczmnAogzUwweoj9dlD5VD6JbtEYOVe4V6ZFY0j4bx7AYslEkuCDyMNrk1pL1XXxaj3_7n4SMt23pzqwy8lFYLG",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Bbrru3icHdDbboIwGADg7GW8VFsPiyZmGQoTZtGWUg43S2lFhJ_DFBW927vsqfY0W_YEX_J9fcOxKn6erlnbNuf5YHC73fqHuj7Avq_qciDP90oNlARIpCrm0-cpeknVwrzYxvLTNqjfNGLFhl6g2iQkY1lGbSBi8FYijc22IsLCe7PbsrUmCrOTstjSs_SGIsPVuO3kyKkFAl-OMhlXwkiKiYiw3yloJhToPals7K2dDQFh0VAjxdnOLRvqr-MLwbG75donZjsVeBb7hZMluTbcnHSb4HwnlfMmOUw9Dke9Mh4hzuife49htiPgpDQshoHIVhHKSGC5lhg2O26ekUQzw8zUg-f2JApdzIf6xh-viJczmnAogzUwweoj9dlD5VD6JbtEYOVe4V6ZFY0j4bx7AYslEkuCDyMNrk1pL1XXxaj3_7n4SMt23pzqwy8lFYLG",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJFaHVNMk5RUmpsUVQzRmFkREZVUVRKWFYzSmZjVXBuUkdvMFNVRllUbTlDYTFsbFYxRmpVekpaTUdSRVJHaDNWR1pzYmtKR1RUSm5VSFl3UmswdFQxVnBZazlqWlY4dGExVkxUVGsxZUUweE5FMWxSRXhxYjJwRGR4SVhNMDR5T1dGemRrOUhjRTh3TlU1dlVHMDVabGg1VVZVYUlrRkVjM0k1WmxScGFWZzBTbE0wVUZkRk5EaGFPVU5KYVdaVlNVdEJPRVZsVW5jIiwiZmN2IjoiMyIsImVpIjoiM04yOWFzdk9HcE8wNU5vUG05Zlh5UVUiLCJxYyI6IkNpTnBibVJwWVc0Z2NHRnpjM0J2Y25RZ2RtRnNhV1JwZEhrZ1ptOXlJR0ZrZFd4MGN4QUFmWXhhY1Q4IiwicXVlc3Rpb24iOiJDYW4gSSBnZXQgYSBwYXNzcG9ydCB3aXRoaW4gMTUgZGF5cz8iLCJsayI6IkdpRmpZVzRnYVNCblpYUWdjR0Z6YzNCdmNuUWdkMmwwYUdsdUlERTFJR1JoZVhNIiwiYnMiOiJjNDNQT3d2Q01CU0dZVnd6T1dmNlJGRUhMelJGSERNNGlhT0Rvd1FiellIZVNFSnJfcjJXVWhXSzZQNC01LU13dy1LZHlyR0h0NnJTS1dyeUJqR3lJdmZHb1ZJcEplUURpaHhaUUttY0t3dnJwWWo0LXZKazlKdDFocDNac3I4a090SmxMeXZGaWlfNkc5OEJPN0JKTzNEVEh1b2ROSTV5UkJza0tqZ3B4bnpVM20yNkx4VTdzdG5KS0EtNmZqNE9jdGdpYUdVZDlMMGtxeE1wNW54YV81VU9CdzgiLCJpZCI6ImZjXzNOMjlhc3ZPR3BPMDVOb1BtOWZYeVFVXzIifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJFaHVNMk5RUmpsUVQzRmFkREZVUVRKWFYzSmZjVXBuUkdvMFNVRllUbTlDYTFsbFYxRmpVekpaTUdSRVJHaDNWR1pzYmtKR1RUSm5VSFl3UmswdFQxVnBZazlqWlY4dGExVkxUVGsxZUUweE5FMWxSRXhxYjJwRGR4SVhNMDR5T1dGemRrOUhjRTh3TlU1dlVHMDVabGg1VVZVYUlrRkVjM0k1WmxScGFWZzBTbE0wVUZkRk5EaGFPVU5KYVdaVlNVdEJPRVZsVW5jIiwiZmN2IjoiMyIsImVpIjoiM04yOWFzdk9HcE8wNU5vUG05Zlh5UVUiLCJxYyI6IkNpTnBibVJwWVc0Z2NHRnpjM0J2Y25RZ2RtRnNhV1JwZEhrZ1ptOXlJR0ZrZFd4MGN4QUFmWXhhY1Q4IiwicXVlc3Rpb24iOiJDYW4gSSBnZXQgYSBwYXNzcG9ydCB3aXRoaW4gMTUgZGF5cz8iLCJsayI6IkdpRmpZVzRnYVNCblpYUWdjR0Z6YzNCdmNuUWdkMmwwYUdsdUlERTFJR1JoZVhNIiwiYnMiOiJjNDNQT3d2Q01CU0dZVnd6T1dmNlJGRUhMelJGSERNNGlhT0Rvd1FiellIZVNFSnJfcjJXVWhXSzZQNC01LU13dy1LZHlyR0h0NnJTS1dyeUJqR3lJdmZHb1ZJcEplUURpaHhaUUttY0t3dnJwWWo0LXZKazlKdDFocDNac3I4a090SmxMeXZGaWlfNkc5OEJPN0JKTzNEVEh1b2ROSTV5UkJza0tqZ3B4bnpVM20yNkx4VTdzdG5KS0EtNmZqNE9jdGdpYUdVZDlMMGtxeE1wNW54YV81VU9CdzgiLCJpZCI6ImZjXzNOMjlhc3ZPR3BPMDVOb1BtOWZYeVFVXzIifQ%3D%3D"
+      },
+      {
+        "question": "What if my passport is 7 years expired?",
+        "type": "ai_overview",
+        "page_token": "Zz4SCXicHdBdToMwAADgeBkfHWVuxiWLETdkOGoo_YG-mFLYaikFHRtb37yLp_I0Gi_wPXxf3-bdNj9XJzUM_WExmYzjeLPvur2pb2TXTsThYuVECmNKIZvF_G4OHnZyuT5ugqePTZCSvqcr5GUaIayNkBY9JVFyJlMyFQZyzNQnovEAV6GtmiEv2ipm1jjkEk-6WAlmjtRBkftnmOoYM4IgM_K2NLCpWpUjbxbVhkcpUwfOPIeayi-nBGwZWiEGM6b5XDD4gkGwTUAfppaTQleYZOBU56qBtA8Lp0D2jC68VYXEPEZeTLL1_bEmgAuf6swqsMXqUDpzKzQPEo_atZIO682syKGPvWrE7hHg9j4tsWlZZBBF3XtKkJPatMQVPo0CWzbhPG1mr5SAFTF8rBm9SH9mMxv-Cdc7eVpOr_8_l2-7dlj0n93-F89AhQU",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Zz4SCXicHdBdToMwAADgeBkfHWVuxiWLETdkOGoo_YG-mFLYaikFHRtb37yLp_I0Gi_wPXxf3-bdNj9XJzUM_WExmYzjeLPvur2pb2TXTsThYuVECmNKIZvF_G4OHnZyuT5ugqePTZCSvqcr5GUaIayNkBY9JVFyJlMyFQZyzNQnovEAV6GtmiEv2ipm1jjkEk-6WAlmjtRBkftnmOoYM4IgM_K2NLCpWpUjbxbVhkcpUwfOPIeayi-nBGwZWiEGM6b5XDD4gkGwTUAfppaTQleYZOBU56qBtA8Lp0D2jC68VYXEPEZeTLL1_bEmgAuf6swqsMXqUDpzKzQPEo_atZIO682syKGPvWrE7hHg9j4tsWlZZBBF3XtKkJPatMQVPo0CWzbhPG1mr5SAFTF8rBm9SH9mMxv-Cdc7eVpOr_8_l2-7dlj0n93-F89AhQU",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJFaHVNMk5RUmpsUVQzRmFkREZVUVRKWFYzSmZjVXBuUkdvMFNVRllUbTlDYTFsbFYxRmpVekpaTUdSRVJHaDNWR1pzYmtKR1RUSm5VSFl3UmswdFQxVnBZazlqWlY4dGExVkxUVGsxZUUweE5FMWxSRXhxYjJwRGR4SVhNMDR5T1dGemRrOUhjRTh3TlU1dlVHMDVabGg1VVZVYUlrRkVjM0k1WmxScGFWZzBTbE0wVUZkRk5EaGFPVU5KYVdaVlNVdEJPRVZsVW5jIiwiZmN2IjoiMyIsImVpIjoiM04yOWFzdk9HcE8wNU5vUG05Zlh5UVUiLCJxYyI6IkNpTnBibVJwWVc0Z2NHRnpjM0J2Y25RZ2RtRnNhV1JwZEhrZ1ptOXlJR0ZrZFd4MGN4QUFmWXhhY1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlmIG15IHBhc3Nwb3J0IGlzIDcgeWVhcnMgZXhwaXJlZD8iLCJsayI6IkdpWjNhR0YwSUdsbUlHMTVJSEJoYzNOd2IzSjBJR2x6SURjZ2VXVmhjbk1nWlhod2FYSmxaQSIsImJzIjoiYzQzUE93dkNNQlNHWVZ3ek9XZjZSRkVITHpSRkhETTRpYU9Eb3dRYnpZSGVTRUpyX3IyV1VoV0s2UDQtNS1Nd3ctS2R5ckdIdDZyU0tXcnlCakd5SXZmR29WSXBKZVFEaWh4WlFLbWNLd3ZycFlqNC12Sms5SnQxaHAzWnNyOGtPdEpsTHl2RmlpXzZHOThCTzdCSk8zRFRIdW9kTkk1eVJCc2tLamdweG56VTNtMjZMeFU3c3RuSktBLTZmajRPY3RnaWFHVWQ5TDBrcXhNcDVueGFfNVVPQnc4IiwiaWQiOiJmY18zTjI5YXN2T0dwTzA1Tm9QbTlmWHlRVV8yIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGJFaHVNMk5RUmpsUVQzRmFkREZVUVRKWFYzSmZjVXBuUkdvMFNVRllUbTlDYTFsbFYxRmpVekpaTUdSRVJHaDNWR1pzYmtKR1RUSm5VSFl3UmswdFQxVnBZazlqWlY4dGExVkxUVGsxZUUweE5FMWxSRXhxYjJwRGR4SVhNMDR5T1dGemRrOUhjRTh3TlU1dlVHMDVabGg1VVZVYUlrRkVjM0k1WmxScGFWZzBTbE0wVUZkRk5EaGFPVU5KYVdaVlNVdEJPRVZsVW5jIiwiZmN2IjoiMyIsImVpIjoiM04yOWFzdk9HcE8wNU5vUG05Zlh5UVUiLCJxYyI6IkNpTnBibVJwWVc0Z2NHRnpjM0J2Y25RZ2RtRnNhV1JwZEhrZ1ptOXlJR0ZrZFd4MGN4QUFmWXhhY1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlmIG15IHBhc3Nwb3J0IGlzIDcgeWVhcnMgZXhwaXJlZD8iLCJsayI6IkdpWjNhR0YwSUdsbUlHMTVJSEJoYzNOd2IzSjBJR2x6SURjZ2VXVmhjbk1nWlhod2FYSmxaQSIsImJzIjoiYzQzUE93dkNNQlNHWVZ3ek9XZjZSRkVITHpSRkhETTRpYU9Eb3dRYnpZSGVTRUpyX3IyV1VoV0s2UDQtNS1Nd3ctS2R5ckdIdDZyU0tXcnlCakd5SXZmR29WSXBKZVFEaWh4WlFLbWNLd3ZycFlqNC12Sms5SnQxaHAzWnNyOGtPdEpsTHl2RmlpXzZHOThCTzdCSk8zRFRIdW9kTkk1eVJCc2tLamdweG56VTNtMjZMeFU3c3RuSktBLTZmajRPY3RnaWFHVWQ5TDBrcXhNcDVueGFfNVVPQnc4IiwiaWQiOiJmY18zTjI5YXN2T0dwTzA1Tm9QbTlmWHlRVV8yIn0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "GlgyJ3iczVXbkqo4FP2A-Y7hpVtB0Ba7ijoVLtLR9hIvbXteKASMKIgSlLbf5l-mav5pvmYCeMEe6T7nPEzNfiAh2dm37JX1x5-eu179_dtfiyjakEeWjeO4jIMAe07ZCnzWJIe1xc4Dj4TW4hv2JHfNLDzJWTOHvSQwFpE4xnElocs3TLLv6ZseV-sGfb8xfz2gMZMel4yZSZwltf62JKzB0s_qd0GlP2VSdtaGLpcbpWgk1uH8sNbKPMcL5R5r-lQH_KeCIUBAAa1krhXoKMVbVyJnNlbJgaNAgM9bR4lTt9SrBjPruCAyaiw9pkCUGVbj5fvTPD2BMp3WZ7Fc2SVHo3GajpwYRj-S0ymNNJCzTflL3duL6FLIaW63MBLYuf4PaAQi6ECwOC58uJchyNU-CVLPpjUgV_tAeVISC8WiIfDUwUOEC7K4SBvDUXx03lEnNA7WxrR5OXYW0qHCutbCSichSXpaGTW4QJ_sKl3r3dm_dkrWkhN2OwHwHas1nVqItWZUzwtM27GNhcF9S_8rfKXGNYS6eJ_iySJnQJE8oGBXng4emvrogMvPZblygpKSzyNf5GR1fKvq8rHZiy5Yv7GmKFdFlTO7mJpQYdIvuT5sqyjr_9Ptq3Eyf8a5cp9cJ0vaDShdKYEMSum1JqrBuQHyF4g1IA8uZ3NNo95qvlXOZzaoGBwT0WAaf5ZF6utDqRZgAMEpin-VCwI4QHSvTRXleJD57l2CUDBGmYGLJKYUBSSvAM5i0vLRwRyUqBpw6YgUihENrBS8kukdpO_IEcPa8XSQRJ7PXSt45BSqJE-_wEOBtH9AB4ITZj5AIA-dpjJ_DyNv7NcOg2G3p-ybQx2jWHXfBHwbKoE_-znysf5veDpRU_b6F-KJSyZf4Yl-4GfUlMV3oaYMTwouxFMzxVNKTXKOmtRb1PQBTzKAyzyeSOa6gJp-Fk_yJ3g609gNPJ35-BpPqAhPR2rK42khoitqusLTmZpOePoVajJ_kZpSeDnZcM1TuyUu5qvtRIibDWEJW9uJNlQmVefF2Gr95pqPv-SruR89-qbt3Ruu_Sjzrehg3xt0IXh0bGYrwbXtmuu7jUnIJgiju73pubYbHe7mQXhn2jsvIozvhYHEmQ-loCuLT9-tVTV875eqjtNGKLQaqj8oLd2Rovft55rbmYRO7_Cs9-ud5cxEDztdi8ac8WC0tPp4GNt1QQ39kv4iiwOo8w1L5Cd7GHbdkSyKg04J-po1lNX29_lw9dqYP80qfY9USy810faq2y1yV8CM37hJt76GaWBE6oaOuFksmmQ6ZWhixJEqjB9aEr3maoQobCcYWECZ0u7BYGwGdIwB0h8A0mSeXgtDLNNwyF4SOW5eqc_qYoW3RVMwGR9Hh43U4BiyDqXKP3OUTC0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GlgyJ3iczVXbkqo4FP2A-Y7hpVtB0Ba7ijoVLtLR9hIvbXteKASMKIgSlLbf5l-mav5pvmYCeMEe6T7nPEzNfiAh2dm37JX1x5-eu179_dtfiyjakEeWjeO4jIMAe07ZCnzWJIe1xc4Dj4TW4hv2JHfNLDzJWTOHvSQwFpE4xnElocs3TLLv6ZseV-sGfb8xfz2gMZMel4yZSZwltf62JKzB0s_qd0GlP2VSdtaGLpcbpWgk1uH8sNbKPMcL5R5r-lQH_KeCIUBAAa1krhXoKMVbVyJnNlbJgaNAgM9bR4lTt9SrBjPruCAyaiw9pkCUGVbj5fvTPD2BMp3WZ7Fc2SVHo3GajpwYRj-S0ymNNJCzTflL3duL6FLIaW63MBLYuf4PaAQi6ECwOC58uJchyNU-CVLPpjUgV_tAeVISC8WiIfDUwUOEC7K4SBvDUXx03lEnNA7WxrR5OXYW0qHCutbCSichSXpaGTW4QJ_sKl3r3dm_dkrWkhN2OwHwHas1nVqItWZUzwtM27GNhcF9S_8rfKXGNYS6eJ_iySJnQJE8oGBXng4emvrogMvPZblygpKSzyNf5GR1fKvq8rHZiy5Yv7GmKFdFlTO7mJpQYdIvuT5sqyjr_9Ptq3Eyf8a5cp9cJ0vaDShdKYEMSum1JqrBuQHyF4g1IA8uZ3NNo95qvlXOZzaoGBwT0WAaf5ZF6utDqRZgAMEpin-VCwI4QHSvTRXleJD57l2CUDBGmYGLJKYUBSSvAM5i0vLRwRyUqBpw6YgUihENrBS8kukdpO_IEcPa8XSQRJ7PXSt45BSqJE-_wEOBtH9AB4ITZj5AIA-dpjJ_DyNv7NcOg2G3p-ybQx2jWHXfBHwbKoE_-znysf5veDpRU_b6F-KJSyZf4Yl-4GfUlMV3oaYMTwouxFMzxVNKTXKOmtRb1PQBTzKAyzyeSOa6gJp-Fk_yJ3g609gNPJ35-BpPqAhPR2rK42khoitqusLTmZpOePoVajJ_kZpSeDnZcM1TuyUu5qvtRIibDWEJW9uJNlQmVefF2Gr95pqPv-SruR89-qbt3Ruu_Sjzrehg3xt0IXh0bGYrwbXtmuu7jUnIJgiju73pubYbHe7mQXhn2jsvIozvhYHEmQ-loCuLT9-tVTV875eqjtNGKLQaqj8oLd2Rovft55rbmYRO7_Cs9-ud5cxEDztdi8ac8WC0tPp4GNt1QQ39kv4iiwOo8w1L5Cd7GHbdkSyKg04J-po1lNX29_lw9dqYP80qfY9USy810faq2y1yV8CM37hJt76GaWBE6oaOuFksmmQ6ZWhixJEqjB9aEr3maoQobCcYWECZ0u7BYGwGdIwB0h8A0mSeXgtDLNNwyF4SOW5eqc_qYoW3RVMwGR9Hh43U4BiyDqXKP3OUTC0"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Passport Seva",
+        "link": "https://www.passportindia.gov.in/psp",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVb7mZP05kGjHdmeejslrCyak_Nih_HdBcemRDK8sFpT42wGqY6ux-KTqH1BnPhaEFVvGHP9Jfkw2Bb8svPudFj8QHEKxSM2IjhmKAEJn0nUonxd7n3c-93eIj&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQFnoECCoQAQ&uoh=1",
+        "displayed_link": "https://www.passportindia.gov.in › psp",
+        "favicon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAACwBACdASogAA4AAsBMJbACdFKAUsR7GaIAb01vu80n6ab9X2tZ9-EqB6QerfD0APa_FJ6rfj2E1jzq9nVSa-vECfkh7m6e66p7fvWRnz98jbEIyHsQT7mRoUC8R4vd9i9RCfiVeMWyCBdDgar77fgdVs3lzbKue1CKGj2pb4oONbXDMv3veJ7hz2lriXx9iLHfc0h7CELkv6_UuA_nPhu14VDp3EjIrNrB9hjffLWym8UYqyqH0JJ0KyUEsVsVnhrTk9cm8J9oVOKeCAvP0EgvN8Ew-rIlGv0TotnCtfnfIO-Qso56UNUDf-YIyrN0vwy714qG_VVw4h2iNMmCi8fXftxuYsPxh1_MBwfASRd7huS_EL38G8gFkP0CG3uEundF-eNTDDCd2vH6Lg0TEkAA.webp",
+        "snippet": "Passport application fees are revised with effect from 1 July 2026. Applicants are advised to check the revised fee before making payment. Passport mobile van ...",
+        "snippet_highlighted_words": [
+          "Passport",
+          "Passport"
+        ],
+        "sitelinks": {
+          "expanded": [
+            {
+              "title": "Track Application Status",
+              "link": "https://www.passportindia.gov.in/psp/trackApplicationService",
+              "snippet": "Passport Seva at Indian Embassies and Consulates ..."
+            },
+            {
+              "title": "Apply For Passport",
+              "link": "https://www.passportindia.gov.in/psp/ApplyPassport",
+              "snippet": "Apply Passport Abroad. Process to apply for Passport Indian ..."
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Passport application fees are revised with effect from 1 July 2026. Applicants are advised to check the revised fee before making payment. Passport mobile van ...",
+            "source_info_link": "https://www.passportindia.gov.in/psp",
+            "icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAACwBACdASogAA4AAsBMJbACdFKAUsR7GaIAb01vu80n6ab9X2tZ9-EqB6QerfD0APa_FJ6rfj2E1jzq9nVSa-vECfkh7m6e66p7fvWRnz98jbEIyHsQT7mRoUC8R4vd9i9RCfiVeMWyCBdDgar77fgdVs3lzbKue1CKGj2pb4oONbXDMv3veJ7hz2lriXx9iLHfc0h7CELkv6_UuA_nPhu14VDp3EjIrNrB9hjffLWym8UYqyqH0JJ0KyUEsVsVnhrTk9cm8J9oVOKeCAvP0EgvN8Ew-rIlGv0TotnCtfnfIO-Qso56UNUDf-YIyrN0vwy714qG_VVw4h2iNMmCi8fXftxuYsPxh1_MBwfASRd7huS_EL38G8gFkP0CG3uEundF-eNTDDCd2vH6Lg0TEkAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVmI3bVpQMDVrR2pIZG1lZWpzbHJDeWFrX05paF9IZEJjZW1SREs4c0ZwVDQyd0dxWTZ1eC1LVHFIMUJuUGhhRUZWdkdIUDlKZmt3MkJiOHN2UHVkRmo4UUhFS3hTTTJJamhtS0FFSm4wblVvbnhkN24zYy05M2VJahIICgASABoCCAAauAMSAggBGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCSAwgAEAAYACAAKiQKBmluZGlhbhUIviZBGgVpbmRpYRoOaW5kaWFucGFzc3BvcnQyjgEvZ290bz91cmw9Q0FFU1h3SHJPekFWYjdtWlAwNWtHakhkbWVlanNsckN5YWtfTmloX0hkQmNlbVJESzhzRnBUNDJ3R3FZNnV4LUtUcUgxQm5QaGFFRlZ2R0hQOUpma3cyQmI4c3ZQdWRGajhRSEVLeFNNMklqaG1LQUVKbjBuVW9ueGQ3bjNjLTkzZUlqOhQ8Yj5QYXNzcG9ydDwvYj4gU2V2YUK1ATxiPlBhc3Nwb3J0PC9iPiBhcHBsaWNhdGlvbiBmZWVzIGFyZSByZXZpc2VkIHdpdGggZWZmZWN0IGZyb20gMSBKdWx5IDIwMjYuIEFwcGxpY2FudHMgYXJlIGFkdmlzZWQgdG8gY2hlY2sgdGhlIHJldmlzZWQgZmVlIGJlZm9yZSBtYWtpbmcgcGF5bWVudC4gPGI-UGFzc3BvcnQ8L2I-IG1vYmlsZSB2YW4mbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVmI3bVpQMDVrR2pIZG1lZWpzbHJDeWFrX05paF9IZEJjZW1SREs4c0ZwVDQyd0dxWTZ1eC1LVHFIMUJuUGhhRUZWdkdIUDlKZmt3MkJiOHN2UHVkRmo4UUhFS3hTTTJJamhtS0FFSm4wblVvbnhkN24zYy05M2VJahIICgASABoCCAAauAMSAggBGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCSAwgAEAAYACAAKiQKBmluZGlhbhUIviZBGgVpbmRpYRoOaW5kaWFucGFzc3BvcnQyjgEvZ290bz91cmw9Q0FFU1h3SHJPekFWYjdtWlAwNWtHakhkbWVlanNsckN5YWtfTmloX0hkQmNlbVJESzhzRnBUNDJ3R3FZNnV4LUtUcUgxQm5QaGFFRlZ2R0hQOUpma3cyQmI4c3ZQdWRGajhRSEVLeFNNMklqaG1LQUVKbjBuVW9ueGQ3bjNjLTkzZUlqOhQ8Yj5QYXNzcG9ydDwvYj4gU2V2YUK1ATxiPlBhc3Nwb3J0PC9iPiBhcHBsaWNhdGlvbiBmZWVzIGFyZSByZXZpc2VkIHdpdGggZWZmZWN0IGZyb20gMSBKdWx5IDIwMjYuIEFwcGxpY2FudHMgYXJlIGFkdmlzZWQgdG8gY2hlY2sgdGhlIHJldmlzZWQgZmVlIGJlZm9yZSBtYWtpbmcgcGF5bWVudC4gPGI-UGFzc3BvcnQ8L2I-IG1vYmlsZSB2YW4mbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+        "source": "Passport Seva"
+      },
+      {
+        "position": 2,
+        "title": "passportindia.gov.in",
+        "link": "https://www.passportindia.gov.in/index.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVe5MjHN7L5mIQUy1gNqLCl0pzGs8Hlam5qtNmIXei_6hWnhGIwBm_f8N6cozSCy2SBGJiR6fycAFbliUbh-PJqCjPwJvIBgA95cMzrrc3tPgibUuzexT3CKuTOsg7tqEB5g&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQFnoECCUQAQ&uoh=1",
+        "displayed_link": "https://www.passportindia.gov.in",
+        "favicon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAACwBACdASogAA4AAsBMJbACdFKAUsR7GaIAb01vu80n6ab9X2tZ9-EqB6QerfD0APa_FJ6rfj2E1jzq9nVSa-vECfkh7m6e66p7fvWRnz98jbEIyHsQT7mRoUC8R4vd9i9RCfiVeMWyCBdDgar77fgdVs3lzbKue1CKGj2pb4oONbXDMv3veJ7hz2lriXx9iLHfc0h7CELkv6_UuA_nPhu14VDp3EjIrNrB9hjffLWym8UYqyqH0JJ0KyUEsVsVnhrTk9cm8J9oVOKeCAvP0EgvN8Ew-rIlGv0TotnCtfnfIO-Qso56UNUDf-YIyrN0vwy714qG_VVw4h2iNMmCi8fXftxuYsPxh1_MBwfASRd7huS_EL38G8gFkP0CG3uEundF-eNTDDCd2vH6Lg0TEkAA.webp",
+        "snippet": "Welcome Page Doesn't Exist Thank you",
+        "about_this_result": {
+          "source": {
+            "description": "Welcome Page Doesn't Exist Thank you",
+            "source_info_link": "https://www.passportindia.gov.in/index.html",
+            "icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAACwBACdASogAA4AAsBMJbACdFKAUsR7GaIAb01vu80n6ab9X2tZ9-EqB6QerfD0APa_FJ6rfj2E1jzq9nVSa-vECfkh7m6e66p7fvWRnz98jbEIyHsQT7mRoUC8R4vd9i9RCfiVeMWyCBdDgar77fgdVs3lzbKue1CKGj2pb4oONbXDMv3veJ7hz2lriXx9iLHfc0h7CELkv6_UuA_nPhu14VDp3EjIrNrB9hjffLWym8UYqyqH0JJ0KyUEsVsVnhrTk9cm8J9oVOKeCAvP0EgvN8Ew-rIlGv0TotnCtfnfIO-Qso56UNUDf-YIyrN0vwy714qG_VVw4h2iNMmCi8fXftxuYsPxh1_MBwfASRd7huS_EL38G8gFkP0CG3uEundF-eNTDDCd2vH6Lg0TEkAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmU1TWpITjdMNW1JUVV5MWdOcUxDbDBwekdzOEhsYW01cXRObUlYZWlfNmhXbmhHSXdCbV9mOE42Y296U0N5MlNCR0ppUjZmeWNBRmJsaVViaC1QSnFDalB3SnZJQmdBOTVjTXpycmMzdFBnaWJVdXpleFQzQ0t1VE9zZzd0cUVCNWcSBBoCCAAatAISAggBGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCOAggAEAAYACAAKiQKBmluZGlhbhUAAIBAGgVpbmRpYRoOaW5kaWFucGFzc3BvcnQymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWZTVNakhON0w1bUlRVXkxZ05xTENsMHB6R3M4SGxhbTVxdE5tSVhlaV82aFduaEdJd0JtX2Y4TjZjb3pTQ3kyU0JHSmlSNmZ5Y0FGYmxpVWJoLVBKcUNqUHdKdklCZ0E5NWNNenJyYzN0UGdpYlV1emV4VDNDS3VUT3NnN3RxRUI1ZzoUcGFzc3BvcnRpbmRpYS5nb3YuaW5CKFdlbGNvbWUgUGFnZSBEb2VzbiYjMzk7dCBFeGlzdCBUaGFuayB5b3VKA2ZvciICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmU1TWpITjdMNW1JUVV5MWdOcUxDbDBwekdzOEhsYW01cXRObUlYZWlfNmhXbmhHSXdCbV9mOE42Y296U0N5MlNCR0ppUjZmeWNBRmJsaVViaC1QSnFDalB3SnZJQmdBOTVjTXpycmMzdFBnaWJVdXpleFQzQ0t1VE9zZzd0cUVCNWcSBBoCCAAatAISAggBGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCOAggAEAAYACAAKiQKBmluZGlhbhUAAIBAGgVpbmRpYRoOaW5kaWFucGFzc3BvcnQymAEvZ290bz91cmw9Q0FFU1pnSHJPekFWZTVNakhON0w1bUlRVXkxZ05xTENsMHB6R3M4SGxhbTVxdE5tSVhlaV82aFduaEdJd0JtX2Y4TjZjb3pTQ3kyU0JHSmlSNmZ5Y0FGYmxpVWJoLVBKcUNqUHdKdklCZ0E5NWNNenJyYzN0UGdpYlV1emV4VDNDS3VUT3NnN3RxRUI1ZzoUcGFzc3BvcnRpbmRpYS5nb3YuaW5CKFdlbGNvbWUgUGFnZSBEb2VzbiYjMzk7dCBFeGlzdCBUaGFuayB5b3VKA2ZvciICEAFIAFgAaAA",
+        "source": "passportindia.gov.in"
+      },
+      {
+        "position": 3,
+        "title": "Passport: Global market research subscription",
+        "link": "https://www.euromonitor.com/solutions/passport",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAViWwpIVvHZONHvU3dFPeJ5n6yneSBg4sU3gDK9iGGA7uIblmK9_Wf3y_2yYI_jkT5V6yTta3LKxjvTHLY7jJDfwkDTve6C3do_SsZKpxJzfQ2jLjNAtRj7yCr6PETyBggml55kQ&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQFnoECCQQAQ&uoh=1",
+        "displayed_link": "https://www.euromonitor.com › Solutions",
+        "favicon": "https://serpapi.com/images/i/UklGRhoCAABXRUJQVlA4IA4CAACQCgCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHVv-9sM475JwgHmA-0D3__QtvAHPr-yrPgtlHc3KB4AaQJmFKO1ikRGu1p-1TssI2JZNPs00c81NLHtrpeyWYgA_vrh23aL_9UyWZ8dHMP1ZvzZTiN2huo4e2kPF3ORGiMzcEs595m-Vxtb36IZkRFcoR4ZT7g9XiTWd1pzSLithCoddDnJqsMr_Cql4kOiW0m9d32r__jTOBqvEyi39-Qecf3RDiMgF77uvX_9Y4P5narEoJNvv9vv_RJlRjPnPa_sWP7rs4wXWFDdtlPuhpyXZuf7hdcLxm3ElK7V8j2YkRGwImdPZBZppziu5hBR0j3pbWSdfiE-EQygcrBXTqfvOmfysuoYXbTUf-1sceaTS614XB4J3fysuAO-bCR5E4IeltodfZql5Zq39b1TI0wmeiCPAZf-a5_ZQDEQAPbRIL8zz-izW5jlnRi6C4J30B8no4GzwU6OBu4U9j5fzL-f08-SCOUI4uOl2Z_SAH-ZU1c7SjCTvys7agD4-znwbq4nxq5XOZXxwMY4Ooq2vVXHjDX8baCJzfH1ZK03ITMa-FxhaR5WCeN7Ow9lRRA9YYttBB5ulRpWRvYCbbnMonizymFmz0r-ZLZe5B8A3yLPERsxIz-gGB84XjUgNf5HQx_X0e1Jw0jAIzBfwSAjgAAA.webp",
+        "snippet": "Passport offers an independent view of industries, categories, channels, companies, economies and consumers. Bring our intelligence to the boardroom, so you can ...",
+        "snippet_highlighted_words": [
+          "Passport"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Passport offers an independent view of industries, categories, channels, companies, economies and consumers. Bring our intelligence to the boardroom, so you can ...",
+            "source_info_link": "https://www.euromonitor.com/solutions/passport",
+            "icon": "https://serpapi.com/images/i/UklGRhoCAABXRUJQVlA4IA4CAACQCgCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHVv-9sM475JwgHmA-0D3__QtvAHPr-yrPgtlHc3KB4AaQJmFKO1ikRGu1p-1TssI2JZNPs00c81NLHtrpeyWYgA_vrh23aL_9UyWZ8dHMP1ZvzZTiN2huo4e2kPF3ORGiMzcEs595m-Vxtb36IZkRFcoR4ZT7g9XiTWd1pzSLithCoddDnJqsMr_Cql4kOiW0m9d32r__jTOBqvEyi39-Qecf3RDiMgF77uvX_9Y4P5narEoJNvv9vv_RJlRjPnPa_sWP7rs4wXWFDdtlPuhpyXZuf7hdcLxm3ElK7V8j2YkRGwImdPZBZppziu5hBR0j3pbWSdfiE-EQygcrBXTqfvOmfysuoYXbTUf-1sceaTS614XB4J3fysuAO-bCR5E4IeltodfZql5Zq39b1TI0wmeiCPAZf-a5_ZQDEQAPbRIL8zz-izW5jlnRi6C4J30B8no4GzwU6OBu4U9j5fzL-f08-SCOUI4uOl2Z_SAH-ZU1c7SjCTvys7agD4-znwbq4nxq5XOZXxwMY4Ooq2vVXHjDX8baCJzfH1ZK03ITMa-FxhaR5WCeN7Ow9lRRA9YYttBB5ulRpWRvYCbbnMonizymFmz0r-ZLZe5B8A3yLPERsxIz-gGB84XjUgNf5HQx_X0e1Jw0jAIzBfwSAjgAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmlXd3BJVnZIWk9OSHZVM2RGUGVKNW42eW5lU0JnNHNVM2dESzlpR0dBN3VJYmxtSzlfV2YzeV8yeVlJX2prVDVWNnlUdGEzTEt4anZUSExZN2pKRGZ3a0RUdmU2QzNkb19Tc1pLcHhKemZRMmpMak5BdFJqN3lDcjZQRVR5QmdnbWw1NWtREgQaAggAGu0DEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAxwMIABAAGAAgACokCgZpbmRpYW4VgzyLQBoFaW5kaWEaDmluZGlhbnBhc3Nwb3J0MpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmlXd3BJVnZIWk9OSHZVM2RGUGVKNW42eW5lU0JnNHNVM2dESzlpR0dBN3VJYmxtSzlfV2YzeV8yeVlJX2prVDVWNnlUdGEzTEt4anZUSExZN2pKRGZ3a0RUdmU2QzNkb19Tc1pLcHhKemZRMmpMak5BdFJqN3lDcjZQRVR5QmdnbWw1NWtROkBFdXJvbW9uaXRvciA8Yj5QYXNzcG9ydDwvYj46IEdsb2JhbCBNYXJrZXQgUmVzZWFyY2ggU3Vic2NyaXB0aW9uQrABPGI-UGFzc3BvcnQ8L2I-IG9mZmVycyBhbiBpbmRlcGVuZGVudCB2aWV3IG9mIGluZHVzdHJpZXMsIGNhdGVnb3JpZXMsIGNoYW5uZWxzLCBjb21wYW5pZXMsIGVjb25vbWllcyBhbmQgY29uc3VtZXJzLiBCcmluZyBvdXIgaW50ZWxsaWdlbmNlIHRvIHRoZSBib2FyZHJvb20sIHNvIHlvdSBjYW4mbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmlXd3BJVnZIWk9OSHZVM2RGUGVKNW42eW5lU0JnNHNVM2dESzlpR0dBN3VJYmxtSzlfV2YzeV8yeVlJX2prVDVWNnlUdGEzTEt4anZUSExZN2pKRGZ3a0RUdmU2QzNkb19Tc1pLcHhKemZRMmpMak5BdFJqN3lDcjZQRVR5QmdnbWw1NWtREgQaAggAGu0DEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAxwMIABAAGAAgACokCgZpbmRpYW4VgzyLQBoFaW5kaWEaDmluZGlhbnBhc3Nwb3J0MpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmlXd3BJVnZIWk9OSHZVM2RGUGVKNW42eW5lU0JnNHNVM2dESzlpR0dBN3VJYmxtSzlfV2YzeV8yeVlJX2prVDVWNnlUdGEzTEt4anZUSExZN2pKRGZ3a0RUdmU2QzNkb19Tc1pLcHhKemZRMmpMak5BdFJqN3lDcjZQRVR5QmdnbWw1NWtROkBFdXJvbW9uaXRvciA8Yj5QYXNzcG9ydDwvYj46IEdsb2JhbCBNYXJrZXQgUmVzZWFyY2ggU3Vic2NyaXB0aW9uQrABPGI-UGFzc3BvcnQ8L2I-IG9mZmVycyBhbiBpbmRlcGVuZGVudCB2aWV3IG9mIGluZHVzdHJpZXMsIGNhdGVnb3JpZXMsIGNoYW5uZWxzLCBjb21wYW5pZXMsIGVjb25vbWllcyBhbmQgY29uc3VtZXJzLiBCcmluZyBvdXIgaW50ZWxsaWdlbmNlIHRvIHRoZSBib2FyZHJvb20sIHNvIHlvdSBjYW4mbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+        "source": "Euromonitor",
+        "read_more_link": "https://www.euromonitor.com/solutions/passport#:~:text=Passport%20offers%20an%20independent%20view,stay%20ahead%20of%20the%20competition."
+      },
+      {
+        "position": 4,
+        "title": "Passport Index 2026 | World's passports in your pocket.",
+        "link": "https://www.passportindex.org/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAV1c4keTEAOztw0_hBB4ZgPyILVDX5veIKH15iK0ySARgba8T3vMyI2cHZJoZu4OXfis2WGME8mjFS7bH5SGrvnXnQgh-n1qwFX_R7-6l8hKGYBauX&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQFnoECDsQAQ&uoh=1",
+        "displayed_link": "https://www.passportindex.org",
+        "favicon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAAAwBwCdASocABwAPtE-tFooIigoFAEAGgloAJ0ygL0EaP6nBhKy2tz48I-BJedJNcEMf_vEVMgKFKI6nGgMqqXsQAAA_uaszLeX0US5D-ju556LwXF9dAvaqVf_yZss5-9PJBf17FvULM0XgDzxair9Kffzrewfl5OZBgC7HVcGIdaMXxhfcni5dSNxlWgyljz1w239sX8RoWlvGJcKCDv5hPRDfOlsf8RbvR7KPYx2qGD_90lujD063iPFG3Ed2qPsIvRqac9K5WetRGmyKHWSDOa5Msf6MfZJC2RyOlXbwcPlQQU3cxJEChwegr8a6D8oRTj_2OehDohkSE2MzV3TeQQALZOgLylnk38ySie6J9bTPTr8wifib76LoUpu863lUT3QUeV91N6fYwpKbk_726wbW7UmlwQj3DDIC1QLiAHla2gwEGrgmQ9PmPGCxwHXzclSbYwplB_FCOO649onlB_Tf8s6rc2k2Tc7Od_NzPvzowns5WICbRIeCmYi87OZH-AA.webp",
+        "snippet": "Passport Index curates, sorts and ranks the world's passports. Explore passport designs, browse by visa-free score, color, or country and discover how they ...",
+        "snippet_highlighted_words": [
+          "Passport",
+          "passport"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Passport Index curates, sorts and ranks the world's passports. Explore passport designs, browse by visa-free score, color, or country and discover how they ...",
+            "source_info_link": "https://www.passportindex.org/",
+            "icon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAAAwBwCdASocABwAPtE-tFooIigoFAEAGgloAJ0ygL0EaP6nBhKy2tz48I-BJedJNcEMf_vEVMgKFKI6nGgMqqXsQAAA_uaszLeX0US5D-ju556LwXF9dAvaqVf_yZss5-9PJBf17FvULM0XgDzxair9Kffzrewfl5OZBgC7HVcGIdaMXxhfcni5dSNxlWgyljz1w239sX8RoWlvGJcKCDv5hPRDfOlsf8RbvR7KPYx2qGD_90lujD063iPFG3Ed2qPsIvRqac9K5WetRGmyKHWSDOa5Msf6MfZJC2RyOlXbwcPlQQU3cxJEChwegr8a6D8oRTj_2OehDohkSE2MzV3TeQQALZOgLylnk38ySie6J9bTPTr8wifib76LoUpu863lUT3QUeV91N6fYwpKbk_726wbW7UmlwQj3DDIC1QLiAHla2gwEGrgmQ9PmPGCxwHXzclSbYwplB_FCOO649onlB_Tf8s6rc2k2Tc7Od_NzPvzowns5WICbRIeCmYi87OZH-AA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVjFjNGtlVEVBT3p0dzBfaEJCNFpnUHlJTFZEWDV2ZUlLSDE1aUsweVNBUmdiYThUM3ZNeUkyY0haSm9adTRPWGZpczJXR01FOG1qRlM3Ykg1U0dydm5YblFnaC1uMXF3RlhfUjctNmw4aEtHWUJhdVgSBBoCCAAa3wMSAggBGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkC5AwgAEAAYACAAKiQKBmluZGlhbhXnPu1AGgVpbmRpYRoOaW5kaWFucGFzc3BvcnQyhgEvZ290bz91cmw9Q0FFU1dRSHJPekFWMWM0a2VURUFPenR3MF9oQkI0WmdQeUlMVkRYNXZlSUtIMTVpSzB5U0FSZ2JhOFQzdk15STJjSFpKb1p1NE9YZmlzMldHTUU4bWpGUzdiSDVTR3J2blhuUWdoLW4xcXdGWF9SNy02bDhoS0dZQmF1WDpCPGI-UGFzc3BvcnQ8L2I-IEluZGV4IDIwMjYgfCBXb3JsZCYjMzk7cyBwYXNzcG9ydHMgaW4geW91ciBwb2NrZXQuQrYBPGI-UGFzc3BvcnQ8L2I-IEluZGV4IGN1cmF0ZXMsIHNvcnRzIGFuZCByYW5rcyB0aGUgd29ybGQmIzM5O3MgcGFzc3BvcnRzLiBFeHBsb3JlIDxiPnBhc3Nwb3J0PC9iPiBkZXNpZ25zLCBicm93c2UgYnkgdmlzYS1mcmVlIHNjb3JlLCBjb2xvciwgb3IgY291bnRyeSBhbmQgZGlzY292ZXIgaG93IHRoZXkmbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVjFjNGtlVEVBT3p0dzBfaEJCNFpnUHlJTFZEWDV2ZUlLSDE1aUsweVNBUmdiYThUM3ZNeUkyY0haSm9adTRPWGZpczJXR01FOG1qRlM3Ykg1U0dydm5YblFnaC1uMXF3RlhfUjctNmw4aEtHWUJhdVgSBBoCCAAa3wMSAggBGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkC5AwgAEAAYACAAKiQKBmluZGlhbhXnPu1AGgVpbmRpYRoOaW5kaWFucGFzc3BvcnQyhgEvZ290bz91cmw9Q0FFU1dRSHJPekFWMWM0a2VURUFPenR3MF9oQkI0WmdQeUlMVkRYNXZlSUtIMTVpSzB5U0FSZ2JhOFQzdk15STJjSFpKb1p1NE9YZmlzMldHTUU4bWpGUzdiSDVTR3J2blhuUWdoLW4xcXdGWF9SNy02bDhoS0dZQmF1WDpCPGI-UGFzc3BvcnQ8L2I-IEluZGV4IDIwMjYgfCBXb3JsZCYjMzk7cyBwYXNzcG9ydHMgaW4geW91ciBwb2NrZXQuQrYBPGI-UGFzc3BvcnQ8L2I-IEluZGV4IGN1cmF0ZXMsIHNvcnRzIGFuZCByYW5rcyB0aGUgd29ybGQmIzM5O3MgcGFzc3BvcnRzLiBFeHBsb3JlIDxiPnBhc3Nwb3J0PC9iPiBkZXNpZ25zLCBicm93c2UgYnkgdmlzYS1mcmVlIHNjb3JlLCBjb2xvciwgb3IgY291bnRyeSBhbmQgZGlzY292ZXIgaG93IHRoZXkmbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+        "source": "Passport Index"
+      },
+      {
+        "position": 5,
+        "title": "U.S. Passports - Travel",
+        "link": "https://travel.state.gov/en/passports.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVcJCAH0zpP0vJoEqbpddYIKgtpB0mASTz-qkOJsk9hhZPSgXbJDRCFnuluVZOjEU3muUOIUY0ABL4YYCiqL2AFwq4PW5GgwDy1DH9PVCYC-Plx7CqS7kLtN3BsP-uns4r&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQFnoECEEQAQ&uoh=1",
+        "displayed_link": "https://travel.state.gov › passports",
+        "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAADwCACdASocABwAPtE-tFooIigoFAEAGgloAL5Ooqn2H3XLD60CVBDIvFB9IewL0h_Q3_XQOKu5Xmsf7cR-DXR__0fq0Rjp-PVHrcdn2aiBQAD-9hOgajMi8622a-LJ491i9QF5-uDhTCfc8HOQZZSpKXgbyvYpOJV_VaWkr63i8CPYzduAwgtbrLWoTlaZ4Dn8pVjd1mIUZxyiPLqpFZOilhrVQbgjR4sQ8MMUcEg6y1dCAyUt8X5qtno2Z6jItjZfXkW2mnv57yDYoqWtDF-9fDpVD5UxQSAp7d2ywwP8R5t5L7lSxK8IUJJ_b770ojztNceWbUvx_tuLV0fzsaGtxZsTQAAnhNcId-sulDoVvnV1waf0J37_0dQ7Mbp_5ztHbPzOlCxTUoWst4Li_zWGs92PXeXJCkVxFcDabX6zZnkawvXToKGyManCdV0Nhv-VPhiZhP2X0NoDyTIkzS2Li9dr4lLejhKYGc4X3FeiJBvbCxP_1IgiW-MQVf7Tifuu-K_yjZJ_5Lmw9ptll9TR_gCV6k7IDk8RN9lPRx4_Ga4PmU16Pho9UYtYq_ZpHj-olSDUmFHGISzR2gA.webp",
+        "date": "4 May 2026",
+        "snippet": "Limited-Validity Passport. If you are an adult and already have a passport, you may be eligible to renew it online or by mail. You can also ...",
+        "snippet_highlighted_words": [
+          "Validity Passport",
+          "adult",
+          "passport"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Limited-Validity Passport. If you are an adult and already have a passport, you may be eligible to renew it online or by mail. You can also ...",
+            "source_info_link": "https://travel.state.gov/en/passports.html",
+            "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAADwCACdASocABwAPtE-tFooIigoFAEAGgloAL5Ooqn2H3XLD60CVBDIvFB9IewL0h_Q3_XQOKu5Xmsf7cR-DXR__0fq0Rjp-PVHrcdn2aiBQAD-9hOgajMi8622a-LJ491i9QF5-uDhTCfc8HOQZZSpKXgbyvYpOJV_VaWkr63i8CPYzduAwgtbrLWoTlaZ4Dn8pVjd1mIUZxyiPLqpFZOilhrVQbgjR4sQ8MMUcEg6y1dCAyUt8X5qtno2Z6jItjZfXkW2mnv57yDYoqWtDF-9fDpVD5UxQSAp7d2ywwP8R5t5L7lSxK8IUJJ_b770ojztNceWbUvx_tuLV0fzsaGtxZsTQAAnhNcId-sulDoVvnV1waf0J37_0dQ7Mbp_5ztHbPzOlCxTUoWst4Li_zWGs92PXeXJCkVxFcDabX6zZnkawvXToKGyManCdV0Nhv-VPhiZhP2X0NoDyTIkzS2Li9dr4lLejhKYGc4X3FeiJBvbCxP_1IgiW-MQVf7Tifuu-K_yjZJ_5Lmw9ptll9TR_gCV6k7IDk8RN9lPRx4_Ga4PmU16Pho9UYtYq_ZpHj-olSDUmFHGISzR2gA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmNKQ0FIMHpwUDB2Sm9FcWJwZGRZSUtndHBCMG1BU1R6LXFrT0pzazloaFpQU2dYYkpEUkNGbnVsdVZaT2pFVTNtdVVPSVVZMEFCTDRZWUNpcUwyQUZ3cTRQVzVHZ3dEeTFESDlQVkNZQy1QbHg3Q3FTN2tMdE4zQnNQLXVuczRyEgQaAggAGrcDEgIIARoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAkQMIABAAGAAgACokCgZpbmRpYW4VDfRkQBoFaW5kaWEaDmluZGlhbnBhc3Nwb3J0MpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmNKQ0FIMHpwUDB2Sm9FcWJwZGRZSUtndHBCMG1BU1R6LXFrT0pzazloaFpQU2dYYkpEUkNGbnVsdVZaT2pFVTNtdVVPSVVZMEFCTDRZWUNpcUwyQUZ3cTRQVzVHZ3dEeTFESDlQVkNZQy1QbHg3Q3FTN2tMdE4zQnNQLXVuczRyOhdVLlMuIFBhc3Nwb3J0cyAtIFRyYXZlbEKpAUxpbWl0ZWQtPGI-VmFsaWRpdHkgUGFzc3BvcnQ8L2I-LiBJZiB5b3UgYXJlIGFuIDxiPmFkdWx0PC9iPiBhbmQgYWxyZWFkeSBoYXZlIGEgPGI-cGFzc3BvcnQ8L2I-LCB5b3UgbWF5IGJlIGVsaWdpYmxlIHRvIHJlbmV3IGl0IG9ubGluZSBvciBieSBtYWlsLiBZb3UgY2FuIGFsc28mbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmNKQ0FIMHpwUDB2Sm9FcWJwZGRZSUtndHBCMG1BU1R6LXFrT0pzazloaFpQU2dYYkpEUkNGbnVsdVZaT2pFVTNtdVVPSVVZMEFCTDRZWUNpcUwyQUZ3cTRQVzVHZ3dEeTFESDlQVkNZQy1QbHg3Q3FTN2tMdE4zQnNQLXVuczRyEgQaAggAGrcDEgIIARoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAkQMIABAAGAAgACokCgZpbmRpYW4VDfRkQBoFaW5kaWEaDmluZGlhbnBhc3Nwb3J0MpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmNKQ0FIMHpwUDB2Sm9FcWJwZGRZSUtndHBCMG1BU1R6LXFrT0pzazloaFpQU2dYYkpEUkNGbnVsdVZaT2pFVTNtdVVPSVVZMEFCTDRZWUNpcUwyQUZ3cTRQVzVHZ3dEeTFESDlQVkNZQy1QbHg3Q3FTN2tMdE4zQnNQLXVuczRyOhdVLlMuIFBhc3Nwb3J0cyAtIFRyYXZlbEKpAUxpbWl0ZWQtPGI-VmFsaWRpdHkgUGFzc3BvcnQ8L2I-LiBJZiB5b3UgYXJlIGFuIDxiPmFkdWx0PC9iPiBhbmQgYWxyZWFkeSBoYXZlIGEgPGI-cGFzc3BvcnQ8L2I-LCB5b3UgbWF5IGJlIGVsaWdpYmxlIHRvIHJlbmV3IGl0IG9ubGluZSBvciBieSBtYWlsLiBZb3UgY2FuIGFsc28mbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+        "source": "U.S. Department of State (.gov)"
+      },
+      {
+        "position": 6,
+        "title": "Passport Seva - Apply for Ordinary Passport",
+        "link": "https://www.india.gov.in/services/details/passport-seva-apply-for-ordinary-passport",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFcZ4_rVtvQFLHzjZhsKsksNePq0qhJbaHEuzPbo-tXRhruQLvsL_-SKO9wlt3YKNk02Jy6RUI8NilCBfD2on_wKLQoep4niOGtA5NZqzLkPujE49x8zxv38GMlTVGddAnA-NG2IOI2Wl0zPEHpRsU5lbML2VQPsSUyR-bl_23gcqFOwaCCepMbDX&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQFnoECDwQAQ&uoh=1",
+        "displayed_link": "https://www.india.gov.in › services › details › passport-se...",
+        "favicon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASogABUAPtEutFooIagoGAEAGgliAAPiQVo6a7AjhlftkRAA05sh7co-r5qna4AlPOwQLeHs5nz9IquEidm0AZKS__G_05ogN__dWKfdfTXuCnVkBjAPuB43mM9qeEUHN6sS0RJ6O7bF8UcQC9vgAA.webp",
+        "snippet": "The Ordinary Passport is intended for regular travel purposes, including business, tourism, and personal trips abroad.",
+        "snippet_highlighted_words": [
+          "Passport"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The Ordinary Passport is intended for regular travel purposes, including business, tourism, and personal trips abroad.",
+            "source_info_link": "https://www.india.gov.in/services/details/passport-seva-apply-for-ordinary-passport",
+            "icon": "https://serpapi.com/images/i/UklGRoAAAABXRUJQVlA4IHQAAADQAwCdASogABUAPtEutFooIagoGAEAGgliAAPiQVo6a7AjhlftkRAA05sh7co-r5qna4AlPOwQLeHs5nz9IquEidm0AZKS__G_05ogN__dWKfdfTXuCnVkBjAPuB43mM9qeEUHN6sS0RJ6O7bF8UcQC9vgAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZjWjRfclZ0dlFGTEh6alpoc0tza3NOZVBxMHFoSmJhSEV1elBiby10WFJocnVRTHZzTF8tU0tPOXdsdDNZS05rMDJKeTZSVUk4TmlsQ0JmRDJvbl93S0xRb2VwNG5pT0d0QTVOWnF6TGtQdWpFNDl4OHp4djM4R01sVFZHZGRBbkEtTkcySU9JMldsMHpQRUhwUnNVNWxiTUwyVlFQc1NVeVItYmxfMjNnY3FGT3dhQ0NlcE1iRFgSBBoCCAAa5AMSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkC-AwgAEAAYACAAKiQKBmluZGlhbhXeIaRAGgVpbmRpYRoOaW5kaWFucGFzc3BvcnQyzgEvZ290bz91cmw9Q0FFU2pnRUI2enN3RmNaNF9yVnR2UUZMSHpqWmhzS3Nrc05lUHEwcWhKYmFIRXV6UGJvLXRYUmhydVFMdnNMXy1TS085d2x0M1lLTmswMkp5NlJVSThOaWxDQmZEMm9uX3dLTFFvZXA0bmlPR3RBNU5acXpMa1B1akU0OXg4enh2MzhHTWxUVkdkZEFuQS1ORzJJT0kyV2wwelBFSHBSc1U1bGJNTDJWUVBzU1V5Ui1ibF8yM2djcUZPd2FDQ2VwTWJEWDo5PGI-UGFzc3BvcnQ8L2I-IFNldmEgLSBBcHBseSBmb3IgT3JkaW5hcnkgPGI-UGFzc3BvcnQ8L2I-Qn1UaGUgT3JkaW5hcnkgPGI-UGFzc3BvcnQ8L2I-IGlzIGludGVuZGVkIGZvciByZWd1bGFyIHRyYXZlbCBwdXJwb3NlcywgaW5jbHVkaW5nIGJ1c2luZXNzLCB0b3VyaXNtLCBhbmQgcGVyc29uYWwgdHJpcHMgYWJyb2FkLkoDZm9yIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZjWjRfclZ0dlFGTEh6alpoc0tza3NOZVBxMHFoSmJhSEV1elBiby10WFJocnVRTHZzTF8tU0tPOXdsdDNZS05rMDJKeTZSVUk4TmlsQ0JmRDJvbl93S0xRb2VwNG5pT0d0QTVOWnF6TGtQdWpFNDl4OHp4djM4R01sVFZHZGRBbkEtTkcySU9JMldsMHpQRUhwUnNVNWxiTUwyVlFQc1NVeVItYmxfMjNnY3FGT3dhQ0NlcE1iRFgSBBoCCAAa5AMSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkC-AwgAEAAYACAAKiQKBmluZGlhbhXeIaRAGgVpbmRpYRoOaW5kaWFucGFzc3BvcnQyzgEvZ290bz91cmw9Q0FFU2pnRUI2enN3RmNaNF9yVnR2UUZMSHpqWmhzS3Nrc05lUHEwcWhKYmFIRXV6UGJvLXRYUmhydVFMdnNMXy1TS085d2x0M1lLTmswMkp5NlJVSThOaWxDQmZEMm9uX3dLTFFvZXA0bmlPR3RBNU5acXpMa1B1akU0OXg4enh2MzhHTWxUVkdkZEFuQS1ORzJJT0kyV2wwelBFSHBSc1U1bGJNTDJWUVBzU1V5Ui1ibF8yM2djcUZPd2FDQ2VwTWJEWDo5PGI-UGFzc3BvcnQ8L2I-IFNldmEgLSBBcHBseSBmb3IgT3JkaW5hcnkgPGI-UGFzc3BvcnQ8L2I-Qn1UaGUgT3JkaW5hcnkgPGI-UGFzc3BvcnQ8L2I-IGlzIGludGVuZGVkIGZvciByZWd1bGFyIHRyYXZlbCBwdXJwb3NlcywgaW5jbHVkaW5nIGJ1c2luZXNzLCB0b3VyaXNtLCBhbmQgcGVyc29uYWwgdHJpcHMgYWJyb2FkLkoDZm9yIgIQAUgAWABoAA",
+        "source": "National Portal of India"
+      },
+      {
+        "position": 7,
+        "title": "Login",
+        "link": "https://mportal.passportindia.gov.in/gpsp/AuthNavigation/Login",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVqRCTBUvtBDyYDX8d9YfK4PqWQXNwSFcVwKtk7y15KJYQsJBSQazKDayZ1kQ0YqdDme_t8d2TyXKTTYSG0yjdfWSzCcjAIEtYs8SH_tRI3ihR3XjVRmww_NoVITFU-HlgHx83AgTklMA39NAxbnTUnV-xGDE&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQFnoECD8QAQ&uoh=1",
+        "displayed_link": "https://mportal.passportindia.gov.in › AuthNavigation",
+        "snippet": "Important Notice: From September 1, 2025, ICAO compliant photographs will be required for submitting passport applications. Please click for ICAO guidelines ...",
+        "snippet_highlighted_words": [
+          "passport"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Important Notice: From September 1, 2025, ICAO compliant photographs will be required for submitting passport applications. Please click for ICAO guidelines ...",
+            "source_info_link": "https://mportal.passportindia.gov.in/gpsp/AuthNavigation/Login"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnFSQ1RCVXZ0QkR5WURYOGQ5WWZLNFBxV1FYTndTRmNWd0t0azd5MTVLSllRc0pCU1FhektEYXlaMWtRMFlxZERtZV90OGQyVHlYS1RUWVNHMHlqZGZXU3pDY2pBSUV0WXM4U0hfdFJJM2loUjNYalZSbXd3X05vVklURlUtSGxnSHg4M0FnVGtsTUEzOU5BeGJuVFVuVi14R0RFEgQaAggAGtoDEgIIARoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAtAMIABAAGAAgACokCgZpbmRpYW4V-iDbQBoFaW5kaWEaDmluZGlhbnBhc3Nwb3J0MrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnFSQ1RCVXZ0QkR5WURYOGQ5WWZLNFBxV1FYTndTRmNWd0t0azd5MTVLSllRc0pCU1FhektEYXlaMWtRMFlxZERtZV90OGQyVHlYS1RUWVNHMHlqZGZXU3pDY2pBSUV0WXM4U0hfdFJJM2loUjNYalZSbXd3X05vVklURlUtSGxnSHg4M0FnVGtsTUEzOU5BeGJuVFVuVi14R0RFOhxMb2dpbiAtIDxiPlBhc3Nwb3J0PC9iPiBTZXZhQqwBSW1wb3J0YW50IE5vdGljZTogRnJvbSBTZXB0ZW1iZXIgMSwgMjAyNSwgSUNBTyBjb21wbGlhbnQgcGhvdG9ncmFwaHMgd2lsbCBiZSByZXF1aXJlZCBmb3Igc3VibWl0dGluZyA8Yj5wYXNzcG9ydDwvYj4gYXBwbGljYXRpb25zLiBQbGVhc2UgY2xpY2sgZm9yIElDQU8gZ3VpZGVsaW5lcyZuYnNwOy4uLkoDZm9yIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnFSQ1RCVXZ0QkR5WURYOGQ5WWZLNFBxV1FYTndTRmNWd0t0azd5MTVLSllRc0pCU1FhektEYXlaMWtRMFlxZERtZV90OGQyVHlYS1RUWVNHMHlqZGZXU3pDY2pBSUV0WXM4U0hfdFJJM2loUjNYalZSbXd3X05vVklURlUtSGxnSHg4M0FnVGtsTUEzOU5BeGJuVFVuVi14R0RFEgQaAggAGtoDEgIIARoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAtAMIABAAGAAgACokCgZpbmRpYW4V-iDbQBoFaW5kaWEaDmluZGlhbnBhc3Nwb3J0MrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnFSQ1RCVXZ0QkR5WURYOGQ5WWZLNFBxV1FYTndTRmNWd0t0azd5MTVLSllRc0pCU1FhektEYXlaMWtRMFlxZERtZV90OGQyVHlYS1RUWVNHMHlqZGZXU3pDY2pBSUV0WXM4U0hfdFJJM2loUjNYalZSbXd3X05vVklURlUtSGxnSHg4M0FnVGtsTUEzOU5BeGJuVFVuVi14R0RFOhxMb2dpbiAtIDxiPlBhc3Nwb3J0PC9iPiBTZXZhQqwBSW1wb3J0YW50IE5vdGljZTogRnJvbSBTZXB0ZW1iZXIgMSwgMjAyNSwgSUNBTyBjb21wbGlhbnQgcGhvdG9ncmFwaHMgd2lsbCBiZSByZXF1aXJlZCBmb3Igc3VibWl0dGluZyA8Yj5wYXNzcG9ydDwvYj4gYXBwbGljYXRpb25zLiBQbGVhc2UgY2xpY2sgZm9yIElDQU8gZ3VpZGVsaW5lcyZuYnNwOy4uLkoDZm9yIgIQAUgAWABoAA",
+        "source": "Passport Seva",
+        "read_more_link": "https://mportal.passportindia.gov.in/gpsp/AuthNavigation/Login#:~:text=Important%20Notice%3A%20From%20September%201%2C,required%20for%20submitting%20passport%20applications."
+      },
+      {
+        "position": 8,
+        "title": "Bas - Passport Bros (with J. Cole) (Official Music Video) ft. J. Cole",
+        "link": "https://www.youtube.com/watch?v=Be-iYXCVwf4",
+        "displayed_link": "22.9L+ views · 3 years ago",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREiFkqny5tZGfcQDuCZXiukMEU6LTHjL_LP2tD6RKbzms5otBjM60wfQ&s",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "snippet": "Music video by Bas performing Passport Bros. (with J. Cole) (Official Music Video) Tribe with J.Cole Bas•87M",
+        "duration": "2:51",
+        "about_this_result": {
+          "source": {
+            "description": "Music video by Bas performing Passport Bros. (with J. Cole) (Official Music Video) Tribe with J.Cole Bas•87M",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnJzTlRURzAwRlRJR0JqbGE3V0xEMVhqa1hLSExWaHFrM25uZlg1N0hVYWhMUVlJdi1KbG1Jc1lXb1hSdlpDLWZZZ3hiemlmNlByV0VZTFJuNHd1bnoyalRWVXV1dlNmZW5jV0lrZldGQnY1NGRuYngxQm9kRHgyeEpwTjBvVkdnOEESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnJzTlRURzAwRlRJR0JqbGE3V0xEMVhqa1hLSExWaHFrM25uZlg1N0hVYWhMUVlJdi1KbG1Jc1lXb1hSdlpDLWZZZ3hiemlmNlByV0VZTFJuNHd1bnoyalRWVXV1dlNmZW5jV0lrZldGQnY1NGRuYngxQm9kRHgyeEpwTjBvVkdnOEESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRVgt_Iea4h6PPYkPiXuJTIZ_5cocZCqTwx3A",
+        "source": "YouTube · Bas"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Indian Passport tracking",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnsB0gRfLjGLUx56dpJts5fMw4Smeg:1790827996443&q=Indian+Passport+tracking&sa=X&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQ1QJ6BAgzEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Indian+Passport+tracking"
+      },
+      {
+        "block_position": 1,
+        "query": "Passport Seva",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnsB0gRfLjGLUx56dpJts5fMw4Smeg:1790827996443&q=Passport+Seva&sa=X&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQ1QJ6BAg6EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Passport+Seva"
+      },
+      {
+        "block_position": 1,
+        "query": "Passport renewal after expiry India",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnsB0gRfLjGLUx56dpJts5fMw4Smeg:1790827996443&q=Passport+renewal+after+expiry+India&sa=X&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQ1QJ6BAg5EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Passport+renewal+after+expiry+India"
+      },
+      {
+        "block_position": 1,
+        "query": "Passport Seva status",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnsB0gRfLjGLUx56dpJts5fMw4Smeg:1790827996443&q=Passport+Seva+status&sa=X&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQ1QJ6BAg4EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Passport+Seva+status"
+      },
+      {
+        "block_position": 1,
+        "query": "Passport Seva appointment",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnsB0gRfLjGLUx56dpJts5fMw4Smeg:1790827996443&q=Passport+Seva+appointment&sa=X&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQ1QJ6BAg3EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Passport+Seva+appointment"
+      },
+      {
+        "block_position": 1,
+        "query": "Passport tracking status",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnsB0gRfLjGLUx56dpJts5fMw4Smeg:1790827996443&q=Passport+tracking+status&sa=X&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQ1QJ6BAg2EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Passport+tracking+status"
+      },
+      {
+        "block_position": 1,
+        "query": "Renewal of Indian passport before expiry date",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnsB0gRfLjGLUx56dpJts5fMw4Smeg:1790827996443&q=Renewal+of+Indian+passport+before+expiry+date&sa=X&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQ1QJ6BAg1EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Renewal+of+Indian+passport+before+expiry+date"
+      },
+      {
+        "block_position": 1,
+        "query": "Passport dispatch status",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnsB0gRfLjGLUx56dpJts5fMw4Smeg:1790827996443&q=Passport+dispatch+status&sa=X&ved=2ahUKEwjLrNOU-peXAxUTGlkFHZvrNVkQ1QJ6BAg0EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Passport+dispatch+status"
+      }
+    ],
+    "dmca_messages": {
+      "title": "Notices about Filtered Results",
+      "messages": [
+        {
+          "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 10 already displayed.If you like, you can repeat the search with the omitted results included.",
+          "highlighted_words": [
+            {
+              "link": "https://www.google.com/search?q=Indian+passport+validity+for+adults&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnsB0gRfLjGLUx56dpJts5fMw4Smeg:1790827996443&filter=0",
+              "text": "repeat the search with the omitted results included"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

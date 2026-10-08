@@ -1,0 +1,383 @@
+{
+  "civicsignal_fixture": {
+    "engine": "google",
+    "q": "Aadhaar free update last date 2026",
+    "params": {
+      "gl": "in",
+      "hl": "en",
+      "num": 10
+    },
+    "kind": "captured",
+    "captured_at": "2026-10-01T04:13:09.774919+00:00",
+    "note": "deadline with repeated extensions; stale/conflict candidate"
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6abdddd20558c0fa250d98a2",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/sD6kqJzbe92yphkr5DcnMyzAroom1T00Gd_vm3EmCfs/6abdddd20558c0fa250d98a2.json",
+      "markdown_endpoint": "https://serpapi.com/searches/sD6kqJzbe92yphkr5DcnMyzAroom1T00Gd_vm3EmCfs/6abdddd20558c0fa250d98a2.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/sD6kqJzbe92yphkr5DcnMyzAroom1T00Gd_vm3EmCfs/6abdddd20558c0fa250d98a2.json_with_pixel_position",
+      "created_at": "2026-10-01 04:13:06 UTC",
+      "processed_at": "2026-10-01 04:13:06 UTC",
+      "google_url": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026&oq=Aadhaar+free+update+last+date+2026&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/sD6kqJzbe92yphkr5DcnMyzAroom1T00Gd_vm3EmCfs/6abdddd20558c0fa250d98a2.html",
+      "total_time_taken": 0.46
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Aadhaar free update last date 2026",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Aadhaar free update last date 2026",
+      "total_results": 25270000000,
+      "time_taken_displayed": 0.22,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+      {
+        "question": "What does the verb \"last\" mean?",
+        "type": "ai_overview",
+        "page_token": "uQ-YXXicHdBLUoMwAIDh8TIuLQFbx850nIlAQUtqQhIeGycNtLEJEFtasDvv4qk8jY_dv_zm__wyb63-vjqrvrfH-WQyDMPNrut2pr6RXTMRx49WTqQwZiOkns_uZuBhKxfBKYaP7zHEzFruE4dGFqLACKLDPW1NR5l0U5AMOAUvvFWHOtt5SIdeZQiQF-xSo47CHVmd8XWlhykGJMFAf-ALJCKyLyIbcdYikBreJT5EjMI0yauopuFSRAiW_pMqHePTpeMkQM2oU-qU24DmTzBxx-cC2FWd9Zi5lpKWj5uMIAy4g1seoNYEZahozaoTd8pQBsmtzGHKm54QbjzJQy9Qcqj8eFrksVszq4u8HKsI4YSqkTb3UIzdG2bkIvemYVz9FvpzrCpqpuvluEJZ7Gx0MUi_7ERjCoavt_K88K7_fy5et00_t4du9wPsk4Mu",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uQ-YXXicHdBLUoMwAIDh8TIuLQFbx850nIlAQUtqQhIeGycNtLEJEFtasDvv4qk8jY_dv_zm__wyb63-vjqrvrfH-WQyDMPNrut2pr6RXTMRx49WTqQwZiOkns_uZuBhKxfBKYaP7zHEzFruE4dGFqLACKLDPW1NR5l0U5AMOAUvvFWHOtt5SIdeZQiQF-xSo47CHVmd8XWlhykGJMFAf-ALJCKyLyIbcdYikBreJT5EjMI0yauopuFSRAiW_pMqHePTpeMkQM2oU-qU24DmTzBxx-cC2FWd9Zi5lpKWj5uMIAy4g1seoNYEZahozaoTd8pQBsmtzGHKm54QbjzJQy9Qcqj8eFrksVszq4u8HKsI4YSqkTb3UIzdG2bkIvemYVz9FvpzrCpqpuvluEJZ7Gx0MUi_7ERjCoavt_K88K7_fy5et00_t4du9wPsk4Mu",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01rWmxZM2M1TldsV2VXWnNlbkpMUzNRelozWjZhbUpqV2tsdE1HRm1TblZMVUhoeGNsaFBTVVZIYm1aM01qWXdPREJOVWxoWFFrSTNVemxxUVhSV1h6ZDJhV3BtVFU5RWNtZHliRkY0VG5jM1UyRTVNSFpwUjBWc2R4SVhNSFF5T1dGeU5ubEtaR0YyY1hSelVERTRjVTV2UVdzYUlrRkVjM0k1WmxNNFVqSkdiREJWV2xSelNWRnpZamRCYjFOYWFYVktZV2x3ZEhjIiwiZmN2IjoiMyIsImVpIjoiMHQyOWFyNnlKZGF2cXRzUDE4cU5vQWsiLCJxYyI6ImMtTlNTa3hNeVVoTUxGSklLMHBOVlNndFNFa3NTVlhJU1N3dVVRQ3pqQXlNekFRWWFoXzQtOW9EQUEiLCJxdWVzdGlvbiI6IldoYXQgZG9lcyB0aGUgdmVyYiBcImxhc3RcIiBtZWFuPyIsImxrIjoiR2hGc1lYTjBJSFpsY21JZ2JXVmhibWx1WnciLCJicyI6ImMtTXk0NUlQejBnc1VVakpUeTFXS01sSVZTaExMVXBTVU1wSkxDNVJVc2hOVGN5ek54S1dFZ1J4SVRJZ29jeThkQUZHQUEiLCJpZCI6ImZjXzB0MjlhcjZ5SmRhdnF0c1AxOHFOb0FrXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01rWmxZM2M1TldsV2VXWnNlbkpMUzNRelozWjZhbUpqV2tsdE1HRm1TblZMVUhoeGNsaFBTVVZIYm1aM01qWXdPREJOVWxoWFFrSTNVemxxUVhSV1h6ZDJhV3BtVFU5RWNtZHliRkY0VG5jM1UyRTVNSFpwUjBWc2R4SVhNSFF5T1dGeU5ubEtaR0YyY1hSelVERTRjVTV2UVdzYUlrRkVjM0k1WmxNNFVqSkdiREJWV2xSelNWRnpZamRCYjFOYWFYVktZV2x3ZEhjIiwiZmN2IjoiMyIsImVpIjoiMHQyOWFyNnlKZGF2cXRzUDE4cU5vQWsiLCJxYyI6ImMtTlNTa3hNeVVoTUxGSklLMHBOVlNndFNFa3NTVlhJU1N3dVVRQ3pqQXlNekFRWWFoXzQtOW9EQUEiLCJxdWVzdGlvbiI6IldoYXQgZG9lcyB0aGUgdmVyYiBcImxhc3RcIiBtZWFuPyIsImxrIjoiR2hGc1lYTjBJSFpsY21JZ2JXVmhibWx1WnciLCJicyI6ImMtTXk0NUlQejBnc1VVakpUeTFXS01sSVZTaExMVXBTVU1wSkxDNVJVc2hOVGN5ek54S1dFZ1J4SVRJZ29jeThkQUZHQUEiLCJpZCI6ImZjXzB0MjlhcjZ5SmRhdnF0c1AxOHFOb0FrXzEifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "rHBazniczVXdcqJKEH6A8xzLTRIB_00VtTUzoo7xD4nZTW4oBBwJIMqgaO72Mc79earzNGeAoOhKUrsXW2e0aGamu6enuz--H_-49sr596-_l2G4pvc8H0VRifg-ca2S4Xu8Tg8rg1_4Lg2M5delK1krjriSveIOO6nCGVQSOMuWhLDc0oP6oW_qu01IJ2JzM_KBwyXmkjbXqfXKvO9fKa_x7OF8qbTZpERL1krrwtJ0J461tx7SiVEqC-VKaczrHtMBf3AoMsAAMpmKooEAkD93FqsoAMW-skHQaSsd7dRffCZJFh4Kj8SxFWQ_DBLVSXVfW1LmQsmU1OKIlfwkSgSE6YlqHBT5_D6nkaYGKsfQCge-vpxaotyhzz_tXvM2PJ_7ALarQFFgFsJFVdT8rWAnvmWswZJx194DGNkFyX43YP9H0HP8j6-YBIJwM0sH6FBWVMybhDWvwM8DJkTeNpZG8hLQuKfRY0vwe9Z0Dq1l9aVHjfK63-6sx7JTdfbbl0HEG3Om5_q6aZnaUhO-JnOxLNaEVqXRvE3wZNAjoGgeUDX6MtKoh-ozuTQoQTGDEjoW5OJCMpuja7VimUXXDI5esoznjG2U76bZu2TtHWGAzzqCyHgSy262MGYFBdDIQy87IHZ5DUpnSimUSNJYOG0wfDI_qsxyYZD8VvsKDH76DiAEEgBhoLTTvJAsAOUiTQiomO1lq_DcPWsYeynHEqosaJqoGaf-94EsyNPLssSfClYWWT46wce3JKoTlBDrb5R0_CjWcRBxIGbBQpAaEQCzzPnk4hy54BOH2B3hUyFEPxyk6HtwNnCGmQsI5KEjDyaTQWXa2GE6-x6MWq3Juln9Pnacmh9dh4rvzX-NfIz_F54yapq9U1MxnuTP8cQe5CNqSh5HaiJqiqeHYjzJ-ERNJEdNUaZ0oqZLPCE1hyd0SJzDznVq-lU8oQ_wlMmreIpveg1PShGeEmo6w1P_kprO8HSkpgxPv0dN-PeoKYGXlYpzntq-kkK-kmUy73bHD-Tl1XgU8XYlTMD-bk37d_hzvlp44b2nm-6tZpv3sNwPD-atxhb8e8vkNhLQzaWuBzeLwLJutmtTD60bV6fhTfLGIFnnPDfwJUFvqIcnJ2oMSHVvj4ausIE26SgrUB17jcCPrFatXhmFYVmcvL3VeovxZgungal6XcWF4NGwBvQwfFj1anfOVD68wkOgjcLexHUq1DK3w4632FXri-HDeu-GbTMSPLMSNL9ZWBXUVYP26pVx0x5GpmkOHiPzyXZJEheVjLu6Px2Tp3r_mfMCQ2J1qRIwUsA3wnoQPTNuIGCm-0xGQOnWGaAhRw1ds-hOagrCQmzMG02xbDb1is55JDyspZbA0VUgif8B98NIwg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rHBazniczVXdcqJKEH6A8xzLTRIB_00VtTUzoo7xD4nZTW4oBBwJIMqgaO72Mc79earzNGeAoOhKUrsXW2e0aGamu6enuz--H_-49sr596-_l2G4pvc8H0VRifg-ca2S4Xu8Tg8rg1_4Lg2M5delK1krjriSveIOO6nCGVQSOMuWhLDc0oP6oW_qu01IJ2JzM_KBwyXmkjbXqfXKvO9fKa_x7OF8qbTZpERL1krrwtJ0J461tx7SiVEqC-VKaczrHtMBf3AoMsAAMpmKooEAkD93FqsoAMW-skHQaSsd7dRffCZJFh4Kj8SxFWQ_DBLVSXVfW1LmQsmU1OKIlfwkSgSE6YlqHBT5_D6nkaYGKsfQCge-vpxaotyhzz_tXvM2PJ_7ALarQFFgFsJFVdT8rWAnvmWswZJx194DGNkFyX43YP9H0HP8j6-YBIJwM0sH6FBWVMybhDWvwM8DJkTeNpZG8hLQuKfRY0vwe9Z0Dq1l9aVHjfK63-6sx7JTdfbbl0HEG3Om5_q6aZnaUhO-JnOxLNaEVqXRvE3wZNAjoGgeUDX6MtKoh-ozuTQoQTGDEjoW5OJCMpuja7VimUXXDI5esoznjG2U76bZu2TtHWGAzzqCyHgSy262MGYFBdDIQy87IHZ5DUpnSimUSNJYOG0wfDI_qsxyYZD8VvsKDH76DiAEEgBhoLTTvJAsAOUiTQiomO1lq_DcPWsYeynHEqosaJqoGaf-94EsyNPLssSfClYWWT46wce3JKoTlBDrb5R0_CjWcRBxIGbBQpAaEQCzzPnk4hy54BOH2B3hUyFEPxyk6HtwNnCGmQsI5KEjDyaTQWXa2GE6-x6MWq3Juln9Pnacmh9dh4rvzX-NfIz_F54yapq9U1MxnuTP8cQe5CNqSh5HaiJqiqeHYjzJ-ERNJEdNUaZ0oqZLPCE1hyd0SJzDznVq-lU8oQ_wlMmreIpveg1PShGeEmo6w1P_kprO8HSkpgxPv0dN-PeoKYGXlYpzntq-kkK-kmUy73bHD-Tl1XgU8XYlTMD-bk37d_hzvlp44b2nm-6tZpv3sNwPD-atxhb8e8vkNhLQzaWuBzeLwLJutmtTD60bV6fhTfLGIFnnPDfwJUFvqIcnJ2oMSHVvj4ausIE26SgrUB17jcCPrFatXhmFYVmcvL3VeovxZgungal6XcWF4NGwBvQwfFj1anfOVD68wkOgjcLexHUq1DK3w4632FXri-HDeu-GbTMSPLMSNL9ZWBXUVYP26pVx0x5GpmkOHiPzyXZJEheVjLu6Px2Tp3r_mfMCQ2J1qRIwUsA3wnoQPTNuIGCm-0xGQOnWGaAhRw1ds-hOagrCQmzMG02xbDb1is55JDyspZbA0VUgif8B98NIwg"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "LAST | English meaning - Cambridge Dictionary",
+        "link": "https://dictionary.cambridge.org/dictionary/english/last",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAV2MUa9-honNoPSs2WesWPgYc9llx772HSp49GaJaWd7U2TecKLycgmP68W4a7LmnSJUvVRRh87UnV0q7GdS_udN0yX_Ggh7b3wUKuXoeooVghuGzbT4_VbmIAlssAslZnBaUYxa6VrIWT6GUzL7I&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQFnoECCYQAQ&uoh=1",
+        "displayed_link": "https://dictionary.cambridge.org › dictionary › last",
+        "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAACwBQCdASocABwAPtE-tFooIigoFAEAGgloAJ0zItYBvHREVHkXpPXDWGzTc4H3jF3iXaBhwAAA_vtpBwG61WLVtQXys1U_1yASv-Ef5w8c_CIUsn_wwgNjxQLvmk__sVjppdBYJMRtfxFNHEvkHx0f8-zNn6-JxYcceg26U8_wkm578Wlf2dPLXfU1pT-jxXGgSRjEtx-MVBwZ1m-ZW29GO6_fiqTKagOeTHnoT7LP7zjZIEoPrFtg-KRlPy_KLDpMwG2UbDwBjhU35xXw_zuIY5rrk_GJPIAonnUuAb-TS7WasKzQ17jGOjczOidPI4W5WMfZ-IU4KAAA.webp",
+        "snippet": "LAST definition: 1. (the person or thing) after everyone or everything else: 2. finally: 3. the least expected. Get a quick, free translation!",
+        "snippet_highlighted_words": [
+          "LAST",
+          "free"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "LAST definition: 1. (the person or thing) after everyone or everything else: 2. finally: 3. the least expected. Get a quick, free translation!",
+            "source_info_link": "https://dictionary.cambridge.org/dictionary/english/last",
+            "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAACwBQCdASocABwAPtE-tFooIigoFAEAGgloAJ0zItYBvHREVHkXpPXDWGzTc4H3jF3iXaBhwAAA_vtpBwG61WLVtQXys1U_1yASv-Ef5w8c_CIUsn_wwgNjxQLvmk__sVjppdBYJMRtfxFNHEvkHx0f8-zNn6-JxYcceg26U8_wkm578Wlf2dPLXfU1pT-jxXGgSRjEtx-MVBwZ1m-ZW29GO6_fiqTKagOeTHnoT7LP7zjZIEoPrFtg-KRlPy_KLDpMwG2UbDwBjhU35xXw_zuIY5rrk_GJPIAonnUuAb-TS7WasKzQ17jGOjczOidPI4W5WMfZ-IU4KAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVjJNVWE5LWhvbk5vUFNzMldlc1dQZ1ljOWxseDc3MkhTcDQ5R2FKYVdkN1UyVGVjS0x5Y2dtUDY4VzRhN0xtblNKVXZWUlJoODdVblYwcTdHZFNfdWROMHlYX0dnaDdiM3dVS3VYb2Vvb1ZnaHVHemJUNF9WYm1JQWxzc0FzbFpuQmFVWXhhNlZySVdUNkdVekw3SRIEGgIIABrcAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLYDCAAQABgAIAAqKwoHYWFkaGFhchVhOspAGgZhYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIyqQEvZ290bz91cmw9Q0FFU2N3SHJPekFWMk1VYTktaG9uTm9QU3MyV2VzV1BnWWM5bGx4NzcySFNwNDlHYUphV2Q3VTJUZWNLTHljZ21QNjhXNGE3TG1uU0pVdlZSUmg4N1VuVjBxN0dkU191ZE4weVhfR2doN2Izd1VLdVhvZW9vVmdodUd6YlQ0X1ZibUlBbHNzQXNsWm5CYVVZeGE2VnJJV1Q2R1V6TDdJOjQ8Yj5MQVNUPC9iPiB8IEVuZ2xpc2ggbWVhbmluZyAtIENhbWJyaWRnZSBEaWN0aW9uYXJ5QpwBPGI-TEFTVDwvYj4gZGVmaW5pdGlvbjogMS4gKHRoZSBwZXJzb24gb3IgdGhpbmcpIGFmdGVyIGV2ZXJ5b25lIG9yIGV2ZXJ5dGhpbmcgZWxzZTogMi4gZmluYWxseTogMy4gdGhlIGxlYXN0IGV4cGVjdGVkLiBHZXQgYSBxdWljaywgPGI-ZnJlZTwvYj4gdHJhbnNsYXRpb24hIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVjJNVWE5LWhvbk5vUFNzMldlc1dQZ1ljOWxseDc3MkhTcDQ5R2FKYVdkN1UyVGVjS0x5Y2dtUDY4VzRhN0xtblNKVXZWUlJoODdVblYwcTdHZFNfdWROMHlYX0dnaDdiM3dVS3VYb2Vvb1ZnaHVHemJUNF9WYm1JQWxzc0FzbFpuQmFVWXhhNlZySVdUNkdVekw3SRIEGgIIABrcAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLYDCAAQABgAIAAqKwoHYWFkaGFhchVhOspAGgZhYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIyqQEvZ290bz91cmw9Q0FFU2N3SHJPekFWMk1VYTktaG9uTm9QU3MyV2VzV1BnWWM5bGx4NzcySFNwNDlHYUphV2Q3VTJUZWNLTHljZ21QNjhXNGE3TG1uU0pVdlZSUmg4N1VuVjBxN0dkU191ZE4weVhfR2doN2Izd1VLdVhvZW9vVmdodUd6YlQ0X1ZibUlBbHNzQXNsWm5CYVVZeGE2VnJJV1Q2R1V6TDdJOjQ8Yj5MQVNUPC9iPiB8IEVuZ2xpc2ggbWVhbmluZyAtIENhbWJyaWRnZSBEaWN0aW9uYXJ5QpwBPGI-TEFTVDwvYj4gZGVmaW5pdGlvbjogMS4gKHRoZSBwZXJzb24gb3IgdGhpbmcpIGFmdGVyIGV2ZXJ5b25lIG9yIGV2ZXJ5dGhpbmcgZWxzZTogMi4gZmluYWxseTogMy4gdGhlIGxlYXN0IGV4cGVjdGVkLiBHZXQgYSBxdWljaywgPGI-ZnJlZTwvYj4gdHJhbnNsYXRpb24hIgIQAUgAWABoAA",
+        "source": "Cambridge Dictionary"
+      },
+      {
+        "position": 2,
+        "title": "Amendment in the Format of Last Pay Certificate defined ...",
+        "link": "https://finhry.gov.in/document/amendment-in-the-format-of-last-pay-certificate-defined-under-the-punjab-treasury-rules-volume-ii/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvQEB6zswFYdvMFeH53YmqmZcdh0oLUiA4msoZdkWXC_-bNUo2nHuSR_47lCVMOtUuWWg3n6BbhlhJth0_tRg5r0F3Za-ghHF5iAFrc9JfHb9yeliM4NpHblnLEdlwT0RAZtiNJtywFeSjUls8RQyx8_AETezGzy1vbSRCq6FRgBoHEQIv0tmVH3wXjYkDkkld25Mn7MJSaKz9C0MZl0uZCo_kiEunMBlORCJN53mXv_bhojLTP9OedJbp8QX3WY&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQFnoECCUQAQ&uoh=1",
+        "displayed_link": "https://finhry.gov.in › document › amendment-in-the-for...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png",
+        "snippet": "Amendment in the Format of Last Pay Certificate defined. Last Updated: April 07, 2026 03:38 PM Secure, Scalable and Sugamya Website as a Service National ...",
+        "snippet_highlighted_words": [
+          "April 07"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Amendment in the Format of Last Pay Certificate defined. Last Updated: April 07, 2026 03:38 PM Secure, Scalable and Sugamya Website as a Service National ...",
+            "source_info_link": "https://finhry.gov.in/document/amendment-in-the-format-of-last-pay-certificate-defined-under-the-punjab-treasury-rules-volume-ii/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEX_mTP_u3f____S0uqEhMaMjMq1tdzOzui0tNyTk82Vlc1UVK9hsFoSiAfVW9AIAAAAQUlEQVR4AWMYOkAQDTAoQYCyEZQBE3ANQRVQS69IQhHQNHGehCKglb1tEYYAfi1q7RVJOKzFdNgZNMBwFw0MWgEAC2Kz-S0-y7YAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0CL2dvdG8_dXJsPUNBRVN2UUVCNnpzd0ZZZHZNRmVINTNZbXFtWmNkaDBvTFVpQTRtc29aZGtXWENfLWJOVW8ybkh1U1JfNDdsQ1ZNT3RVdVdXZzNuNkJiaGxoSnRoMF90Umc1cjBGM1phLWdoSEY1aUFGcmM5SmZIYjl5ZWxpTTROcEhibG5MRWRsd1QwUkFadGlOSnR5d0ZlU2pVbHM4UlF5eDhfQUVUZXpHenkxdmJTUkNxNkZSZ0JvSEVRSXYwdG1WSDN3WGpZa0Rra2xkMjVNbjdNSlNhS3o5QzBNWmwwdVpDb19raUV1bk1CbE9SQ0pONTNtWHZfYmhvakxUUDlPZWRKYnA4UVgzV1kSBBoCCAAa2QQSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAtQQIABAAGAAgACorCgdhYWRoYWFyFTyTpUAaBmFhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhcjKNAi9nb3RvP3VybD1DQUVTdlFFQjZ6c3dGWWR2TUZlSDUzWW1xbVpjZGgwb0xVaUE0bXNvWmRrV1hDXy1iTlVvMm5IdVNSXzQ3bENWTU90VXVXV2czbjZCYmhsaEp0aDBfdFJnNXIwRjNaYS1naEhGNWlBRnJjOUpmSGI5eWVsaU00TnBIYmxuTEVkbHdUMFJBWnRpTkp0eXdGZVNqVWxzOFJReXg4X0FFVGV6R3p5MXZiU1JDcTZGUmdCb0hFUUl2MHRtVkgzd1hqWWtEa2tsZDI1TW43TUpTYUt6OUMwTVpsMHVaQ29fa2lFdW5NQmxPUkNKTjUzbVh2X2Job2pMVFA5T2VkSmJwOFFYM1dZOkJBbWVuZG1lbnQgaW4gdGhlIEZvcm1hdCBvZiA8Yj5MYXN0PC9iPiBQYXkgQ2VydGlmaWNhdGUgZGVmaW5lZCAuLi5CqQFBbWVuZG1lbnQgaW4gdGhlIEZvcm1hdCBvZiBMYXN0IFBheSBDZXJ0aWZpY2F0ZSBkZWZpbmVkLiBMYXN0IFVwZGF0ZWQ6IDxiPkFwcmlsIDA3PC9iPiwgMjAyNiAwMzozOCBQTSBTZWN1cmUsIFNjYWxhYmxlIGFuZCBTdWdhbXlhIFdlYnNpdGUgYXMgYSBTZXJ2aWNlIE5hdGlvbmFsJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0CL2dvdG8_dXJsPUNBRVN2UUVCNnpzd0ZZZHZNRmVINTNZbXFtWmNkaDBvTFVpQTRtc29aZGtXWENfLWJOVW8ybkh1U1JfNDdsQ1ZNT3RVdVdXZzNuNkJiaGxoSnRoMF90Umc1cjBGM1phLWdoSEY1aUFGcmM5SmZIYjl5ZWxpTTROcEhibG5MRWRsd1QwUkFadGlOSnR5d0ZlU2pVbHM4UlF5eDhfQUVUZXpHenkxdmJTUkNxNkZSZ0JvSEVRSXYwdG1WSDN3WGpZa0Rra2xkMjVNbjdNSlNhS3o5QzBNWmwwdVpDb19raUV1bk1CbE9SQ0pONTNtWHZfYmhvakxUUDlPZWRKYnA4UVgzV1kSBBoCCAAa2QQSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAtQQIABAAGAAgACorCgdhYWRoYWFyFTyTpUAaBmFhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhcjKNAi9nb3RvP3VybD1DQUVTdlFFQjZ6c3dGWWR2TUZlSDUzWW1xbVpjZGgwb0xVaUE0bXNvWmRrV1hDXy1iTlVvMm5IdVNSXzQ3bENWTU90VXVXV2czbjZCYmhsaEp0aDBfdFJnNXIwRjNaYS1naEhGNWlBRnJjOUpmSGI5eWVsaU00TnBIYmxuTEVkbHdUMFJBWnRpTkp0eXdGZVNqVWxzOFJReXg4X0FFVGV6R3p5MXZiU1JDcTZGUmdCb0hFUUl2MHRtVkgzd1hqWWtEa2tsZDI1TW43TUpTYUt6OUMwTVpsMHVaQ29fa2lFdW5NQmxPUkNKTjUzbVh2X2Job2pMVFA5T2VkSmJwOFFYM1dZOkJBbWVuZG1lbnQgaW4gdGhlIEZvcm1hdCBvZiA8Yj5MYXN0PC9iPiBQYXkgQ2VydGlmaWNhdGUgZGVmaW5lZCAuLi5CqQFBbWVuZG1lbnQgaW4gdGhlIEZvcm1hdCBvZiBMYXN0IFBheSBDZXJ0aWZpY2F0ZSBkZWZpbmVkLiBMYXN0IFVwZGF0ZWQ6IDxiPkFwcmlsIDA3PC9iPiwgMjAyNiAwMzozOCBQTSBTZWN1cmUsIFNjYWxhYmxlIGFuZCBTdWdhbXlhIFdlYnNpdGUgYXMgYSBTZXJ2aWNlIE5hdGlvbmFsJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "Finance Department Haryana"
+      },
+      {
+        "position": 3,
+        "title": "Full text of Alfred Nobel's will",
+        "link": "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFbsR-Q9YejQ7bkHhrtTltNHawW9R49uphfUIRK2qjpaVj37TfKD4HR7xk2NRWMCYjwIib0LluQmSd9aU-JEow6Yg6vfT2QifTDDzyYSHTG6l1vckSsv2lKcYphfpjfyOOYHH2oQBIW0gAEeL0NSi-apl6TdFMVYST8bUxtYJX1ZV&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQFnoECCcQAQ&uoh=1",
+        "displayed_link": "https://www.nobelprize.org › alfred-nobel › full-text-of...",
+        "favicon": "https://serpapi.com/images/i/UklGRrwAAABXRUJQVlA4ILAAAACwBACdASocABwAPrUurVanIacnG_DgFolsAHeStAAVY7ARfI0Td4my7HXraHgAAP74ri4_Qy-vhC6c-tVIyqcDsj1IHA1Tl_z-tgkVvtCGLEzULYRDCqoeGU3DLxQSz52Asj4VCEjgbOsddXT-nf02yd3sVrBKJNUk5WZPgczOXqM0vJacHIYPeIPyPjHJWR9yF4ahEv5t0QQu2MncArg7fbNhVGu1y_0N3G8hjbxAAA.webp",
+        "snippet": "I, the undersigned, Alfred Bernhard Nobel, after mature deliberation, hereby declare the following to be my last will and testament with regard to such ...",
+        "snippet_highlighted_words": [
+          "last"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "I, the undersigned, Alfred Bernhard Nobel, after mature deliberation, hereby declare the following to be my last will and testament with regard to such ...",
+            "source_info_link": "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/",
+            "icon": "https://serpapi.com/images/i/UklGRrwAAABXRUJQVlA4ILAAAACwBACdASocABwAPrUurVanIacnG_DgFolsAHeStAAVY7ARfI0Td4my7HXraHgAAP74ri4_Qy-vhC6c-tVIyqcDsj1IHA1Tl_z-tgkVvtCGLEzULYRDCqoeGU3DLxQSz52Asj4VCEjgbOsddXT-nf02yd3sVrBKJNUk5WZPgczOXqM0vJacHIYPeIPyPjHJWR9yF4ahEv5t0QQu2MncArg7fbNhVGu1y_0N3G8hjbxAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0Zic1ItUTlZZWpRN2JrSGhydFRsdE5IYXdXOVI0OXVwaGZVSVJLMnFqcGFWajM3VGZLRDRIUjd4azJOUldNQ1lqd0lpYjBMbHVRbVNkOWFVLUpFb3c2WWc2dmZUMlFpZlRERHp5WVNIVEc2bDF2Y2tTc3YybEtjWXBoZnBqZnlPT1lISDJvUUJJVzBnQUVlTDBOU2ktYXBsNlRkRk1WWVNUOGJVeHRZSlgxWlYSBBoCCAAa_gMSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDYAwgAEAAYACAAKisKB2FhZGhhYXIVfNZaPxoGYWFkaGFyGgV1aWRhaRoMaXY7cDthYWRoYWFyMsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0Zic1ItUTlZZWpRN2JrSGhydFRsdE5IYXdXOVI0OXVwaGZVSVJLMnFqcGFWajM3VGZLRDRIUjd4azJOUldNQ1lqd0lpYjBMbHVRbVNkOWFVLUpFb3c2WWc2dmZUMlFpZlRERHp5WVNIVEc2bDF2Y2tTc3YybEtjWXBoZnBqZnlPT1lISDJvUUJJVzBnQUVlTDBOU2ktYXBsNlRkRk1WWVNUOGJVeHRZSlgxWlY6MkZ1bGwgdGV4dCBvZiBBbGZyZWQgTm9iZWzCtHMgd2lsbCAtIE5vYmVsUHJpemUub3JnQqcBSSwgdGhlIHVuZGVyc2lnbmVkLCBBbGZyZWQgQmVybmhhcmQgTm9iZWwsIGFmdGVyIG1hdHVyZSBkZWxpYmVyYXRpb24sIGhlcmVieSBkZWNsYXJlIHRoZSBmb2xsb3dpbmcgdG8gYmUgbXkgPGI-bGFzdDwvYj4gd2lsbCBhbmQgdGVzdGFtZW50IHdpdGggcmVnYXJkIHRvIHN1Y2gmbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0Zic1ItUTlZZWpRN2JrSGhydFRsdE5IYXdXOVI0OXVwaGZVSVJLMnFqcGFWajM3VGZLRDRIUjd4azJOUldNQ1lqd0lpYjBMbHVRbVNkOWFVLUpFb3c2WWc2dmZUMlFpZlRERHp5WVNIVEc2bDF2Y2tTc3YybEtjWXBoZnBqZnlPT1lISDJvUUJJVzBnQUVlTDBOU2ktYXBsNlRkRk1WWVNUOGJVeHRZSlgxWlYSBBoCCAAa_gMSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDYAwgAEAAYACAAKisKB2FhZGhhYXIVfNZaPxoGYWFkaGFyGgV1aWRhaRoMaXY7cDthYWRoYWFyMsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0Zic1ItUTlZZWpRN2JrSGhydFRsdE5IYXdXOVI0OXVwaGZVSVJLMnFqcGFWajM3VGZLRDRIUjd4azJOUldNQ1lqd0lpYjBMbHVRbVNkOWFVLUpFb3c2WWc2dmZUMlFpZlRERHp5WVNIVEc2bDF2Y2tTc3YybEtjWXBoZnBqZnlPT1lISDJvUUJJVzBnQUVlTDBOU2ktYXBsNlRkRk1WWVNUOGJVeHRZSlgxWlY6MkZ1bGwgdGV4dCBvZiBBbGZyZWQgTm9iZWzCtHMgd2lsbCAtIE5vYmVsUHJpemUub3JnQqcBSSwgdGhlIHVuZGVyc2lnbmVkLCBBbGZyZWQgQmVybmhhcmQgTm9iZWwsIGFmdGVyIG1hdHVyZSBkZWxpYmVyYXRpb24sIGhlcmVieSBkZWNsYXJlIHRoZSBmb2xsb3dpbmcgdG8gYmUgbXkgPGI-bGFzdDwvYj4gd2lsbCBhbmQgdGVzdGFtZW50IHdpdGggcmVnYXJkIHRvIHN1Y2gmbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "NobelPrize.org",
+        "read_more_link": "https://www.nobelprize.org/alfred-nobel/full-text-of-alfred-nobels-will-2/#:~:text=I%2C%20the%20undersigned%2C%20Alfred%20Bernhard,may%20leave%20upon%20my%20death%3A"
+      },
+      {
+        "position": 4,
+        "title": "Last Seen — Official Trailer | Apple TV",
+        "link": "https://www.youtube.com/watch?v=M8nHySkLb64",
+        "displayed_link": "12.7L+ views · 1 month ago",
+        "thumbnail": "https://serpapi.com/searches/6abdddd20558c0fa250d98a2/images/YvmPs3TDIxXi03C6BEAT9E5yIi0D3eYdtp63G0MGg7Y.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "snippet": "Last Seen is now streaming on Apple TV. Last Seen premieres September 9, 2026 on Apple TV. Subscription required for Apple TV",
+        "duration": "1:56",
+        "about_this_result": {
+          "source": {
+            "description": "Last Seen is now streaming on Apple TV. Last Seen premieres September 9, 2026 on Apple TV. Subscription required for Apple TV",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkZWNWhLNVRwdHcxaXg0OEFGb09qR0o2bHRUaE5jZlhsV195Q05XYTNsb3dkdWh3QzNfZ0JBQ0FKdkx2ajZjSGVZSVJ1WkNjRHdIQ1pySWt1THVFekV5REFRUG4zOHh4bnBEaldTNE5nV3plYW9jRERJc1p5S1A0eUZOakxwM1IzQ1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkZWNWhLNVRwdHcxaXg0OEFGb09qR0o2bHRUaE5jZlhsV195Q05XYTNsb3dkdWh3QzNfZ0JBQ0FKdkx2ajZjSGVZSVJ1WkNjRHdIQ1pySWt1THVFekV5REFRUG4zOHh4bnBEaldTNE5nV3plYW9jRERJc1p5S1A0eUZOakxwM1IzQ1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ7SgPNU4PBfVs4z9AuvwWpB1_mxtIblGMqhg",
+        "source": "YouTube · Apple TV"
+      },
+      {
+        "position": 5,
+        "title": "Get the last known location | Sensors and location",
+        "link": "https://developer.android.com/develop/sensors-and-location/location/retrieve-current",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFYadcKAGhrnfcBdmOV-Z1P6BDQjCH4AAt9ZpwHZ6__zT0MqPKRGs19A8arC5fFUE-9FrkYW5FAhD7T61tC2th14bDkodY_hyw5SiCMC-TsXzWX341g_G2O5F1drLiuAAkEQFsYQfwf0n3B-326DCmiBCGShwSTvjvrUXOSq1-LloIAfeCVpT7TatUw&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQFnoECCQQAQ&uoh=1",
+        "displayed_link": "https://developer.android.com › ... › Sensors and location",
+        "favicon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAADQBQCdASocABwAPtE4tFooIigoGAEAGglsAMUHwWzAFsgrH9neZSPQ7379oL3Jiqjqoau42-vgAP7-LxP2PaKvc2cwx1tRCLM41eWj8-LgA3DxvVBTnwznNpKS-NSlL0fHITsdnc9UHm3VaxxQO3I7Zl8IV6l-wr5Nb3XhznKcvoomhAucMftfJ72abgHsvEm6Ig1TJrph9I2HwVP1OROL6tF39hCF3ZJDDFkynnsBlxv3XXt-xRLGhVDzm_2gEl64qcLr4YlTpeNF2Lu8Znoeo9AAAA.webp",
+        "snippet": "Get the latest Latest updates. Using the Google Play your app can request the last known location of the user's device. Last updated 2026-09-16 UTC.",
+        "snippet_highlighted_words": [
+          "latest Latest updates",
+          "last",
+          "Last",
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Get the latest Latest updates. Using the Google Play your app can request the last known location of the user's device. Last updated 2026-09-16 UTC.",
+            "source_info_link": "https://developer.android.com/develop/sensors-and-location/location/retrieve-current",
+            "icon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAADQBQCdASocABwAPtE4tFooIigoGAEAGglsAMUHwWzAFsgrH9neZSPQ7379oL3Jiqjqoau42-vgAP7-LxP2PaKvc2cwx1tRCLM41eWj8-LgA3DxvVBTnwznNpKS-NSlL0fHITsdnc9UHm3VaxxQO3I7Zl8IV6l-wr5Nb3XhznKcvoomhAucMftfJ72abgHsvEm6Ig1TJrph9I2HwVP1OROL6tF39hCF3ZJDDFkynnsBlxv3XXt-xRLGhVDzm_2gEl64qcLr4YlTpeNF2Lu8Znoeo9AAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZZYWRjS0FHaHJuZmNCZG1PVi1aMVA2QkRRakNINEFBdDlacHdIWjZfX3pUME1xUEtSR3MxOUE4YXJDNWZGVUUtOUZya1lXNUZBaEQ3VDYxdEMydGgxNGJEa29kWV9oeXc1U2lDTUMtVHNYeldYMzQxZ19HMk81RjFkckxpdUFBa0VRRnNZUWZ3ZjBuM0ItMzI2RENtaUJDR1Nod1NUdmp2clVYT1NxMS1MbG9JQWZlQ1ZwVDdUYXRVdxIEGgIIABqgBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPoDCAAQABgAIAAqKwoHYWFkaGFhchWKXEdAGgZhYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIy0AEvZ290bz91cmw9Q0FFU2p3RUI2enN3RllhZGNLQUdocm5mY0JkbU9WLVoxUDZCRFFqQ0g0QUF0OVpwd0haNl9felQwTXFQS1JHczE5QThhckM1ZkZVRS05RnJrWVc1RkFoRDdUNjF0QzJ0aDE0YkRrb2RZX2h5dzVTaUNNQy1Uc1h6V1gzNDFnX0cyTzVGMWRyTGl1QUFrRVFGc1lRZndmMG4zQi0zMjZEQ21pQkNHU2h3U1R2anZyVVhPU3ExLUxsb0lBZmVDVnBUN1RhdFV3OjlHZXQgdGhlIDxiPmxhc3Q8L2I-IGtub3duIGxvY2F0aW9uIHwgU2Vuc29ycyBhbmQgbG9jYXRpb25CtAFHZXQgdGhlIDxiPmxhdGVzdCBMYXRlc3QgdXBkYXRlczwvYj4uIFVzaW5nIHRoZSBHb29nbGUgUGxheSB5b3VyIGFwcCBjYW4gcmVxdWVzdCB0aGUgPGI-bGFzdDwvYj4ga25vd24gbG9jYXRpb24gb2YgdGhlIHVzZXImIzM5O3MgZGV2aWNlLiA8Yj5MYXN0PC9iPiB1cGRhdGVkIDxiPjIwMjY8L2I-LTA5LTE2IFVUQy4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZZYWRjS0FHaHJuZmNCZG1PVi1aMVA2QkRRakNINEFBdDlacHdIWjZfX3pUME1xUEtSR3MxOUE4YXJDNWZGVUUtOUZya1lXNUZBaEQ3VDYxdEMydGgxNGJEa29kWV9oeXc1U2lDTUMtVHNYeldYMzQxZ19HMk81RjFkckxpdUFBa0VRRnNZUWZ3ZjBuM0ItMzI2RENtaUJDR1Nod1NUdmp2clVYT1NxMS1MbG9JQWZlQ1ZwVDdUYXRVdxIEGgIIABqgBBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPoDCAAQABgAIAAqKwoHYWFkaGFhchWKXEdAGgZhYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIy0AEvZ290bz91cmw9Q0FFU2p3RUI2enN3RllhZGNLQUdocm5mY0JkbU9WLVoxUDZCRFFqQ0g0QUF0OVpwd0haNl9felQwTXFQS1JHczE5QThhckM1ZkZVRS05RnJrWVc1RkFoRDdUNjF0QzJ0aDE0YkRrb2RZX2h5dzVTaUNNQy1Uc1h6V1gzNDFnX0cyTzVGMWRyTGl1QUFrRVFGc1lRZndmMG4zQi0zMjZEQ21pQkNHU2h3U1R2anZyVVhPU3ExLUxsb0lBZmVDVnBUN1RhdFV3OjlHZXQgdGhlIDxiPmxhc3Q8L2I-IGtub3duIGxvY2F0aW9uIHwgU2Vuc29ycyBhbmQgbG9jYXRpb25CtAFHZXQgdGhlIDxiPmxhdGVzdCBMYXRlc3QgdXBkYXRlczwvYj4uIFVzaW5nIHRoZSBHb29nbGUgUGxheSB5b3VyIGFwcCBjYW4gcmVxdWVzdCB0aGUgPGI-bGFzdDwvYj4ga25vd24gbG9jYXRpb24gb2YgdGhlIHVzZXImIzM5O3MgZGV2aWNlLiA8Yj5MYXN0PC9iPiB1cGRhdGVkIDxiPjIwMjY8L2I-LTA5LTE2IFVUQy4iAhABSABYAGgA",
+        "source": "Android Developers"
+      },
+      {
+        "position": 6,
+        "title": "Unseen - No Last Seen - Apps on Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.tda.unseen&hl=en",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.tda.unseen%26hl%3Den&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQFnoECDAQAQ",
+        "displayed_link": "https://play.google.com › store › apps › details",
+        "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp",
+        "snippet": "No Seen text messages App - Move online like a ghost. ‍ You can now view all your text messages with Unseen messenger without opening other apps. · See unread ...",
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.6,
+              "reviews": 388143
+            },
+            "extensions": [
+              "4.6(3,88,143)",
+              "Free",
+              "Android",
+              "Utilities/Tools"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "No Seen text messages App - Move online like a ghost. ‍ You can now view all your text messages with Unseen messenger without opening other apps. · See unread ...",
+            "source_info_link": "https://play.google.com/store/apps/details?id=com.tda.unseen&hl=en",
+            "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CkJodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLnRkYS51bnNlZW4maGw9ZW4SBBoCCAAaiQMSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDjAggAEAAYACAAKisKB2FhZGhhYXIVoC1QQBoGYWFkaGFyGgV1aWRhaRoMaXY7cDthYWRoYWFyMkJodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLnRkYS51bnNlZW4maGw9ZW46MlVuc2VlbiAtIE5vIDxiPkxhc3Q8L2I-IFNlZW4gLSBBcHBzIG9uIEdvb2dsZSBQbGF5QrMBTm8gU2VlbiB0ZXh0IG1lc3NhZ2VzIEFwcCAtIE1vdmUgb25saW5lIGxpa2UgYSBnaG9zdC4gIOKAjSAgIFlvdSBjYW4gbm93IHZpZXcgYWxsIHlvdXIgdGV4dCBtZXNzYWdlcyB3aXRoIFVuc2VlbiBtZXNzZW5nZXIgd2l0aG91dCBvcGVuaW5nIG90aGVyIGFwcHMuICZtaWRkb3Q7IFNlZSB1bnJlYWQmbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CkJodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLnRkYS51bnNlZW4maGw9ZW4SBBoCCAAaiQMSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDjAggAEAAYACAAKisKB2FhZGhhYXIVoC1QQBoGYWFkaGFyGgV1aWRhaRoMaXY7cDthYWRoYWFyMkJodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9Y29tLnRkYS51bnNlZW4maGw9ZW46MlVuc2VlbiAtIE5vIDxiPkxhc3Q8L2I-IFNlZW4gLSBBcHBzIG9uIEdvb2dsZSBQbGF5QrMBTm8gU2VlbiB0ZXh0IG1lc3NhZ2VzIEFwcCAtIE1vdmUgb25saW5lIGxpa2UgYSBnaG9zdC4gIOKAjSAgIFlvdSBjYW4gbm93IHZpZXcgYWxsIHlvdXIgdGV4dCBtZXNzYWdlcyB3aXRoIFVuc2VlbiBtZXNzZW5nZXIgd2l0aG91dCBvcGVuaW5nIG90aGVyIGFwcHMuICZtaWRkb3Q7IFNlZSB1bnJlYWQmbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "Google Play",
+        "read_more_link": "https://play.google.com/store/apps/details?id=com.tda.unseen&hl=en#:~:text=Updated%20on&text=Updated%20on"
+      },
+      {
+        "position": 7,
+        "title": "Last account activity - Gmail Help",
+        "link": "https://support.google.com/mail/answer/45938?hl=en",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.google.com/mail/answer/45938%3Fhl%3Den&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQFnoECEIQAQ",
+        "displayed_link": "https://support.google.com › mail › answer",
+        "favicon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwAgCdASoQABAAAsBMJbACdDiAN4z-0AFj302FejU2AAD-9nwIHnctDt4yPbFvK77LGPb6brAEqY6T1zYyWbjXB1uF9_Uj7wHz6zN7NYUQSHV49IiqjS-X2Ma8SvIJ1Yz1zaTOUQdbJFjhPMWxQQ-L8rWiceEEj1--p48_g8UrXrinoKsbx2bf93Q4BjOi9thY669Kz4H3_8YLw06o8JwAAAA.webp",
+        "snippet": "Last account activity. You can see your sign-in history, including the dates and times that your Gmail account was used. You can also see the IP addresses ...",
+        "snippet_highlighted_words": [
+          "Last",
+          "dates"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Last account activity. You can see your sign-in history, including the dates and times that your Gmail account was used. You can also see the IP addresses ...",
+            "source_info_link": "https://support.google.com/mail/answer/45938?hl=en",
+            "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAADwAgCdASoQABAAAsBMJbACdDiAN4z-0AFj302FejU2AAD-9nwIHnctDt4yPbFvK77LGPb6brAEqY6T1zYyWbjXB1uF9_Uj7wHz6zN7NYUQSHV49IiqjS-X2Ma8SvIJ1Yz1zaTOUQdbJFjhPMWxQQ-L8rWiceEEj1--p48_g8UrXrinoKsbx2bf93Q4BjOi9thY669Kz4H3_8YLw06o8JwAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjJodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS9tYWlsL2Fuc3dlci80NTkzOD9obD1lbhIEGgIIABr8AhICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQNYCCAAQABgAIAAqKwoHYWFkaGFhchUWXGJAGgZhYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIyMmh0dHBzOi8vc3VwcG9ydC5nb29nbGUuY29tL21haWwvYW5zd2VyLzQ1OTM4P2hsPWVuOjc8Yj5MYXN0PC9iPiBhY2NvdW50IGFjdGl2aXR5IC0gR21haWwgSGVscCAtIEdvb2dsZSBIZWxwQrEBPGI-TGFzdDwvYj4gYWNjb3VudCBhY3Rpdml0eS4gWW91IGNhbiBzZWUgeW91ciBzaWduLWluIGhpc3RvcnksIGluY2x1ZGluZyB0aGUgPGI-ZGF0ZXM8L2I-IGFuZCB0aW1lcyB0aGF0IHlvdXIgR21haWwgYWNjb3VudCB3YXMgdXNlZC4gWW91IGNhbiBhbHNvIHNlZSB0aGUgSVAgYWRkcmVzc2VzJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjJodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS9tYWlsL2Fuc3dlci80NTkzOD9obD1lbhIEGgIIABr8AhICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQNYCCAAQABgAIAAqKwoHYWFkaGFhchUWXGJAGgZhYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIyMmh0dHBzOi8vc3VwcG9ydC5nb29nbGUuY29tL21haWwvYW5zd2VyLzQ1OTM4P2hsPWVuOjc8Yj5MYXN0PC9iPiBhY2NvdW50IGFjdGl2aXR5IC0gR21haWwgSGVscCAtIEdvb2dsZSBIZWxwQrEBPGI-TGFzdDwvYj4gYWNjb3VudCBhY3Rpdml0eS4gWW91IGNhbiBzZWUgeW91ciBzaWduLWluIGhpc3RvcnksIGluY2x1ZGluZyB0aGUgPGI-ZGF0ZXM8L2I-IGFuZCB0aW1lcyB0aGF0IHlvdXIgR21haWwgYWNjb3VudCB3YXMgdXNlZC4gWW91IGNhbiBhbHNvIHNlZSB0aGUgSVAgYWRkcmVzc2VzJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "Google Help",
+        "read_more_link": "https://support.google.com/mail/answer/45938?hl=en#:~:text=Last%20account%20activity,used%20to%20access%20your%20account."
+      },
+      {
+        "position": 8,
+        "title": "The Last Sunrise - Official Trailer | Prime Video",
+        "link": "https://www.youtube.com/watch?v=NhI2UpkFAFw",
+        "displayed_link": "24.1L+ views · 2 months ago",
+        "thumbnail": "https://serpapi.com/searches/6abdddd20558c0fa250d98a2/images/YvmPs3TDIxXi03C6BEAT9CBnfn3b9ajbB3B0oIdViS4.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "snippet": "One summer can change everything. The Last Sunrise premieres on Prime Video August 26. Based on the beloved novel, The Last Sunrise follows ...",
+        "duration": "2:05",
+        "about_this_result": {
+          "source": {
+            "description": "One summer can change everything. The Last Sunrise premieres on Prime Video August 26. Based on the beloved novel, The Last Sunrise follows ...",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlhzdkM1TmJIVDNnemw3WlpvVWEwQVBkYTZpbmJQY1FlVWx0SDQ0eXlCVFFqRFp3RUpibkg5UFE0clN6a3JBRF8xZ1pyc3JNcWl6dkZCdUh6OFNrRzhWc3lUN04yWDRpVEpCZGNBRmlVaVhNZE95LXhJdmx6RWxkbGY2S3hBanZ6dncSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlhzdkM1TmJIVDNnemw3WlpvVWEwQVBkYTZpbmJQY1FlVWx0SDQ0eXlCVFFqRFp3RUpibkg5UFE0clN6a3JBRF8xZ1pyc3JNcWl6dkZCdUh6OFNrRzhWc3lUN04yWDRpVEpCZGNBRmlVaVhNZE95LXhJdmx6RWxkbGY2S3hBanZ6dncSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQFndtcXMt5U5JnhZYgYzyKLq7aV04NXD26xg",
+        "source": "YouTube · Prime Video"
+      },
+      {
+        "position": 9,
+        "title": "Not a Blog | George R.R. Martin",
+        "link": "https://georgerrmartin.com/notablog/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVz2t20OlsTD_DxFvm-FScHgJ9ff4Dd7zXddsA7iZYKTGcmJrTfSKMQUq8J32T93otsmBbtpLwTjyJ9WjUHoKPY2svyEp2wO8cf6vRUUDp1bgOsIbcEZabKbif&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQFnoECEUQAQ&uoh=1",
+        "displayed_link": "https://georgerrmartin.com › notablog",
+        "favicon": "https://serpapi.com/images/i/UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoQABAAAsBMJZwC7IExF8cg0rS3QAD-8Jn8PfIdV18b7qPLYZDxvKcnQ9SR_fpHuly1Ouhbbt4i-FdY_vr8_plLn_Zf_2odVuFFtYuC7lmSsny6SUMY-Hk3seEx195EtoY3dNBXq9QyaantyBcNEqh368yhc6eBqAA.webp",
+        "snippet": "New venue and premiere dates will be announced in due course, and if you would like to hear about new information feel free to sign-up at: www ...",
+        "snippet_highlighted_words": [
+          "dates",
+          "due",
+          "free"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "New venue and premiere dates will be announced in due course, and if you would like to hear about new information feel free to sign-up at: www ...",
+            "source_info_link": "https://georgerrmartin.com/notablog/",
+            "icon": "https://serpapi.com/images/i/UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoQABAAAsBMJZwC7IExF8cg0rS3QAD-8Jn8PfIdV18b7qPLYZDxvKcnQ9SR_fpHuly1Ouhbbt4i-FdY_vr8_plLn_Zf_2odVuFFtYuC7lmSsny6SUMY-Hk3seEx195EtoY3dNBXq9QyaantyBcNEqh368yhc6eBqAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVnoydDIwT2xzVERfRHhGdm0tRlNjSGdKOWZmNERkN3pYZGRzQTdpWllLVEdjbUpyVGZTS01RVXE4SjMyVDkzb3RzbUJidHBMd1RqeUo5V2pVSG9LUFkyc3Z5RXAyd084Y2Y2dlJVVURwMWJnT3NJYmNFWmFiS2JpZhIEGgIIABq8AxICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQJYDCAAQABgAIAAqKwoHYWFkaGFhchX53VU_GgZhYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIyjgEvZ290bz91cmw9Q0FFU1h3SHJPekFWejJ0MjBPbHNURF9EeEZ2bS1GU2NIZ0o5ZmY0RGQ3elhkZHNBN2laWUtUR2NtSnJUZlNLTVFVcThKMzJUOTNvdHNtQmJ0cEx3VGp5SjlXalVIb0tQWTJzdnlFcDJ3TzhjZjZ2UlVVRHAxYmdPc0liY0VaYWJLYmlmOh9Ob3QgYSBCbG9nIHwgR2VvcmdlIFIuUi4gTWFydGluQqwBTmV3IHZlbnVlIGFuZCBwcmVtaWVyZSA8Yj5kYXRlczwvYj4gd2lsbCBiZSBhbm5vdW5jZWQgaW4gPGI-ZHVlPC9iPiBjb3Vyc2UsIGFuZCBpZiB5b3Ugd291bGQgbGlrZSB0byBoZWFyIGFib3V0IG5ldyBpbmZvcm1hdGlvbiBmZWVsIDxiPmZyZWU8L2I-IHRvIHNpZ24tdXAgYXQ6IHd3dyZuYnNwOy4uLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVnoydDIwT2xzVERfRHhGdm0tRlNjSGdKOWZmNERkN3pYZGRzQTdpWllLVEdjbUpyVGZTS01RVXE4SjMyVDkzb3RzbUJidHBMd1RqeUo5V2pVSG9LUFkyc3Z5RXAyd084Y2Y2dlJVVURwMWJnT3NJYmNFWmFiS2JpZhIEGgIIABq8AxICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQJYDCAAQABgAIAAqKwoHYWFkaGFhchX53VU_GgZhYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIyjgEvZ290bz91cmw9Q0FFU1h3SHJPekFWejJ0MjBPbHNURF9EeEZ2bS1GU2NIZ0o5ZmY0RGQ3elhkZHNBN2laWUtUR2NtSnJUZlNLTVFVcThKMzJUOTNvdHNtQmJ0cEx3VGp5SjlXalVIb0tQWTJzdnlFcDJ3TzhjZjZ2UlVVRHAxYmdPc0liY0VaYWJLYmlmOh9Ob3QgYSBCbG9nIHwgR2VvcmdlIFIuUi4gTWFydGluQqwBTmV3IHZlbnVlIGFuZCBwcmVtaWVyZSA8Yj5kYXRlczwvYj4gd2lsbCBiZSBhbm5vdW5jZWQgaW4gPGI-ZHVlPC9iPiBjb3Vyc2UsIGFuZCBpZiB5b3Ugd291bGQgbGlrZSB0byBoZWFyIGFib3V0IG5ldyBpbmZvcm1hdGlvbiBmZWVsIDxiPmZyZWU8L2I-IHRvIHNpZ24tdXAgYXQ6IHd3dyZuYnNwOy4uLiICEAFIAFgAaAA",
+        "source": "George RR Martin | Website",
+        "read_more_link": "https://georgerrmartin.com/notablog/#:~:text=New%20venue%20and%20premiere%20dates,www.gameofthronesonstage.com"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Last meaning As a verb",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnvluP5q1NTDeyMA03T-R3zgDf4vAg:1790827986621&q=Last+meaning+As+a+verb&sa=X&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQ1QJ6BAg5EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Last+meaning+As+a+verb"
+      },
+      {
+        "block_position": 1,
+        "query": "Last adjective",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnvluP5q1NTDeyMA03T-R3zgDf4vAg:1790827986621&q=Last+adjective&sa=X&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQ1QJ6BAg8EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Last+adjective"
+      },
+      {
+        "block_position": 1,
+        "query": "How to pronounce last",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnvluP5q1NTDeyMA03T-R3zgDf4vAg:1790827986621&q=How+to+pronounce+last&sa=X&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQ1QJ6BAg-EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+pronounce+last"
+      },
+      {
+        "block_position": 1,
+        "query": "Last meaning in English",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnvluP5q1NTDeyMA03T-R3zgDf4vAg:1790827986621&q=Last+meaning+in+English&sa=X&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQ1QJ6BAhAEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Last+meaning+in+English"
+      },
+      {
+        "block_position": 1,
+        "query": "Last verb forms",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnvluP5q1NTDeyMA03T-R3zgDf4vAg:1790827986621&q=Last+verb+forms&sa=X&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQ1QJ6BAg_EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Last+verb+forms"
+      },
+      {
+        "block_position": 1,
+        "query": "Last Pay Certificate Format",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnvluP5q1NTDeyMA03T-R3zgDf4vAg:1790827986621&q=Last+Pay+Certificate+Format&sa=X&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQ1QJ6BAg6EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Last+Pay+Certificate+Format"
+      },
+      {
+        "block_position": 1,
+        "query": "Last meaning in German",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnvluP5q1NTDeyMA03T-R3zgDf4vAg:1790827986621&q=Last+meaning+in+German&sa=X&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQ1QJ6BAg9EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Last+meaning+in+German"
+      },
+      {
+        "block_position": 1,
+        "query": "Last in a sentence",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnvluP5q1NTDeyMA03T-R3zgDf4vAg:1790827986621&q=Last+in+a+sentence&sa=X&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQ1QJ6BAg7EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Last+in+a+sentence"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026&sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnvluP5q1NTDeyMA03T-R3zgDf4vAg:1790827986621&ei=0t29ar6yJdavqtsP18qNoAk&start=10&sa=N&sstk=AS6-VmI6DAsmpaYoWRoyj_nQBGSeBbRoymbBmwqrYg29WxdgqsB7dnOwk0P8AvCJhCLSUSzGZUVQC0IyYd9Zn-VThnvWK2sI1haXLg&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQ8NMDegQINBAI",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026&sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnvluP5q1NTDeyMA03T-R3zgDf4vAg:1790827986621&ei=0t29ar6yJdavqtsP18qNoAk&start=10&sa=N&sstk=AS6-VmI6DAsmpaYoWRoyj_nQBGSeBbRoymbBmwqrYg29WxdgqsB7dnOwk0P8AvCJhCLSUSzGZUVQC0IyYd9Zn-VThnvWK2sI1haXLg&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQ8tMDegQINBAE",
+        "3": "https://www.google.com/search?q=Aadhaar+free+update+last+date+2026&sca_esv=800f17b7812d8a3a&hl=en&gl=in&sxsrf=APpeQnvluP5q1NTDeyMA03T-R3zgDf4vAg:1790827986621&ei=0t29ar6yJdavqtsP18qNoAk&start=20&sa=N&sstk=AS6-VmI6DAsmpaYoWRoyj_nQBGSeBbRoymbBmwqrYg29WxdgqsB7dnOwk0P8AvCJhCLSUSzGZUVQC0IyYd9Zn-VThnvWK2sI1haXLg&ved=2ahUKEwi-4_uP-peXAxXWl2oFHVdlA5QQ8tMDegQINBAG"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+free+update+last+date+2026&start=20"
+      }
+    }
+  }
+}

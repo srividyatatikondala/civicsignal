@@ -1,0 +1,37 @@
+{
+  "query": "PM Kisan next installment date 2026",
+  "current_date": "2026-09-29",
+  "total_results_checked": 7,
+  "total_dates_found": 5,
+  "excluded_open_ended": 0,
+  "excluded_historical": 1,
+  "excluded_unknown_role": 2,
+  "stale_claims": [
+    {
+      "source_domain": "news18.com",
+      "source_url": "https://www.news18.com/business/economy/pm-kisan-22nd-installment-date-pm-modi-to-release-next-tranche-of-rs-2000-on-this-date-ws-l-9782640.html",
+      "position": 2,
+      "date_precision": "month",
+      "date_start": "2026-02-01",
+      "date_end": "2026-02-28",
+      "role": "deadline",
+      "context": "lment) of the PM Kisan scheme is expected to be released in February 2026. PM Kisan 22nd Installment Date: PM Modi To Release ...",
+      "snippet": "According to reports, the next installment (22nd installment) of the PM Kisan scheme is expected to be released in February 2026. PM Kisan 22nd Installment Date: PM Modi To Release ...",
+      "days_expired": 213,
+      "severity": "high"
+    },
+    {
+      "source_domain": "latestly.com",
+      "source_url": "https://www.latestly.com/india/news/pm-kisan-23rd-installment-date-who-will-get-the-next-payment-and-who-may-miss-out-7381487.html",
+      "position": 7,
+      "date_precision": "month",
+      "date_start": "2026-07-01",
+      "date_end": "2026-07-31",
+      "role": "deadline",
+      "context": "he 23rd installment of the PM-Kisan scheme, expected around July 2026 following the March payout. While no official date is ... P",
+      "snippet": "Farmers await the 23rd installment of the PM-Kisan scheme, expected around July 2026 following the March payout. While no official date is ... PM Kisan 23rd Installment Date: Who Will Get the Next ...",
+      "days_expired": 60,
+      "severity": "medium"
+    }
+  ]
+}

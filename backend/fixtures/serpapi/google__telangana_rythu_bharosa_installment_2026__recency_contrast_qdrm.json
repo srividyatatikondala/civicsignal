@@ -1,0 +1,174 @@
+{
+  "civicsignal_fixture": {
+    "engine": "google",
+    "q": "Telangana Rythu Bharosa installment 2026",
+    "params": {
+      "gl": "in",
+      "hl": "en",
+      "num": 10,
+      "tbs": "qdr:m"
+    },
+    "kind": "captured",
+    "captured_at": "2026-10-05T03:52:04.330028+00:00",
+    "note": "Follow-up (recency_contrast) for: Telangana Rythu Bharosa installment 2026. Because: Deadline already passed: x.com (#8) gives 2026-04-15, 169 day(s) before 2026-10-01"
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac31edc6b036f4d71a9ae0f",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/fip9S4o3FGeAG0uSfUE2UoNxZRK4etek8YHwPB5IkDE/6ac31edc6b036f4d71a9ae0f.json",
+      "markdown_endpoint": "https://serpapi.com/searches/fip9S4o3FGeAG0uSfUE2UoNxZRK4etek8YHwPB5IkDE/6ac31edc6b036f4d71a9ae0f.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/fip9S4o3FGeAG0uSfUE2UoNxZRK4etek8YHwPB5IkDE/6ac31edc6b036f4d71a9ae0f.json_with_pixel_position",
+      "created_at": "2026-10-05 03:51:56 UTC",
+      "processed_at": "2026-10-05 03:51:56 UTC",
+      "google_url": "https://www.google.com/search?q=Telangana+Rythu+Bharosa+installment+2026&oq=Telangana+Rythu+Bharosa+installment+2026&hl=en&gl=in&tbs=qdr:m&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/fip9S4o3FGeAG0uSfUE2UoNxZRK4etek8YHwPB5IkDE/6ac31edc6b036f4d71a9ae0f.html",
+      "total_time_taken": 4.83
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Telangana Rythu Bharosa installment 2026",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop",
+      "tbs": "qdr:m"
+    },
+    "search_information": {
+      "query_displayed": "Telangana Rythu Bharosa installment 2026",
+      "total_results": 4,
+      "time_taken_displayed": 0.21,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Rythu Bandhu Telangana 2026 - Schemes In India",
+        "link": "https://schemesinindia.in/schemes/telangana/rythu-bandhu-telangana",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVuzuQOmcLJxULSe5JIXx6kOaAz8-nsUjL8m1xIEGgFA0XJq3-lSJ3oH2YiV6h2oEveukPxFL5YUAkoQ4VaJmIRihZOiOu-DtpuRfvssUesKkpONihDNbu6Yd8tpHqXgOsTVOBWPkc0bEnaffplW_bT82I6w3flQaA&ved=2ahUKEwjNncDv_KGXAxUwm2oFHbNdE8IQFnoECCMQAQ&uoh=1",
+        "displayed_link": "https://schemesinindia.in › schemes",
+        "favicon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAADwBwCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHpugvFXoU25O4YvWwlWHklYyXcThKBV4PExfqRJYi_J5NDEWEI4W4x9FAAA_uwAEgLZeTsVoII3Y7NLVgyRZkzy6zjTQZhzPEdX6sNtVmnN_JN1n0KSX7jgjtlJimnTiFf5RPAoA9D9oFja-XGXD39f5h7a3BIq4x_EB36y-Me4FF36gt4wKop069A9vHZ2D_fSXUV4HgHaIVlsNCLo4GMEgktxT0-8JgSOJ7MoLukG-QieBn47-l6BF2onXNlGx_agYQf3q_z0_70NY7194lI1Kqsqrs9wWZz_AbKHglH7GifJ8LnkfMG8bhW9UIjag5lTxImNqpTi2YlTywEwgQRGAH8AicV193XTw3zob3dUDvqQ8UYRmrszGRMnggPXcZBbgXJkugzT85qJVKeE9vXo7PTAAA.webp",
+        "date": "7 Sept 2026",
+        "snippet": "Bharosa Scheme 2026 — ₹10,000/Year Investment Support for Fishermen ✅ ₹10,000/year investment support + free group accident insurance for",
+        "snippet_highlighted_words": [
+          "Bharosa",
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Bharosa Scheme 2026 — ₹10,000/Year Investment Support for Fishermen ✅ ₹10,000/year investment support + free group accident insurance for",
+            "source_info_link": "https://schemesinindia.in/schemes/telangana/rythu-bandhu-telangana",
+            "icon": "https://serpapi.com/images/i/UklGRl4BAABXRUJQVlA4IFIBAADwBwCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHpugvFXoU25O4YvWwlWHklYyXcThKBV4PExfqRJYi_J5NDEWEI4W4x9FAAA_uwAEgLZeTsVoII3Y7NLVgyRZkzy6zjTQZhzPEdX6sNtVmnN_JN1n0KSX7jgjtlJimnTiFf5RPAoA9D9oFja-XGXD39f5h7a3BIq4x_EB36y-Me4FF36gt4wKop069A9vHZ2D_fSXUV4HgHaIVlsNCLo4GMEgktxT0-8JgSOJ7MoLukG-QieBn47-l6BF2onXNlGx_agYQf3q_z0_70NY7194lI1Kqsqrs9wWZz_AbKHglH7GifJ8LnkfMG8bhW9UIjag5lTxImNqpTi2YlTywEwgQRGAH8AicV193XTw3zob3dUDvqQ8UYRmrszGRMnggPXcZBbgXJkugzT85qJVKeE9vXo7PTAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVnV6dVFPbWNMSnhVTFNlNUpJWHg2a09hQXo4LW5zVWpMOG0xeElFR2dGQTBYSnEzLWxTSjNvSDJZaVY2aDJvRXZldWtQeEZMNVlVQWtvUTRWYUptSVJpaFpPaU91LUR0cHVSZnZzc1Vlc0trcE9OaWhETmJ1NllkOHRwSHFYZ09zVFZPQldQa2MwYkVuYWZmcGxXX2JUODJJNnczZmxRYUESBBoCCAAagwYSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJA3wUIABAAGAAgACozCgl0ZWxhbmdhbmEVhKe6QBoJaHlkZXJhYmFkGg5pdjtwO3RlbGFuZ2FuYRoGYW5kaHJhKiYKBXJ5dGh1FYESaEAaDHJ5dGh1Ymhhcm9zYRoKaXY7cDtyeXRodSo1CgdiaGFyb3NhFTl-FD0aCWJoYXJvc2EncxoMcnl0aHViaGFyb3NhGgxpdjtwO2JoYXJvc2EqjwEKC2luc3RhbGxtZW50FQAAAAAaDGluc3RhbGxtZW50cxoKaW5zdGFsbWVudBoLaW5zdGFsbWVudHMaEGl2O3A7aW5zdGFsbG1lbnQaB3BheW1lbnQaCHBheW1lbnRzGglmaW5hbmNpYWwaBGxvYW4aA2VtaRoGY3JlZGl0GgZzY2hlbWUaCXJlcGF5bWVudCoWCgQyMDI2Fenql0AaCWl2O247MjAyNjK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZ1enVRT21jTEp4VUxTZTVKSVh4NmtPYUF6OC1uc1VqTDhtMXhJRUdnRkEwWEpxMy1sU0ozb0gyWWlWNmgyb0V2ZXVrUHhGTDVZVUFrb1E0VmFKbUlSaWhaT2lPdS1EdHB1UmZ2c3NVZXNLa3BPTmloRE5idTZZZDh0cEhxWGdPc1RWT0JXUGtjMGJFbmFmZnBsV19iVDgySTZ3M2ZsUWFBOjw8Yj5SeXRodTwvYj4gQmFuZGh1IDxiPlRlbGFuZ2FuYSAyMDI2PC9iPiAtIFNjaGVtZXMgSW4gSW5kaWFCnwE8Yj5CaGFyb3NhPC9iPiBTY2hlbWUgPGI-MjAyNjwvYj4g4oCUIOKCuTEwLDAwMC9ZZWFyIEludmVzdG1lbnQgU3VwcG9ydCBmb3IgRmlzaGVybWVuIOKchSDigrkxMCwwMDAveWVhciBpbnZlc3RtZW50IHN1cHBvcnQgKyBmcmVlIGdyb3VwIGFjY2lkZW50IGluc3VyYW5jZSBmb3IiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVnV6dVFPbWNMSnhVTFNlNUpJWHg2a09hQXo4LW5zVWpMOG0xeElFR2dGQTBYSnEzLWxTSjNvSDJZaVY2aDJvRXZldWtQeEZMNVlVQWtvUTRWYUptSVJpaFpPaU91LUR0cHVSZnZzc1Vlc0trcE9OaWhETmJ1NllkOHRwSHFYZ09zVFZPQldQa2MwYkVuYWZmcGxXX2JUODJJNnczZmxRYUESBBoCCAAagwYSABoAIgAqADIGCAESAmluOgBCBAgCEABKAFoAcgB6AIJA3wUIABAAGAAgACozCgl0ZWxhbmdhbmEVhKe6QBoJaHlkZXJhYmFkGg5pdjtwO3RlbGFuZ2FuYRoGYW5kaHJhKiYKBXJ5dGh1FYESaEAaDHJ5dGh1Ymhhcm9zYRoKaXY7cDtyeXRodSo1CgdiaGFyb3NhFTl-FD0aCWJoYXJvc2EncxoMcnl0aHViaGFyb3NhGgxpdjtwO2JoYXJvc2EqjwEKC2luc3RhbGxtZW50FQAAAAAaDGluc3RhbGxtZW50cxoKaW5zdGFsbWVudBoLaW5zdGFsbWVudHMaEGl2O3A7aW5zdGFsbG1lbnQaB3BheW1lbnQaCHBheW1lbnRzGglmaW5hbmNpYWwaBGxvYW4aA2VtaRoGY3JlZGl0GgZzY2hlbWUaCXJlcGF5bWVudCoWCgQyMDI2Fenql0AaCWl2O247MjAyNjK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZ1enVRT21jTEp4VUxTZTVKSVh4NmtPYUF6OC1uc1VqTDhtMXhJRUdnRkEwWEpxMy1sU0ozb0gyWWlWNmgyb0V2ZXVrUHhGTDVZVUFrb1E0VmFKbUlSaWhaT2lPdS1EdHB1UmZ2c3NVZXNLa3BPTmloRE5idTZZZDh0cEhxWGdPc1RWT0JXUGtjMGJFbmFmZnBsV19iVDgySTZ3M2ZsUWFBOjw8Yj5SeXRodTwvYj4gQmFuZGh1IDxiPlRlbGFuZ2FuYSAyMDI2PC9iPiAtIFNjaGVtZXMgSW4gSW5kaWFCnwE8Yj5CaGFyb3NhPC9iPiBTY2hlbWUgPGI-MjAyNjwvYj4g4oCUIOKCuTEwLDAwMC9ZZWFyIEludmVzdG1lbnQgU3VwcG9ydCBmb3IgRmlzaGVybWVuIOKchSDigrkxMCwwMDAveWVhciBpbnZlc3RtZW50IHN1cHBvcnQgKyBmcmVlIGdyb3VwIGFjY2lkZW50IGluc3VyYW5jZSBmb3IiAhABSABYAGgA",
+        "source": "schemesinindia.in"
+      },
+      {
+        "position": 2,
+        "title": "తెలంగాణ రైతులకు రైతు భరోసా ₹8000 జమ! ఖాతాల్లోకి డబ్బులు ...",
+        "link": "https://www.youtube.com/watch?v=EbEdC7XEeww",
+        "displayed_link": "2 weeks ago",
+        "thumbnail": "https://serpapi.com/searches/6ac31edc6b036f4d71a9ae0f/images/6mrPuNylIyyyrgR3GdUypCoVYDVKCiFGbNMjWiriqgk.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "snippet": "Rythu Bharosa Payment 2026 ప్రస్తుతం అధికారిక. Telangana Government Schemes 2026, at Shilpakala Vedika, Hyderabad. 20th September \"2026 ETV Andhra Pradesh and ETV ...",
+        "duration": "11:12",
+        "about_this_result": {
+          "source": {
+            "description": "Rythu Bharosa Payment 2026 ప్రస్తుతం అధికారిక. Telangana Government Schemes 2026, at Shilpakala Vedika, Hyderabad. 20th September \"2026 ETV Andhra Pradesh and ETV  ...",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmJKem5Vc3NpNWNuZ3Z5RXdBSHFWaTNGMXpNNzM1dlJCSFExMThOZmFvMXd6enlnYjE1Rzg2d1VnSzEteVhlTG9jb0w0RzVLUGxTZEZwZjdrbFJsbE9rTWJVdVNLWHpDazNyak5GamozLWsweDFzUmFuZGFsb3FZWVF2dEJ3X3k1NncSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmJKem5Vc3NpNWNuZ3Z5RXdBSHFWaTNGMXpNNzM1dlJCSFExMThOZmFvMXd6enlnYjE1Rzg2d1VnSzEteVhlTG9jb0w0RzVLUGxTZEZwZjdrbFJsbE9rTWJVdVNLWHpDazNyak5GamozLWsweDFzUmFuZGFsb3FZWVF2dEJ3X3k1NncSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQtZO1gGnptkDG5op3nxBtlHmNzrL5m9zeQQQ",
+        "source": "YouTube · Telengana Govt Schemes"
+      },
+      {
+        "position": 3,
+        "title": "తెలంగాణ రైతులకు రైతు భరోసా ₹6000 డబ్బులు పడుతున్నాయి",
+        "link": "https://www.youtube.com/watch?v=r1pUdSh2U8Y",
+        "displayed_link": "3.7K+ views · 1 week ago",
+        "thumbnail": "https://serpapi.com/searches/6ac31edc6b036f4d71a9ae0f/images/6mrPuNylIyyyrgR3GdUypE5n_eYua2k-FqOfultxTis.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "snippet": "తెలంగాణ రైతులకు రైతు భరోసా ₹6000 డబ్బులు పడుతున్నాయి|rythu bharosa payment 2026 లేటెస్ట్ అప్డేట్.",
+        "duration": "4:24",
+        "about_this_result": {
+          "source": {
+            "description": "తెలంగాణ రైతులకు రైతు భరోసా ₹6000 డబ్బులు పడుతున్నాయి|rythu bharosa payment 2026 లేటెస్ట్ అప్డేట్.",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVllQalhGXzlPeEZpemw2T2pmdk9kUmd4enBQdlhqZ0ZxbS1vVkVxVXdiRXIzeUFOTktBczQxeTVpYnlxU3ZxWHZZeDNmX0dWdFRDaVc2QkZyMDZvX3drWUVZVGhjbTVBb0NTY2FzcC1FMWJHTVBkdUt6ZmRiRHF5NXd3ekdBTjNxeXcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVllQalhGXzlPeEZpemw2T2pmdk9kUmd4enBQdlhqZ0ZxbS1vVkVxVXdiRXIzeUFOTktBczQxeTVpYnlxU3ZxWHZZeDNmX0dWdFRDaVc2QkZyMDZvX3drWUVZVGhjbTVBb0NTY2FzcC1FMWJHTVBkdUt6ZmRiRHF5NXd3ekdBTjNxeXcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR406vDoTkqDHnTQcZUMmBp_4WfBFtxyuW_BQ",
+        "source": "YouTube · BVG updates"
+      },
+      {
+        "position": 4,
+        "title": "https://www.telangana.gov.in/guides-fortune-bu.html",
+        "link": "https://www.telangana.gov.in/guides-fortune-bu.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAV4_7bQ5J3QKrb7n-xR7FJZap00809ZgMzA4Me5QLvymh-b6_b-mOQMgHadYUBC2R55yLsYmU4tBLBFPJJ6wlGjmkkTi5nve4yGa4F8DbP2EdSr0AeoRahv6GU5hGRrCwWdNoYKDk7Y2YZ&ved=2ahUKEwjNncDv_KGXAxUwm2oFHbNdE8IQFnoECCEQAQ&uoh=1",
+        "displayed_link": "https://www.telangana.gov.in › guides-fortune-bu",
+        "favicon": "https://serpapi.com/images/i/UklGRmoBAABXRUJQVlA4IF4BAADwBQCdASocABsAPtEutFooIagoGAEAGglkAJ0ECB2A1gW9U4R1yzoVBBybJToZ6xdmxAwnPbAdkAD-94Dl9MSo6uXHtyhF35fYQZFUswRgWcqQMGecDP_jlVtW_6qc6G6SbwK4W25bCizAwfgkBFcKviYaBupNhN0T8YdEZC8NXDiHsNS7v_NFP3v-uMvS86X6pExPD5s0aKdVOPvSE5QAbtuo2YOIe1d79polslQ2kHth_e9nxP7HO9rh8bWBG22Ks_a2-T4n7VsjQ1F3zlfq-aqRhbvohE3HhYNKQYv371zAo16j3H6XyjaOT7W2n8M1L0qLYhhTyfOfVI0XA1NZwnRT9SVm2ZKxLSSSW98-onh4U6ywxeAiLw6RKQhO5FrJz0KMVl_jVl6rumYinfE7bzUEK9LLd61zeo5FmqpJtKulmL85nMwpYkdLp5BACEGCsxjwyF7K1zcjDcAAAA.webp",
+        "date": "6 days ago",
+        "about_this_result": {
+          "source": {
+            "source_info_link": "https://www.telangana.gov.in/guides-fortune-bu.html",
+            "icon": "https://serpapi.com/images/i/UklGRmoBAABXRUJQVlA4IF4BAADwBQCdASocABsAPtEutFooIagoGAEAGglkAJ0ECB2A1gW9U4R1yzoVBBybJToZ6xdmxAwnPbAdkAD-94Dl9MSo6uXHtyhF35fYQZFUswRgWcqQMGecDP_jlVtW_6qc6G6SbwK4W25bCizAwfgkBFcKviYaBupNhN0T8YdEZC8NXDiHsNS7v_NFP3v-uMvS86X6pExPD5s0aKdVOPvSE5QAbtuo2YOIe1d79polslQ2kHth_e9nxP7HO9rh8bWBG22Ks_a2-T4n7VsjQ1F3zlfq-aqRhbvohE3HhYNKQYv371zAo16j3H6XyjaOT7W2n8M1L0qLYhhTyfOfVI0XA1NZwnRT9SVm2ZKxLSSSW98-onh4U6ywxeAiLw6RKQhO5FrJz0KMVl_jVl6rumYinfE7bzUEK9LLd61zeo5FmqpJtKulmL85nMwpYkdLp5BACEGCsxjwyF7K1zcjDcAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVjRfN2JRNUozUUtyYjduLXhSN0ZKWmFwMDA4MDlaZ016QTRNZTVRTHZ5bWgtYjZfYi1tT1FNZ0hhZFlVQkMyUjU1eUxzWW1VNHRCTEJGUEpKNndsR2pta2tUaTVudmU0eUdhNEY4RGJQMkVkU3IwQWVvUmFodjZHVTVoR1JyQ3dXZE5vWUtEazdZMllaEgQaAggAGqcEEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoUCAESEHRlbGFuZ2FuYS5nb3YuaW5yAHoAgkDtAwgAEAAYACAAKjMKCXRlbGFuZ2FuYRUAAAA_GgloeWRlcmFiYWQaDml2O3A7dGVsYW5nYW5hGgZhbmRocmEqJgoFcnl0aHUVAABgQBoMcnl0aHViaGFyb3NhGgppdjtwO3J5dGh1KjUKB2JoYXJvc2EVAABgQBoJYmhhcm9zYSdzGgxyeXRodWJoYXJvc2EaDGl2O3A7Ymhhcm9zYSqPAQoLaW5zdGFsbG1lbnQVAAAAABoMaW5zdGFsbG1lbnRzGgppbnN0YWxtZW50GgtpbnN0YWxtZW50cxoQaXY7cDtpbnN0YWxsbWVudBoHcGF5bWVudBoIcGF5bWVudHMaCWZpbmFuY2lhbBoEbG9hbhoDZW1pGgZjcmVkaXQaBnNjaGVtZRoJcmVwYXltZW50KhYKBDIwMjYVAAAAABoJaXY7bjsyMDI2MqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVjRfN2JRNUozUUtyYjduLXhSN0ZKWmFwMDA4MDlaZ016QTRNZTVRTHZ5bWgtYjZfYi1tT1FNZ0hhZFlVQkMyUjU1eUxzWW1VNHRCTEJGUEpKNndsR2pta2tUaTVudmU0eUdhNEY4RGJQMkVkU3IwQWVvUmFodjZHVTVoR1JyQ3dXZE5vWUtEazdZMllaOgAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVjRfN2JRNUozUUtyYjduLXhSN0ZKWmFwMDA4MDlaZ016QTRNZTVRTHZ5bWgtYjZfYi1tT1FNZ0hhZFlVQkMyUjU1eUxzWW1VNHRCTEJGUEpKNndsR2pta2tUaTVudmU0eUdhNEY4RGJQMkVkU3IwQWVvUmFodjZHVTVoR1JyQ3dXZE5vWUtEazdZMllaEgQaAggAGqcEEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoUCAESEHRlbGFuZ2FuYS5nb3YuaW5yAHoAgkDtAwgAEAAYACAAKjMKCXRlbGFuZ2FuYRUAAAA_GgloeWRlcmFiYWQaDml2O3A7dGVsYW5nYW5hGgZhbmRocmEqJgoFcnl0aHUVAABgQBoMcnl0aHViaGFyb3NhGgppdjtwO3J5dGh1KjUKB2JoYXJvc2EVAABgQBoJYmhhcm9zYSdzGgxyeXRodWJoYXJvc2EaDGl2O3A7Ymhhcm9zYSqPAQoLaW5zdGFsbG1lbnQVAAAAABoMaW5zdGFsbG1lbnRzGgppbnN0YWxtZW50GgtpbnN0YWxtZW50cxoQaXY7cDtpbnN0YWxsbWVudBoHcGF5bWVudBoIcGF5bWVudHMaCWZpbmFuY2lhbBoEbG9hbhoDZW1pGgZjcmVkaXQaBnNjaGVtZRoJcmVwYXltZW50KhYKBDIwMjYVAAAAABoJaXY7bjsyMDI2MqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVjRfN2JRNUozUUtyYjduLXhSN0ZKWmFwMDA4MDlaZ016QTRNZTVRTHZ5bWgtYjZfYi1tT1FNZ0hhZFlVQkMyUjU1eUxzWW1VNHRCTEJGUEpKNndsR2pta2tUaTVudmU0eUdhNEY4RGJQMkVkU3IwQWVvUmFodjZHVTVoR1JyQ3dXZE5vWUtEazdZMllaOgAiAhABSABYAGgA",
+        "source": "Telangana State Portal"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Telangana rythu bharosa installment 2026 list",
+        "link": "https://www.google.com/search?sca_esv=162034b9a39fa584&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnv3YLoaxSPrIxXhq5NTgxqGrjFQyQ:1791172321225&q=Telangana+rythu+bharosa+installment+2026+list&sa=X&ved=2ahUKEwjNncDv_KGXAxUwm2oFHbNdE8IQ1QJ6BAgWEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Telangana+rythu+bharosa+installment+2026+list&tbs=qdr%3Am"
+      },
+      {
+        "block_position": 1,
+        "query": "Telangana rythu bharosa installment 2026 online",
+        "link": "https://www.google.com/search?sca_esv=162034b9a39fa584&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnv3YLoaxSPrIxXhq5NTgxqGrjFQyQ:1791172321225&q=Telangana+rythu+bharosa+installment+2026+online&sa=X&ved=2ahUKEwjNncDv_KGXAxUwm2oFHbNdE8IQ1QJ6BAgXEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Telangana+rythu+bharosa+installment+2026+online&tbs=qdr%3Am"
+      },
+      {
+        "block_position": 1,
+        "query": "Telangana rythu bharosa installment 2026 apply online",
+        "link": "https://www.google.com/search?sca_esv=162034b9a39fa584&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnv3YLoaxSPrIxXhq5NTgxqGrjFQyQ:1791172321225&q=Telangana+rythu+bharosa+installment+2026+apply+online&sa=X&ved=2ahUKEwjNncDv_KGXAxUwm2oFHbNdE8IQ1QJ6BAgVEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Telangana+rythu+bharosa+installment+2026+apply+online&tbs=qdr%3Am"
+      }
+    ],
+    "dmca_messages": {
+      "title": "Notices about Filtered Results",
+      "messages": [
+        {
+          "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 4 already displayed.If you like, you can repeat the search with the omitted results included.",
+          "highlighted_words": [
+            {
+              "link": "https://www.google.com/search?q=Telangana+Rythu+Bharosa+installment+2026+&sca_esv=162034b9a39fa584&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnv3YLoaxSPrIxXhq5NTgxqGrjFQyQ:1791172321225&filter=0",
+              "text": "repeat the search with the omitted results included"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

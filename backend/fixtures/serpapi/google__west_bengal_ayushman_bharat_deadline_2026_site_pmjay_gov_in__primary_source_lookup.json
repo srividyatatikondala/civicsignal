@@ -1,0 +1,43 @@
+{
+  "civicsignal_fixture": {
+    "engine": "google",
+    "q": "West Bengal Ayushman Bharat deadline 2026 site:pmjay.gov.in",
+    "params": {
+      "gl": "in",
+      "hl": "en",
+      "num": 10
+    },
+    "kind": "captured",
+    "captured_at": "2026-10-05T03:52:16.159459+00:00",
+    "note": "Follow-up (primary_source_lookup) for: West Bengal Ayushman Bharat deadline 2026. Because: No official page that addresses the topic among 9 retrieved sources. | Official domain pmjay.gov.in is mentioned in result #5 (instagram.com)."
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac31ee3fbbeb58b093630bf",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/Jmc4aUhkI86GJGBKF8JNVQ4L7gRhLD_c4tRxKDYbFGI/6ac31ee3fbbeb58b093630bf.json",
+      "markdown_endpoint": "https://serpapi.com/searches/Jmc4aUhkI86GJGBKF8JNVQ4L7gRhLD_c4tRxKDYbFGI/6ac31ee3fbbeb58b093630bf.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/Jmc4aUhkI86GJGBKF8JNVQ4L7gRhLD_c4tRxKDYbFGI/6ac31ee3fbbeb58b093630bf.json_with_pixel_position",
+      "created_at": "2026-10-05 03:52:03 UTC",
+      "processed_at": "2026-10-05 03:52:03 UTC",
+      "google_url": "https://www.google.com/search?q=West+Bengal+Ayushman+Bharat+deadline+2026+site%3Apmjay.gov.in&oq=West+Bengal+Ayushman+Bharat+deadline+2026+site%3Apmjay.gov.in&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/Jmc4aUhkI86GJGBKF8JNVQ4L7gRhLD_c4tRxKDYbFGI/6ac31ee3fbbeb58b093630bf.html",
+      "total_time_taken": 10.32
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "West Bengal Ayushman Bharat deadline 2026 site:pmjay.gov.in",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "West Bengal Ayushman Bharat deadline 2026 site:pmjay.gov.in",
+      "total_results": 0,
+      "time_taken_displayed": 0.14,
+      "organic_results_state": "Fully empty"
+    },
+    "error": "Google hasn't returned any results for this query."
+  }
+}

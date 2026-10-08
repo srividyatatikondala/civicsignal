@@ -1,0 +1,377 @@
+{
+  "civicsignal_fixture": {
+    "engine": "google",
+    "q": "West Bengal Ayushman Bharat deadline 2026",
+    "params": {
+      "gl": "in",
+      "hl": "en",
+      "num": 10,
+      "tbs": "qdr:m"
+    },
+    "kind": "captured",
+    "captured_at": "2026-10-05T03:52:17.695070+00:00",
+    "note": "Follow-up (recency_contrast) for: West Bengal Ayushman Bharat deadline 2026. Because: Deadline already passed: instagram.com (#2) gives 2024-09-30, 731 day(s) before 2026-10-01 | Deadline already passed: instagram.com (#5) gives 2024-09-30, 731 day(s) before 2026-10-01"
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6ac31eeec0d7a3a1a3b39531",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/whhc_2ufGT2T5eGLYErezKbDpDJaSPO9PahaO9m63w4/6ac31eeec0d7a3a1a3b39531.json",
+      "markdown_endpoint": "https://serpapi.com/searches/whhc_2ufGT2T5eGLYErezKbDpDJaSPO9PahaO9m63w4/6ac31eeec0d7a3a1a3b39531.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/whhc_2ufGT2T5eGLYErezKbDpDJaSPO9PahaO9m63w4/6ac31eeec0d7a3a1a3b39531.json_with_pixel_position",
+      "created_at": "2026-10-05 03:52:14 UTC",
+      "processed_at": "2026-10-05 03:52:14 UTC",
+      "google_url": "https://www.google.com/search?q=West+Bengal+Ayushman+Bharat+deadline+2026&oq=West+Bengal+Ayushman+Bharat+deadline+2026&hl=en&gl=in&tbs=qdr:m&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/whhc_2ufGT2T5eGLYErezKbDpDJaSPO9PahaO9m63w4/6ac31eeec0d7a3a1a3b39531.html",
+      "total_time_taken": 0.82
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "West Bengal Ayushman Bharat deadline 2026",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop",
+      "tbs": "qdr:m"
+    },
+    "search_information": {
+      "query_displayed": "West Bengal Ayushman Bharat deadline 2026",
+      "total_results": 391,
+      "time_taken_displayed": 0.35,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_images": [
+      {
+        "source": "https://www.instagram.com/p/Dc6A6RQkWBS/?__d=1%3Futm_source%3Dig_embed",
+        "thumbnail": "https://serpapi.com/searches/6ac31eeec0d7a3a1a3b39531/images/ZLPB68bXG7n_FrSoHTIhRIIxd8Hjf_Kah7RYX-tJ3bo.jpeg",
+        "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3979497224996479058",
+        "title": "📢 🏥 **Major health update for West Bengal residents ...",
+        "source_name": "Instagram"
+      },
+      {
+        "source": "https://www.facebook.com/CSCWestbengalofficial/posts/delivering-government-social-schemes-through-seva-setu-abhiyan-2026-across-benga/1394731212831893/",
+        "thumbnail": "https://serpapi.com/searches/6ac31eeec0d7a3a1a3b39531/images/q4MVBlVQFlH1bPFqQUHbRmWl_Zgr0TeUcZhsk3If7yk.jpeg",
+        "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1394731096165238",
+        "title": "Seva Setu Abhiyan 2026 delivers social schemes in West Bengal",
+        "source_name": "Facebook"
+      },
+      {
+        "source": "https://www.instagram.com/reel/Ddl8uvcSKK2/",
+        "thumbnail": "https://serpapi.com/searches/6ac31eeec0d7a3a1a3b39531/images/eNgwwCA0NgzRgcFgpGR_nswGj65qASNOIAk2oSHANCE.jpeg",
+        "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3991863739560796854",
+        "title": "𝐄𝐗𝐀𝐌 - 𝐂𝐎𝐌𝐁𝐈𝐍𝐄𝐃 𝐃𝐄𝐅𝐄𝐍𝐂𝐄 𝐒𝐄𝐑𝐕𝐈𝐂𝐄 (𝐈𝐈) 𝟐𝟎𝟐𝟔 ,  With reference to Ayushman Bharat Pradhan Mantri Jan Arogya Yojana, which  of the following statements is/are correct? , #𝐔𝐏𝐒𝐂𝟐𝟎𝟐𝟔 #𝐂𝐀𝐏𝐅  #𝐍𝐃𝐀 #𝐂𝐈𝐒𝐅 #𝐂𝐃𝐒",
+        "source_name": "Instagram"
+      },
+      {
+        "source": "https://www.facebook.com/61586603695919/posts/-development-must-reach-every-citizenchief-minister-shri-suvendu-adhikari-has-cr/122138347671220123/",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu-cU1wuqf6K5K4kxZ-iL6nMAWIK1yGDoJZrvlySAqjQriieTXo8qCdRY&s",
+        "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122138347641220123",
+        "title": "West Bengal Chief Minister Suvendu Adhikari criticises ...",
+        "source_name": "Facebook"
+      },
+      {
+        "source": "https://www.facebook.com/100086226949932/posts/-we-are-hiring-ayushman-bharat-departmentsantiniketan-medical-college-hospital-i/1097250843159137/",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7F6_tu23BeDO5PploB0ENNpIZf2F-sqiK5w0MA9v_33vV5nB72t_KEzS1wA&s",
+        "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1097250756492479",
+        "title": "Santiniketan Medical College & Hospital hiring for Ayushman ...",
+        "source_name": "Facebook"
+      },
+      {
+        "source": "https://www.facebook.com/61586603695919/posts/-development-must-reach-every-citizenchief-minister-shri-suvendu-adhikari-has-cr/122138347671220123/",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEu8csqPU5_bzGCndWJ-XrPkd2jpWEtexAPwLGNwDQk3nBltrJiUslA8k&s",
+        "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=122139424257220123",
+        "title": "West Bengal Chief Minister Suvendu Adhikari criticises ...",
+        "source_name": "Facebook"
+      },
+      {
+        "source": "https://www.instagram.com/p/Dc6A6RQkWBS/?__d=1%3Futm_source%3Dig_embed",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT91RtQf5nsEDXuQVz1Min18qrtXiHc4FyQn98sXjy2y0S-9x9DceYisrE&s",
+        "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3980779376005426739",
+        "title": "📢 🏥 **Major health update for West Bengal residents ...",
+        "source_name": "Instagram"
+      },
+      {
+        "source": "https://www.facebook.com/ceowb/posts/as-per-the-press-note-of-the-eci-no-ecipn1142026-dated-07092026-on-bye-elections/1400286105628907/",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeKUXVE84IkBUhQXNh0DvGhXqDUWoLvb3vDwordVnnCVhu15KKI6WLvBU&s",
+        "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1400286068962244",
+        "title": "As per the Press Note of the ECI No. ECI/PN/114/2026 Dated ...",
+        "source_name": "Facebook"
+      },
+      {
+        "source": "https://www.instagram.com/reel/DdZUmEOiM8m/",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8k5GnGkT3Ct7TimIbG07F7K32qUJi5cDz313QabwHzublyF72Ytwy2qc&s",
+        "original": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3988309521822437158",
+        "title": "🚨 Major Central schemes rollout begins in Bengal! 🇮🇳⚡, West Bengal  initiates full implementation of key Central welfare schemes to deliver  long-pending benefits to rural and marginalized citizens., ...",
+        "source_name": "Instagram"
+      }
+    ],
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "60 Schemes, 3300 Camps Till Oct 4 Bengal Seva Setu ...",
+        "link": "https://en.sangritimes.com/national/bengal-seva-setu-camps-60-schemes-3300-camps-till-oct-4",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFWdqbyEXzq8OaTcrsK-8wL87UI_SK1hB1mgfDiFkeSL5dP8DtSKiVgNEkr3Ruz4FtC9ew7cVXQ94QAiLARR7YOsgM-5gqIMnaljYycLLO0Xm89fPynmPNVDQkfMlUwTyas_RiuBPJxQOB3vA5LGnZeCvAxw5jP98zT2f8ahPhTFOvWYAkvXmuO8C261ka7xFaaI&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQFnoECBYQAQ&uoh=1",
+        "displayed_link": "https://en.sangritimes.com › India",
+        "favicon": "https://serpapi.com/images/i/UklGRmgBAABXRUJQVlA4IFwBAAAQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhIEI_fQ71-AnLQA5RqBseybk2DXWXxGIbAQcCxgpxC1SjSeOAAD-9hEV87SO7ULd_SjfZvW19BXug8_OQ4fKp3_2_PnLp0mFoC3X2BMebAn92lSUEezMjx2c34R4bNHipMJuCGq5ReT752cHj7n9P6eb-ttUt9rXu3vv__V6Zf2sU-d3B0J8wWOkqWBu2boAW-ogirV1P7HE9b6VM68gk9O_zV4ANm4T64DcHY_V_RSeZnYV_7hX7qHqcQMnqUCaksJmZIaSed6JTjuN1mbjVJg-Yf1u62Re86ufjhtMOHGn_yp5d_Hv0nw9ZSUEVdo1d7Ppuev1rDiMH06ib-xi_kFv6dVe1W6xvy-Jmo8qI7kn9Tn2jfuvKfgrLn8KVnt_X9OMQzsKE7r4GcYz_8Xn1L2Ki0lZzVllExS5eEWAAAA.webp",
+        "date": "3 days ago",
+        "snippet": "Ayushman Bharat, until October 4. Camps run from 10 am to 4 pm, from October 2 to October 4.",
+        "snippet_highlighted_words": [
+          "Ayushman Bharat"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Ayushman Bharat, until October 4. Camps run from 10 am to 4 pm, from October 2 to October 4.",
+            "source_info_link": "https://en.sangritimes.com/national/bengal-seva-setu-camps-60-schemes-3300-camps-till-oct-4",
+            "icon": "https://serpapi.com/images/i/UklGRmgBAABXRUJQVlA4IFwBAAAQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhIEI_fQ71-AnLQA5RqBseybk2DXWXxGIbAQcCxgpxC1SjSeOAAD-9hEV87SO7ULd_SjfZvW19BXug8_OQ4fKp3_2_PnLp0mFoC3X2BMebAn92lSUEezMjx2c34R4bNHipMJuCGq5ReT752cHj7n9P6eb-ttUt9rXu3vv__V6Zf2sU-d3B0J8wWOkqWBu2boAW-ogirV1P7HE9b6VM68gk9O_zV4ANm4T64DcHY_V_RSeZnYV_7hX7qHqcQMnqUCaksJmZIaSed6JTjuN1mbjVJg-Yf1u62Re86ufjhtMOHGn_yp5d_Hv0nw9ZSUEVdo1d7Ppuev1rDiMH06ib-xi_kFv6dVe1W6xvy-Jmo8qI7kn9Tn2jfuvKfgrLn8KVnt_X9OMQzsKE7r4GcYz_8Xn1L2Ki0lZzVllExS5eEWAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXZHFieUVYenE4T2FUY3JzSy04d0w4N1VJX1NLMWhCMW1nZkRpRmtlU0w1ZFA4RHRTS2lWZ05Fa3IzUnV6NEZ0QzlldzdjVlhROTRRQWlMQVJSN1lPc2dNLTVncUlNbmFsall5Y0xMTzBYbTg5ZlB5bm1QTlZEUWtmTWxVd1R5YXNfUml1QlBKeFFPQjN2QTVMR25aZUN2QXh3NWpQOTh6VDJmOGFoUGhURk92V1lBa3ZYbXVPOEMyNjFrYTd4RmFhSRIEGgIIABrEBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCgBQgAEAAYACAAKicKBHdlc3QVp3GfPxoHd2VzdGVybhoFd2VzdHMaCndlc3RiZW5nYWwqLwoGYmVuZ2FsFUu-gEAaB2JlbmdhbGkaCndlc3RiZW5nYWwaC2l2O3A7YmVuZ2FsKi4KCGF5dXNobWFuFSlygT8aDmF5dXNobWFuYmhhcmF0Gg1pdjtwO2F5dXNobWFuKioKBmJoYXJhdBUpcoE_Gg5heXVzaG1hbmJoYXJhdBoLaXY7cDtiaGFyYXQqRAoIZGVhZGxpbmUVAAAAABoFZGF0ZXMaCWRlYWRsaW5lcxoIZHVlIGRhdGUaCGxhc3QgZGF5Gg1pdjtwO2RlYWRsaW5lKhYKBDIwMjYVtRKnPxoJaXY7bjsyMDI2MtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXZHFieUVYenE4T2FUY3JzSy04d0w4N1VJX1NLMWhCMW1nZkRpRmtlU0w1ZFA4RHRTS2lWZ05Fa3IzUnV6NEZ0QzlldzdjVlhROTRRQWlMQVJSN1lPc2dNLTVncUlNbmFsall5Y0xMTzBYbTg5ZlB5bm1QTlZEUWtmTWxVd1R5YXNfUml1QlBKeFFPQjN2QTVMR25aZUN2QXh3NWpQOTh6VDJmOGFoUGhURk92V1lBa3ZYbXVPOEMyNjFrYTd4RmFhSTpBPGI-QmVuZ2FsPC9iPiBTZXZhIFNldHUgQ2FtcHM6IDYwIFNjaGVtZXMsIDMsMzAwIENhbXBzIFRpbGwgT2N0IDRCYzxiPkF5dXNobWFuIEJoYXJhdDwvYj4sIHVudGlsIE9jdG9iZXIgNC4gQ2FtcHMgcnVuIGZyb20gMTAgYW0gdG8gNCBwbSwgZnJvbSBPY3RvYmVyIDIgdG8gT2N0b2JlciA0LiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXZHFieUVYenE4T2FUY3JzSy04d0w4N1VJX1NLMWhCMW1nZkRpRmtlU0w1ZFA4RHRTS2lWZ05Fa3IzUnV6NEZ0QzlldzdjVlhROTRRQWlMQVJSN1lPc2dNLTVncUlNbmFsall5Y0xMTzBYbTg5ZlB5bm1QTlZEUWtmTWxVd1R5YXNfUml1QlBKeFFPQjN2QTVMR25aZUN2QXh3NWpQOTh6VDJmOGFoUGhURk92V1lBa3ZYbXVPOEMyNjFrYTd4RmFhSRIEGgIIABrEBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCgBQgAEAAYACAAKicKBHdlc3QVp3GfPxoHd2VzdGVybhoFd2VzdHMaCndlc3RiZW5nYWwqLwoGYmVuZ2FsFUu-gEAaB2JlbmdhbGkaCndlc3RiZW5nYWwaC2l2O3A7YmVuZ2FsKi4KCGF5dXNobWFuFSlygT8aDmF5dXNobWFuYmhhcmF0Gg1pdjtwO2F5dXNobWFuKioKBmJoYXJhdBUpcoE_Gg5heXVzaG1hbmJoYXJhdBoLaXY7cDtiaGFyYXQqRAoIZGVhZGxpbmUVAAAAABoFZGF0ZXMaCWRlYWRsaW5lcxoIZHVlIGRhdGUaCGxhc3QgZGF5Gg1pdjtwO2RlYWRsaW5lKhYKBDIwMjYVtRKnPxoJaXY7bjsyMDI2MtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXZHFieUVYenE4T2FUY3JzSy04d0w4N1VJX1NLMWhCMW1nZkRpRmtlU0w1ZFA4RHRTS2lWZ05Fa3IzUnV6NEZ0QzlldzdjVlhROTRRQWlMQVJSN1lPc2dNLTVncUlNbmFsall5Y0xMTzBYbTg5ZlB5bm1QTlZEUWtmTWxVd1R5YXNfUml1QlBKeFFPQjN2QTVMR25aZUN2QXh3NWpQOTh6VDJmOGFoUGhURk92V1lBa3ZYbXVPOEMyNjFrYTd4RmFhSTpBPGI-QmVuZ2FsPC9iPiBTZXZhIFNldHUgQ2FtcHM6IDYwIFNjaGVtZXMsIDMsMzAwIENhbXBzIFRpbGwgT2N0IDRCYzxiPkF5dXNobWFuIEJoYXJhdDwvYj4sIHVudGlsIE9jdG9iZXIgNC4gQ2FtcHMgcnVuIGZyb20gMTAgYW0gdG8gNCBwbSwgZnJvbSBPY3RvYmVyIDIgdG8gT2N0b2JlciA0LiICEAFIAFgAaAA",
+        "source": "Sangri Times"
+      },
+      {
+        "position": 2,
+        "title": "West Bengal Urban Development and Municipal Affairs ...",
+        "link": "https://www.facebook.com/amit.tomar/posts/west-bengal-urban-development-and-municipal-affairs-minister-agnimitrapaul-said-/10165708937904136/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyQEB6zswFSu-JCA8hD7gV511upWLm2BcrYcGT-AvIVpGdYn3bbQs9yn_bgmW-qngrYDV6-pxnXB4QXUG6lfL__8DmHQChI0bwv_KTVQ-BcGKcHRaTucsoyZsd-W9GgUGbX6a4t76MA7Y-KtSM3rKrDmyhxUJexqexZmTKJTzCiPpm3Ykp4q6PxVuGD8-gZMuviKFwRHwuCbLqqNPx0wfpikKwOxr3RRmr3F0_DBRDDpLrh23mnksX7YuKZsyxDBl8LQXDQLEOK8twa8&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQFnoECBQQAQ&uoh=1",
+        "displayed_link": "2 reactions",
+        "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+        "snippet": "The state government has set October 10 as the deadline for completing the repairs. West Bengal (9 May 2026 – 16 May 2026)* Ayushman Bharat and multiple ...",
+        "snippet_highlighted_words": [
+          "October 10"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The state government has set October 10 as the deadline for completing the repairs. West Bengal (9 May 2026 – 16 May 2026)* Ayushman Bharat and multiple ...",
+            "source_info_link": "https://www.facebook.com/amit.tomar/posts/west-bengal-urban-development-and-municipal-affairs-minister-agnimitrapaul-said-/10165708937904136/",
+            "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZTdS1KQ0E4aEQ3Z1Y1MTF1cFdMbTJCY3JZY0dULUF2SVZwR2RZbjNiYlFzOXluX2JnbVctcW5ncllEVjYtcHhuWEI0UVhVRzZsZkxfXzhEbUhRQ2hJMGJ3dl9LVFZRLUJjR0tjSFJhVHVjc295WnNkLVc5R2dVR2JYNmE0dDc2TUE3WS1LdFNNM3JLckRteWh4VUpleHFleFptVEtKVHpDaVBwbTNZa3A0cTZQeFZ1R0Q4LWdaTXV2aUtGd1JId3VDYkxxcU5QeDB3ZnBpa0t3T3hyM1JSbXIzRjBfREJSRERwTHJoMjNtbmtzWDdZdUtac3l4REJsOExRWERRTEVPSzh0d2E4EgQaAggAGs0GEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQKkGCAAQABgAIAAqJwoEd2VzdBWOJYlAGgd3ZXN0ZXJuGgV3ZXN0cxoKd2VzdGJlbmdhbCovCgZiZW5nYWwVjiuKQBoHYmVuZ2FsaRoKd2VzdGJlbmdhbBoLaXY7cDtiZW5nYWwqLgoIYXl1c2htYW4VJ_lcPhoOYXl1c2htYW5iaGFyYXQaDWl2O3A7YXl1c2htYW4qKgoGYmhhcmF0FSf5XD4aDmF5dXNobWFuYmhhcmF0GgtpdjtwO2JoYXJhdCpECghkZWFkbGluZRXOE8E-GgVkYXRlcxoJZGVhZGxpbmVzGghkdWUgZGF0ZRoIbGFzdCBkYXkaDWl2O3A7ZGVhZGxpbmUqFgoEMjAyNhX1GKM-GglpdjtuOzIwMjYynQIvZ290bz91cmw9Q0FFU3lRRUI2enN3RlN1LUpDQThoRDdnVjUxMXVwV0xtMkJjclljR1QtQXZJVnBHZFluM2JiUXM5eW5fYmdtVy1xbmdyWURWNi1weG5YQjRRWFVHNmxmTF9fOERtSFFDaEkwYnd2X0tUVlEtQmNHS2NIUmFUdWNzb3lac2QtVzlHZ1VHYlg2YTR0NzZNQTdZLUt0U00zcktyRG15aHhVSmV4cWV4Wm1US0pUekNpUHBtM1lrcDRxNlB4VnVHRDgtZ1pNdXZpS0Z3Ukh3dUNiTHFxTlB4MHdmcGlrS3dPeHIzUlJtcjNGMF9EQlJERHBMcmgyM21ua3NYN1l1S1pzeXhEQmw4TFFYRFFMRU9LOHR3YTg6PjxiPldlc3QgQmVuZ2FsPC9iPiBVcmJhbiBEZXZlbG9wbWVudCBhbmQgTXVuaWNpcGFsIEFmZmFpcnMgLi4uQqoBVGhlIHN0YXRlIGdvdmVybm1lbnQgaGFzIHNldCA8Yj5PY3RvYmVyIDEwPC9iPiBhcyB0aGUgZGVhZGxpbmUgZm9yIGNvbXBsZXRpbmcgdGhlIHJlcGFpcnMuIFdlc3QgQmVuZ2FsICg5IE1heSAyMDI2IOKAkyAxNiBNYXkgMjAyNikqIEF5dXNobWFuIEJoYXJhdCBhbmQgbXVsdGlwbGUmbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0CL2dvdG8_dXJsPUNBRVN5UUVCNnpzd0ZTdS1KQ0E4aEQ3Z1Y1MTF1cFdMbTJCY3JZY0dULUF2SVZwR2RZbjNiYlFzOXluX2JnbVctcW5ncllEVjYtcHhuWEI0UVhVRzZsZkxfXzhEbUhRQ2hJMGJ3dl9LVFZRLUJjR0tjSFJhVHVjc295WnNkLVc5R2dVR2JYNmE0dDc2TUE3WS1LdFNNM3JLckRteWh4VUpleHFleFptVEtKVHpDaVBwbTNZa3A0cTZQeFZ1R0Q4LWdaTXV2aUtGd1JId3VDYkxxcU5QeDB3ZnBpa0t3T3hyM1JSbXIzRjBfREJSRERwTHJoMjNtbmtzWDdZdUtac3l4REJsOExRWERRTEVPSzh0d2E4EgQaAggAGs0GEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQKkGCAAQABgAIAAqJwoEd2VzdBWOJYlAGgd3ZXN0ZXJuGgV3ZXN0cxoKd2VzdGJlbmdhbCovCgZiZW5nYWwVjiuKQBoHYmVuZ2FsaRoKd2VzdGJlbmdhbBoLaXY7cDtiZW5nYWwqLgoIYXl1c2htYW4VJ_lcPhoOYXl1c2htYW5iaGFyYXQaDWl2O3A7YXl1c2htYW4qKgoGYmhhcmF0FSf5XD4aDmF5dXNobWFuYmhhcmF0GgtpdjtwO2JoYXJhdCpECghkZWFkbGluZRXOE8E-GgVkYXRlcxoJZGVhZGxpbmVzGghkdWUgZGF0ZRoIbGFzdCBkYXkaDWl2O3A7ZGVhZGxpbmUqFgoEMjAyNhX1GKM-GglpdjtuOzIwMjYynQIvZ290bz91cmw9Q0FFU3lRRUI2enN3RlN1LUpDQThoRDdnVjUxMXVwV0xtMkJjclljR1QtQXZJVnBHZFluM2JiUXM5eW5fYmdtVy1xbmdyWURWNi1weG5YQjRRWFVHNmxmTF9fOERtSFFDaEkwYnd2X0tUVlEtQmNHS2NIUmFUdWNzb3lac2QtVzlHZ1VHYlg2YTR0NzZNQTdZLUt0U00zcktyRG15aHhVSmV4cWV4Wm1US0pUekNpUHBtM1lrcDRxNlB4VnVHRDgtZ1pNdXZpS0Z3Ukh3dUNiTHFxTlB4MHdmcGlrS3dPeHIzUlJtcjNGMF9EQlJERHBMcmgyM21ua3NYN1l1S1pzeXhEQmw4TFFYRFFMRU9LOHR3YTg6PjxiPldlc3QgQmVuZ2FsPC9iPiBVcmJhbiBEZXZlbG9wbWVudCBhbmQgTXVuaWNpcGFsIEFmZmFpcnMgLi4uQqoBVGhlIHN0YXRlIGdvdmVybm1lbnQgaGFzIHNldCA8Yj5PY3RvYmVyIDEwPC9iPiBhcyB0aGUgZGVhZGxpbmUgZm9yIGNvbXBsZXRpbmcgdGhlIHJlcGFpcnMuIFdlc3QgQmVuZ2FsICg5IE1heSAyMDI2IOKAkyAxNiBNYXkgMjAyNikqIEF5dXNobWFuIEJoYXJhdCBhbmQgbXVsdGlwbGUmbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "Facebook · Amit Tomar"
+      },
+      {
+        "position": 3,
+        "title": "Latest ayush Tender Notice",
+        "link": "https://www.tendernews.com/tenders/latest-tender/ayush.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVo945Lau3muz5EOY3rpkT7ZG35L2eTDabxSRMJuYkCmnU9s3as3k6b6fKdsXe8Zn7CzrafEIoxPVIsu0ICebK4PA5_Tv7j9JtVoWNSXCIfkD9DA7DFgHs-nM4XNwiU51qzlcfdy917XkbE0RYDUm-oAk&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQFnoECBIQAQ&uoh=1",
+        "displayed_link": "https://www.tendernews.com › tenders › ayush",
+        "favicon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAADwAgCdASoQABAAAsBMJbACdLoAsgDgAOlHBixOaJ6lIAD--qjuA3VbPpikvL7hMOOjf6nCvqYR3FZ0ukB0k8clUymXXlUGXgUm9_B5P6bV7NWVZ7mGmefxNUffLnGAYRNymZzRv5N1HVIoAu_Dbz4gunewoqTrXMl8XOVa7y_-4-hF9m_2saOxdHyvttAA.webp",
+        "date": "6 days ago",
+        "snippet": "WEST BENGAL. Active, Archive. 2026, 2025, 2024, 2023, 2022. Advance Search. Tenders For ayush. Ref No, Posting Date, Deadline ... Ayushman Bharat - Pradhan Mantri ...",
+        "snippet_highlighted_words": [
+          "WEST BENGAL",
+          "2026",
+          "Deadline",
+          "Ayushman Bharat"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "WEST BENGAL. Active, Archive. 2026, 2025, 2024, 2023, 2022. Advance Search. Tenders For ayush. Ref No, Posting Date, Deadline ... Ayushman Bharat - Pradhan Mantri ...",
+            "source_info_link": "https://www.tendernews.com/tenders/latest-tender/ayush.html",
+            "icon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAADwAgCdASoQABAAAsBMJbACdLoAsgDgAOlHBixOaJ6lIAD--qjuA3VbPpikvL7hMOOjf6nCvqYR3FZ0ukB0k8clUymXXlUGXgUm9_B5P6bV7NWVZ7mGmefxNUffLnGAYRNymZzRv5N1HVIoAu_Dbz4gunewoqTrXMl8XOVa7y_-4-hF9m_2saOxdHyvttAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVm85NDVMYXUzbXV6NUVPWTNycGtUN1pHMzVMMmVURGFieFNSTUp1WWtDbW5VOXMzYXMzazZiNmZLZHNYZThabjdDenJhZkVJb3hQVklzdTBJQ2ViSzRQQTVfVHY3ajlKdFZvV05TWENJZmtEOURBN0RGZ0hzLW5NNFhOd2lVNTFxemxjZmR5OTE3WGtiRTBSWURVbS1vQWsSBBoCCAAa5wUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAwwUIABAAGAAgAConCgR3ZXN0FcKXnz0aB3dlc3Rlcm4aBXdlc3RzGgp3ZXN0YmVuZ2FsKi8KBmJlbmdhbBXCl589GgdiZW5nYWxpGgp3ZXN0YmVuZ2FsGgtpdjtwO2JlbmdhbCouCghheXVzaG1hbhW0AoU_Gg5heXVzaG1hbmJoYXJhdBoNaXY7cDtheXVzaG1hbioqCgZiaGFyYXQVK2LrPhoOYXl1c2htYW5iaGFyYXQaC2l2O3A7YmhhcmF0KkQKCGRlYWRsaW5lFbjEaDkaBWRhdGVzGglkZWFkbGluZXMaCGR1ZSBkYXRlGghsYXN0IGRheRoNaXY7cDtkZWFkbGluZSoWCgQyMDI2FcUnvT8aCWl2O247MjAyNjKtAS9nb3RvP3VybD1DQUVTZGdIck96QVZvOTQ1TGF1M211ejVFT1kzcnBrVDdaRzM1TDJlVERhYnhTUk1KdVlrQ21uVTlzM2FzM2s2YjZmS2RzWGU4Wm43Q3pyYWZFSW94UFZJc3UwSUNlYks0UEE1X1R2N2o5SnRWb1dOU1hDSWZrRDlEQTdERmdIcy1uTTRYTndpVTUxcXpsY2ZkeTkxN1hrYkUwUllEVW0tb0FrOitMYXRlc3QgYXl1c2ggVGVuZGVyIE5vdGljZSAtIFRlbmRlcm5ld3MuY29tQscBPGI-V0VTVCBCRU5HQUw8L2I-LiBBY3RpdmUsIEFyY2hpdmUuIDxiPjIwMjY8L2I-LCAyMDI1LCAyMDI0LCAyMDIzLCAyMDIyLiBBZHZhbmNlIFNlYXJjaC4gVGVuZGVycyBGb3IgYXl1c2guIFJlZiBObywgUG9zdGluZyBEYXRlLCA8Yj5EZWFkbGluZTwvYj4gLi4uIDxiPkF5dXNobWFuIEJoYXJhdDwvYj4gLSBQcmFkaGFuIE1hbnRyaSZuYnNwOy4uLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVm85NDVMYXUzbXV6NUVPWTNycGtUN1pHMzVMMmVURGFieFNSTUp1WWtDbW5VOXMzYXMzazZiNmZLZHNYZThabjdDenJhZkVJb3hQVklzdTBJQ2ViSzRQQTVfVHY3ajlKdFZvV05TWENJZmtEOURBN0RGZ0hzLW5NNFhOd2lVNTFxemxjZmR5OTE3WGtiRTBSWURVbS1vQWsSBBoCCAAa5wUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAwwUIABAAGAAgAConCgR3ZXN0FcKXnz0aB3dlc3Rlcm4aBXdlc3RzGgp3ZXN0YmVuZ2FsKi8KBmJlbmdhbBXCl589GgdiZW5nYWxpGgp3ZXN0YmVuZ2FsGgtpdjtwO2JlbmdhbCouCghheXVzaG1hbhW0AoU_Gg5heXVzaG1hbmJoYXJhdBoNaXY7cDtheXVzaG1hbioqCgZiaGFyYXQVK2LrPhoOYXl1c2htYW5iaGFyYXQaC2l2O3A7YmhhcmF0KkQKCGRlYWRsaW5lFbjEaDkaBWRhdGVzGglkZWFkbGluZXMaCGR1ZSBkYXRlGghsYXN0IGRheRoNaXY7cDtkZWFkbGluZSoWCgQyMDI2FcUnvT8aCWl2O247MjAyNjKtAS9nb3RvP3VybD1DQUVTZGdIck96QVZvOTQ1TGF1M211ejVFT1kzcnBrVDdaRzM1TDJlVERhYnhTUk1KdVlrQ21uVTlzM2FzM2s2YjZmS2RzWGU4Wm43Q3pyYWZFSW94UFZJc3UwSUNlYks0UEE1X1R2N2o5SnRWb1dOU1hDSWZrRDlEQTdERmdIcy1uTTRYTndpVTUxcXpsY2ZkeTkxN1hrYkUwUllEVW0tb0FrOitMYXRlc3QgYXl1c2ggVGVuZGVyIE5vdGljZSAtIFRlbmRlcm5ld3MuY29tQscBPGI-V0VTVCBCRU5HQUw8L2I-LiBBY3RpdmUsIEFyY2hpdmUuIDxiPjIwMjY8L2I-LCAyMDI1LCAyMDI0LCAyMDIzLCAyMDIyLiBBZHZhbmNlIFNlYXJjaC4gVGVuZGVycyBGb3IgYXl1c2guIFJlZiBObywgUG9zdGluZyBEYXRlLCA8Yj5EZWFkbGluZTwvYj4gLi4uIDxiPkF5dXNobWFuIEJoYXJhdDwvYj4gLSBQcmFkaGFuIE1hbnRyaSZuYnNwOy4uLiICEAFIAFgAaAA",
+        "source": "Tendernews.com",
+        "read_more_link": "https://www.tendernews.com/tenders/latest-tender/ayush.html#:~:text=Active,Deadline&text=Tender%20For%20RFP%20for%20Selection,Ayushman%20Bharat%20%2D%20Pradhan%20Mantri"
+      },
+      {
+        "position": 4,
+        "title": "Free 200 Units Power: AAY Card Holders Must Check This ...",
+        "link": "https://www.instagram.com/reel/DdgV-x_yyli/",
+        "displayed_link": "7 likes · 2 weeks ago",
+        "thumbnail": "https://serpapi.com/searches/6ac31eeec0d7a3a1a3b39531/images/fBuJwGohP-fFAqxGH4J2D4ymjicNegD4zkJ9VxzWNrw.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+        "snippet": "September 20, 2026: Customers are requested to complete their eKYC process before 01 October 2026. Deadline: 01 October 2026 … atebengal West Bengal Mein ...",
+        "duration": "2:54",
+        "about_this_result": {
+          "source": {
+            "description": "September 20, 2026: Customers are requested to complete their eKYC process before 01 October 2026. Deadline: 01 October 2026 … atebengal West Bengal Mein ...",
+            "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkFQNGd5SHJDNlFEV19TTF91VFNoc200SVQ3bVpIMXNNc19LaGllLUticklMLTFzUHdBanpUS0ZFOVdYUk0xbHhDZ0NqTnVkOG9tOXFpSmpwWHh6VndyWG5sUzFhNUp4cmpOc3VpSWIwSGdHU3Ixd2k5NERTTElRUXFWUFE2NHBTc1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVkFQNGd5SHJDNlFEV19TTF91VFNoc200SVQ3bVpIMXNNc19LaGllLUticklMLTFzUHdBanpUS0ZFOVdYUk0xbHhDZ0NqTnVkOG9tOXFpSmpwWHh6VndyWG5sUzFhNUp4cmpOc3VpSWIwSGdHU3Ixd2k5NERTTElRUXFWUFE2NHBTc1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "source": "Instagram · jkbulletin24x7"
+      },
+      {
+        "position": 5,
+        "title": "West Bengal Seva Setu camp dates and schemes (Oct 2026)",
+        "link": "https://www.facebook.com/junarram/posts/know-your-camp-location%EF%B8%8F/28590994203927260/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFdBq0FbABZxuEQNdeE8sU3kDC1ZTeli5gQrFe5tZHT1sEKEwRWaOAL8XfkNBzECV_kEzBz5h_n7ogdfBPL9fHquo48GojOBMRcCwsU0IB1rcbfRg1wlZM2QDMnd1h55lLQ_f8yV7qxllzHIEUMJNd8nurwUIQ1uBE_k5Vsa7-6u78cjEu1fTEvAnjmajRhAolGA&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQFnoECBEQAQ&uoh=1",
+        "displayed_link": "https://www.facebook.com › know-your-camp-location️",
+        "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+        "snippet": "West Bengal Seva Setu camp dates and schemes (Oct 2026) https://jks.wb.gov. here is the Camp's official camp fb page:",
+        "snippet_highlighted_words": [
+          "West Bengal Seva Setu camp dates and schemes (Oct 2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "West Bengal Seva Setu camp dates and schemes (Oct 2026) https://jks.wb.gov. here is the Camp's official camp fb page:",
+            "source_info_link": "https://www.facebook.com/junarram/posts/know-your-camp-location%EF%B8%8F/28590994203927260/",
+            "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZkQnEwRmJBQlp4dUVRTmRlRThzVTNrREMxWlRlbGk1Z1FyRmU1dFpIVDFzRUtFd1JXYU9BTDhYZmtOQnpFQ1Zfa0V6Qno1aF9uN29nZGZCUEw5ZkhxdW80OEdvak9CTVJjQ3dzVTBJQjFyY2JmUmcxd2xaTTJRRE1uZDFoNTVsTFFfZjh5VjdxeGxsekhJRVVNSk5kOG51cndVSVExdUJFX2s1VnNhNy02dTc4Y2pFdTFmVEV2QW5qbWFqUmhBb2xHQRIEGgIIABrtBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDJBQgAEAAYACAAKicKBHdlc3QVbmWJQBoHd2VzdGVybhoFd2VzdHMaCndlc3RiZW5nYWwqLwoGYmVuZ2FsFc5zd0AaB2JlbmdhbGkaCndlc3RiZW5nYWwaC2l2O3A7YmVuZ2FsKi4KCGF5dXNobWFuFTKMvz4aDmF5dXNobWFuYmhhcmF0Gg1pdjtwO2F5dXNobWFuKioKBmJoYXJhdBUyjL8-Gg5heXVzaG1hbmJoYXJhdBoLaXY7cDtiaGFyYXQqRAoIZGVhZGxpbmUVAAAAABoFZGF0ZXMaCWRlYWRsaW5lcxoIZHVlIGRhdGUaCGxhc3QgZGF5Gg1pdjtwO2RlYWRsaW5lKhYKBDIwMjYVZeRmQBoJaXY7bjsyMDI2MtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZkQnEwRmJBQlp4dUVRTmRlRThzVTNrREMxWlRlbGk1Z1FyRmU1dFpIVDFzRUtFd1JXYU9BTDhYZmtOQnpFQ1Zfa0V6Qno1aF9uN29nZGZCUEw5ZkhxdW80OEdvak9CTVJjQ3dzVTBJQjFyY2JmUmcxd2xaTTJRRE1uZDFoNTVsTFFfZjh5VjdxeGxsekhJRVVNSk5kOG51cndVSVExdUJFX2s1VnNhNy02dTc4Y2pFdTFmVEV2QW5qbWFqUmhBb2xHQTpMPGI-V2VzdCBCZW5nYWw8L2I-IFNldmEgU2V0dSBjYW1wIDxiPmRhdGVzPC9iPiBhbmQgc2NoZW1lcyAoT2N0IDxiPjIwMjY8L2I-KUKAATxiPldlc3QgQmVuZ2FsIFNldmEgU2V0dSBjYW1wIGRhdGVzIGFuZCBzY2hlbWVzIChPY3QgMjAyNjwvYj4pIGh0dHBzOi8vamtzLndiLmdvdi4gaGVyZSBpcyB0aGUgQ2FtcCYjMzk7cyBvZmZpY2lhbCBjYW1wIGZiIHBhZ2U6IgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZkQnEwRmJBQlp4dUVRTmRlRThzVTNrREMxWlRlbGk1Z1FyRmU1dFpIVDFzRUtFd1JXYU9BTDhYZmtOQnpFQ1Zfa0V6Qno1aF9uN29nZGZCUEw5ZkhxdW80OEdvak9CTVJjQ3dzVTBJQjFyY2JmUmcxd2xaTTJRRE1uZDFoNTVsTFFfZjh5VjdxeGxsekhJRVVNSk5kOG51cndVSVExdUJFX2s1VnNhNy02dTc4Y2pFdTFmVEV2QW5qbWFqUmhBb2xHQRIEGgIIABrtBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDJBQgAEAAYACAAKicKBHdlc3QVbmWJQBoHd2VzdGVybhoFd2VzdHMaCndlc3RiZW5nYWwqLwoGYmVuZ2FsFc5zd0AaB2JlbmdhbGkaCndlc3RiZW5nYWwaC2l2O3A7YmVuZ2FsKi4KCGF5dXNobWFuFTKMvz4aDmF5dXNobWFuYmhhcmF0Gg1pdjtwO2F5dXNobWFuKioKBmJoYXJhdBUyjL8-Gg5heXVzaG1hbmJoYXJhdBoLaXY7cDtiaGFyYXQqRAoIZGVhZGxpbmUVAAAAABoFZGF0ZXMaCWRlYWRsaW5lcxoIZHVlIGRhdGUaCGxhc3QgZGF5Gg1pdjtwO2RlYWRsaW5lKhYKBDIwMjYVZeRmQBoJaXY7bjsyMDI2MtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZkQnEwRmJBQlp4dUVRTmRlRThzVTNrREMxWlRlbGk1Z1FyRmU1dFpIVDFzRUtFd1JXYU9BTDhYZmtOQnpFQ1Zfa0V6Qno1aF9uN29nZGZCUEw5ZkhxdW80OEdvak9CTVJjQ3dzVTBJQjFyY2JmUmcxd2xaTTJRRE1uZDFoNTVsTFFfZjh5VjdxeGxsekhJRVVNSk5kOG51cndVSVExdUJFX2s1VnNhNy02dTc4Y2pFdTFmVEV2QW5qbWFqUmhBb2xHQTpMPGI-V2VzdCBCZW5nYWw8L2I-IFNldmEgU2V0dSBjYW1wIDxiPmRhdGVzPC9iPiBhbmQgc2NoZW1lcyAoT2N0IDxiPjIwMjY8L2I-KUKAATxiPldlc3QgQmVuZ2FsIFNldmEgU2V0dSBjYW1wIGRhdGVzIGFuZCBzY2hlbWVzIChPY3QgMjAyNjwvYj4pIGh0dHBzOi8vamtzLndiLmdvdi4gaGVyZSBpcyB0aGUgQ2FtcCYjMzk7cyBvZmZpY2lhbCBjYW1wIGZiIHBhZ2U6IgIQAUgAWABoAA",
+        "source": "Facebook"
+      },
+      {
+        "position": 6,
+        "title": "Reposts by CAG of India (@IndiaCAG) ...",
+        "link": "https://x.com/IndiaCAG/reposts",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVEPSVf0pF7FUJdoR8fD7YFAS7ciS6oIl7mL3YP7Z0VcxjRuHvHAEsTMzrqD6TFqRg6n3PE93paZx5dGivjZqjqEJiIqcSp4lT3H85XerjHltHdfif&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQFnoECBMQAQ&uoh=1",
+        "displayed_link": "https://x.com › IndiaCAG › reposts",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
+        "date": "5 Sept 2026",
+        "snippet": "was held on 30 September 2026",
+        "snippet_highlighted_words": [
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "was held on 30 September 2026",
+            "source_info_link": "https://x.com/IndiaCAG/reposts",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVkVQU1ZmMHBGN0ZVSmRvUjhmRDdZRkFTN2NpUzZvSWw3bUwzWVA3WjBWY3hqUnVIdkhBRXNUTXpycUQ2VEZxUmc2bjNQRTkzcGFaeDVkR2l2alpxanFFSmlJcWNTcDRsVDNIODVYZXJqSGx0SGRmaWYSBBoCCAAamAQSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA9AMIABAAGAAgAConCgR3ZXN0FfOnPT8aB3dlc3Rlcm4aBXdlc3RzGgp3ZXN0YmVuZ2FsKi8KBmJlbmdhbBXzpz0_GgdiZW5nYWxpGgp3ZXN0YmVuZ2FsGgtpdjtwO2JlbmdhbCouCghheXVzaG1hbhVHxps-Gg5heXVzaG1hbmJoYXJhdBoNaXY7cDtheXVzaG1hbioqCgZiaGFyYXQVR8abPhoOYXl1c2htYW5iaGFyYXQaC2l2O3A7YmhhcmF0KkQKCGRlYWRsaW5lFQHeQz0aBWRhdGVzGglkZWFkbGluZXMaCGR1ZSBkYXRlGghsYXN0IGRheRoNaXY7cDtkZWFkbGluZSoWCgQyMDI2FQAXmD8aCWl2O247MjAyNjKGAS9nb3RvP3VybD1DQUVTV1FIck96QVZFUFNWZjBwRjdGVUpkb1I4ZkQ3WUZBUzdjaVM2b0lsN21MM1lQN1owVmN4alJ1SHZIQUVzVE16cnFENlRGcVJnNm4zUEU5M3BhWng1ZEdpdmpacWpxRUppSXFjU3A0bFQzSDg1WGVyakhsdEhkZmlmOidSZXBvc3RzIGJ5IENBRyBvZiBJbmRpYSAoQEluZGlhQ0FHKSAvIFhCJHdhcyBoZWxkIG9uIDMwIFNlcHRlbWJlciA8Yj4yMDI2PC9iPiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVkVQU1ZmMHBGN0ZVSmRvUjhmRDdZRkFTN2NpUzZvSWw3bUwzWVA3WjBWY3hqUnVIdkhBRXNUTXpycUQ2VEZxUmc2bjNQRTkzcGFaeDVkR2l2alpxanFFSmlJcWNTcDRsVDNIODVYZXJqSGx0SGRmaWYSBBoCCAAamAQSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA9AMIABAAGAAgAConCgR3ZXN0FfOnPT8aB3dlc3Rlcm4aBXdlc3RzGgp3ZXN0YmVuZ2FsKi8KBmJlbmdhbBXzpz0_GgdiZW5nYWxpGgp3ZXN0YmVuZ2FsGgtpdjtwO2JlbmdhbCouCghheXVzaG1hbhVHxps-Gg5heXVzaG1hbmJoYXJhdBoNaXY7cDtheXVzaG1hbioqCgZiaGFyYXQVR8abPhoOYXl1c2htYW5iaGFyYXQaC2l2O3A7YmhhcmF0KkQKCGRlYWRsaW5lFQHeQz0aBWRhdGVzGglkZWFkbGluZXMaCGR1ZSBkYXRlGghsYXN0IGRheRoNaXY7cDtkZWFkbGluZSoWCgQyMDI2FQAXmD8aCWl2O247MjAyNjKGAS9nb3RvP3VybD1DQUVTV1FIck96QVZFUFNWZjBwRjdGVUpkb1I4ZkQ3WUZBUzdjaVM2b0lsN21MM1lQN1owVmN4alJ1SHZIQUVzVE16cnFENlRGcVJnNm4zUEU5M3BhWng1ZEdpdmpacWpxRUppSXFjU3A0bFQzSDg1WGVyakhsdEhkZmlmOidSZXBvc3RzIGJ5IENBRyBvZiBJbmRpYSAoQEluZGlhQ0FHKSAvIFhCJHdhcyBoZWxkIG9uIDMwIFNlcHRlbWJlciA8Yj4yMDI2PC9iPiICEAFIAFgAaAA",
+        "source": "X"
+      },
+      {
+        "position": 7,
+        "title": "AIIMS Kalyani Recruitment 2026: Contractual Project Staff ...",
+        "link": "https://www.instagram.com/reel/DdBx2_lzZ-5/",
+        "displayed_link": "8 likes · 3 weeks ago",
+        "thumbnail": "https://serpapi.com/searches/6ac31eeec0d7a3a1a3b39531/images/fBuJwGohP-fFAqxGH4J2D8AIR8rJ9QWsN6kLZ3KmuGA.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp",
+        "snippet": "The online application deadline is 10 September 2026 at 5 PM. Interview: 29 and 30 September. Follow West Bengal, India … योजना (Ayushman Bharat Scheme)",
+        "duration": "0:05",
+        "about_this_result": {
+          "source": {
+            "description": "The online application deadline is 10 September 2026 at 5 PM. Interview: 29 and 30 September. Follow West Bengal, India … योजना (Ayushman Bharat Scheme)",
+            "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABwCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHp_qvDn8INhnGwwG2i5ADWgPQA6TAiNSWpNpaKsXIF39bGj3Qd8pbRqOqkClBeAAP5tEoJlJoIDKX9SM7Zcd-n9JzxjUyFwXhzwPaTeFm2SeuMf1qLVq3t4wI3Sjh-TwPMqC3IvNj-0iGrCQSLYH_-G79_n_WM3XsPcVuoDF5Qv72r9Pf808tOK5Udv-Td9HMGptvnvxKOoa_2nDyZ2ppkSa2bNDL-K8pl3NhKk0sDV6BtpvNMgPb8dFSIrV0bFXaXgk5e0X-zIfxi-75avphrtEjwdvibNuQxApMkfs-CMi8mkD-o9_Rjb7y57vXTZx0h5MRX7n1JX-MenGUk5E4XC7vzHzXwfTDhRIb4bBfoSZiSNQ4UQGB7jAg92d64S_P_CCBANUoR3tplweT0RfxTAFGtV0vGjuwbJ25X1m04VXMMJ8Q3QzEsyD8w7jnAm5jqpKUZtVe-82LngE828BL78VksB9boYA1KjkUFty8pEW9876P84D7-A_J3doJbl9U3F-cBP_D9uzAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmo5cnZtaXdMaVM2Rkd4WGs5YWNGTmY5SnpueWNCenZOWHRUTm9ub3o4SnpCVG5pemplWndWOUpneXcxSHpqdWo1N2Q2b0dYc0RFSThBNjJCR2NfaWZWNng2eUpxYnk5MjA3ZTdmQ3NXSk1kSGRNakRwU1c5NktfTGtrcV84VXJwU1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmo5cnZtaXdMaVM2Rkd4WGs5YWNGTmY5SnpueWNCenZOWHRUTm9ub3o4SnpCVG5pemplWndWOUpneXcxSHpqdWo1N2Q2b0dYc0RFSThBNjJCR2NfaWZWNng2eUpxYnk5MjA3ZTdmQ3NXSk1kSGRNakRwU1c5NktfTGtrcV84VXJwU1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "source": "Instagram · jobnewstimescom"
+      },
+      {
+        "position": 8,
+        "title": "News Archive",
+        "link": "https://ddnews.gov.in/en/all-news-archive/page/2939/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVmSfNk1yVqDRrvJ3wTY02H5G6W7XV5eV2BJtALp79JiToX4t6qmVI7oB9VV4tboY919RHcigvqydKSyBBR9mAG_kVZkptVq0duo7jlCn73t6AWJZn8VZ8c-gMkZtiHRqG0Ywi_nfn5Sd10Q&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQFnoECBAQAQ&uoh=1",
+        "displayed_link": "https://ddnews.gov.in › all-news-archive › page",
+        "favicon": "https://serpapi.com/images/i/UklGRr4BAABXRUJQVlA4ILIBAAAwCgCdASogACAAPtEutFooIagoGAEAGglsALElQX4BpBXQLcPoBugPAz3wHmA_Xb9bveQ50DrAN5BX4K3GWBpAmXEs__DwE-w6ZUjzmCOSumQAOEsRUFwqN4AA_v6GV6jl9Xi2i-0vyaVrn7cYKLB6Qi1uvdCCJaKrnhy2Nr5CcqAyb8UhF84Fb-IcnqPHz9-VTsmP7RPIF8I6LyPZGmU-1bis1bBrl02pcxn6UZKUas_89ByPnDvxriTHWgSdA28m3_CqZZgv_pYRH4oD6e4JabhGUAq5dBHeDbYL9mveRQEM0WKX4LB_wdGLn5_TFN0eG-4luJYTkoGFtceDdE27iV4sJdsnHjQxdbL3dVxgpxiUMqpS_Lh8kjLffkNIH2PdjjWJ7fkivU1t4iX3a-wN-yLtHISnHKnEhX4iMtOs5UC11jfoE1MrAM_WjwbLDN-esvfTKE3gvAb1K0-lI2v1z0do7VYIwzHBkIWIf96KXbPPOWhrPlRCbe7rEtBdFlvRenpl6e2Odoroyv60cmX7SFMCKBjjOWZ6ESi4wZ18YSh9qTwea4bSvo4N6y8UpAAAAA.webp",
+        "date": "23 Sept 2026",
+        "snippet": "Phase-2 voting begins in West Bengal 29/04/26. Bengal voter turnout crosses 62%, TN nears 57% by 1 23/04/26. Bharat Mandapam today 26/12/25",
+        "snippet_highlighted_words": [
+          "West Bengal",
+          "Bengal",
+          "Bharat"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Phase-2 voting begins in West Bengal 29/04/26. Bengal voter turnout crosses 62%, TN nears 57% by 1 23/04/26. Bharat Mandapam today 26/12/25",
+            "source_info_link": "https://ddnews.gov.in/en/all-news-archive/page/2939/",
+            "icon": "https://serpapi.com/images/i/UklGRr4BAABXRUJQVlA4ILIBAAAwCgCdASogACAAPtEutFooIagoGAEAGglsALElQX4BpBXQLcPoBugPAz3wHmA_Xb9bveQ50DrAN5BX4K3GWBpAmXEs__DwE-w6ZUjzmCOSumQAOEsRUFwqN4AA_v6GV6jl9Xi2i-0vyaVrn7cYKLB6Qi1uvdCCJaKrnhy2Nr5CcqAyb8UhF84Fb-IcnqPHz9-VTsmP7RPIF8I6LyPZGmU-1bis1bBrl02pcxn6UZKUas_89ByPnDvxriTHWgSdA28m3_CqZZgv_pYRH4oD6e4JabhGUAq5dBHeDbYL9mveRQEM0WKX4LB_wdGLn5_TFN0eG-4luJYTkoGFtceDdE27iV4sJdsnHjQxdbL3dVxgpxiUMqpS_Lh8kjLffkNIH2PdjjWJ7fkivU1t4iX3a-wN-yLtHISnHKnEhX4iMtOs5UC11jfoE1MrAM_WjwbLDN-esvfTKE3gvAb1K0-lI2v1z0do7VYIwzHBkIWIf96KXbPPOWhrPlRCbe7rEtBdFlvRenpl6e2Odoroyv60cmX7SFMCKBjjOWZ6ESi4wZ18YSh9qTwea4bSvo4N6y8UpAAAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVm1TZk5rMXlWcURScnZKM3dUWTAySDVHNlc3WFY1ZVYyQkp0QUxwNzlKaVRvWDR0NnFtVkk3b0I5VlY0dGJvWTkxOVJIY2lndnF5ZEtTeUJCUjltQUdfa1Zaa3B0VnEwZHVvN2psQ243M3Q2QVdKWm44Vlo4Yy1nTWtadGlIUnFHMFl3aV9uZm41U2QxMFESBBoCCAAapgUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAggUIABAAGAAgAConCgR3ZXN0FW24Az8aB3dlc3Rlcm4aBXdlc3RzGgp3ZXN0YmVuZ2FsKi8KBmJlbmdhbBWdUAo_GgdiZW5nYWxpGgp3ZXN0YmVuZ2FsGgtpdjtwO2JlbmdhbCouCghheXVzaG1hbhVS244-Gg5heXVzaG1hbmJoYXJhdBoNaXY7cDtheXVzaG1hbioqCgZiaGFyYXQV9H_xPhoOYXl1c2htYW5iaGFyYXQaC2l2O3A7YmhhcmF0KkQKCGRlYWRsaW5lFV0TeTwaBWRhdGVzGglkZWFkbGluZXMaCGR1ZSBkYXRlGghsYXN0IGRheRoNaXY7cDtkZWFkbGluZSoWCgQyMDI2FXMZ4D4aCWl2O247MjAyNjKkAS9nb3RvP3VybD1DQUVTYndIck96QVZtU2ZOazF5VnFEUnJ2SjN3VFkwMkg1RzZXN1hWNWVWMkJKdEFMcDc5SmlUb1g0dDZxbVZJN29COVZWNHRib1k5MTlSSGNpZ3ZxeWRLU3lCQlI5bUFHX2tWWmtwdFZxMGR1bzdqbENuNzN0NkFXSlpuOFZaOGMtZ01rWnRpSFJxRzBZd2lfbmZuNVNkMTBROhpBbGwgTmV3cyBBcmNoaXZlIHwgREQgTmV3c0KgAVBoYXNlLTIgdm90aW5nIGJlZ2lucyBpbiA8Yj5XZXN0IEJlbmdhbDwvYj4gMjkvMDQvMjYuIDxiPkJlbmdhbDwvYj4gdm90ZXIgdHVybm91dCBjcm9zc2VzIDYyJSwgVE4gbmVhcnMgNTclIGJ5IDEgMjMvMDQvMjYuIDxiPkJoYXJhdDwvYj4gTWFuZGFwYW0gdG9kYXkgMjYvMTIvMjUiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVm1TZk5rMXlWcURScnZKM3dUWTAySDVHNlc3WFY1ZVYyQkp0QUxwNzlKaVRvWDR0NnFtVkk3b0I5VlY0dGJvWTkxOVJIY2lndnF5ZEtTeUJCUjltQUdfa1Zaa3B0VnEwZHVvN2psQ243M3Q2QVdKWm44Vlo4Yy1nTWtadGlIUnFHMFl3aV9uZm41U2QxMFESBBoCCAAapgUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAggUIABAAGAAgAConCgR3ZXN0FW24Az8aB3dlc3Rlcm4aBXdlc3RzGgp3ZXN0YmVuZ2FsKi8KBmJlbmdhbBWdUAo_GgdiZW5nYWxpGgp3ZXN0YmVuZ2FsGgtpdjtwO2JlbmdhbCouCghheXVzaG1hbhVS244-Gg5heXVzaG1hbmJoYXJhdBoNaXY7cDtheXVzaG1hbioqCgZiaGFyYXQV9H_xPhoOYXl1c2htYW5iaGFyYXQaC2l2O3A7YmhhcmF0KkQKCGRlYWRsaW5lFV0TeTwaBWRhdGVzGglkZWFkbGluZXMaCGR1ZSBkYXRlGghsYXN0IGRheRoNaXY7cDtkZWFkbGluZSoWCgQyMDI2FXMZ4D4aCWl2O247MjAyNjKkAS9nb3RvP3VybD1DQUVTYndIck96QVZtU2ZOazF5VnFEUnJ2SjN3VFkwMkg1RzZXN1hWNWVWMkJKdEFMcDc5SmlUb1g0dDZxbVZJN29COVZWNHRib1k5MTlSSGNpZ3ZxeWRLU3lCQlI5bUFHX2tWWmtwdFZxMGR1bzdqbENuNzN0NkFXSlpuOFZaOGMtZ01rWnRpSFJxRzBZd2lfbmZuNVNkMTBROhpBbGwgTmV3cyBBcmNoaXZlIHwgREQgTmV3c0KgAVBoYXNlLTIgdm90aW5nIGJlZ2lucyBpbiA8Yj5XZXN0IEJlbmdhbDwvYj4gMjkvMDQvMjYuIDxiPkJlbmdhbDwvYj4gdm90ZXIgdHVybm91dCBjcm9zc2VzIDYyJSwgVE4gbmVhcnMgNTclIGJ5IDEgMjMvMDQvMjYuIDxiPkJoYXJhdDwvYj4gTWFuZGFwYW0gdG9kYXkgMjYvMTIvMjUiAhABSABYAGgA",
+        "source": "DD News"
+      },
+      {
+        "position": 9,
+        "title": "KYC না করলে বন্ধ হয়ে যেতে পারে রেশন কার্ড | Biswapriya Mahata",
+        "link": "https://www.facebook.com/itz.bibek.707345/videos/kyc-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A6%B9%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AF%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1/1058406423691712/",
+        "displayed_link": "2 reactions · 2 weeks ago",
+        "thumbnail": "https://serpapi.com/searches/6ac31eeec0d7a3a1a3b39531/images/fBuJwGohP-fFAqxGH4J2D9NntCY8A8YI2G2tJQaqMWE.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+        "snippet": "This informational graphic explains the simplified KYC process for the Ayushman Bharat healthcare scheme in West Bengal. ... It highlights the June 25th deadline ...",
+        "duration": "0:15",
+        "about_this_result": {
+          "source": {
+            "description": "This informational graphic explains the simplified KYC process for the Ayushman Bharat healthcare scheme in West Bengal. ... It highlights the June 25th deadline ...",
+            "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0EL2dvdG8_dXJsPUNBRVNvUU1CNnpzd0ZjQW9KOHMwS0llSm1zWndPbENjMGE4SXJQaDNxcU5nWndEZDJnYWRZQ05hTnZaRnFNaVU0dVpqZzhveUUxSGNQVGU3aFdfSVd5QV9OeUVvZEptdEREdUloVDFpWTlJSXNwUnI2V1ZqVUd5ZEVud1JxMV8wb1ZXWm9QOFhxbEtoU0dTY28xQnV2RGJ1ODFZbERTcnc1MnV1MVZrR2JPbkpzLVJDV2JTeThzT2pZVTNONWRCYkp1eklsY2wzVzhUMkZZS1Y5ekE0R1A5b1NGeDhnZ3Awa3did2ppSHNmZzdscWplWHljR2lTeGtIWkxaR0lnYU9OUGVjM0tYdDRWVWhBcE5jTVdxa0F3RXZZLXhuUjl3eUtTUmdUZHJ5RThoc1k3emcxbUVqSmpHak9KdzdiSE5hT1VQWkJpOHRHeGhqWEdIcExONHNLZkU3RDFqd0I1RVpITXpLRW5wRjJzdnRlQjJ6NFF4aDYtQjlBZjFCVGw3aE1BS25PRF9lYWdubVFZcU9ieU9ZMkRmdTJwcFZPZlB2RUNDUW5wY01rUEJOVnRnMGVEZ2Q2Z0R4VjY4QnM0R21tVjBBMVVHZTRsdEJadVc1MUJSNG9HTTRWVEdpVTVKa1ZFQTQ5M2lhMk01UHdRSEV4VzhreUZHNmpCYjdEdnVmaW5FSzJ1ZnRkUHBqbHVidU41TFlUZ2dCNmkzemdyWWY4ZHgwRUJta29YNmwzR1lvcjlrEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0EL2dvdG8_dXJsPUNBRVNvUU1CNnpzd0ZjQW9KOHMwS0llSm1zWndPbENjMGE4SXJQaDNxcU5nWndEZDJnYWRZQ05hTnZaRnFNaVU0dVpqZzhveUUxSGNQVGU3aFdfSVd5QV9OeUVvZEptdEREdUloVDFpWTlJSXNwUnI2V1ZqVUd5ZEVud1JxMV8wb1ZXWm9QOFhxbEtoU0dTY28xQnV2RGJ1ODFZbERTcnc1MnV1MVZrR2JPbkpzLVJDV2JTeThzT2pZVTNONWRCYkp1eklsY2wzVzhUMkZZS1Y5ekE0R1A5b1NGeDhnZ3Awa3did2ppSHNmZzdscWplWHljR2lTeGtIWkxaR0lnYU9OUGVjM0tYdDRWVWhBcE5jTVdxa0F3RXZZLXhuUjl3eUtTUmdUZHJ5RThoc1k3emcxbUVqSmpHak9KdzdiSE5hT1VQWkJpOHRHeGhqWEdIcExONHNLZkU3RDFqd0I1RVpITXpLRW5wRjJzdnRlQjJ6NFF4aDYtQjlBZjFCVGw3aE1BS25PRF9lYWdubVFZcU9ieU9ZMkRmdTJwcFZPZlB2RUNDUW5wY01rUEJOVnRnMGVEZ2Q2Z0R4VjY4QnM0R21tVjBBMVVHZTRsdEJadVc1MUJSNG9HTTRWVEdpVTVKa1ZFQTQ5M2lhMk01UHdRSEV4VzhreUZHNmpCYjdEdnVmaW5FSzJ1ZnRkUHBqbHVidU41TFlUZ2dCNmkzemdyWWY4ZHgwRUJta29YNmwzR1lvcjlrEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "Facebook · Biswapriya Mahata"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=West+Bengal+Ayushman+Bharat+deadline+2026+&sca_esv=162034b9a39fa584&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnvqYieyJh7qn4aL2_oGmpIg5AOXIw:1791172334651&ei=7h7DaoeqJ5ngkPIP6L3myAY&start=10&sa=N&sstk=AS6-VmKw4BXCLvKwyYQCpp0VB2--OTLkPfstm609BjlbkJD2MLNkXZoStWbEEAhAbpK61rIztkFfgRDmLBaidnySQVymwNpKLnGU3Q&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQ8NMDegQINxAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=West+Bengal+Ayushman+Bharat+deadline+2026+&sca_esv=162034b9a39fa584&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnvqYieyJh7qn4aL2_oGmpIg5AOXIw:1791172334651&ei=7h7DaoeqJ5ngkPIP6L3myAY&start=10&sa=N&sstk=AS6-VmKw4BXCLvKwyYQCpp0VB2--OTLkPfstm609BjlbkJD2MLNkXZoStWbEEAhAbpK61rIztkFfgRDmLBaidnySQVymwNpKLnGU3Q&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQ8tMDegQINxAE",
+        "3": "https://www.google.com/search?q=West+Bengal+Ayushman+Bharat+deadline+2026+&sca_esv=162034b9a39fa584&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnvqYieyJh7qn4aL2_oGmpIg5AOXIw:1791172334651&ei=7h7DaoeqJ5ngkPIP6L3myAY&start=20&sa=N&sstk=AS6-VmKw4BXCLvKwyYQCpp0VB2--OTLkPfstm609BjlbkJD2MLNkXZoStWbEEAhAbpK61rIztkFfgRDmLBaidnySQVymwNpKLnGU3Q&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQ8tMDegQINxAG",
+        "4": "https://www.google.com/search?q=West+Bengal+Ayushman+Bharat+deadline+2026+&sca_esv=162034b9a39fa584&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnvqYieyJh7qn4aL2_oGmpIg5AOXIw:1791172334651&ei=7h7DaoeqJ5ngkPIP6L3myAY&start=30&sa=N&sstk=AS6-VmKw4BXCLvKwyYQCpp0VB2--OTLkPfstm609BjlbkJD2MLNkXZoStWbEEAhAbpK61rIztkFfgRDmLBaidnySQVymwNpKLnGU3Q&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQ8tMDegQINxAI",
+        "5": "https://www.google.com/search?q=West+Bengal+Ayushman+Bharat+deadline+2026+&sca_esv=162034b9a39fa584&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnvqYieyJh7qn4aL2_oGmpIg5AOXIw:1791172334651&ei=7h7DaoeqJ5ngkPIP6L3myAY&start=40&sa=N&sstk=AS6-VmKw4BXCLvKwyYQCpp0VB2--OTLkPfstm609BjlbkJD2MLNkXZoStWbEEAhAbpK61rIztkFfgRDmLBaidnySQVymwNpKLnGU3Q&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQ8tMDegQINxAK",
+        "6": "https://www.google.com/search?q=West+Bengal+Ayushman+Bharat+deadline+2026+&sca_esv=162034b9a39fa584&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnvqYieyJh7qn4aL2_oGmpIg5AOXIw:1791172334651&ei=7h7DaoeqJ5ngkPIP6L3myAY&start=50&sa=N&sstk=AS6-VmKw4BXCLvKwyYQCpp0VB2--OTLkPfstm609BjlbkJD2MLNkXZoStWbEEAhAbpK61rIztkFfgRDmLBaidnySQVymwNpKLnGU3Q&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQ8tMDegQINxAM",
+        "7": "https://www.google.com/search?q=West+Bengal+Ayushman+Bharat+deadline+2026+&sca_esv=162034b9a39fa584&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnvqYieyJh7qn4aL2_oGmpIg5AOXIw:1791172334651&ei=7h7DaoeqJ5ngkPIP6L3myAY&start=60&sa=N&sstk=AS6-VmKw4BXCLvKwyYQCpp0VB2--OTLkPfstm609BjlbkJD2MLNkXZoStWbEEAhAbpK61rIztkFfgRDmLBaidnySQVymwNpKLnGU3Q&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQ8tMDegQINxAO",
+        "8": "https://www.google.com/search?q=West+Bengal+Ayushman+Bharat+deadline+2026+&sca_esv=162034b9a39fa584&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnvqYieyJh7qn4aL2_oGmpIg5AOXIw:1791172334651&ei=7h7DaoeqJ5ngkPIP6L3myAY&start=70&sa=N&sstk=AS6-VmKw4BXCLvKwyYQCpp0VB2--OTLkPfstm609BjlbkJD2MLNkXZoStWbEEAhAbpK61rIztkFfgRDmLBaidnySQVymwNpKLnGU3Q&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQ8tMDegQINxAQ",
+        "9": "https://www.google.com/search?q=West+Bengal+Ayushman+Bharat+deadline+2026+&sca_esv=162034b9a39fa584&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnvqYieyJh7qn4aL2_oGmpIg5AOXIw:1791172334651&ei=7h7DaoeqJ5ngkPIP6L3myAY&start=80&sa=N&sstk=AS6-VmKw4BXCLvKwyYQCpp0VB2--OTLkPfstm609BjlbkJD2MLNkXZoStWbEEAhAbpK61rIztkFfgRDmLBaidnySQVymwNpKLnGU3Q&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQ8tMDegQINxAS",
+        "10": "https://www.google.com/search?q=West+Bengal+Ayushman+Bharat+deadline+2026+&sca_esv=162034b9a39fa584&gl=in&hl=en&tbs=qdr:m&sxsrf=APpeQnvqYieyJh7qn4aL2_oGmpIg5AOXIw:1791172334651&ei=7h7DaoeqJ5ngkPIP6L3myAY&start=90&sa=N&sstk=AS6-VmKw4BXCLvKwyYQCpp0VB2--OTLkPfstm609BjlbkJD2MLNkXZoStWbEEAhAbpK61rIztkFfgRDmLBaidnySQVymwNpKLnGU3Q&ved=2ahUKEwiH2fP1_KGXAxUZMEQIHeieGWkQ8tMDegQINxAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=West+Bengal+Ayushman+Bharat+deadline+2026+&start=10&tbs=qdr%3Am",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=West+Bengal+Ayushman+Bharat+deadline+2026+&start=10&tbs=qdr%3Am",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=West+Bengal+Ayushman+Bharat+deadline+2026+&start=10&tbs=qdr%3Am",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=West+Bengal+Ayushman+Bharat+deadline+2026+&start=20&tbs=qdr%3Am",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=West+Bengal+Ayushman+Bharat+deadline+2026+&start=30&tbs=qdr%3Am",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=West+Bengal+Ayushman+Bharat+deadline+2026+&start=40&tbs=qdr%3Am",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=West+Bengal+Ayushman+Bharat+deadline+2026+&start=50&tbs=qdr%3Am",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=West+Bengal+Ayushman+Bharat+deadline+2026+&start=60&tbs=qdr%3Am",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=West+Bengal+Ayushman+Bharat+deadline+2026+&start=70&tbs=qdr%3Am",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=West+Bengal+Ayushman+Bharat+deadline+2026+&start=80&tbs=qdr%3Am",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=West+Bengal+Ayushman+Bharat+deadline+2026+&start=90&tbs=qdr%3Am"
+      }
+    }
+  }
+}

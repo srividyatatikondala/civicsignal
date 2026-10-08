@@ -1,0 +1,14 @@
+# Backend (Phase 1)
+fastapi>=0.115
+uvicorn[standard]>=0.30
+httpx>=0.27
+pydantic>=2.7
+python-dotenv>=1.0
+
+# Original staleness prototype (root scripts)
+requests>=2.31
+dateparser>=1.2
+python-dateutil>=2.9
+
+# Testing
+pytest>=8.0

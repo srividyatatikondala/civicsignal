@@ -1,0 +1,580 @@
+{
+  "civicsignal_fixture": {
+    "engine": "google",
+    "q": "PAN Aadhaar link last date 2026",
+    "params": {
+      "gl": "in",
+      "hl": "en",
+      "num": 10
+    },
+    "kind": "captured",
+    "captured_at": "2026-10-01T04:13:17.463048+00:00",
+    "note": "regulatory deadline with past extensions"
+  },
+  "response": {
+    "search_metadata": {
+      "id": "6abdddd9018c486c3adfae64",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/HQwlrsN4a7SsfjrV1UregABEl6ppb0U9YaXXTXt5ZJo/6abdddd9018c486c3adfae64.json",
+      "markdown_endpoint": "https://serpapi.com/searches/HQwlrsN4a7SsfjrV1UregABEl6ppb0U9YaXXTXt5ZJo/6abdddd9018c486c3adfae64.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/HQwlrsN4a7SsfjrV1UregABEl6ppb0U9YaXXTXt5ZJo/6abdddd9018c486c3adfae64.json_with_pixel_position",
+      "created_at": "2026-10-01 04:13:13 UTC",
+      "processed_at": "2026-10-01 04:13:13 UTC",
+      "google_url": "https://www.google.com/search?q=PAN+Aadhaar+link+last+date+2026&oq=PAN+Aadhaar+link+last+date+2026&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/HQwlrsN4a7SsfjrV1UregABEl6ppb0U9YaXXTXt5ZJo/6abdddd9018c486c3adfae64.html",
+      "total_time_taken": 1.0
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "PAN Aadhaar link last date 2026",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "PAN Aadhaar link last date 2026",
+      "total_results": 433000,
+      "time_taken_displayed": 0.25,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Deadline to link PAN with AADHAAR CARD is 31st December ...",
+        "link": "https://www.facebook.com/smcglobalofficial/videos/deadline-to-link-pan-with-aadhaar-card-is-31st-december-2025-pan-may-stop-workin/681559684893588/",
+        "thumbnail": "https://serpapi.com/searches/6abdddd9018c486c3adfae64/images/sZ6DOk6Rk-Toxlwt79kyH8B7Jk1vs4bNMoO8f2HlioY.jpeg",
+        "channel": "SMC Global",
+        "duration": "0:52",
+        "platform": "Facebook",
+        "date": "20 Dec 2025"
+      },
+      {
+        "position": 2,
+        "title": "PAN કાર્ડને Aadhar સાથે લિંક નહીં કરાવ્યું હોય તો આ તારીખ પછી ...",
+        "link": "https://www.facebook.com/vtvgujarati/posts/pan-%E0%AA%95%E0%AA%BE%E0%AA%B0%E0%AB%8D%E0%AA%A1%E0%AA%A8%E0%AB%87-aadhar-%E0%AA%B8%E0%AA%BE%E0%AA%A5%E0%AB%87-%E0%AA%B2%E0%AA%BF%E0%AA%82%E0%AA%95-%E0%AA%A8%E0%AA%B9%E0%AB%80%E0%AA%82-%E0%AA%95%E0%AA%B0%E0%AA%BE%E0%AA%B5%E0%AB%8D%E0%AA%AF%E0%AB%81%E0%AA%82-%E0%AA%B9%E0%AB%8B%E0%AA%AF-%E0%AA%A4%E0%AB%8B-%E0%AA%86-%E0%AA%A4%E0%AA%BE%E0%AA%B0%E0%AB%80%E0%AA%96-%E0%AA%AA%E0%AA%9B%E0%AB%80-%E0%AA%A5%E0%AA%B6%E0%AB%87-%E0%AA%AC%E0%AA%82%E0%AA%A7-ek-vaat-ka/1385903530249567/",
+        "thumbnail": "https://serpapi.com/searches/6abdddd9018c486c3adfae64/images/Rx0KrxkEYdV_KOHQo0Ud7YJgqnwO96vkKgKjNMtKQ44.jpeg",
+        "channel": "VTV Gujarati News and Beyond",
+        "duration": "4:42",
+        "platform": "Facebook",
+        "date": "23 Dec 2025"
+      },
+      {
+        "position": 3,
+        "title": "The Indian government has made it mandatory to link PAN with ...",
+        "link": "https://www.facebook.com/ShrutiSharmaIAS/videos/the-indian-government-has-made-it-mandatory-to-link-pan-with-aadhaar-by-december/25243361375357232/",
+        "thumbnail": "https://serpapi.com/searches/6abdddd9018c486c3adfae64/images/AlnFfgqsMOwlVDojjJZdqZ6UGmCCO3LWwPjtT2T01Rc.jpeg",
+        "channel": "Shruti Sharma IAS",
+        "duration": "0:44",
+        "platform": "Facebook",
+        "date": "11 Dec 2025"
+      },
+      {
+        "position": 4,
+        "title": "Last date to link Aadhaar with PAN is 31st December 2025",
+        "link": "https://www.facebook.com/jkdiary1/videos/final-deadline-pan-will-become-inoperative-from-jan-1-2026-if-not-linked-with-aa/1449434130236146/",
+        "thumbnail": "https://serpapi.com/searches/6abdddd9018c486c3adfae64/images/ZE2YhJHIgq6IcVCJqumxSSSg1EjGN_b-LVx5tHdltMY.jpeg",
+        "channel": "JK DIARY",
+        "duration": "3:56",
+        "platform": "Facebook",
+        "date": "24 Dec 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSnX-dRnerK8Eh-F5-ft40sz-IaXTZova61eA"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "Is it necessary to link Aadhaar with PAN before 2026?",
+        "type": "ai_overview",
+        "page_token": "7dwUr3icHdBvbpswGIBx7TL92GBTMiVSNI0ZSlELwtivwV8mxyZJwfxpoSHwbVfYGXaqnWbVDvDoJz2__tjXrvn75fdlmoZxv9nM83x_7vuzre51327UuHR6o5W1R6Wb_fbrFn076UNw1f6Pd-1nfBiAUCdfUCcdx1O1LakTt7qweYLjD2htLEgoZF3OvOtX04WLQtIHccYFRmAe0cK7J9dEMUpJhrm1w0s0pElgOibMaHJEM2dXVNbcSp74po7fqubBVcQkkhtyXBNQxXcPGikVCtOjldeklQ9VHd_A7dck9J1chKlmYalr270gSVjEvczaN8rohbngGj4uFYOCYrhyTEuIIKQWiOTj9AyfLQYmLExHEt-eBazBRS-SPHllAVw6oChuEGt3WSUoTh8nH2j_mnG6fnotRIGXB3YRYvchMVJgS0c0xk053fIISNkAk_PdSV8P7t3_14efp3baD-_9-R9QYox9",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7dwUr3icHdBvbpswGIBx7TL92GBTMiVSNI0ZSlELwtivwV8mxyZJwfxpoSHwbVfYGXaqnWbVDvDoJz2__tjXrvn75fdlmoZxv9nM83x_7vuzre51327UuHR6o5W1R6Wb_fbrFn076UNw1f6Pd-1nfBiAUCdfUCcdx1O1LakTt7qweYLjD2htLEgoZF3OvOtX04WLQtIHccYFRmAe0cK7J9dEMUpJhrm1w0s0pElgOibMaHJEM2dXVNbcSp74po7fqubBVcQkkhtyXBNQxXcPGikVCtOjldeklQ9VHd_A7dck9J1chKlmYalr270gSVjEvczaN8rohbngGj4uFYOCYrhyTEuIIKQWiOTj9AyfLQYmLExHEt-eBazBRS-SPHllAVw6oChuEGt3WSUoTh8nH2j_mnG6fnotRIGXB3YRYvchMVJgS0c0xk053fIISNkAk_PdSV8P7t3_14efp3baD-_9-R9QYox9",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zWllXa2RJUTBsb1ZVUnZkMU5NZVRsRWFtSlZNbmRuY0haeFltTllZMFZmUkhWNkxVZDRabUY0TTBKQ1ptWldkRzFOVEd4TGNXOVNWRXg0TWt0eVoxZElZakF6TkdkUGJIUmlaWEpoVG5Cb09YcDNXRWhHYUVocmR4SVhNbVF5T1dGMVZHZEZXa2RwTlU1dlVIbGtkamhyUVZVYUlrRkVjM0k1WmxJMWJuZENlR2RTUTFwR2VHMDRURGxhVmt4aFIzTm5OM1JSWmtFIiwiZmN2IjoiMyIsImVpIjoiMmQyOWF1VGdFWkdpNU5vUHlkdjhrQVUiLCJxYyI6IkNoOXdZVzRnWVdGa2FHRmhjaUJzYVc1cklHeGhjM1FnWkdGMFpTQXlNREkyRUFCOUdwRDVQZyIsInF1ZXN0aW9uIjoiSXMgaXQgbmVjZXNzYXJ5IHRvIGxpbmsgQWFkaGFhciB3aXRoIFBBTiBiZWZvcmUgMjAyNj8iLCJsayI6IkdqUnBjeUJwZENCdVpXTmxjM05oY25rZ2RHOGdiR2x1YXlCaFlXUm9ZV0Z5SUhkcGRHZ2djR0Z1SUdKbFptOXlaU0F5TURJMiIsImJzIjoiYzNXUU1ZdkNRQkJHc2QzS09wenlkYmJlb2hZMndkSkdycnZ1WURRVGR6RE1obVFoLU85dmQ3a2NCcldlZWU4Tlk3elpIbnRJZ1BLRi01NjZPNEpISTNyRGdTcEgxR0dRNFBCMU9PSE10ZThZZG0xM3BkMFZHM2tEMGlQWWtqNkNwalNMR0J6ZFNadVp1bU9HLXFHMHktSWppa2RId2ljTDVzZnN2eDBGeEtYZ0dBMEZSaDFuTVpFM1JhOVptLXRqUl9UdmJCVExKX1dfSWg5NE5aX1pQMGpUd0ZIYnNrSnFIRkY1WFlYcGEwaXIxQ3F0TGRiREMwZ1NoREI5UzRKaWV6NzdCUSIsImlkIjoiZmNfMmQyOWF1VGdFWkdpNU5vUHlkdjhrQVVfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zWllXa2RJUTBsb1ZVUnZkMU5NZVRsRWFtSlZNbmRuY0haeFltTllZMFZmUkhWNkxVZDRabUY0TTBKQ1ptWldkRzFOVEd4TGNXOVNWRXg0TWt0eVoxZElZakF6TkdkUGJIUmlaWEpoVG5Cb09YcDNXRWhHYUVocmR4SVhNbVF5T1dGMVZHZEZXa2RwTlU1dlVIbGtkamhyUVZVYUlrRkVjM0k1WmxJMWJuZENlR2RTUTFwR2VHMDRURGxhVmt4aFIzTm5OM1JSWmtFIiwiZmN2IjoiMyIsImVpIjoiMmQyOWF1VGdFWkdpNU5vUHlkdjhrQVUiLCJxYyI6IkNoOXdZVzRnWVdGa2FHRmhjaUJzYVc1cklHeGhjM1FnWkdGMFpTQXlNREkyRUFCOUdwRDVQZyIsInF1ZXN0aW9uIjoiSXMgaXQgbmVjZXNzYXJ5IHRvIGxpbmsgQWFkaGFhciB3aXRoIFBBTiBiZWZvcmUgMjAyNj8iLCJsayI6IkdqUnBjeUJwZENCdVpXTmxjM05oY25rZ2RHOGdiR2x1YXlCaFlXUm9ZV0Z5SUhkcGRHZ2djR0Z1SUdKbFptOXlaU0F5TURJMiIsImJzIjoiYzNXUU1ZdkNRQkJHc2QzS09wenlkYmJlb2hZMndkSkdycnZ1WURRVGR6RE1obVFoLU85dmQ3a2NCcldlZWU4Tlk3elpIbnRJZ1BLRi01NjZPNEpISTNyRGdTcEgxR0dRNFBCMU9PSE10ZThZZG0xM3BkMFZHM2tEMGlQWWtqNkNwalNMR0J6ZFNadVp1bU9HLXFHMHktSWppa2RId2ljTDVzZnN2eDBGeEtYZ0dBMEZSaDFuTVpFM1JhOVptLXRqUl9UdmJCVExKX1dfSWg5NE5aX1pQMGpUd0ZIYnNrSnFIRkY1WFlYcGEwaXIxQ3F0TGRiREMwZ1NoREI5UzRKaWV6NzdCUSIsImlkIjoiZmNfMmQyOWF1VGdFWkdpNU5vUHlkdjhrQVVfNSJ9"
+      },
+      {
+        "question": "Is Aadhaar PAN link free now?",
+        "type": "ai_overview",
+        "page_token": "91ZRiHicHdDbToMwGADg-DK73KA76JYsJt1ggFLS0v5YbgzrDh2Ugw434M538al8GhO_R_i-f8ylKn4fbrptm-tqMrnf7-NzXZ_NcazqcpJd-0pNVGbMPlPFavG4sJ9Pau18-Xjz4WMqmga2zOKe0TE0nCLTE6Q3sa15LM4DmAKxHEPqQc85LhlomQC-EI_M964cJLK62D2EsrBf0qlLAQWMDqZI3GZQyDjc8jsxkDYrdcpz4xMe-HIAndrgZOipfxV6FgsWgeiorJoo5KlUqJiGonGPLqYqPxBhk4i7ONl7GsIdG3gJlnL8_lgsK2UdOK8CQhy3jS3ahbvAkTmpHK36dOvP5RuI1IKMocLm5ZIeE4aiXYuB1Rcq2KByU4IXRElCtrL0Z2mOszjp5rCzRYYOc26zKTFaUDo6qdt6Ovr_XL-fynbVfNbnP_RBggA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=91ZRiHicHdDbToMwGADg-DK73KA76JYsJt1ggFLS0v5YbgzrDh2Ugw434M538al8GhO_R_i-f8ylKn4fbrptm-tqMrnf7-NzXZ_NcazqcpJd-0pNVGbMPlPFavG4sJ9Pau18-Xjz4WMqmga2zOKe0TE0nCLTE6Q3sa15LM4DmAKxHEPqQc85LhlomQC-EI_M964cJLK62D2EsrBf0qlLAQWMDqZI3GZQyDjc8jsxkDYrdcpz4xMe-HIAndrgZOipfxV6FgsWgeiorJoo5KlUqJiGonGPLqYqPxBhk4i7ONl7GsIdG3gJlnL8_lgsK2UdOK8CQhy3jS3ahbvAkTmpHK36dOvP5RuI1IKMocLm5ZIeE4aiXYuB1Rcq2KByU4IXRElCtrL0Z2mOszjp5rCzRYYOc26zKTFaUDo6qdt6Ovr_XL-fynbVfNbnP_RBggA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zWllXa2RJUTBsb1ZVUnZkMU5NZVRsRWFtSlZNbmRuY0haeFltTllZMFZmUkhWNkxVZDRabUY0TTBKQ1ptWldkRzFOVEd4TGNXOVNWRXg0TWt0eVoxZElZakF6TkdkUGJIUmlaWEpoVG5Cb09YcDNXRWhHYUVocmR4SVhNbVF5T1dGMVZHZEZXa2RwTlU1dlVIbGtkamhyUVZVYUlrRkVjM0k1WmxJMWJuZENlR2RTUTFwR2VHMDRURGxhVmt4aFIzTm5OM1JSWmtFIiwiZmN2IjoiMyIsImVpIjoiMmQyOWF1VGdFWkdpNU5vUHlkdjhrQVUiLCJxYyI6IkNoOXdZVzRnWVdGa2FHRmhjaUJzYVc1cklHeGhjM1FnWkdGMFpTQXlNREkyRUFCOUdwRDVQZyIsInF1ZXN0aW9uIjoiSXMgQWFkaGFhciBQQU4gbGluayBmcmVlIG5vdz8iLCJsayI6IkdoeHBjeUJoWVdSb1lXRnlJSEJoYmlCc2FXNXJJR1p5WldVZ2JtOTMiLCJicyI6ImMzV1FNWXZDUUJCR3NkM0tPcHp5ZGJiZW9oWTJ3ZEpHcnJ2dVlEUVRkekRNaG1RaC1POXZkN2tjQnJXZWVlOE5ZN3paSG50SWdQS0YtNTY2TzRKSEkzckRnU3BIMUdHUTRQQjFPT0hNdGU4WWRtMTNwZDBWRzNrRDBpUFlrajZDcGpTTEdCemRTWnVadW1PRy1xRzB5LUlqaWtkSHdpY0w1c2ZzdngwRnhLWGdHQTBGUmgxbk1aRTNSYTlabS10alJfVHZiQlRMSl9XX0loOTROWl9aUDBqVHdGSGJza0pxSEZGNVhZWHBhMGlyMUNxdExkYkRDMGdTaERCOVM0Smllejc3QlEiLCJpZCI6ImZjXzJkMjlhdVRnRVpHaTVOb1B5ZHY4a0FVXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zWllXa2RJUTBsb1ZVUnZkMU5NZVRsRWFtSlZNbmRuY0haeFltTllZMFZmUkhWNkxVZDRabUY0TTBKQ1ptWldkRzFOVEd4TGNXOVNWRXg0TWt0eVoxZElZakF6TkdkUGJIUmlaWEpoVG5Cb09YcDNXRWhHYUVocmR4SVhNbVF5T1dGMVZHZEZXa2RwTlU1dlVIbGtkamhyUVZVYUlrRkVjM0k1WmxJMWJuZENlR2RTUTFwR2VHMDRURGxhVmt4aFIzTm5OM1JSWmtFIiwiZmN2IjoiMyIsImVpIjoiMmQyOWF1VGdFWkdpNU5vUHlkdjhrQVUiLCJxYyI6IkNoOXdZVzRnWVdGa2FHRmhjaUJzYVc1cklHeGhjM1FnWkdGMFpTQXlNREkyRUFCOUdwRDVQZyIsInF1ZXN0aW9uIjoiSXMgQWFkaGFhciBQQU4gbGluayBmcmVlIG5vdz8iLCJsayI6IkdoeHBjeUJoWVdSb1lXRnlJSEJoYmlCc2FXNXJJR1p5WldVZ2JtOTMiLCJicyI6ImMzV1FNWXZDUUJCR3NkM0tPcHp5ZGJiZW9oWTJ3ZEpHcnJ2dVlEUVRkekRNaG1RaC1POXZkN2tjQnJXZWVlOE5ZN3paSG50SWdQS0YtNTY2TzRKSEkzckRnU3BIMUdHUTRQQjFPT0hNdGU4WWRtMTNwZDBWRzNrRDBpUFlrajZDcGpTTEdCemRTWnVadW1PRy1xRzB5LUlqaWtkSHdpY0w1c2ZzdngwRnhLWGdHQTBGUmgxbk1aRTNSYTlabS10alJfVHZiQlRMSl9XX0loOTROWl9aUDBqVHdGSGJza0pxSEZGNVhZWHBhMGlyMUNxdExkYkRDMGdTaERCOVM0Smllejc3QlEiLCJpZCI6ImZjXzJkMjlhdVRnRVpHaTVOb1B5ZHY4a0FVXzUifQ%3D%3D"
+      },
+      {
+        "question": "What is the late fee for linking PAN with Aadhaar in 2026?",
+        "type": "ai_overview",
+        "page_token": "FvZmy3icHdDBbpswHIBx7WV6bAwuqRIpmsQCNNVwisF_jC-TsZOQ2AYGrCy59RX6DH2qPs2qHb_j73v7sOfWfH57b6apH9eLxTzP96euO9nDvercQo7XVi2UtLaWyqyXj0vv-1FtolcV_hhUmLG-hy1FuW1e6IW81HYXVDeDwYdBownA9mPdhjt29SRwmwFOJxFFQWVWXR3rJDcryph6KDi0Bc5mEq36QyKWhIsBfMv3BblUHhWi1TeOkFduxUgwCyiiiOB4FDjmaktpWpIAnnYoB_CE0b2KnifFdCqZbkprcc1IpLmZIdGSICJSP9hT95dQNM_CxK6OxG-axGFl6bFqgWls09xNZWX1uc69h9zQHdyEo4yEUaOuYvvl5MAEAkl94xVulR1K6u-TKQTanTNGb-piHStP6CfrxVchGQMvYzukl_iPLIlj8bMs_Maw7O6oXjf47v_rza-jm9b90J3-Ab40jGA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FvZmy3icHdDBbpswHIBx7WV6bAwuqRIpmsQCNNVwisF_jC-TsZOQ2AYGrCy59RX6DH2qPs2qHb_j73v7sOfWfH57b6apH9eLxTzP96euO9nDvercQo7XVi2UtLaWyqyXj0vv-1FtolcV_hhUmLG-hy1FuW1e6IW81HYXVDeDwYdBownA9mPdhjt29SRwmwFOJxFFQWVWXR3rJDcryph6KDi0Bc5mEq36QyKWhIsBfMv3BblUHhWi1TeOkFduxUgwCyiiiOB4FDjmaktpWpIAnnYoB_CE0b2KnifFdCqZbkprcc1IpLmZIdGSICJSP9hT95dQNM_CxK6OxG-axGFl6bFqgWls09xNZWX1uc69h9zQHdyEo4yEUaOuYvvl5MAEAkl94xVulR1K6u-TKQTanTNGb-piHStP6CfrxVchGQMvYzukl_iPLIlj8bMs_Maw7O6oXjf47v_rza-jm9b90J3-Ab40jGA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zWllXa2RJUTBsb1ZVUnZkMU5NZVRsRWFtSlZNbmRuY0haeFltTllZMFZmUkhWNkxVZDRabUY0TTBKQ1ptWldkRzFOVEd4TGNXOVNWRXg0TWt0eVoxZElZakF6TkdkUGJIUmlaWEpoVG5Cb09YcDNXRWhHYUVocmR4SVhNbVF5T1dGMVZHZEZXa2RwTlU1dlVIbGtkamhyUVZVYUlrRkVjM0k1WmxJMWJuZENlR2RTUTFwR2VHMDRURGxhVmt4aFIzTm5OM1JSWmtFIiwiZmN2IjoiMyIsImVpIjoiMmQyOWF1VGdFWkdpNU5vUHlkdjhrQVUiLCJxYyI6IkNoOXdZVzRnWVdGa2FHRmhjaUJzYVc1cklHeGhjM1FnWkdGMFpTQXlNREkyRUFCOUdwRDVQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbGF0ZSBmZWUgZm9yIGxpbmtpbmcgUEFOIHdpdGggQWFkaGFhciBpbiAyMDI2PyIsImxrIjoiR2g1aFlXUm9ZV0Z5SUhCaGJpQnNhVzVySUd4aGRHVWdabVZsSURJd01qWSIsImJzIjoiYzNXUU1ZdkNRQkJHc2QzS09wenlkYmJlb2hZMndkSkdycnZ1WURRVGR6RE1obVFoLU85dmQ3a2NCcldlZWU4Tlk3elpIbnRJZ1BLRi01NjZPNEpISTNyRGdTcEgxR0dRNFBCMU9PSE10ZThZZG0xM3BkMFZHM2tEMGlQWWtqNkNwalNMR0J6ZFNadVp1bU9HLXFHMHktSWppa2RId2ljTDVzZnN2eDBGeEtYZ0dBMEZSaDFuTVpFM1JhOVptLXRqUl9UdmJCVExKX1dfSWg5NE5aX1pQMGpUd0ZIYnNrSnFIRkY1WFlYcGEwaXIxQ3F0TGRiREMwZ1NoREI5UzRKaWV6NzdCUSIsImlkIjoiZmNfMmQyOWF1VGdFWkdpNU5vUHlkdjhrQVVfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zWllXa2RJUTBsb1ZVUnZkMU5NZVRsRWFtSlZNbmRuY0haeFltTllZMFZmUkhWNkxVZDRabUY0TTBKQ1ptWldkRzFOVEd4TGNXOVNWRXg0TWt0eVoxZElZakF6TkdkUGJIUmlaWEpoVG5Cb09YcDNXRWhHYUVocmR4SVhNbVF5T1dGMVZHZEZXa2RwTlU1dlVIbGtkamhyUVZVYUlrRkVjM0k1WmxJMWJuZENlR2RTUTFwR2VHMDRURGxhVmt4aFIzTm5OM1JSWmtFIiwiZmN2IjoiMyIsImVpIjoiMmQyOWF1VGdFWkdpNU5vUHlkdjhrQVUiLCJxYyI6IkNoOXdZVzRnWVdGa2FHRmhjaUJzYVc1cklHeGhjM1FnWkdGMFpTQXlNREkyRUFCOUdwRDVQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbGF0ZSBmZWUgZm9yIGxpbmtpbmcgUEFOIHdpdGggQWFkaGFhciBpbiAyMDI2PyIsImxrIjoiR2g1aFlXUm9ZV0Z5SUhCaGJpQnNhVzVySUd4aGRHVWdabVZsSURJd01qWSIsImJzIjoiYzNXUU1ZdkNRQkJHc2QzS09wenlkYmJlb2hZMndkSkdycnZ1WURRVGR6RE1obVFoLU85dmQ3a2NCcldlZWU4Tlk3elpIbnRJZ1BLRi01NjZPNEpISTNyRGdTcEgxR0dRNFBCMU9PSE10ZThZZG0xM3BkMFZHM2tEMGlQWWtqNkNwalNMR0J6ZFNadVp1bU9HLXFHMHktSWppa2RId2ljTDVzZnN2eDBGeEtYZ0dBMEZSaDFuTVpFM1JhOVptLXRqUl9UdmJCVExKX1dfSWg5NE5aX1pQMGpUd0ZIYnNrSnFIRkY1WFlYcGEwaXIxQ3F0TGRiREMwZ1NoREI5UzRKaWV6NzdCUSIsImlkIjoiZmNfMmQyOWF1VGdFWkdpNU5vUHlkdjhrQVVfNSJ9"
+      },
+      {
+        "question": "What will happen if I don't link Aadhaar and PAN?",
+        "type": "ai_overview",
+        "page_token": "Q9QOtHicHZBRboIwAECzy_ipVMVFE7MMoaKbNW1pC_1ZsKhoW2ETQfjbXXaqnWZm_y8vee_7x5wu-vepzquqvM4Gg6Zp-seiOJp9XxV2kF7bixqo1JhdqvRs8jwBLwc1D24rb_G58jArS-4ThxoyxkZOkDXv2dn7ktAcaIyKLSchssBuwvWVhpneBeiN-0Ej7bWiTtLQpQvYcHqTgtfI5hpHr3dqoE_PkktTRngEqeAICqsbrquQP5hE8M3DvVXAi3cOd5XgowTk3mYBEBLBPeuYs2uB5DAfphzdxFl3Uet0xCCS2aZhMfSybl2IULvJCK0Ic-84QmEGkxZRUKdB5QW5aqW_cpOYM-nwlAw1iOwU7wUZbpeVx0lxwox06mws69Ynxo5VFMIUOfjRNbVMmHsUJy0TcKx8mWLcO6h6Pur9_5x_HGw1K7-K4x--PoPb",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Q9QOtHicHZBRboIwAECzy_ipVMVFE7MMoaKbNW1pC_1ZsKhoW2ETQfjbXXaqnWZm_y8vee_7x5wu-vepzquqvM4Gg6Zp-seiOJp9XxV2kF7bixqo1JhdqvRs8jwBLwc1D24rb_G58jArS-4ThxoyxkZOkDXv2dn7ktAcaIyKLSchssBuwvWVhpneBeiN-0Ej7bWiTtLQpQvYcHqTgtfI5hpHr3dqoE_PkktTRngEqeAICqsbrquQP5hE8M3DvVXAi3cOd5XgowTk3mYBEBLBPeuYs2uB5DAfphzdxFl3Uet0xCCS2aZhMfSybl2IULvJCK0Ic-84QmEGkxZRUKdB5QW5aqW_cpOYM-nwlAw1iOwU7wUZbpeVx0lxwox06mws69Ynxo5VFMIUOfjRNbVMmHsUJy0TcKx8mWLcO6h6Pur9_5x_HGw1K7-K4x--PoPb",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zWllXa2RJUTBsb1ZVUnZkMU5NZVRsRWFtSlZNbmRuY0haeFltTllZMFZmUkhWNkxVZDRabUY0TTBKQ1ptWldkRzFOVEd4TGNXOVNWRXg0TWt0eVoxZElZakF6TkdkUGJIUmlaWEpoVG5Cb09YcDNXRWhHYUVocmR4SVhNbVF5T1dGMVZHZEZXa2RwTlU1dlVIbGtkamhyUVZVYUlrRkVjM0k1WmxJMWJuZENlR2RTUTFwR2VHMDRURGxhVmt4aFIzTm5OM1JSWmtFIiwiZmN2IjoiMyIsImVpIjoiMmQyOWF1VGdFWkdpNU5vUHlkdjhrQVUiLCJxYyI6IkNoOXdZVzRnWVdGa2FHRmhjaUJzYVc1cklHeGhjM1FnWkdGMFpTQXlNREkyRUFCOUdwRDVQZyIsInF1ZXN0aW9uIjoiV2hhdCB3aWxsIGhhcHBlbiBpZiBJIGRvbid0IGxpbmsgQWFkaGFhciBhbmQgUEFOPyIsImxrIjoiY3dYQjBRbUFRQXhFd1Q3OGVpWFkwa0tVQk1NYTVPRGFkLVk0ZDJxeHE1dlV6R1hxcG9qWExMcjhJRVZLSDNJdzhnOCIsImJzIjoiYzNXUU1ZdkNRQkJHc2QzS09wenlkYmJlb2hZMndkSkdycnZ1WURRVGR6RE1obVFoLU85dmQ3a2NCcldlZWU4Tlk3elpIbnRJZ1BLRi01NjZPNEpISTNyRGdTcEgxR0dRNFBCMU9PSE10ZThZZG0xM3BkMFZHM2tEMGlQWWtqNkNwalNMR0J6ZFNadVp1bU9HLXFHMHktSWppa2RId2ljTDVzZnN2eDBGeEtYZ0dBMEZSaDFuTVpFM1JhOVptLXRqUl9UdmJCVExKX1dfSWg5NE5aX1pQMGpUd0ZIYnNrSnFIRkY1WFlYcGEwaXIxQ3F0TGRiREMwZ1NoREI5UzRKaWV6NzdCUSIsImlkIjoiZmNfMmQyOWF1VGdFWkdpNU5vUHlkdjhrQVVfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE4zWllXa2RJUTBsb1ZVUnZkMU5NZVRsRWFtSlZNbmRuY0haeFltTllZMFZmUkhWNkxVZDRabUY0TTBKQ1ptWldkRzFOVEd4TGNXOVNWRXg0TWt0eVoxZElZakF6TkdkUGJIUmlaWEpoVG5Cb09YcDNXRWhHYUVocmR4SVhNbVF5T1dGMVZHZEZXa2RwTlU1dlVIbGtkamhyUVZVYUlrRkVjM0k1WmxJMWJuZENlR2RTUTFwR2VHMDRURGxhVmt4aFIzTm5OM1JSWmtFIiwiZmN2IjoiMyIsImVpIjoiMmQyOWF1VGdFWkdpNU5vUHlkdjhrQVUiLCJxYyI6IkNoOXdZVzRnWVdGa2FHRmhjaUJzYVc1cklHeGhjM1FnWkdGMFpTQXlNREkyRUFCOUdwRDVQZyIsInF1ZXN0aW9uIjoiV2hhdCB3aWxsIGhhcHBlbiBpZiBJIGRvbid0IGxpbmsgQWFkaGFhciBhbmQgUEFOPyIsImxrIjoiY3dYQjBRbUFRQXhFd1Q3OGVpWFkwa0tVQk1NYTVPRGFkLVk0ZDJxeHE1dlV6R1hxcG9qWExMcjhJRVZLSDNJdzhnOCIsImJzIjoiYzNXUU1ZdkNRQkJHc2QzS09wenlkYmJlb2hZMndkSkdycnZ1WURRVGR6RE1obVFoLU85dmQ3a2NCcldlZWU4Tlk3elpIbnRJZ1BLRi01NjZPNEpISTNyRGdTcEgxR0dRNFBCMU9PSE10ZThZZG0xM3BkMFZHM2tEMGlQWWtqNkNwalNMR0J6ZFNadVp1bU9HLXFHMHktSWppa2RId2ljTDVzZnN2eDBGeEtYZ0dBMEZSaDFuTVpFM1JhOVptLXRqUl9UdmJCVExKX1dfSWg5NE5aX1pQMGpUd0ZIYnNrSnFIRkY1WFlYcGEwaXIxQ3F0TGRiREMwZ1NoREI5UzRKaWV6NzdCUSIsImlkIjoiZmNfMmQyOWF1VGdFWkdpNU5vUHlkdjhrQVVfNSJ9"
+      }
+    ],
+    "ai_overview": {
+      "text_blocks": [
+        {
+          "type": "paragraph",
+          "snippet": "The final deadline to link your PAN with your Aadhaar for individuals who obtained a PAN using an Aadhaar enrolment ID was December 31, 2025, with unlinked PANs becoming inoperative starting January 1, 2026. General linking requirements from earlier deadlines (like June 30, 2023) also remain in effect.",
+          "snippet_highlighted_words": [
+            "December 31, 2025"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "You can check your status or complete delayed linking through the Income Tax e-Filing Portal.",
+          "snippet_links": [
+            {
+              "text": "Income Tax e-Filing Portal",
+              "link": "https://www.incometax.gov.in/iec/foportal/"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "Consequences of an Inoperative PAN"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Inability to file Income Tax Returns (ITR)."
+            },
+            {
+              "snippet": "Pending tax refunds and interest on refunds will not be issued."
+            },
+            {
+              "snippet": "Higher TDS (Tax Deducted at Source) and TCS (Tax Collected at Source) rates."
+            },
+            {
+              "snippet": "Restrictions on high-value financial transactions and banking/KYC operations."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "snippet": "How to Reactivate an Inoperative PAN"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Visit the Income Tax e-Filing Portal."
+            },
+            {
+              "snippet": "Pay a late penalty fee of ₹1,000 via e-Pay Tax (under minor head for linking delay)."
+            },
+            {
+              "snippet": "Submit your PAN and Aadhaar details for validation using OTP authentication."
+            },
+            {
+              "snippet": "The PAN typically becomes operative again within 7 to 30 days after processing."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "If you'd like, I can provide:"
+        },
+        {
+          "type": "list",
+          "list": [
+            {
+              "snippet": "Detailed step-by-step instructions on how to pay the penalty on the portal"
+            },
+            {
+              "snippet": "Methods to check your current PAN-Aadhaar link status"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "snippet": "Let me know what you need help with!"
+        }
+      ],
+      "references": [
+        {
+          "link": "https://www.proteantech.in/articles/pan-aadhaar-link-deadline/",
+          "source": "proteantech.in",
+          "index": 0
+        },
+        {
+          "link": "https://www.bajajfinserv.in/investments/pan-aadhaar-linking-last-date",
+          "source": "bajajfinserv.in",
+          "index": 1
+        },
+        {
+          "link": "https://www.angelone.in/news/taxation/pan-aadhaar-linking-deadline-nears-what-taxpayers-must-do-before-dec-31",
+          "source": "angelone.in",
+          "index": 2
+        },
+        {
+          "link": "https://www.angelone.in/news/personal-finance/pan-aadhaar-linking-deadline-today-pay-rs-1000-penalty-if-not-done",
+          "source": "angelone.in",
+          "index": 3
+        },
+        {
+          "link": "https://m.economictimes.com/wealth/invest/has-pan-aadhaar-linking-deadline-been-extended-here-is-how-to-check-if-your-pan-card-is-still-operative/articleshow/126271901.cms",
+          "source": "m.economictimes.com",
+          "index": 4
+        },
+        {
+          "title": "PAN-Aadhaar Linking: Final Deadline and Key Steps",
+          "link": "https://www.proteantech.in/articles/pan-aadhaar-link-deadline/",
+          "snippet": "Your PAN card may become inoperative: PAN Aadhaar Link Deadline * The PAN Aadhaar link is now a mandatory requirement under Indian tax laws. * If not complied with...",
+          "source": "Protean",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrCfWmjB7Y5f6JTYEXJSAwAEg1WkNA7pFesAzvViraZ7IwNJQyWVD75rfupaEcT1KqRNjxpggbiSxapaooPMn7qb3Faubwvo1Vzdx4",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.proteantech.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "index": 5
+        },
+        {
+          "title": "PAN Aadhaar Linking Last Date: CBDT New Deadline 2026",
+          "link": "https://www.bajajfinserv.in/investments/pan-aadhaar-linking-last-date",
+          "snippet": "Deadline: December 31, 2025 (for taxpayers using an Aadhaar Enrolment ID to obtain PAN); general deadline was June 30, 2023. Consequences: PAN becomes inoperative ...",
+          "source": "Bajaj Finserv",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxVE6aAmQJJzF2lAMbiVihgmBqUwSgiL22jskSt6yUGCUPqFSKRT1MGM88wzika5Zu_-zXOKu7tAb4cD7b1E3_YBBUbvwy8LD-B3Qi",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bajajfinserv.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "index": 6
+        },
+        {
+          "title": "PAN–Aadhaar Linking Deadline Nears: What Taxpayers Must Do ...",
+          "link": "https://www.angelone.in/news/taxation/pan-aadhaar-linking-deadline-nears-what-taxpayers-must-do-before-dec-31",
+          "snippet": "PAN–Aadhaar linking must be completed by December 31, 2025 or the PAN becomes inoperative from January 1, 2026, impacting taxes and financial transactions. * Failu...",
+          "source": "Angel One",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtXThzEieD8erY5KFZEU91XRGZC8mmAb3cx1R8GJdpTjk8D3NOZet1TjqCLmqap4hPB16YZNV_P8_fL5eI26aD09CR2-TK79ZaVCth",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.angelone.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "index": 7
+        },
+        {
+          "title": "PAN-Aadhaar Linking Deadline Today",
+          "link": "https://www.angelone.in/news/personal-finance/pan-aadhaar-linking-deadline-today-pay-rs-1000-penalty-if-not-done",
+          "snippet": "How to Link PAN and Aadhaar? Visit the Income Tax e-filing portal. Click “Link Aadhaar” under “Quick Links” (no login required). Enter your PAN, Aadhaar number, an...",
+          "source": "Angel One",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFH89QZFTw444fQRKokvFoHbMoO_o0GTVCkV7Su-1Ob-80TyhGwYBI9TWwqaoLYHcTA5D8KLctNwfcWj9W8Tgj_YBx9BNBhCjY9HMp",
+          "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.angelone.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "index": 8
+        },
+        {
+          "title": "Has PAN-Aadhaar linking deadline been extended? Here is how to ...",
+          "link": "https://m.economictimes.com/wealth/invest/has-pan-aadhaar-linking-deadline-been-extended-here-is-how-to-check-if-your-pan-card-is-still-operative/articleshow/126271901.cms",
+          "snippet": "As of January 1, 2026, the government has not extended the PAN-Aadhaar linking deadline beyond December 31, 2025. Taxpayers who missed the deadline risk their PAN ...",
+          "source": "The Economic Times",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZBEhwYthBEpF2wJ854G9j0zgLrf3_JpsN5nCTnu7Mvjj3X8GxOHgeOaZN0E56H60eiyRozpOMlcKa9GUycnEkmx56mDUgZx-yWaBU",
+          "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+          "index": 9
+        }
+      ]
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "| Income Tax Department",
+        "link": "http://www.incometax.gov.in/iec/foportal/e-Campaigns/e-mail/detail/11722",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFX6L0EQ8uLjLCivTwL4xc5YOe7WVvIoabn7eXSDw8kPZNGy64UVWb3JwT9T1vT_ZfwigKCBFDrLsJ1cIiujwWgrWANA5xKXiIlL0Oyzgqg2FPRvZGt9qCmF06blsHbhfZSL2uFhLWgAKtdoIqYwh4vc4RMjcbF8zvHHFvA&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQFnoECC4QAQ&uoh=1",
+        "displayed_link": "http://www.incometax.gov.in › foportal › e-mail › detail",
+        "favicon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAADwBwCdASogACAAPtEutFooIagoGAEAGglsAKwvwjxwS-u7ggF8AdKUjXQgGtAy0CbnvrwTfZs5fI3h22JiJO7MLfq7otbRG0AA_v7CyPHjcUI0r6DTYJ9yNMT93f452Bagn6s5SheJfoZHrtcb8XrwmF0zH_1NOi_R4u1Nd8tIXTJwvSXGKKgRfRbPp-v1cmAoaNxMnvMCTO4ToDwAIt3UcY5bH1ccdc53RxGKJ5IjpS77bY7BuvYyTEj1bbXPXVqcu8N6mw0wMks06WvFdirfAtfuqYH-RNIAUtKaBZ3v6-x3fMj5HW6FO3wPpHdKiMYQw_1StrW5gsAUJPgQqYhx3Jf4g-y8Q61wuZc06w7TF5Za-23c1XY1A6AkFZpcpgM-Q9i1mqjm5BBO-t49MLbr_6vn3--2eIlYFvy6PK3avVA1brURudbxAr2VsXt21FD9Cz_XVYZDz8b7d2i-1A6AG5BVPxklcU6ovbJF8gMmDgOgrd20iv0cuE1RFa-zMmsFPfGkbK4ygfbkal5BJU3gAAA.webp",
+        "snippet": "Kindly link your Aadhaar with PAN using the following path: https://eportal.incometax.gov.in/iec/foservices/#/pre-login/bl-link-aadhaar",
+        "snippet_highlighted_words": [
+          "link",
+          "Aadhaar",
+          "PAN",
+          "link",
+          "aadhaar"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Kindly link your Aadhaar with PAN using the following path: https://eportal.incometax.gov.in/iec/foservices/#/pre-login/bl-link-aadhaar",
+            "source_info_link": "http://www.incometax.gov.in/iec/foportal/e-Campaigns/e-mail/detail/11722",
+            "icon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAADwBwCdASogACAAPtEutFooIagoGAEAGglsAKwvwjxwS-u7ggF8AdKUjXQgGtAy0CbnvrwTfZs5fI3h22JiJO7MLfq7otbRG0AA_v7CyPHjcUI0r6DTYJ9yNMT93f452Bagn6s5SheJfoZHrtcb8XrwmF0zH_1NOi_R4u1Nd8tIXTJwvSXGKKgRfRbPp-v1cmAoaNxMnvMCTO4ToDwAIt3UcY5bH1ccdc53RxGKJ5IjpS77bY7BuvYyTEj1bbXPXVqcu8N6mw0wMks06WvFdirfAtfuqYH-RNIAUtKaBZ3v6-x3fMj5HW6FO3wPpHdKiMYQw_1StrW5gsAUJPgQqYhx3Jf4g-y8Q61wuZc06w7TF5Za-23c1XY1A6AkFZpcpgM-Q9i1mqjm5BBO-t49MLbr_6vn3--2eIlYFvy6PK3avVA1brURudbxAr2VsXt21FD9Cz_XVYZDz8b7d2i-1A6AG5BVPxklcU6ovbJF8gMmDgOgrd20iv0cuE1RFa-zMmsFPfGkbK4ygfbkal5BJU3gAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZYNkwwRVE4dUxqTENpdlR3TDR4YzVZT2U3V1Z2SW9hYm43ZVhTRHc4a1BaTkd5NjRVVldiM0p3VDlUMXZUX1pmd2lnS0NCRkRyTHNKMWNJaXVqd1dncldBTkE1eEtYaUlsTDBPeXpncWcyRlBSdlpHdDlxQ21GMDZibHNIYmhmWlNMMnVGaExXZ0FLdGRvSXFZd2g0dmM0Uk1qY2JGOHp2SEhGdkESBBoCCAAamQUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA9QQIABAAGAAgACoUCgNwYW4Vd1LaPxoIaXY7cDtwYW4qMgoHYWFkaGFhchV-iJk_GgZhYWRoYXIaBWFkaGFyGgV1aWRhaRoMaXY7cDthYWRoYWFyKiUKBGxpbmsVNIxBPxoHbGlua2FnZRoGbGlua2VkGgdsaW5raW5nKj8KBGxhc3QV_XY-PRoHY2xvc2luZxoDZHVlGgNlbmQaBWZpbmFsGgZsYXRlc3QaBnJlY2VudBoIbGFzdGRhdGUqHAoEZGF0ZRW7QIs-GgVkYXRlcxoIbGFzdGRhdGUqFgoEMjAyNhXqjpI-GglpdjtuOzIwMjYyvAEvZ290bz91cmw9Q0FFU2dBRUI2enN3Rlg2TDBFUTh1TGpMQ2l2VHdMNHhjNVlPZTdXVnZJb2FibjdlWFNEdzhrUFpOR3k2NFVWV2IzSndUOVQxdlRfWmZ3aWdLQ0JGRHJMc0oxY0lpdWp3V2dyV0FOQTV4S1hpSWxMME95emdxZzJGUFJ2Wkd0OXFDbUYwNmJsc0hiaGZaU0wydUZoTFdnQUt0ZG9JcVl3aDR2YzRSTWpjYkY4enZISEZ2QToXfCBJbmNvbWUgVGF4IERlcGFydG1lbnRCqgFLaW5kbHkgPGI-bGluazwvYj4geW91ciA8Yj5BYWRoYWFyPC9iPiB3aXRoIDxiPlBBTjwvYj4gdXNpbmcgdGhlIGZvbGxvd2luZyBwYXRoOiBodHRwczovL2Vwb3J0YWwuaW5jb21ldGF4Lmdvdi5pbi9pZWMvZm9zZXJ2aWNlcy8jL3ByZS1sb2dpbi9ibC08Yj5saW5rPC9iPi08Yj5hYWRoYWFyPC9iPiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZYNkwwRVE4dUxqTENpdlR3TDR4YzVZT2U3V1Z2SW9hYm43ZVhTRHc4a1BaTkd5NjRVVldiM0p3VDlUMXZUX1pmd2lnS0NCRkRyTHNKMWNJaXVqd1dncldBTkE1eEtYaUlsTDBPeXpncWcyRlBSdlpHdDlxQ21GMDZibHNIYmhmWlNMMnVGaExXZ0FLdGRvSXFZd2g0dmM0Uk1qY2JGOHp2SEhGdkESBBoCCAAamQUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA9QQIABAAGAAgACoUCgNwYW4Vd1LaPxoIaXY7cDtwYW4qMgoHYWFkaGFhchV-iJk_GgZhYWRoYXIaBWFkaGFyGgV1aWRhaRoMaXY7cDthYWRoYWFyKiUKBGxpbmsVNIxBPxoHbGlua2FnZRoGbGlua2VkGgdsaW5raW5nKj8KBGxhc3QV_XY-PRoHY2xvc2luZxoDZHVlGgNlbmQaBWZpbmFsGgZsYXRlc3QaBnJlY2VudBoIbGFzdGRhdGUqHAoEZGF0ZRW7QIs-GgVkYXRlcxoIbGFzdGRhdGUqFgoEMjAyNhXqjpI-GglpdjtuOzIwMjYyvAEvZ290bz91cmw9Q0FFU2dBRUI2enN3Rlg2TDBFUTh1TGpMQ2l2VHdMNHhjNVlPZTdXVnZJb2FibjdlWFNEdzhrUFpOR3k2NFVWV2IzSndUOVQxdlRfWmZ3aWdLQ0JGRHJMc0oxY0lpdWp3V2dyV0FOQTV4S1hpSWxMME95emdxZzJGUFJ2Wkd0OXFDbUYwNmJsc0hiaGZaU0wydUZoTFdnQUt0ZG9JcVl3aDR2YzRSTWpjYkY4enZISEZ2QToXfCBJbmNvbWUgVGF4IERlcGFydG1lbnRCqgFLaW5kbHkgPGI-bGluazwvYj4geW91ciA8Yj5BYWRoYWFyPC9iPiB3aXRoIDxiPlBBTjwvYj4gdXNpbmcgdGhlIGZvbGxvd2luZyBwYXRoOiBodHRwczovL2Vwb3J0YWwuaW5jb21ldGF4Lmdvdi5pbi9pZWMvZm9zZXJ2aWNlcy8jL3ByZS1sb2dpbi9ibC08Yj5saW5rPC9iPi08Yj5hYWRoYWFyPC9iPiICEAFIAFgAaAA",
+        "source": "Income Tax Department"
+      },
+      {
+        "position": 2,
+        "title": "How to Link Aadhaar with PAN Card Online",
+        "link": "https://www.iifl.com/blogs/other/aadhaar-pan-linking-complete-guide",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVmFZCigO4yzDhX4wpr-gew9wr4PRts4idjrH25QNZhiigyYC6cuHxjIML4YrOBnsCVU_JSWLSAxr3LOj_LclJXm1Tof6C-qLfVnPqTWHEB5Icgh9pI5oZV6QkyPRqdF74127dtHSSsv8ZPWVSASpBRh4TEYTy5Q&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQFnoECDEQAQ&uoh=1",
+        "displayed_link": "https://www.iifl.com › Blogs › Other",
+        "favicon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAABQCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHp_ju8sthXgNtnz6umAbyN_kJmnau8rJYGtR_mRcUx3j-KMi1cOAdJnw2OCUkW9bQiy6Eg4AAD-9hPgRj6fLYoaOKuWnAiww5Qh6oRkFqDkUBf8IfHB2SdFRW80yarhDjmJUpz6oNVpeI2UCNGh3I6k_W4RQejJkbq0OTjQoDdFa9sCebcnReg8-FoheF4PC8R18Y193eyTRUuWTY6sxwGbmJfMXwRH4d1b0noB5xBIrLdRNivMTG-nJiCuqgMnvxnBiER-i9nWPamgMx7l7hFPZCX5YBnRSwnqOCCk5peHuVgJFMvEi1Y8frDLMWyCZFtegORrcEbjvGujYlAU6QkaTz-vfj7Q5mztZUpv_P_HhL3Lu20N--IxXlva7i1-n_PhLkxYq4FlGxTkgenn-XqoIAaNPfjtunFeqoQm-1BjYjK1qSbJyF45TAizb6_ELnO3KCs17Z3aCHPaugtIkMkCh0HtHhq4WtnLC-n60npIWmXHFYwDS_ZUmV3FRwAA.webp",
+        "date": "20 Aug 2026",
+        "snippet": "Learn how to link Aadhaar with PAN card online in 2026, pay the applicable ₹1000 late fee, resolve mismatches and check your linking ...",
+        "snippet_highlighted_words": [
+          "Learn how to link Aadhaar with PAN card online in 2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Learn how to link Aadhaar with PAN card online in 2026, pay the applicable ₹1000 late fee, resolve mismatches and check your linking ...",
+            "source_info_link": "https://www.iifl.com/blogs/other/aadhaar-pan-linking-complete-guide",
+            "icon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAABQCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHp_ju8sthXgNtnz6umAbyN_kJmnau8rJYGtR_mRcUx3j-KMi1cOAdJnw2OCUkW9bQiy6Eg4AAD-9hPgRj6fLYoaOKuWnAiww5Qh6oRkFqDkUBf8IfHB2SdFRW80yarhDjmJUpz6oNVpeI2UCNGh3I6k_W4RQejJkbq0OTjQoDdFa9sCebcnReg8-FoheF4PC8R18Y193eyTRUuWTY6sxwGbmJfMXwRH4d1b0noB5xBIrLdRNivMTG-nJiCuqgMnvxnBiER-i9nWPamgMx7l7hFPZCX5YBnRSwnqOCCk5peHuVgJFMvEi1Y8frDLMWyCZFtegORrcEbjvGujYlAU6QkaTz-vfj7Q5mztZUpv_P_HhL3Lu20N--IxXlva7i1-n_PhLkxYq4FlGxTkgenn-XqoIAaNPfjtunFeqoQm-1BjYjK1qSbJyF45TAizb6_ELnO3KCs17Z3aCHPaugtIkMkCh0HtHhq4WtnLC-n60npIWmXHFYwDS_ZUmV3FRwAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVm1GWkNpZ080eXpEaFg0d3ByLWdldzl3cjRQUnRzNGlkanJIMjVRTlpoaWlneVlDNmN1SHhqSU1MNFlyT0Juc0NWVV9KU1dMU0F4cjNMT2pfTGNsSlhtMVRvZjZDLXFMZlZuUHFUV0hFQjVJY2doOXBJNW9aVjZRa3lQUnFkRjc0MTI3ZHRIU1NzdjhaUFdWU0FTcEJSaDRURVlUeTVREgQaAggAGqsFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQIcFCAAQABgAIAAqFAoDcGFuFSQKuUAaCGl2O3A7cGFuKjIKB2FhZGhhYXIVpy25QBoGYWFkaGFyGgVhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhciolCgRsaW5rFStckkAaB2xpbmthZ2UaBmxpbmtlZBoHbGlua2luZyo_CgRsYXN0FQAAAAAaB2Nsb3NpbmcaA2R1ZRoDZW5kGgVmaW5hbBoGbGF0ZXN0GgZyZWNlbnQaCGxhc3RkYXRlKhwKBGRhdGUVvGzJPhoFZGF0ZXMaCGxhc3RkYXRlKhYKBDIwMjYVrUAJQBoJaXY7bjsyMDI2MrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVm1GWkNpZ080eXpEaFg0d3ByLWdldzl3cjRQUnRzNGlkanJIMjVRTlpoaWlneVlDNmN1SHhqSU1MNFlyT0Juc0NWVV9KU1dMU0F4cjNMT2pfTGNsSlhtMVRvZjZDLXFMZlZuUHFUV0hFQjVJY2doOXBJNW9aVjZRa3lQUnFkRjc0MTI3ZHRIU1NzdjhaUFdWU0FTcEJSaDRURVlUeTVROkVIb3cgdG8gPGI-TGluayBBYWRoYWFyPC9iPiB3aXRoIDxiPlBBTjwvYj4gQ2FyZCBPbmxpbmUgLSBJSUZMIEZpbmFuY2VClgE8Yj5MZWFybiBob3cgdG8gbGluayBBYWRoYWFyIHdpdGggUEFOIGNhcmQgb25saW5lIGluIDIwMjY8L2I-LCBwYXkgdGhlIGFwcGxpY2FibGUg4oK5MTAwMCBsYXRlIGZlZSwgcmVzb2x2ZSBtaXNtYXRjaGVzIGFuZCBjaGVjayB5b3VyIGxpbmtpbmcmbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVm1GWkNpZ080eXpEaFg0d3ByLWdldzl3cjRQUnRzNGlkanJIMjVRTlpoaWlneVlDNmN1SHhqSU1MNFlyT0Juc0NWVV9KU1dMU0F4cjNMT2pfTGNsSlhtMVRvZjZDLXFMZlZuUHFUV0hFQjVJY2doOXBJNW9aVjZRa3lQUnFkRjc0MTI3ZHRIU1NzdjhaUFdWU0FTcEJSaDRURVlUeTVREgQaAggAGqsFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQIcFCAAQABgAIAAqFAoDcGFuFSQKuUAaCGl2O3A7cGFuKjIKB2FhZGhhYXIVpy25QBoGYWFkaGFyGgVhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhciolCgRsaW5rFStckkAaB2xpbmthZ2UaBmxpbmtlZBoHbGlua2luZyo_CgRsYXN0FQAAAAAaB2Nsb3NpbmcaA2R1ZRoDZW5kGgVmaW5hbBoGbGF0ZXN0GgZyZWNlbnQaCGxhc3RkYXRlKhwKBGRhdGUVvGzJPhoFZGF0ZXMaCGxhc3RkYXRlKhYKBDIwMjYVrUAJQBoJaXY7bjsyMDI2MrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVm1GWkNpZ080eXpEaFg0d3ByLWdldzl3cjRQUnRzNGlkanJIMjVRTlpoaWlneVlDNmN1SHhqSU1MNFlyT0Juc0NWVV9KU1dMU0F4cjNMT2pfTGNsSlhtMVRvZjZDLXFMZlZuUHFUV0hFQjVJY2doOXBJNW9aVjZRa3lQUnFkRjc0MTI3ZHRIU1NzdjhaUFdWU0FTcEJSaDRURVlUeTVROkVIb3cgdG8gPGI-TGluayBBYWRoYWFyPC9iPiB3aXRoIDxiPlBBTjwvYj4gQ2FyZCBPbmxpbmUgLSBJSUZMIEZpbmFuY2VClgE8Yj5MZWFybiBob3cgdG8gbGluayBBYWRoYWFyIHdpdGggUEFOIGNhcmQgb25saW5lIGluIDIwMjY8L2I-LCBwYXkgdGhlIGFwcGxpY2FibGUg4oK5MTAwMCBsYXRlIGZlZSwgcmVzb2x2ZSBtaXNtYXRjaGVzIGFuZCBjaGVjayB5b3VyIGxpbmtpbmcmbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "IIFL Finance"
+      },
+      {
+        "position": 3,
+        "title": "ITR से PAN-आधार तक! 31 दिसंबर से पहले निपटा ले ये ज़रूरी काम",
+        "link": "https://www.youtube.com/watch?v=XzbTXbsS7wE&xstg=CAMSBhUD_LL2Hw%3D%3D",
+        "displayed_link": "380+ views · 9 months ago",
+        "thumbnail": "https://serpapi.com/searches/6abdddd9018c486c3adfae64/images/6j4sv5u5ur7txcobb3KYXQUOpknfZ4QSbufWdA_Yqj4.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "snippet": "Aadhaar PAN Link Last Date: The fourth week of December is underway, and the year 2025 is about to end. financial tasks whose deadlines fall in ...",
+        "duration": "3:10",
+        "about_this_result": {
+          "source": {
+            "description": "Aadhaar PAN Link Last Date: The fourth week of December is underway, and the year 2025 is about to end. financial tasks whose deadlines fall in ...",
+            "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjI0U2JLMU5MY3lBQklyTU9OdjNLSmVwM25Zc19mMVNCRkxmem5ZUlNxdEZkMTl6WlBFQkM1cnZsZXl6ZzhnSzh6OGxfNFdnWTM5OHlPb29fVWh1d2JfTE5LbG01cHhnTndFbHNOSXJwTjRtZEJXSlpPS2RDTDcySm9oZjEwcU1FQk9tRHhUNWNNd0ZoQ0xadFRMZGlSN2tNZDdMNzRyeFcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjI0U2JLMU5MY3lBQklyTU9OdjNLSmVwM25Zc19mMVNCRkxmem5ZUlNxdEZkMTl6WlBFQkM1cnZsZXl6ZzhnSzh6OGxfNFdnWTM5OHlPb29fVWh1d2JfTE5LbG01cHhnTndFbHNOSXJwTjRtZEJXSlpPS2RDTDcySm9oZjEwcU1FQk9tRHhUNWNNd0ZoQ0xadFRMZGlSN2tNZDdMNzRyeFcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRQhPY8r-2AqFLBJ5PdACQpiRQ294PHrQTfcw",
+        "source": "YouTube · Jagran Business"
+      },
+      {
+        "position": 4,
+        "title": "PAN-Aadhaar linking: Do it before January 1 to avoid ...",
+        "link": "https://www.moneycontrol.com/news/business/personal-finance/pan-aadhaar-linking-do-it-before-january-1-to-avoid-disruptions-13667290.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwgEB6zswFVs2xGaRtMBXHiy9W0MlPmldbVhIt-41RFMO2CMnJRqN6yQzV1MvKF7VEmdk9q1TJjD8rYqPpSK4SN7MBt6-QYQhftnc_1hUYBWW63Vtd5VegSGSHuCc_ei3HeL0xRcu1bryh49ZMJuloYhuliMHd7JyT5LrspYw5y-rOhIt_abi4X6DWdiCIY6W7cqBciKwcu22uJv6hjdc8MslV9a9EDx3Tm9m7E2vghJDC4891j3mKBIt7AltkeEqQ_AFiw&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQFnoECEwQAQ&uoh=1",
+        "displayed_link": "https://www.moneycontrol.com › personal-finance › pa...",
+        "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAADQBgCdASocABwAPtEytFooIigoGAEAGglsAJ0yhHUHo3DqEAB6S3lf6ZjNBOnnUcZw4UStFh_hxFbdxcA6YAAA_QIg9W76rk0ssBxejdd6HEgnuj8mM5Qy5SsRX5HjPcz8vzxpL75lyPxgCNLwaGNpCXTfxxp7iI9unSj8IrD4FW3AK8AeJNv1f_YhjoL77DjQSpPtcjQ4nudgSg1Rqa939lgiDg0-Nhp7Q9xvUtzi0oEckIz6HT_68GUeyCwSoPKEayg-nuz2D6H8f3gqfNP7-z4ZU_i1j6eVqmt7Yrf7xHMfuOZOr54D2oVD8QatSixzWBjwpvPaw8_pt7fuhLkmWijZ8kZ1SuZouOfXQazOJLSt9sLjUkL0yJZKxBGWeYxj8AAA.webp",
+        "date": "11 Nov 2025",
+        "snippet": "The Central Board of Direct Taxes (CBDT) has set December 31, 2025 as the deadline to link PAN with Aadhaar. If you miss it, your PAN becomes ...",
+        "snippet_highlighted_words": [
+          "December 31, 2025"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The Central Board of Direct Taxes (CBDT) has set December 31, 2025 as the deadline to link PAN with Aadhaar. If you miss it, your PAN becomes ...",
+            "source_info_link": "https://www.moneycontrol.com/news/business/personal-finance/pan-aadhaar-linking-do-it-before-january-1-to-avoid-disruptions-13667290.html",
+            "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAADQBgCdASocABwAPtEytFooIigoGAEAGglsAJ0yhHUHo3DqEAB6S3lf6ZjNBOnnUcZw4UStFh_hxFbdxcA6YAAA_QIg9W76rk0ssBxejdd6HEgnuj8mM5Qy5SsRX5HjPcz8vzxpL75lyPxgCNLwaGNpCXTfxxp7iI9unSj8IrD4FW3AK8AeJNv1f_YhjoL77DjQSpPtcjQ4nudgSg1Rqa939lgiDg0-Nhp7Q9xvUtzi0oEckIz6HT_68GUeyCwSoPKEayg-nuz2D6H8f3gqfNP7-z4ZU_i1j6eVqmt7Yrf7xHMfuOZOr54D2oVD8QatSixzWBjwpvPaw8_pt7fuhLkmWijZ8kZ1SuZouOfXQazOJLSt9sLjUkL0yJZKxBGWeYxj8AAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZWczJ4R2FSdE1CWEhpeTlXME1sUG1sZGJWaEl0LTQxUkZNTzJDTW5KUnFONnlRelYxTXZLRjdWRW1kazlxMVRKakQ4cllxUHBTSzRTTjdNQnQ2LVFZUWhmdG5jXzFoVVlCV1c2M1Z0ZDVWZWdTR1NIdUNjX2VpM0hlTDB4UmN1MWJyeWg0OVpNSnVsb1lodWxpTUhkN0p5VDVMcnNwWXc1eS1yT2hJdF9hYmk0WDZEV2RpQ0lZNlc3Y3FCY2lLd2N1MjJ1SnY2aGpkYzhNc2xWOWE5RUR4M1RtOW03RTJ2Z2hKREM0ODkxajNtS0JJdDdBbHRrZUVxUV9BRml3EgQaAggAGpsGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPcFCAAQABgAIAAqFAoDcGFuFRAJvEAaCGl2O3A7cGFuKjIKB2FhZGhhYXIVzRCkQBoGYWFkaGFyGgVhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhciolCgRsaW5rFZhZK0AaB2xpbmthZ2UaBmxpbmtlZBoHbGlua2luZyo_CgRsYXN0FQAAAAAaB2Nsb3NpbmcaA2R1ZRoDZW5kGgVmaW5hbBoGbGF0ZXN0GgZyZWNlbnQaCGxhc3RkYXRlKhwKBGRhdGUVUJCWPhoFZGF0ZXMaCGxhc3RkYXRlKhYKBDIwMjYVfRwBPxoJaXY7bjsyMDI2MpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZWczJ4R2FSdE1CWEhpeTlXME1sUG1sZGJWaEl0LTQxUkZNTzJDTW5KUnFONnlRelYxTXZLRjdWRW1kazlxMVRKakQ4cllxUHBTSzRTTjdNQnQ2LVFZUWhmdG5jXzFoVVlCV1c2M1Z0ZDVWZWdTR1NIdUNjX2VpM0hlTDB4UmN1MWJyeWg0OVpNSnVsb1lodWxpTUhkN0p5VDVMcnNwWXc1eS1yT2hJdF9hYmk0WDZEV2RpQ0lZNlc3Y3FCY2lLd2N1MjJ1SnY2aGpkYzhNc2xWOWE5RUR4M1RtOW03RTJ2Z2hKREM0ODkxajNtS0JJdDdBbHRrZUVxUV9BRml3Ok48Yj5QQU48L2I-LTxiPkFhZGhhYXIgbGlua2luZzwvYj46IERvIGl0IGJlZm9yZSBKYW51YXJ5IDEgdG8gYXZvaWQgZGlzcnVwdGlvbnNCnQFUaGUgQ2VudHJhbCBCb2FyZCBvZiBEaXJlY3QgVGF4ZXMgKENCRFQpIGhhcyBzZXQgPGI-RGVjZW1iZXIgMzEsIDIwMjU8L2I-IGFzIHRoZSBkZWFkbGluZSB0byBsaW5rIFBBTiB3aXRoIEFhZGhhYXIuIElmIHlvdSBtaXNzIGl0LCB5b3VyIFBBTiBiZWNvbWVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZWczJ4R2FSdE1CWEhpeTlXME1sUG1sZGJWaEl0LTQxUkZNTzJDTW5KUnFONnlRelYxTXZLRjdWRW1kazlxMVRKakQ4cllxUHBTSzRTTjdNQnQ2LVFZUWhmdG5jXzFoVVlCV1c2M1Z0ZDVWZWdTR1NIdUNjX2VpM0hlTDB4UmN1MWJyeWg0OVpNSnVsb1lodWxpTUhkN0p5VDVMcnNwWXc1eS1yT2hJdF9hYmk0WDZEV2RpQ0lZNlc3Y3FCY2lLd2N1MjJ1SnY2aGpkYzhNc2xWOWE5RUR4M1RtOW03RTJ2Z2hKREM0ODkxajNtS0JJdDdBbHRrZUVxUV9BRml3EgQaAggAGpsGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPcFCAAQABgAIAAqFAoDcGFuFRAJvEAaCGl2O3A7cGFuKjIKB2FhZGhhYXIVzRCkQBoGYWFkaGFyGgVhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhciolCgRsaW5rFZhZK0AaB2xpbmthZ2UaBmxpbmtlZBoHbGlua2luZyo_CgRsYXN0FQAAAAAaB2Nsb3NpbmcaA2R1ZRoDZW5kGgVmaW5hbBoGbGF0ZXN0GgZyZWNlbnQaCGxhc3RkYXRlKhwKBGRhdGUVUJCWPhoFZGF0ZXMaCGxhc3RkYXRlKhYKBDIwMjYVfRwBPxoJaXY7bjsyMDI2MpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZWczJ4R2FSdE1CWEhpeTlXME1sUG1sZGJWaEl0LTQxUkZNTzJDTW5KUnFONnlRelYxTXZLRjdWRW1kazlxMVRKakQ4cllxUHBTSzRTTjdNQnQ2LVFZUWhmdG5jXzFoVVlCV1c2M1Z0ZDVWZWdTR1NIdUNjX2VpM0hlTDB4UmN1MWJyeWg0OVpNSnVsb1lodWxpTUhkN0p5VDVMcnNwWXc1eS1yT2hJdF9hYmk0WDZEV2RpQ0lZNlc3Y3FCY2lLd2N1MjJ1SnY2aGpkYzhNc2xWOWE5RUR4M1RtOW03RTJ2Z2hKREM0ODkxajNtS0JJdDdBbHRrZUVxUV9BRml3Ok48Yj5QQU48L2I-LTxiPkFhZGhhYXIgbGlua2luZzwvYj46IERvIGl0IGJlZm9yZSBKYW51YXJ5IDEgdG8gYXZvaWQgZGlzcnVwdGlvbnNCnQFUaGUgQ2VudHJhbCBCb2FyZCBvZiBEaXJlY3QgVGF4ZXMgKENCRFQpIGhhcyBzZXQgPGI-RGVjZW1iZXIgMzEsIDIwMjU8L2I-IGFzIHRoZSBkZWFkbGluZSB0byBsaW5rIFBBTiB3aXRoIEFhZGhhYXIuIElmIHlvdSBtaXNzIGl0LCB5b3VyIFBBTiBiZWNvbWVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "Moneycontrol.com",
+        "read_more_link": "https://www.moneycontrol.com/news/business/personal-finance/pan-aadhaar-linking-do-it-before-january-1-to-avoid-disruptions-13667290.html#:~:text=The%20Central%20Board%20of%20Direct,miss%20it%2C%20your%20PAN%20becomes"
+      },
+      {
+        "position": 5,
+        "title": "A PAN card is very important and it helps in financial ...",
+        "link": "https://www.facebook.com/ISHNews/videos/now-apply-for-instant-e-pan-through-aadhaar/750857548674443/",
+        "displayed_link": "1.4K+ reactions · 6 years ago",
+        "thumbnail": "https://serpapi.com/searches/6abdddd9018c486c3adfae64/images/6j4sv5u5ur7txcobb3KYXW0i1-3m0WO-Jj9rsGpeMss.jpeg",
+        "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+        "snippet": "December 31, 2019 is the last date to do the linkage. Now, if a ... How to Link PAN Card with Aadhaar Card Online 2026 | Complete Step-by-.",
+        "duration": "2:29",
+        "about_this_result": {
+          "source": {
+            "description": "December 31, 2019 is the last date to do the linkage. Now, if a ... How to Link PAN Card with Aadhaar Card Online 2026 | Complete Step-by-.",
+            "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZlZ0FHRmlmTFNGUXJtUGREREJDUzdfWXllRnZ0dXI3OHNKaVZJU2oyM1BiRDNYX1VZYWdHX1dSTFhBazVuUDBoMkd6a2dHYXhkZEU0MVBhX3laVExYVU5DWGdqb0dCcXJ4SERsakRyU29zSGJYaTBubzIxXzF4TFNFN2JWMEFJajhVSDdzWnl0cHliSjBqXzJNeUMtaDF1d3lRVS1NeEphNTBidnpFMGI0MWpvUnNWdmJoblRWQ1dldGlwcVA1OEliRUN4cWNGclRjEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZlZ0FHRmlmTFNGUXJtUGREREJDUzdfWXllRnZ0dXI3OHNKaVZJU2oyM1BiRDNYX1VZYWdHX1dSTFhBazVuUDBoMkd6a2dHYXhkZEU0MVBhX3laVExYVU5DWGdqb0dCcXJ4SERsakRyU29zSGJYaTBubzIxXzF4TFNFN2JWMEFJajhVSDdzWnl0cHliSjBqXzJNeUMtaDF1d3lRVS1NeEphNTBidnpFMGI0MWpvUnNWdmJoblRWQ1dldGlwcVA1OEliRUN4cWNGclRjEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQIpU-Ff6euNouXZNsd3ifmvJH7QtHx2Ao9Fw",
+        "source": "Facebook · ISH News"
+      },
+      {
+        "position": 6,
+        "title": "Pan-Aadhaar Linking – Final Extension Granted by CBDT",
+        "link": "https://enterslice.com/learning/pan-aadhaar-linking-final-extension-granted-by-cbdt/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFcXX5NgMQYp9fEyaT4LsKAp40C6w1zDrxgXOeMLvCCePRv97Pv2eLxTYSWmnVn7u-WUyBrgz1V8Oi2qLl4AwKtATSGQ0t5sEOnq8QMIlGPfPM1RmxnGHKlzbZAO9ZHBqXwL89gL7i1B_6Z_XzvB_5Fp6MO8VNvdNEYpfPm-yl3r1gs1JeWJK6g&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQFnoECEYQAQ&uoh=1",
+        "displayed_link": "https://enterslice.com › Enterslice › Latest News",
+        "favicon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAAAQBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0ygyk9gQZTbMaH_1Ep2ArmM3L8jfVE248-e_oWuRYuDY1DoxpTAAD-9hEK5k1rQeD0lHjzrCKdV-aK83xXGb9Zotu1vFcGtcOwPyH8xMSLArd0yNsfRGchVm3TBh_Bh6X1TEC9LNBAHco0-HPKcQeWPRxpA_ArBe2FXnPO7-YtiEGCh4x5fSJj0Y6CmDzYB4wUrcPjKe-vDxXvhRQBioT6ZdmjJ8U0Zr7KycDWXhAlSd1Gf9DVrGHxvjnUv28vafZE2D5z_WcydLIsJeNbwelRnfeQ-OfEdyg1tt6A7LS874MO2-sUbbEfHblYPVOU2CuXDGXBQtS2dscPRajVui5__8S1TJNk67WezLCUhbg8PlhR8dMKme5rnK4AAAA.webp",
+        "date": "24 Feb 2020",
+        "snippet": "Despite setting up of a deadline by the department, the taxpayers are allowed to link their Aadhaar with PAN even after 31st March 2020. For ...",
+        "snippet_highlighted_words": [
+          "link",
+          "Aadhaar",
+          "PAN"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Despite setting up of a deadline by the department, the taxpayers are allowed to link their Aadhaar with PAN even after 31st March 2020. For ...",
+            "source_info_link": "https://enterslice.com/learning/pan-aadhaar-linking-final-extension-granted-by-cbdt/",
+            "icon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAAAQBwCdASogACAAPtE-tFooIigoFAEAGglsAJ0ygyk9gQZTbMaH_1Ep2ArmM3L8jfVE248-e_oWuRYuDY1DoxpTAAD-9hEK5k1rQeD0lHjzrCKdV-aK83xXGb9Zotu1vFcGtcOwPyH8xMSLArd0yNsfRGchVm3TBh_Bh6X1TEC9LNBAHco0-HPKcQeWPRxpA_ArBe2FXnPO7-YtiEGCh4x5fSJj0Y6CmDzYB4wUrcPjKe-vDxXvhRQBioT6ZdmjJ8U0Zr7KycDWXhAlSd1Gf9DVrGHxvjnUv28vafZE2D5z_WcydLIsJeNbwelRnfeQ-OfEdyg1tt6A7LS874MO2-sUbbEfHblYPVOU2CuXDGXBQtS2dscPRajVui5__8S1TJNk67WezLCUhbg8PlhR8dMKme5rnK4AAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZjWFg1TmdNUVlwOWZFeWFUNExzS0FwNDBDNncxekRyeGdYT2VNTHZDQ2VQUnY5N1B2MmVMeFRZU1dtblZuN3UtV1V5QnJnejFWOE9pMnFMbDRBd0t0QVRTR1EwdDVzRU9ucThRTUlsR1BmUE0xUm14bkdIS2x6YlpBTzlaSEJxWHdMODlnTDdpMUJfNlpfWHp2Ql81RnA2TU84Vk52ZE5FWXBmUG0teWwzcjFnczFKZVdKSzZnEgQaAggAGukFEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQMUFCAAQABgAIAAqFAoDcGFuFbDdmkAaCGl2O3A7cGFuKjIKB2FhZGhhYXIV67KQQBoGYWFkaGFyGgVhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhciolCgRsaW5rFUhFvD8aB2xpbmthZ2UaBmxpbmtlZBoHbGlua2luZyo_CgRsYXN0FbITcz8aB2Nsb3NpbmcaA2R1ZRoDZW5kGgVmaW5hbBoGbGF0ZXN0GgZyZWNlbnQaCGxhc3RkYXRlKhwKBGRhdGUVUtOwPxoFZGF0ZXMaCGxhc3RkYXRlKhYKBDIwMjYVOwwyPhoJaXY7bjsyMDI2MswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZjWFg1TmdNUVlwOWZFeWFUNExzS0FwNDBDNncxekRyeGdYT2VNTHZDQ2VQUnY5N1B2MmVMeFRZU1dtblZuN3UtV1V5QnJnejFWOE9pMnFMbDRBd0t0QVRTR1EwdDVzRU9ucThRTUlsR1BmUE0xUm14bkdIS2x6YlpBTzlaSEJxWHdMODlnTDdpMUJfNlpfWHp2Ql81RnA2TU84Vk52ZE5FWXBmUG0teWwzcjFnczFKZVdKSzZnOkw8Yj5QYW48L2I-LTxiPkFhZGhhYXIgTGlua2luZzwvYj4g4oCTIDxiPkZpbmFsPC9iPiBFeHRlbnNpb24gR3JhbnRlZCBieSBDQkRUQrUBRGVzcGl0ZSBzZXR0aW5nIHVwIG9mIGEgZGVhZGxpbmUgYnkgdGhlIGRlcGFydG1lbnQsIHRoZSB0YXhwYXllcnMgYXJlIGFsbG93ZWQgdG8gPGI-bGluazwvYj4gdGhlaXIgPGI-QWFkaGFhcjwvYj4gd2l0aCA8Yj5QQU48L2I-IGV2ZW4gYWZ0ZXIgMzE8c3VwPnN0PC9zdXA-IE1hcmNoIDIwMjAuIEZvciZuYnNwOy4uLiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZjWFg1TmdNUVlwOWZFeWFUNExzS0FwNDBDNncxekRyeGdYT2VNTHZDQ2VQUnY5N1B2MmVMeFRZU1dtblZuN3UtV1V5QnJnejFWOE9pMnFMbDRBd0t0QVRTR1EwdDVzRU9ucThRTUlsR1BmUE0xUm14bkdIS2x6YlpBTzlaSEJxWHdMODlnTDdpMUJfNlpfWHp2Ql81RnA2TU84Vk52ZE5FWXBmUG0teWwzcjFnczFKZVdKSzZnEgQaAggAGukFEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQMUFCAAQABgAIAAqFAoDcGFuFbDdmkAaCGl2O3A7cGFuKjIKB2FhZGhhYXIV67KQQBoGYWFkaGFyGgVhZGhhchoFdWlkYWkaDGl2O3A7YWFkaGFhciolCgRsaW5rFUhFvD8aB2xpbmthZ2UaBmxpbmtlZBoHbGlua2luZyo_CgRsYXN0FbITcz8aB2Nsb3NpbmcaA2R1ZRoDZW5kGgVmaW5hbBoGbGF0ZXN0GgZyZWNlbnQaCGxhc3RkYXRlKhwKBGRhdGUVUtOwPxoFZGF0ZXMaCGxhc3RkYXRlKhYKBDIwMjYVOwwyPhoJaXY7bjsyMDI2MswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZjWFg1TmdNUVlwOWZFeWFUNExzS0FwNDBDNncxekRyeGdYT2VNTHZDQ2VQUnY5N1B2MmVMeFRZU1dtblZuN3UtV1V5QnJnejFWOE9pMnFMbDRBd0t0QVRTR1EwdDVzRU9ucThRTUlsR1BmUE0xUm14bkdIS2x6YlpBTzlaSEJxWHdMODlnTDdpMUJfNlpfWHp2Ql81RnA2TU84Vk52ZE5FWXBmUG0teWwzcjFnczFKZVdKSzZnOkw8Yj5QYW48L2I-LTxiPkFhZGhhYXIgTGlua2luZzwvYj4g4oCTIDxiPkZpbmFsPC9iPiBFeHRlbnNpb24gR3JhbnRlZCBieSBDQkRUQrUBRGVzcGl0ZSBzZXR0aW5nIHVwIG9mIGEgZGVhZGxpbmUgYnkgdGhlIGRlcGFydG1lbnQsIHRoZSB0YXhwYXllcnMgYXJlIGFsbG93ZWQgdG8gPGI-bGluazwvYj4gdGhlaXIgPGI-QWFkaGFhcjwvYj4gd2l0aCA8Yj5QQU48L2I-IGV2ZW4gYWZ0ZXIgMzE8c3VwPnN0PC9zdXA-IE1hcmNoIDIwMjAuIEZvciZuYnNwOy4uLiICEAFIAFgAaAA",
+        "source": "Enterslice",
+        "read_more_link": "https://enterslice.com/learning/pan-aadhaar-linking-final-extension-granted-by-cbdt/#:~:text=Despite%20setting%20up%20of%20a,For"
+      },
+      {
+        "position": 7,
+        "title": "Aadhaar PAN link deadline nears",
+        "link": "https://www.hindustantimes.com/india-news/aadhaar-pan-link-deadline-nears-how-to-link-your-pan-card-with-aadhaar-a-step-by-step-guide-101766477058720.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0wEB6zswFRnxs50pD1ZclxZ4lVDmo5xrOBzKy0wFIGOwXfE_mrN3i7VGFQ-yrnB9P4LbOFHWoyCMKLj8BYaCRtpxMOS7RAeG3BJzmuxe8wj3rTWQ58pKqSIyXJZQ7jKgtmMGTaZQkkTaQ8UNXMHwm1zd51Ye7Gt_hpqR2kfQREvt1mCkLrlUtxdan62pR5fw3SD-XVlnm11r7ZAPbWUrfxmwAzuN_8qjkid08r6Iy3L-4A_XtncOAILx_1fzWqYiXnk5hCcgO66Nj_UI1XMeLDti5mKw&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQFnoECEgQAQ&uoh=1",
+        "displayed_link": "https://www.hindustantimes.com › India news",
+        "favicon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAACQCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHp_qvFBuG9hDZ24DeQN59NoCqMWrBZU2l1T0JSgzBK5INpXj2m-YF04Id0IHlM_AAD-9N3XWvfwHuVSLn-ID0PuUhrTD-n1iXJ9g2wy1ZPjHqkNBecHaXbDEYrsV-_Mw_Miq2lzmIKiFZDAa_OnpHwKBo_cC3lBrEzbnzUeP8-uRz7aCcFn231otOZ0tAlCbe5NgqlaZeLjwRl_OuMUdcKDJ4wHaPqI3ZZF5-y5z9NxPd8_yxYyUd1tys_YnoCBL9lcFVd6s3SlF2-Lp1r3AfWItqwOdfBHfR_X_WUB2P4M2vYZoJm9-f7Vw1eEVdNpMHPlkQTkHl-IgbqybGR_-T-aWAYR-9vcuBwcqa8Q-m4G03_LeH_JYStrbl_hon2QzvGKidmYorS4KtODzOllom_-0CvnrykfC9zvG3l_VLmHcdYSCdh4uhe2qWnQC-HdpP2XU5VpKK0u5MFONpELjHflH3B-nq0T4na6T-W1t_ywKCgTomr_V2wduH9kgAAA.webp",
+        "date": "23 Dec 2025",
+        "snippet": "After the December 31 deadline of linking the PAN and Aadhaar, the late fee will also apply to cases where PAN and Aadhaar IDs exist but have ...",
+        "snippet_highlighted_words": [
+          "linking",
+          "PAN",
+          "Aadhaar",
+          "PAN",
+          "Aadhaar"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "After the December 31 deadline of linking the PAN and Aadhaar, the late fee will also apply to cases where PAN and Aadhaar IDs exist but have ...",
+            "source_info_link": "https://www.hindustantimes.com/india-news/aadhaar-pan-link-deadline-nears-how-to-link-your-pan-card-with-aadhaar-a-step-by-step-guide-101766477058720.html",
+            "icon": "https://serpapi.com/images/i/UklGRqgBAABXRUJQVlA4IJwBAACQCACdASocABwAPtEutFooIagoGAEAGglsAJ0yhHp_qvFBuG9hDZ24DeQN59NoCqMWrBZU2l1T0JSgzBK5INpXj2m-YF04Id0IHlM_AAD-9N3XWvfwHuVSLn-ID0PuUhrTD-n1iXJ9g2wy1ZPjHqkNBecHaXbDEYrsV-_Mw_Miq2lzmIKiFZDAa_OnpHwKBo_cC3lBrEzbnzUeP8-uRz7aCcFn231otOZ0tAlCbe5NgqlaZeLjwRl_OuMUdcKDJ4wHaPqI3ZZF5-y5z9NxPd8_yxYyUd1tys_YnoCBL9lcFVd6s3SlF2-Lp1r3AfWItqwOdfBHfR_X_WUB2P4M2vYZoJm9-f7Vw1eEVdNpMHPlkQTkHl-IgbqybGR_-T-aWAYR-9vcuBwcqa8Q-m4G03_LeH_JYStrbl_hon2QzvGKidmYorS4KtODzOllom_-0CvnrykfC9zvG3l_VLmHcdYSCdh4uhe2qWnQC-HdpP2XU5VpKK0u5MFONpELjHflH3B-nq0T4na6T-W1t_ywKCgTomr_V2wduH9kgAAA.webp"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoCL2dvdG8_dXJsPUNBRVMwd0VCNnpzd0ZSbnhzNTBwRDFaY2x4WjRsVkRtbzV4ck9Cekt5MHdGSUdPd1hmRV9tck4zaTdWR0ZRLXlybkI5UDRMYk9GSFdveUNNS0xqOEJZYUNSdHB4TU9TN1JBZUczQkp6bXV4ZTh3ajNyVFdRNThwS3FTSXlYSlpRN2pLZ3RtTUdUYVpRa2tUYVE4VU5YTUh3bTF6ZDUxWWU3R3RfaHBxUjJrZlFSRXZ0MW1Da0xybFV0eGRhbjYycFI1ZnczU0QtWFZsbm0xMXI3WkFQYldVcmZ4bXdBenVOXzhxamtpZDA4cjZJeTNMLTRBX1h0bmNPQUlMeF8xZnpXcVlpWG5rNWhDY2dPNjZOal9VSTFYTWVMRHRpNW1LdxIEGgIIABrSBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCuBggAEAAYACAAKhQKA3BhbhWmNJlAGghpdjtwO3BhbioyCgdhYWRoYWFyFamTsEAaBmFhZGhhchoFYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIqJQoEbGluaxWX65lAGgdsaW5rYWdlGgZsaW5rZWQaB2xpbmtpbmcqPwoEbGFzdBWkFA0_GgdjbG9zaW5nGgNkdWUaA2VuZBoFZmluYWwaBmxhdGVzdBoGcmVjZW50GghsYXN0ZGF0ZSocCgRkYXRlFaQUDT8aBWRhdGVzGghsYXN0ZGF0ZSoWCgQyMDI2FS59ID8aCWl2O247MjAyNjKqAi9nb3RvP3VybD1DQUVTMHdFQjZ6c3dGUm54czUwcEQxWmNseFo0bFZEbW81eHJPQnpLeTB3RklHT3dYZkVfbXJOM2k3VkdGUS15cm5COVA0TGJPRkhXb3lDTUtMajhCWWFDUnRweE1PUzdSQWVHM0JKem11eGU4d2ozclRXUTU4cEtxU0l5WEpaUTdqS2d0bU1HVGFaUWtrVGFROFVOWE1Id20xemQ1MVllN0d0X2hwcVIya2ZRUkV2dDFtQ2tMcmxVdHhkYW42MnBSNWZ3M1NELVhWbG5tMTFyN1pBUGJXVXJmeG13QXp1Tl84cWpraWQwOHI2SXkzTC00QV9YdG5jT0FJTHhfMWZ6V3FZaVhuazVoQ2NnTzY2TmpfVUkxWE1lTER0aTVtS3c6UzxiPkFhZGhhYXIgUEFOIGxpbms8L2I-IGRlYWRsaW5lIG5lYXJzOiBIb3cgdG8gPGI-bGluazwvYj4geW91ciA8Yj5QQU48L2I-IGNhcmQgLi4uQrkBQWZ0ZXIgdGhlIERlY2VtYmVyIDMxIGRlYWRsaW5lIG9mIDxiPmxpbmtpbmc8L2I-IHRoZSA8Yj5QQU48L2I-IGFuZCA8Yj5BYWRoYWFyPC9iPiwgdGhlIGxhdGUgZmVlIHdpbGwgYWxzbyBhcHBseSB0byBjYXNlcyB3aGVyZSA8Yj5QQU48L2I-IGFuZCA8Yj5BYWRoYWFyPC9iPiBJRHMgZXhpc3QgYnV0IGhhdmUmbmJzcDsuLi4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoCL2dvdG8_dXJsPUNBRVMwd0VCNnpzd0ZSbnhzNTBwRDFaY2x4WjRsVkRtbzV4ck9Cekt5MHdGSUdPd1hmRV9tck4zaTdWR0ZRLXlybkI5UDRMYk9GSFdveUNNS0xqOEJZYUNSdHB4TU9TN1JBZUczQkp6bXV4ZTh3ajNyVFdRNThwS3FTSXlYSlpRN2pLZ3RtTUdUYVpRa2tUYVE4VU5YTUh3bTF6ZDUxWWU3R3RfaHBxUjJrZlFSRXZ0MW1Da0xybFV0eGRhbjYycFI1ZnczU0QtWFZsbm0xMXI3WkFQYldVcmZ4bXdBenVOXzhxamtpZDA4cjZJeTNMLTRBX1h0bmNPQUlMeF8xZnpXcVlpWG5rNWhDY2dPNjZOal9VSTFYTWVMRHRpNW1LdxIEGgIIABrSBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCuBggAEAAYACAAKhQKA3BhbhWmNJlAGghpdjtwO3BhbioyCgdhYWRoYWFyFamTsEAaBmFhZGhhchoFYWRoYXIaBXVpZGFpGgxpdjtwO2FhZGhhYXIqJQoEbGluaxWX65lAGgdsaW5rYWdlGgZsaW5rZWQaB2xpbmtpbmcqPwoEbGFzdBWkFA0_GgdjbG9zaW5nGgNkdWUaA2VuZBoFZmluYWwaBmxhdGVzdBoGcmVjZW50GghsYXN0ZGF0ZSocCgRkYXRlFaQUDT8aBWRhdGVzGghsYXN0ZGF0ZSoWCgQyMDI2FS59ID8aCWl2O247MjAyNjKqAi9nb3RvP3VybD1DQUVTMHdFQjZ6c3dGUm54czUwcEQxWmNseFo0bFZEbW81eHJPQnpLeTB3RklHT3dYZkVfbXJOM2k3VkdGUS15cm5COVA0TGJPRkhXb3lDTUtMajhCWWFDUnRweE1PUzdSQWVHM0JKem11eGU4d2ozclRXUTU4cEtxU0l5WEpaUTdqS2d0bU1HVGFaUWtrVGFROFVOWE1Id20xemQ1MVllN0d0X2hwcVIya2ZRUkV2dDFtQ2tMcmxVdHhkYW42MnBSNWZ3M1NELVhWbG5tMTFyN1pBUGJXVXJmeG13QXp1Tl84cWpraWQwOHI2SXkzTC00QV9YdG5jT0FJTHhfMWZ6V3FZaVhuazVoQ2NnTzY2TmpfVUkxWE1lTER0aTVtS3c6UzxiPkFhZGhhYXIgUEFOIGxpbms8L2I-IGRlYWRsaW5lIG5lYXJzOiBIb3cgdG8gPGI-bGluazwvYj4geW91ciA8Yj5QQU48L2I-IGNhcmQgLi4uQrkBQWZ0ZXIgdGhlIERlY2VtYmVyIDMxIGRlYWRsaW5lIG9mIDxiPmxpbmtpbmc8L2I-IHRoZSA8Yj5QQU48L2I-IGFuZCA8Yj5BYWRoYWFyPC9iPiwgdGhlIGxhdGUgZmVlIHdpbGwgYWxzbyBhcHBseSB0byBjYXNlcyB3aGVyZSA8Yj5QQU48L2I-IGFuZCA8Yj5BYWRoYWFyPC9iPiBJRHMgZXhpc3QgYnV0IGhhdmUmbmJzcDsuLi4iAhABSABYAGgA",
+        "source": "Hindustan Times",
+        "read_more_link": "https://www.hindustantimes.com/india-news/aadhaar-pan-link-deadline-nears-how-to-link-your-pan-card-with-aadhaar-a-step-by-step-guide-101766477058720.html#:~:text=After%20the%20December%2031%20deadline,but%20have%20not%20been%20linked."
+      },
+      {
+        "position": 8,
+        "title": "PAN-Aadhaar Link: Fix an Inoperative PAN | 2026 Guide",
+        "link": "https://www.allindiaitr.com/pan-aadhaar-link-inoperative-pan",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVAfq2xwUxdz8BM0QP0gYB7oC3dCp-47byhmJizfaIMtB_U1o0x6kaE_gp1TCHwFhEJjYDOAwwOI0n-BXIYppIeZ35dekOChObm4abvogfGCGtykWpWvdtcBokgD8TAG5ktzHBlV7N5ZzpAX3-IgTk&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQFnoECEcQAQ&uoh=1",
+        "displayed_link": "https://www.allindiaitr.com › pan-aadhaar-link-inoperati...",
+        "snippet": "CBDT set 31 December 2025 as the deadline for the remaining categories of PAN holders, and unlinked PANs became inoperative from 1 January 2026 - right before ...",
+        "snippet_highlighted_words": [
+          "PAN",
+          "2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "CBDT set 31 December 2025 as the deadline for the remaining categories of PAN holders, and unlinked PANs became inoperative from 1 January 2026 - right before ...",
+            "source_info_link": "https://www.allindiaitr.com/pan-aadhaar-link-inoperative-pan"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVkFmcTJ4d1V4ZHo4Qk0wUVAwZ1lCN29DM2RDcC00N2J5aG1KaXpmYUlNdEJfVTFvMHg2a2FFX2dwMVRDSHdGaEVKallET0F3d09JMG4tQlhJWXBwSWVaMzVkZWtPQ2hPYm00YWJ2b2dmR0NHdHlrV3BXdmR0Y0Jva2dEOFRBRzVrdHpIQmxWN041WnpwQVgzLUlnVGsSBBoCCAAaxQUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAoQUIABAAGAAgACoUCgNwYW4VDdnoQBoIaXY7cDtwYW4qMgoHYWFkaGFhchWq7eJAGgZhYWRoYXIaBWFkaGFyGgV1aWRhaRoMaXY7cDthYWRoYWFyKiUKBGxpbmsVf7HKQBoHbGlua2FnZRoGbGlua2VkGgdsaW5raW5nKj8KBGxhc3QVAAAAABoHY2xvc2luZxoDZHVlGgNlbmQaBWZpbmFsGgZsYXRlc3QaBnJlY2VudBoIbGFzdGRhdGUqHAoEZGF0ZRU_dyw_GgVkYXRlcxoIbGFzdGRhdGUqFgoEMjAyNhVZlp5AGglpdjtuOzIwMjYyqgEvZ290bz91cmw9Q0FFU2RBSHJPekFWQWZxMnh3VXhkejhCTTBRUDBnWUI3b0MzZENwLTQ3YnlobUppemZhSU10Ql9VMW8weDZrYUVfZ3AxVENId0ZoRUpqWURPQXd3T0kwbi1CWElZcHBJZVozNWRla09DaE9ibTRhYnZvZ2ZHQ0d0eWtXcFd2ZHRjQm9rZ0Q4VEFHNWt0ekhCbFY3TjVaenBBWDMtSWdUazpKPGI-UEFOPC9iPi08Yj5BYWRoYWFyIExpbms8L2I-OiBGaXggYW4gSW5vcGVyYXRpdmUgUEFOIHwgPGI-MjAyNjwvYj4gR3VpZGVCtQFDQkRUIHNldCAzMSBEZWNlbWJlciAyMDI1IGFzIHRoZSBkZWFkbGluZSBmb3IgdGhlIHJlbWFpbmluZyBjYXRlZ29yaWVzIG9mIDxiPlBBTjwvYj4gaG9sZGVycywgYW5kIHVubGlua2VkIFBBTnMgYmVjYW1lIGlub3BlcmF0aXZlIGZyb20gMSBKYW51YXJ5IDxiPjIwMjY8L2I-IC0gcmlnaHQgYmVmb3JlJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVkFmcTJ4d1V4ZHo4Qk0wUVAwZ1lCN29DM2RDcC00N2J5aG1KaXpmYUlNdEJfVTFvMHg2a2FFX2dwMVRDSHdGaEVKallET0F3d09JMG4tQlhJWXBwSWVaMzVkZWtPQ2hPYm00YWJ2b2dmR0NHdHlrV3BXdmR0Y0Jva2dEOFRBRzVrdHpIQmxWN041WnpwQVgzLUlnVGsSBBoCCAAaxQUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAoQUIABAAGAAgACoUCgNwYW4VDdnoQBoIaXY7cDtwYW4qMgoHYWFkaGFhchWq7eJAGgZhYWRoYXIaBWFkaGFyGgV1aWRhaRoMaXY7cDthYWRoYWFyKiUKBGxpbmsVf7HKQBoHbGlua2FnZRoGbGlua2VkGgdsaW5raW5nKj8KBGxhc3QVAAAAABoHY2xvc2luZxoDZHVlGgNlbmQaBWZpbmFsGgZsYXRlc3QaBnJlY2VudBoIbGFzdGRhdGUqHAoEZGF0ZRU_dyw_GgVkYXRlcxoIbGFzdGRhdGUqFgoEMjAyNhVZlp5AGglpdjtuOzIwMjYyqgEvZ290bz91cmw9Q0FFU2RBSHJPekFWQWZxMnh3VXhkejhCTTBRUDBnWUI3b0MzZENwLTQ3YnlobUppemZhSU10Ql9VMW8weDZrYUVfZ3AxVENId0ZoRUpqWURPQXd3T0kwbi1CWElZcHBJZVozNWRla09DaE9ibTRhYnZvZ2ZHQ0d0eWtXcFd2ZHRjQm9rZ0Q4VEFHNWt0ekhCbFY3TjVaenBBWDMtSWdUazpKPGI-UEFOPC9iPi08Yj5BYWRoYWFyIExpbms8L2I-OiBGaXggYW4gSW5vcGVyYXRpdmUgUEFOIHwgPGI-MjAyNjwvYj4gR3VpZGVCtQFDQkRUIHNldCAzMSBEZWNlbWJlciAyMDI1IGFzIHRoZSBkZWFkbGluZSBmb3IgdGhlIHJlbWFpbmluZyBjYXRlZ29yaWVzIG9mIDxiPlBBTjwvYj4gaG9sZGVycywgYW5kIHVubGlua2VkIFBBTnMgYmVjYW1lIGlub3BlcmF0aXZlIGZyb20gMSBKYW51YXJ5IDxiPjIwMjY8L2I-IC0gcmlnaHQgYmVmb3JlJm5ic3A7Li4uIgIQAUgAWABoAA",
+        "source": "All India ITR"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "PAN Aadhaar link online",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&q=PAN+Aadhaar+link+online&sa=X&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ1QJ6BAg8EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PAN+Aadhaar+link+online"
+      },
+      {
+        "block_position": 1,
+        "query": "Www incometax gov in Aadhaar PAN link",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&q=Www+incometax+gov+in+Aadhaar+PAN+link&sa=X&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Www+incometax+gov+in+Aadhaar+PAN+link"
+      },
+      {
+        "block_position": 1,
+        "query": "Check Aadhaar PAN link",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&q=Check+Aadhaar+PAN+link&sa=X&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ1QJ6BAg-EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Check+Aadhaar+PAN+link"
+      },
+      {
+        "block_position": 1,
+        "query": "Link Aadhaar Status",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&q=Link+Aadhaar+Status&sa=X&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Link+Aadhaar+Status"
+      },
+      {
+        "block_position": 1,
+        "query": "Aadhaar PAN link status check",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&q=Aadhaar+PAN+link+status+check&sa=X&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ1QJ6BAhCEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Aadhaar+PAN+link+status+check"
+      },
+      {
+        "block_position": 1,
+        "query": "E filing portal",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&q=E+filing+portal&sa=X&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ1QJ6BAhAEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=E+filing+portal"
+      },
+      {
+        "block_position": 1,
+        "query": "Income tax",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&q=Income+tax&sa=X&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ1QJ6BAg_EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Income+tax"
+      },
+      {
+        "block_position": 1,
+        "query": "Income tax login",
+        "link": "https://www.google.com/search?sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&q=Income+tax+login&sa=X&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ1QJ6BAg9EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Income+tax+login"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=PAN+Aadhaar+link+last+date+2026&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&ei=2d29auTgEZGi5NoPydv8kAU&start=10&sa=N&sstk=AS6-VmL00C612-lyXDX5TA02mqesRa2f-9IarvSajBh-4JmGIH8-Zd2RSDQ2888nRVJOKLciy2mHy2keSYoqCy4XJVVg7TmFw-0_nQ&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ8NMDegQINBAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=PAN+Aadhaar+link+last+date+2026&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&ei=2d29auTgEZGi5NoPydv8kAU&start=10&sa=N&sstk=AS6-VmL00C612-lyXDX5TA02mqesRa2f-9IarvSajBh-4JmGIH8-Zd2RSDQ2888nRVJOKLciy2mHy2keSYoqCy4XJVVg7TmFw-0_nQ&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ8tMDegQINBAE",
+        "3": "https://www.google.com/search?q=PAN+Aadhaar+link+last+date+2026&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&ei=2d29auTgEZGi5NoPydv8kAU&start=20&sa=N&sstk=AS6-VmL00C612-lyXDX5TA02mqesRa2f-9IarvSajBh-4JmGIH8-Zd2RSDQ2888nRVJOKLciy2mHy2keSYoqCy4XJVVg7TmFw-0_nQ&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ8tMDegQINBAG",
+        "4": "https://www.google.com/search?q=PAN+Aadhaar+link+last+date+2026&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&ei=2d29auTgEZGi5NoPydv8kAU&start=30&sa=N&sstk=AS6-VmL00C612-lyXDX5TA02mqesRa2f-9IarvSajBh-4JmGIH8-Zd2RSDQ2888nRVJOKLciy2mHy2keSYoqCy4XJVVg7TmFw-0_nQ&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ8tMDegQINBAI",
+        "5": "https://www.google.com/search?q=PAN+Aadhaar+link+last+date+2026&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&ei=2d29auTgEZGi5NoPydv8kAU&start=40&sa=N&sstk=AS6-VmL00C612-lyXDX5TA02mqesRa2f-9IarvSajBh-4JmGIH8-Zd2RSDQ2888nRVJOKLciy2mHy2keSYoqCy4XJVVg7TmFw-0_nQ&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ8tMDegQINBAK",
+        "6": "https://www.google.com/search?q=PAN+Aadhaar+link+last+date+2026&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&ei=2d29auTgEZGi5NoPydv8kAU&start=50&sa=N&sstk=AS6-VmL00C612-lyXDX5TA02mqesRa2f-9IarvSajBh-4JmGIH8-Zd2RSDQ2888nRVJOKLciy2mHy2keSYoqCy4XJVVg7TmFw-0_nQ&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ8tMDegQINBAM",
+        "7": "https://www.google.com/search?q=PAN+Aadhaar+link+last+date+2026&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&ei=2d29auTgEZGi5NoPydv8kAU&start=60&sa=N&sstk=AS6-VmL00C612-lyXDX5TA02mqesRa2f-9IarvSajBh-4JmGIH8-Zd2RSDQ2888nRVJOKLciy2mHy2keSYoqCy4XJVVg7TmFw-0_nQ&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ8tMDegQINBAO",
+        "8": "https://www.google.com/search?q=PAN+Aadhaar+link+last+date+2026&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&ei=2d29auTgEZGi5NoPydv8kAU&start=70&sa=N&sstk=AS6-VmL00C612-lyXDX5TA02mqesRa2f-9IarvSajBh-4JmGIH8-Zd2RSDQ2888nRVJOKLciy2mHy2keSYoqCy4XJVVg7TmFw-0_nQ&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ8tMDegQINBAQ",
+        "9": "https://www.google.com/search?q=PAN+Aadhaar+link+last+date+2026&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&ei=2d29auTgEZGi5NoPydv8kAU&start=80&sa=N&sstk=AS6-VmL00C612-lyXDX5TA02mqesRa2f-9IarvSajBh-4JmGIH8-Zd2RSDQ2888nRVJOKLciy2mHy2keSYoqCy4XJVVg7TmFw-0_nQ&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ8tMDegQINBAS",
+        "10": "https://www.google.com/search?q=PAN+Aadhaar+link+last+date+2026&sca_esv=800f17b7812d8a3a&gl=in&hl=en&sxsrf=APpeQnvmMfnqI79wudUfFdVS3v9tzmoGNA:1790827993299&ei=2d29auTgEZGi5NoPydv8kAU&start=90&sa=N&sstk=AS6-VmL00C612-lyXDX5TA02mqesRa2f-9IarvSajBh-4JmGIH8-Zd2RSDQ2888nRVJOKLciy2mHy2keSYoqCy4XJVVg7TmFw-0_nQ&ved=2ahUKEwiksZOT-peXAxUREVkFHcktH1IQ8tMDegQINBAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PAN+Aadhaar+link+last+date+2026&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PAN+Aadhaar+link+last+date+2026&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PAN+Aadhaar+link+last+date+2026&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PAN+Aadhaar+link+last+date+2026&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PAN+Aadhaar+link+last+date+2026&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PAN+Aadhaar+link+last+date+2026&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PAN+Aadhaar+link+last+date+2026&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PAN+Aadhaar+link+last+date+2026&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PAN+Aadhaar+link+last+date+2026&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PAN+Aadhaar+link+last+date+2026&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=PAN+Aadhaar+link+last+date+2026&start=90"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+[project]
+name = "civicsignal"
+version = "0.1.0"
+description = "Search Information Integrity Analyzer built on SerpApi"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["backend/tests"]
+# "backend" exposes the civicsignal package; "." exposes the original
+# root prototype modules (staleness_detector, date_extraction).
+pythonpath = ["backend", "."]
+addopts = "-q -p no:cacheprovider"
+markers = [
+    "live: calls the real SerpApi API (needs SERPAPI_API_KEY and CIVICSIGNAL_LIVE_TESTS=1)",
+]
