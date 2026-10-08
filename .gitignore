@@ -32,3 +32,6 @@ _backup/
 # Frontend
 frontend/node_modules/
 frontend/dist/
+
+# Local notes (not part of the repo)
+demo-video-script.md

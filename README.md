@@ -183,3 +183,7 @@ backend/
 frontend/               React 18 + Vite 5 dashboard
 docs/                   architecture, methodology, evaluation, screenshots
 ```
+
+## License
+
+[MIT](LICENSE)
