@@ -26,7 +26,10 @@ from .fixtures import FixtureStore
 
 
 def fixture_name(engine: str, query: str) -> str:
-    slug = re.sub(r"[^a-z0-9]+", "_", query.lower()).strip("_")[:60]
+    # kept short so a clone into a deep Windows folder stays under the 260-character path limit
+    slug = re.sub(r"[^a-z0-9]+", "_", query.lower()).strip("_")
+    if len(slug) > 45:  # cut at a whole word
+        slug = slug[:46].rsplit("_", 1)[0]
     return f"{engine}__{slug}"
 
 

@@ -70,6 +70,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+> On Windows, clone into a short folder (e.g. `C:\dev\civicsignal`) or run `git config --global core.longpaths true` first — Windows limits file paths to 260 characters.
+
 **Demo mode (no API key needed)** — replays real SerpApi responses captured on 1 and 5 October 2026 for the 8 demo questions:
 
 ```bash
