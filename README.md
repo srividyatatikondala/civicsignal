@@ -14,6 +14,8 @@ CivicSignal takes a question, searches with **SerpApi**, treats every result as 
 
 Every finding links back to the exact result text it is based on. CivicSignal never says a claim is "true" or "false" — it shows the evidence and where to verify it.
 
+**🎬 Demo video (2:51):** [watch on Google Drive](https://drive.google.com/file/d/1E35Lyrc5pq7rOCfCAT0xxbED72W9z0i-/view?usp=sharing) — CivicSignal running locally on **live** SerpApi searches: Aadhaar free-update deadline (five conflicting deadlines), Voter ID correction deadline (a date that has just passed), and PM Kisan installment dates (past dates still presented as expected).
+
 Built for the **SerpApi India Hackathon 2026 — Track 05: Knowledge & Public Interest**.
 
 ![CivicSignal home](docs/images/home.png)
