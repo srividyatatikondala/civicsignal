@@ -228,6 +228,12 @@ def test_without_a_topic_behaviour_falls_back_to_result_query():
         ("Annual assistance increased to ₹9,000", "₹9,000", "annual_benefit"),
         ("₹6,000 per year in three parts", "₹6,000", "annual_benefit"),
         ("each installment of ₹2,000", "₹2,000", "installment_amount"),
+        # live PM Kisan snippets (2026-10-09): the per-installment amount sits next to "per year"
+        ("eligible farmers receive ₹6,000 per year, installments of ₹2,000 each.", "₹2,000", "installment_amount"),
+        ("eligible farmers receive ₹6,000 per year, installments of ₹2,000 each.", "₹6,000", "annual_benefit"),
+        ("receive ₹2,000 every four months, amounting to ₹6,000 annually", "₹2,000", "installment_amount"),
+        ("receive ₹2,000 every four months, amounting to ₹6,000 annually", "₹6,000", "annual_benefit"),
+        ("three equal instalments of Rs 2,000", "Rs 2,000", "installment_amount"),
         ("health cover of ₹5,00,000 per family", "₹5,00,000", "coverage"),
         ("₹2,000 Payment on 20 June", "₹2,000", "amount"),  # no attribute cue
     ],

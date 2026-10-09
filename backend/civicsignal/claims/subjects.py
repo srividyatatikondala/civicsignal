@@ -213,10 +213,13 @@ _AMOUNT_CUES: list[tuple[str, re.Pattern]] = [
     ("late_fee", re.compile(r"\b(?:late\s+fees?|penalty|fine)\b", re.IGNORECASE)),
     ("fee", re.compile(r"\b(?:fees?|charges?|cost)\b", re.IGNORECASE)),
     ("annual_benefit", re.compile(r"\b(?:per\s+year|per\s+annum|annual(?:ly)?|yearly|a\s+year)\b", re.IGNORECASE)),
-    ("installment_amount", re.compile(r"\b(?:(?:per|each)\s+(?:installment|instalment)|(?:installment|instalment)\s+of)\b", re.IGNORECASE)),
+    ("installment_amount", re.compile(r"\b(?:(?:per|each)\s+instal{1,2}ments?|instal{1,2}ments?\s+of)\b", re.IGNORECASE)),
+    # "₹2,000 every four months": a period describes the amount BEFORE it, so it only counts when it follows
+    ("installment_period", re.compile(r"\bevery\s+(?:two|three|four|six|\d+)\s+months\b", re.IGNORECASE)),
     ("coverage", re.compile(r"\b(?:(?:health\s+)?cover(?:age)?|insurance)\b", re.IGNORECASE)),
 ]
 _AMOUNT_PRIORITY = {name: i for i, (name, _) in enumerate(_AMOUNT_CUES)}
+_FOLLOWING_ONLY = {"installment_period": "installment_amount"}
 AMOUNT_CUE_MAX_DISTANCE = 50
 AMOUNT_FOLLOWING_PENALTY = 15
 
@@ -236,7 +239,9 @@ def amount_attribute(text: str, clause: tuple[int, int], value_span: tuple[int, 
     ]
     scored = []
     for name, s, e in cues:
+        if name in _FOLLOWING_ONLY and s < value_span[1]:
+            continue
         d = _gap((s, e), value_span) + (AMOUNT_FOLLOWING_PENALTY if s >= value_span[1] else 0)
         if d <= AMOUNT_CUE_MAX_DISTANCE:
-            scored.append((d, _AMOUNT_PRIORITY[name], name))
+            scored.append((d, _AMOUNT_PRIORITY[name], _FOLLOWING_ONLY.get(name, name)))
     return min(scored)[2] if scored else "amount"
