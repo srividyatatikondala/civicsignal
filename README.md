@@ -53,6 +53,14 @@ Follow-up searches are **planned from the evidence**, not run blindly: a follow-
 
 ## Quick start
 
+### Fastest way (Windows): one click
+
+With **Python 3.11+** and **Node.js 18+** installed, double-click **`start-demo.bat`** in the project folder.
+
+It installs everything on the first run (a few minutes), starts the backend on captured SerpApi data (no API key needed) and the dashboard, and opens your browser. Click one of the demo questions. Close the two windows it opens to stop.
+
+### Manual setup (any OS)
+
 Requirements: **Python 3.11+** (tested on 3.13) and **Node.js 18+** (developed on 24).
 
 ### 1. Backend
