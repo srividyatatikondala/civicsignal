@@ -119,7 +119,7 @@ API docs are at **http://localhost:8000/docs**.
 python -m pytest
 ```
 
-467 tests run fully offline against the captured SerpApi responses (no key, no network). Three tests are marked as expected failures — they document known limitations (see [docs/evaluation.md](docs/evaluation.md)).
+472 tests run fully offline against the captured SerpApi responses (no key, no network). Three tests are marked as expected failures — they document known limitations (see [docs/evaluation.md](docs/evaluation.md)).
 
 ---
 
@@ -187,7 +187,7 @@ backend/
     models/             Pydantic models (investigation, evidence, report)
     db/                 SQLite persistence
   fixtures/serpapi/     17 captured SerpApi responses (demo mode + tests)
-  tests/                467 offline tests
+  tests/                472 offline tests
 frontend/               React 18 + Vite 5 dashboard
 docs/                   architecture, methodology, evaluation, screenshots
 ```
