@@ -56,7 +56,7 @@ export function Independence({ landscape: l, repeated }) {
       </ol>
       <p className="small">
         {repeated
-          ? <><Icon name="copy" size={14} /> <strong>{repeated}</strong> group{repeated === 1 ? "" : "s"} of potentially repeated or syndicated content (see Potential issues).</>
+          ? <><Icon name="copy" size={14} /> <strong>{repeated}</strong> potentially repeated or syndicated content finding{repeated === 1 ? "" : "s"} (see Potential issues).</>
           : <span className="muted">No potentially repeated or syndicated content was detected.</span>}
       </p>
       <h3>Source types</h3>
