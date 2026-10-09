@@ -97,6 +97,7 @@ button { font-family: inherit; }
 .badge-demo { background: var(--warn-soft); color: var(--warn); border-color: rgba(245, 185, 81, 0.35); }
 .badge-live { background: var(--ok-soft); color: var(--ok); }
 .badge-cached { background: var(--info-soft); color: var(--info); }
+.badge-unavailable { background: var(--danger-soft); color: var(--danger); }
 .badge-warn { background: var(--danger-soft); color: var(--danger); }
 .badge-danger { background: var(--danger-soft); color: var(--danger); }
 .badge-neutral { background: var(--neutral-soft); color: var(--muted); }

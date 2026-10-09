@@ -233,3 +233,25 @@ def test_new_human_facing_text_is_hedged_and_free_of_internal_names(data):
         for label in labels:
             assert not ENUM_LIKE.search(label), label
     assert all(not ENUM_LIKE.search(lbl) for lbl in OUTCOME_LABEL.values())
+
+
+# --- original search could not run: say why, never imply a live search happened ---------------------
+
+
+@pytest.mark.parametrize("mock, query, expect", [
+    (True, "pm kisan installment date 2026", "No captured SerpApi data exists for this question"),
+    (False, "PM Kisan next installment date 2026", "No SerpApi API key is configured"),
+])
+def test_unavailable_original_search_is_explained(tmp_path, mock, query, expect):
+    settings = Settings(mock_serpapi=mock, fixtures_dir=FIXTURES, cache_enabled=False,
+                        database_path=tmp_path / "db.sqlite3", serpapi_api_key=None)
+    repo = Repository(settings.database_path)
+    repo.init_schema()
+    inv = asyncio.run(Investigator(settings, SerpApiClient(settings), repo, today=lambda: date(2026, 10, 1))
+                      .investigate(InvestigateRequest(query=query)))
+    rep = build_report(inv)
+    assert rep.status.code == "INSUFFICIENT_EVIDENCE"  # status logic unchanged
+    assert rep.status.explanation.startswith(expect)
+    assert rep.data_notice.mode == "unavailable" and rep.data_notice.label == "NO SEARCH DATA"
+    assert "live" not in rep.data_notice.detail.lower() or "live mode" in rep.data_notice.detail.lower()
+    assert not BANNED.search(rep.status.explanation)

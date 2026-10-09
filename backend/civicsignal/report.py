@@ -209,6 +209,22 @@ def _recovery_sentence(inv: Investigation) -> str | None:
             f"{recovered} relevant result{'s' if recovered != 1 else ''}.")
 
 
+def _unavailable_search(inv: Investigation) -> str | None:
+    """Plain-language reason when the original search could not be run at all (else None)."""
+    base = [r for r in inv.searches if r.request.reason.value == "base_query"]
+    if not base or any(r.status.value != "failed" for r in base):
+        return None
+    error = base[0].error or ""
+    if error.startswith("SerpApiFixtureNotFound"):
+        return ("No captured SerpApi data exists for this question. In captured-data mode only the demo "
+                "questions can be investigated — choose one of them, or run CivicSignal in live mode with a "
+                "SerpApi API key.")
+    if error.startswith("SerpApiConfigError"):
+        return ("No SerpApi API key is configured, so no search could be run. Set SERPAPI_API_KEY, or start "
+                "the backend in captured-data mode to use the demo questions (see the README).")
+    return "The search could not be completed (" + error.split(": ", 1)[-1] + "). Please try again."
+
+
 def _trail(inv: Investigation, follow_ups: list[FollowUpView], evidence_map: list[MapEntry],
            status_label: str) -> list[TrailStep]:
     """Audit trail of what the investigation did, built only from recorded facts."""
@@ -414,7 +430,12 @@ def build_report(inv: Investigation) -> InvestigationReport:
     if recovery:
         explanation = f"{recovery} {explanation}"
     modes = set(inv.data_modes)
-    if DataMode.MOCK in modes:
+    unavailable = _unavailable_search(inv)
+    if unavailable:
+        explanation = unavailable
+        notice = DataNotice(mode="unavailable", label="NO SEARCH DATA",
+                            detail="No search results were retrieved for this question.")
+    elif DataMode.MOCK in modes:
         captured = sorted({r.fetched_at.date().isoformat() for r in inv.searches if r.fetched_at})
         notice = DataNotice(mode="demo", label="CAPTURED SERPAPI DATA",
                             detail="Served from SerpApi responses captured on " + ", ".join(captured) + "; not a live search.")

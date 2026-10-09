@@ -18,7 +18,7 @@ class StatusBlock(BaseModel):
 
 
 class DataNotice(BaseModel):
-    mode: str  # "live" | "cached" | "demo"
+    mode: str  # "live" | "cached" | "demo" | "unavailable"
     label: str  # e.g. "CAPTURED SERPAPI DATA"
     detail: str
 

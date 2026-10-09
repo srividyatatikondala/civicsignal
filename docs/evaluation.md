@@ -33,7 +33,7 @@ Follow-up searches were planned for 5 of the 8 questions and none for the 3 with
 
 ## Test suite
 
-`python -m pytest` → **465 passed, 1 skipped, 3 expected failures** (offline, about 20 seconds).
+`python -m pytest` → **467 passed, 1 skipped, 3 expected failures** (offline, about 20 seconds).
 
 - Unit tests for every extractor and detector, with synthetic examples for each rule and each exclusion.
 - Fixture tests that pin the behaviour on all 17 captured responses (statuses, findings, follow-up outcomes).

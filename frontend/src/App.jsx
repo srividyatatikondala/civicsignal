@@ -80,6 +80,8 @@ export default function App() {
         <div className="mode">
           {offline ? (
             <span className="badge badge-warn">Backend not reachable</span>
+          ) : !health.serpapi.mock_mode && !health.serpapi.configured ? (
+            <span className="badge badge-warn">Live mode · no SerpApi key set</span>
           ) : health.serpapi.mock_mode ? (
             <span className="badge badge-demo"><Icon name="database" size={13} /> Captured SerpApi data · not a live search</span>
           ) : (
